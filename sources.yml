@@ -1,0 +1,64 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Zimbabwe Law MCP"
+jurisdiction: "ZW"
+
+sources:
+  - name: "Zimbabwe Legal Information Institute (ZimLII)"
+    authority: "ZimLII, hosted by AfricanLII / University of Cape Town"
+    official_portal: "https://zimlii.org"
+    canonical_identifier: "N/A (Zimbabwe uses Act title + year as canonical identifier)"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Free Access"
+      url: "https://zimlii.org/about"
+      summary: "ZimLII provides free, unrestricted access to Zimbabwean legal information; government legislation is public domain under Zimbabwean law"
+    coverage:
+      scope: "All Acts of Parliament including Cyber and Data Protection Act (2021), Postal and Telecommunications Act (Chapter 12:05), Access to Information and Protection of Privacy Act (AIPPA), Criminal Law (Codification and Reform) Act (Chapter 9:23), Companies and Other Business Entities Act, Interception of Communications Act, Electronic Transactions Act; Statutory Instruments; selected case law from the Supreme Court, High Court, and Constitutional Court"
+      limitations: "Historical legislation before independence (1980) may be incomplete; Statutory Instruments may lag behind Gazette publication; not all subsidiary legislation is digitised; case law coverage is selective"
+    languages:
+      - "en"
+
+  - name: "Parliament of Zimbabwe"
+    authority: "Parliament of Zimbabwe"
+    official_portal: "https://www.parlzim.gov.zw"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "on_change"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Public Domain"
+      url: "https://www.parlzim.gov.zw"
+      summary: "Parliamentary publications and Acts are public domain; official source for bills and enacted legislation"
+    coverage:
+      scope: "Bills before Parliament, enacted Acts, parliamentary proceedings, Hansard"
+      limitations: "Website availability can be intermittent; historical Acts may not be fully digitised; no structured data API"
+    languages:
+      - "en"
+
+  - name: "Veritas Zimbabwe (Government Gazette Mirror)"
+    authority: "Veritas Zimbabwe"
+    official_portal: "https://www.veritaszim.net"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Free Access (Civil Society)"
+      url: "https://www.veritaszim.net"
+      summary: "Veritas publishes Government Gazette content and legislative analysis for public benefit; gazette content is government public domain"
+    coverage:
+      scope: "Government Gazette notices, Statutory Instruments, legislative analysis and commentary, constitutional amendments"
+      limitations: "Not a primary source — mirrors and supplements official publications; coverage may have gaps for older instruments; editorial commentary is separate from legislative text"
+    languages:
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"

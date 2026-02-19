@@ -1,0 +1,180 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Zimbabwe Law MCP",
+  "description": "Golden contract tests for the Zimbabwe Law MCP — 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "zw-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Cyber and Data Protection Act 2021, Section 3 — objects and purpose of the Act",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021",
+        "article": "3"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["data protection", "cybersecurity"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zw-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Cyber and Data Protection Act 2021, Section 29 — principles of data processing",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021",
+        "article": "29"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["personal data"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zw-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Companies and Other Business Entities Act, Section 1 — short title",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Companies and Other Business Entities Act",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["Companies", "Business Entities"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zw-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns Cyber and Data Protection Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Cyber and Data Protection", "personal data", "data protection"]
+      }
+    },
+    {
+      "id": "zw-005",
+      "category": "search",
+      "description": "Full-text search for 'cybercrime' returns CDPA Part XII provisions on cybercrimes",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybercrime"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cybercrime", "Cyber and Data Protection", "offence", "computer"]
+      }
+    },
+    {
+      "id": "zw-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic transaction' returns CDPA Part X provisions on e-transactions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic transaction"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["electronic transaction", "electronic", "Cyber and Data Protection"]
+      }
+    },
+    {
+      "id": "zw-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for CDPA Section 29 includes ZimLII URL pattern or official reference",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021",
+        "article": "29"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "zimlii\\.org|parlzim\\.gov\\.zw",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zw-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for AIPPA Section 1 includes official identifier",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Access to Information and Protection of Privacy Act",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "zw-009",
+      "category": "eu_cross_reference",
+      "description": "CDPA data protection provisions relationship to EU GDPR — Zimbabwe's CDPA was modeled partly on GDPR principles",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "data protection"]
+      }
+    },
+    {
+      "id": "zw-010",
+      "category": "eu_cross_reference",
+      "description": "CDPA cybercrime provisions relationship to the Budapest Convention on Cybercrime",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021 Part XII"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["Budapest Convention", "Convention on Cybercrime", "Council of Europe", "cybercrime"]
+      }
+    },
+    {
+      "id": "zw-011",
+      "category": "negative_test",
+      "description": "Non-existent Zimbabwean Act returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fictional Wildlife Cybersecurity Act 2099",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "zw-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Cyber and Data Protection Act 2021",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

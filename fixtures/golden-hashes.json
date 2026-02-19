@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Zimbabwe Law MCP",
+  "jurisdiction": "ZW",
+  "provisions": [
+    {
+      "id": "zw-hash-001",
+      "description": "Constitution of Zimbabwe (2013), Section 1 — Republic of Zimbabwe (stable constitutional anchor)",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2013/amendment-no-20/eng",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Republic of Zimbabwe"
+    },
+    {
+      "id": "zw-hash-002",
+      "description": "Cyber and Data Protection Act 2021, Section 2 — interpretation and definitions",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2021/5/eng",
+      "selector_hint": "Section 2",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "interpretation"
+    },
+    {
+      "id": "zw-hash-003",
+      "description": "Cyber and Data Protection Act 2021, Section 3 — objects of Act (data protection and cybersecurity purposes)",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2021/5/eng",
+      "selector_hint": "Section 3",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "objects"
+    },
+    {
+      "id": "zw-hash-004",
+      "description": "Access to Information and Protection of Privacy Act (AIPPA), Section 1 — short title",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2002/5/eng",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Access to Information and Protection of Privacy"
+    },
+    {
+      "id": "zw-hash-005",
+      "description": "Criminal Law (Codification and Reform) Act (Chapter 9:23), Section 1 — short title and commencement",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2004/23/eng",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Criminal Law"
+    },
+    {
+      "id": "zw-hash-006",
+      "description": "Postal and Telecommunications Act (Chapter 12:05), Section 1 — short title",
+      "upstream_url": "https://zimlii.org/zw/legislation/act/2000/4/eng",
+      "selector_hint": "Section 1",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Postal and Telecommunications"
+    }
+  ]
+}
