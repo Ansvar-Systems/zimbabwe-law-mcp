@@ -11,7 +11,7 @@ sources:
     retrieval_method: "HTML_SCRAPE"
     api_documentation: "N/A"
     update_frequency: "weekly"
-    last_ingested: "PENDING_FIRST_INGEST"
+    last_ingested: "2026-02-19"
     license_or_terms:
       type: "Free Access"
       url: "https://zimlii.org/about"
@@ -61,4 +61,4 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "PENDING_FIRST_INGEST"
+  last_verified: "2026-02-19"
