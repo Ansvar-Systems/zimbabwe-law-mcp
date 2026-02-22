@@ -1,20 +1,22 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/zimbabwe-law-mcp",
-  "description": "Zimbabwe law database covering data protection, cybersecurity, cybercrime, electronic transactions, and corporate law with full-text search",
+  "description": "Zimbabwe legislation via MCP — full-text search across statutes and provisions",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/zimbabwe-law-mcp",
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "Apache-2.0",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "@ansvar/zimbabwe-law-mcp",
       "version": "1.0.0",
-      "transport": { "type": "stdio" }
+      "transport": {
+        "type": "stdio"
+      }
     }
   ]
 }

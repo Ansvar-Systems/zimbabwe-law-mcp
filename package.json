@@ -1,7 +1,7 @@
 {
   "name": "@ansvar/zimbabwe-law-mcp",
   "mcpName": "eu.ansvar/zimbabwe-law-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zimbabwe law database covering data protection, cybersecurity, cybercrime, electronic transactions, and corporate law with full-text search via MCP",
   "type": "module",
   "main": "dist/index.js",
@@ -42,7 +42,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ansvar-Systems/zimbabwe-law-mcp"
+    "url": "git+https://github.com/Ansvar-Systems/zimbabwe-law-mcp.git"
   },
   "keywords": [
     "mcp",
