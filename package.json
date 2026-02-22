@@ -19,7 +19,8 @@
     "health": "curl -s http://localhost:3000/health | jq .",
     "build:db": "tsx scripts/build-db.ts",
     "ingest": "tsx scripts/ingest.ts",
-    "drift:detect": "tsx scripts/drift-detect.ts"
+    "drift:detect": "tsx scripts/drift-detect.ts",
+    "check-updates": "node --import tsx scripts/check-updates.ts"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.0",
