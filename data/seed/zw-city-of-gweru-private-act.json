@@ -1,0 +1,38 @@
+{
+  "id": "zw-city-of-gweru-private-act",
+  "type": "statute",
+  "title": "City of Gweru (Private) Act",
+  "title_en": "City of Gweru (Private) Act",
+  "short_name": "City of Gweru (Private) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1971/36/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the City of Gweru (Private) Act [Chapter 29:03]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Alteration of status and title of City of Gwelo",
+      "content": "2. Alteration of status and title of City of Gwelo The status of Gweru shall be and is hereby altered from that of a Municipality to that of a City and its name or designation from that of the Municipality of Gwelo to that of the City of Gweru."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Title of City Council",
+      "content": "3. Title of City Council The title of the Council of the City of Gwelo shall be and is hereby altered from the Municipal Council of Gwelo to the City Council of Gweru."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Construction of references",
+      "content": "4. Construction of references Wherever in any enactment or in any deed, memorandum, agreement or other document, reference is made to— (a) the Town of Gwelo, the Municipality of Gwelo or the City of Gwelo, such reference shall, where appropriate, be deemed to be a reference to the City of Gweru; (b) the Town Council of Gwelo, the Municipal Council of Gwelo or the City Council of Gwelo, such reference shall, where appropriate, be deemed to be a reference to the City Council of Gweru."
+    }
+  ],
+  "definitions": []
+}

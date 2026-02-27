@@ -1,0 +1,44 @@
+{
+  "id": "zw-powers-of-attorney-act",
+  "type": "statute",
+  "title": "Powers of Attorney Act",
+  "title_en": "Powers of Attorney Act",
+  "short_name": "Powers of Attorney Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1876/22/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Powers of Attorney Act [Chapter 8:09] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Signature alone to make power of attorney valid",
+      "content": "2. Signature alone to make power of attorney valid Subject to section three, it shall be sufficient for the validity of any power of attorney that the same shall be signed at the foot or end thereof by the person making the same with his signature or mark."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Attestation may be required",
+      "content": "3. Attestation may be required It shall be lawful for the Registrar of Deeds, Master of the High Court or any other person, before paying out any money or doing any other act or authorizing any act to be done by virtue of any power of attorney, to require that the signature or mark of the person making the same shall be attested— (a) by the signature of two witnesses, who shall be above the age of fourteen years and competent to give evidence in a court of law and who shall affix their signatures as near as conveniently may be to the signature or mark of the person making the power of attorney; or (b) by the declaration on oath of one such witness as mentioned in paragraph (a), who shall declare that he was present and saw the person making such power sign the same or affix his mark thereto, or that such person acknowledged his signature or mark thereto in the presence or hearing of the witness; or (c) by the certificate of a justice of the peace or notary public."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Certain persons not qualified to attest",
+      "content": "4. Certain persons not qualified to attest No person shall be qualified to attest any power of attorney whereby he is appointed a legal representative or agent or under which he derives any benefit."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Stamp duty not affected",
+      "content": "5. Stamp duty not affected Nothing in this Act shall alter or affect any stamp duty which may be imposed upon powers of attorney."
+    }
+  ],
+  "definitions": []
+}

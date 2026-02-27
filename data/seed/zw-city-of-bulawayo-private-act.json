@@ -1,0 +1,38 @@
+{
+  "id": "zw-city-of-bulawayo-private-act",
+  "type": "statute",
+  "title": "City of Bulawayo (Private) Act",
+  "title_en": "City of Bulawayo (Private) Act",
+  "short_name": "City of Bulawayo (Private) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1943/21/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the City of Bulawayo (Private) Act [Chapter 29:02]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Alteration of status and title of City of Bulawayo",
+      "content": "2. Alteration of status and title of City of Bulawayo The status of Bulawayo shall be and is hereby, as and from the 4th November, 1943, altered from that of a Municipality to that of a City and its name or designation from that of the Municipality of Bulawayo to that of the City of Bulawayo."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Title of City Council",
+      "content": "3. Title of City Council The title of the Council of the City of Bulawayo shall be and is hereby, as and from the 4th November, 1943, altered from the Municipal Council of Bulawayo to the City Council of Bulawayo."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Construction of references",
+      "content": "4. Construction of references Wherever in any enactment or in any deed, memorandum, agreement or other document, reference is made to— (a) the Town of Bulawayo or the Municipality of Bulawayo, such reference shall, where appropriate, be deemed to be a reference to the City of Bulawayo; (b) the Town Council of Bulawayo or the Municipal Council of Bulawayo, such reference shall, where appropriate, be deemed to be a reference to the City Council of Bulawayo."
+    }
+  ],
+  "definitions": []
+}

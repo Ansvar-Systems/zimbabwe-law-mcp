@@ -1,0 +1,868 @@
+{
+  "id": "zw-liquor-act",
+  "type": "statute",
+  "title": "Liquor Act",
+  "title_en": "Liquor Act",
+  "short_name": "Liquor Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1984/9/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Liquor Act [Chapter 14:12]."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation (1) In this Act— “absolute alcohol” means absolute alcohol by volume at a temperature of fifteen degrees Celsius; “appointed member” means a member appointed in terms of paragraph (b) of subsection (2) of section four; “approved manager” means a person who, in terms of Part VIII, has been approved as the manager of licensed premises and includes the deputy of such person appointed in terms of that Part; “beer” includes— (a) ale and stout; (b) hop beer containing more than two comma seven five per centum of absolute alcohol; (c) traditional beer; “Board” means the Liquor Licensing Board established in terms of section four; “chairman” means the chairman of the Board appointed in terms of section four; “district administrator” means a person appointed as a district administrator in the Ministry responsible for local government; “hotel” includes a motel or boatel; “inspector of premises” means a person appointed as an inspector of premises in terms of section one hundred; “issuing authority” means— (a) in respect of the Harare district, the Provincial Magistrate, Mashonaland; (b) in respect of the Bulawayo district, the Provincial Magistrate, Matabeleland; (c) in respect of any district other than Harare or Bulawayo, the district administrator for such district; “licence” means a licence specified in the Schedule and issued in terms of this Act; “licensed premises”, in relation to— (a) a licensee, means the licensed premises in respect of which he is the holder of the licence; (b) an approved manager, means the licensed premises in respect of which he is the manager; (c) a licence, means the premises in respect of which the licence is issued; “licensing area”, in relation to— (a) a municipal council or town council, means— (i) the area of the municipality or town; and (ii) the area of any local government area which is administered, controlled and managed by the council; and (iii) any area not within the municipality or town but which is completely surrounded by the area of the municipality or town; (b) a local board, means— (i) the local government area for which the local board has been established; and (ii) the area of any local government area which is administered, controlled and managed by the local board; (c) a rural district council, means the area for which such council has been established or such council has been established or such greater or lesser area as the Minister may have declared, in terms of subsection (2), to be the licensing area of such council; (d) any other local authority, means the licensing area specified for that local authority in terms of subsection (2); “licensing authority” means an authority referred to in section twenty-two which may issue a licence or grant authority for the issue, renewal, removal or transfer of a licence; “licensing year” means the period of twelve months commencing on the 1st July; “light refreshments” means— (a) bread, sandwiches, pies, biscuits, cakes or pastry; or (b) any food for human consumption derived from the flour of wheat, maize or other grain, other than sadza; or (c) ice-cream, sweets, aerated waters or fruit drinks; or (d) potato chips or crisps, peanuts or biltong; or (e) manufactured tobaccos, matches, pipes or other smokers’ requisites; “liquor” means— (a) any spirit (including methylated and plain spirits), wine or beer (including traditional beer); (b) any fermented, distilled, spirituous or malted liquor not mentioned in paragraph (a) containing more than two comma seven five per centum of absolute alcohol; (c) any drink with which anything defined as liquor in paragraph (a) or (b) has been mixed; but does not include spirituous or distilled perfume, perfumery, medicated spirit or medicated wine; “local authority” means— (a) a municipal council, town council, local board or rural district council; or (b) any other authority declared in terms of subsection (2) to be a local authority for the purposes of this Act; “medical officer of health” has the meaning assigned thereto in terms of the Public Health Act [Chapter 15:10]; “member” means a member of the Board and includes the chairman; “Minister” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may from time to time assign the administration of this Act; [definition of “monopoly area” deleted by section 10 of Act 12 of 1997 ] “open water” means that part of any water which is not within one hundred metres of the shore of the mainland or any island; “Part I licence” means a licence specified in Part I of the Schedule; “Part II licence” means a licence specified in Part II of the Schedule; “passenger vessel” means any description of water craft or hovercraft which is used for the conveyance of passengers on or over water and which has been registered and licensed to carry passengers under any enactment; “permit” means a permit granted in terms of section eighty-six; “premises” includes a passenger vessel; “prescribed fee” means the appropriate fee prescribed in terms of regulations made under section one hundred and twenty-two; “prescribed form” means the appropriate form prescribed in terms of regulations made under section one hundred and twenty-two; “refreshments” means— (a) all articles of food, confectionery, beverages or mineral waters such as are ordinarily sold in a restaurant; or (b) newspapers, periodicals, books or post-cards; or (c) manufactured tobaccos, matches, pipes or other smokers’ requisites; “removal”, in relation to a licence, means the substitution of the premises in respect of which it was issued by other premises; “secretary” means the secretary appointed in terms of section seven; “sell” includes— (a) keeping or exposing for sale; (b) authorizing, directing or allowing sale; (c) bartering or exchanging or possessing for the purposes of sale; (d) supplying liquor in return for money or a coupon, ticket or some other token which is paid for at the time of issue or subsequently; “supply”, in relation to the supply of liquor to any person, means the placing of that person in control of the liquor for his own use; “traditional beer” means— (a) the drink which is brewed from grain and is commonly known as doro , hwahwa or utshwala ; and (b) any potable opaque liquor containing more than one comma seven per centum of ethyl alcohol by volume at fifteen degrees Celsius, which— (i) is derived from the fermentation of a mash of cereal grain or vegetable products, with or without additives; and (ii) contains, per one hundred millilitres, not less than two grams of the water-insoluble mash, or the water-insoluble residue of the mash, from which it is derived; (c) any intoxicating drink declared to be traditional beer in terms of any enactment relating thereto; “transfer”, in relation to a licence, means the substitution of the person who holds the licence by another person; “wine” means the beverage produced by the alcoholic fermentation of fruit or vegetables and includes the beverages known as cider, perry and vermouth. (2) The Minister may, by notice in a statutory instrument— (a) declare any authority, other than an authority referred to in paragraph (a) of the definition of “local authority”, to be a local authority for the purposes of this Act and shall specify the licensing area of such local authority; and (b) after consultation with the Minister to whom the administration of the Rural District Councils Act [Chapter 29:13] is assigned, declare that the licensing area of any rural district council shall be a greater or lesser area than the area for which the council was established; and may in like manner amend or revoke any such notice."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act (1) This Act shall not apply to— (a) any registered medical practitioner or pharmaceutical chemist in respect of the bona fide sale, for purely medical purposes and in accordance with any enactment for the time being governing the sale of medicine, of any medicine containing liquor; (b) the Sheriff or deputy Sheriff or messenger or any other official acting under the authority of any judge, magistrate or court, or any officer of customs in the exercise or discharge of his duties; (c) the executor of the estate of a deceased person, the trustee of an insolvent estate or the liquidator of a company in respect of the sale of liquor belonging to that estate or company to the holder of a licence or permit; (d) the sale of methylated spirits in the ordinary course of his business by a person who is the holder of a licence or permit issued in terms of the Shop Licences Act [Chapter 14:17]; (e) any person in respect of the sale to bona fide passengers, not being persons under the age of eighteen years, of liquor— (i) in any aircraft during the course of a flight; or (ii) in any railway carriage with the authority of the National Railways of Zimbabwe; (f) the sale of liquor within the precincts of Parliament if such liquor is sold under the permission of Parliament or of any committee thereof. (2) For the purposes of giving effect to this Act in relation to the licensing of a passenger vessel, a passenger vessel shall be regarded as being situated at the place where it is normally based. Part II – Liquor Licensing Board"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of Liquor Licensing Board",
+      "content": "4. Establishment of Liquor Licensing Board (1) There is hereby established a board to be known as the Liquor Licensing Board. (2) Subject to this Act, the Board shall consist of— (a) at least two members appointed by the Minister of whom— (i) one, who shall be the chairman of the Board, shall be a person who possesses such legal qualifications and has had such legal experience as the Minister considers suitable and adequate for appointment as chairman of the Board; (ii) at least one other shall be a member of the Public Service; (b) three other members appointed by the Minister, of whom— (i) one shall be a person nominated by the Minister responsible for local government; and (ii) one shall be appointed from a panel of three persons nominated by the Zimbabwe Tourism Authority or such other similar body as the Minister may consider appropriate; (iii) one shall be appointed from a panel of three persons nominated by the Zimbabwe National Chamber of Commerce or such other similar body as the Minister may consider appropriate."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Terms of office of members",
+      "content": "5. Terms of office of members (1) The Minister may at any time on good cause remove any member from office and, subject to this section, appoint another to fill the vacancy left by such member. (2) Any member appointed in terms of paragraph (b) of subsection (2) of section four shall hold office for such period not exceeding two years as may be fixed in each case by the Minister but may be appointed for a second or subsequent term of office. (3) If any member appointed in terms of paragraph (a) of subsection (2) of section four vacates his office or cannot for any reason exercise his functions on the Board, the Minister may appoint a person qualified to be a member to fill the vacancy or to act for the member concerned during his period of incapacity, as the case may be. (4) If any member appointed in terms of paragraph (b) of subsection (2) of section four vacates his office or cannot for any reason exercise his functions on the Board, the Minister may, from the appropriate panel referred to in paragraph (b) of subsection (2) of section four, appoint a person to fill the vacancy until the expiry of the period for which the member would, but for the vacation of his office, have continued in office, or to act for such member during his period of incapacity, as the case may be: Provided that, if at such time there is no nominee available on the appropriate panel, the Minister may, subject to this Act, appoint any person so to fill the vacancy or so to act. (5) Any member shall, while engaged upon the business of the Board, receive from moneys appropriated for the purpose by Parliament such remuneration and such reasonable expenses for travelling and subsistence as may be fixed by the Minister."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "General disqualifications for membership of Board",
+      "content": "6. General disqualifications for membership of Board (1) The Minister shall not appoint a person as a member of the Board and no person shall be qualified to hold office as a member of the Board who— (a) is not a citizen of Zimbabwe: Provided that the Minister may grant a person an exemption from of this paragraph if he is satisfied that the person concerned has a right of residence in Zimbabwe, whether by virtue of a permit or otherwise, which is of sufficient duration to warrant his appointment to the Board; or (b) is the holder of, or an applicant for, a licence; or (c) is a brewer or distiller of liquor for sale; or (d) is engaged in making wine or spirits for sale; or (e) is the spouse or partner, agent or employee of any person referred to in paragraph (a), (b), (c) or (d); or (f) is— (i) an officer of any association or society which; or (ii) the agent of any person who; is interested in selling liquor or preventing its sale; or (g) during the preceding three years has held an official position in an association or society which has as its main object the promotion or suppression of the sale of liquor; or (h) is employed directly or indirectly as an agent for the purpose of making an application to the Board on behalf of another person or is a partner of any person so employed; or (i) carries on, or is the agent or employee of a person who carries on, any business, trade or calling in or on any licensed premises or proposed licensed premises or who is the owner, lessor or lessee or the holder of a mortgage bond upon, such premises; or (j) is a director, employee or shareholder of any company which is— (i) the holder of, or an applicant for, a licence; or (ii) a brewer or distiller of liquor for sale; or (iii) engaged in making wine or spirits for sale; or (k) is the chairman or a committee member of any club or other association or body of persons in respect of which a licence is held; or (l) has, in terms of any law in force in any country— (i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or (ii) made an assignment to, or an arrangement or composition with, his creditors generally which has not been rescinded or set aside; or (m) has, within the preceding three years, been released from prison having served a term of imprisonment exceeding three months which was imposed without the option of a fine after conviction— (i) within Zimbabwe of a criminal offence; or (ii) outside Zimbabwe of an offence by whatever name called which, if committed within Zimbabwe, would have been a criminal offence. (2) The fact that a person is a member of a club or other association or body of persons in respect of which a licence is held shall not of itself disqualify him from being a member of the Board."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Appointment and duties of secretary of Board",
+      "content": "7. Appointment and duties of secretary of Board (1) The Public Service Commission shall appoint an officer of the Public Service as secretary to the Board. (2) The secretary shall perform such duties as are imposed on him by this Act or as may be assigned to him by the Board. (3) The secretary shall keep a register in a form to be approved by the Minister in which he shall enter particulars of— (a) every licence issued or renewed; and (b) every removal, transfer, suspension or cancellation of a licence; and (c) every permit issued. Part III – Meetings of Board"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Times and places of Board meetings",
+      "content": "8. Times and places of Board meetings Meetings of the Board shall be held at such times and places as the chairman may determine."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Procedure",
+      "content": "9. Procedure (1) The procedure at any meeting of the Board shall be as prescribed or, until prescribed, as may be determined by the chairman. (2) Three members of the Board, of whom one shall be the chairman, shall form a quorum. (3) All meetings of the Board convened to consider applications, objections or reports shall be open to the public: Provided that, where he considers it necessary or expedient in the interests of the public or for the protection of the private lives of persons concerned in the proceedings, the chairman may direct that the proceedings or any part thereof be held in camera ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Conflict of interest",
+      "content": "10. Conflict of interest No member shall take part in any meeting or decision of the Board concerning— (a) any application relating to a licence if he is— (i) an owner, mortgagee, lessor or lessee of the premises in respect of which the application is made; or (ii) an agent or employee of the applicant or objector to the application; or (iii) an agent or employee of a person referred to in subparagraph (i); or (b) any matter to be determined by the Board if the matter concerned affects— (i) himself or his spouse or any person who is related to himself within the third degree of affinity or consanguinity; or (ii) any person who is his debtor or creditor or is in partnership with or employed by him; or (iii) any person who is a debtor under a mortgage bond of any body of persons, whether incorporated or not, of which he is a director or under which he holds any office or position other than that of auditor; or (iv) any company or co-operative society— A. of which he is a director or manager; or B. under which he holds any office or position other than that of auditor; or C. in which he or his spouse or any relative of his within the third degree of affinity or consanguinity holds any shares: Provided that nothing in this section shall be taken to prevent members from taking part in the consideration or determination by the Board of any matter which affects members generally."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Hearing of applications and objections",
+      "content": "11. Hearing of applications and objections (1) At a meeting convened to consider an application or a report made in terms of section ninety-one or ninety-two the applicant or the licensee concerned may appear before the Board in person or represented by a legal practitioner or, in the case of a corporate body, club or association or body of persons, by some duly authorized officer or member thereof. (2) A person who has lodged an objection in terms of section fifty-three, fifty-four, fifty-six, fifty-seven or fifty-eight may appear before the Board personally or represented by a legal practitioner: Provided that, where the objector is a body of persons, whether incorporated or not, such objector may depute one of its office bearers to appear for it. (3) The Board may, in its absolute discretion, hear any objection to an application notwithstanding that such objection has not been lodged in terms of section fifty-three, fifty-four, fifty-six, fifty-seven or fifty-eight, but in the event of its doing so it shall allow the applicant a reasonable opportunity of answering the objection so made, and shall, if necessary, adjourn the hearing for that purpose. (4) There shall be no obligation to appear in support of an application or an objection and no application may be refused and no objection may be dismissed solely on the ground that the applicant or objector, as the case may be, did not appear in support of the application or objection: Provided that nothing in this subsection shall be construed as affecting the right of the Board to require any person to appear before it."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Board may take notice of matters",
+      "content": "12. Board may take notice of matters The Board may of its own motion take notice of any matter or thing which in its opinion would be a ground for refusing an application or for imposing a condition in respect of a licence: Provided that, where the Board proposes to act in terms of this section, it shall cause notice of such fact and the ground upon which it proposes to act to be given to the applicant and shall afford him a reasonable opportunity to make representations on the matter and to appear in support of such representations."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Examination by Board and administration of oaths",
+      "content": "13. Examination by Board and administration of oaths (1) Whenever the Board examines a person in terms of this Act, it may do so on oath or otherwise as it considers appropriate in the circumstances. (2) Whenever, in any proceedings in terms of this Act, it is necessary or desirable that an oath should be administered, the secretary or any member may administer such oath."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Evidence and cross-examination",
+      "content": "14. Evidence and cross-examination (1) Whenever the Board considers it necessary to take evidence in regard to any matter to be determined by it, such evidence shall be given on oath and shall be recorded. (2) Where the matter for consideration by the Board is a report made in terms of section ninety, ninety-one or ninety-two, the maker of the report shall be entitled to give or call evidence and to present any argument in support of the report and any such evidence shall be on oath and shall he recorded. (3) The Board shall afford any person who has an interest in the proceedings an opportunity to cross-examine under oath any person who gives evidence on oath and such cross-examination shall be recorded. (4) The Board may require the appearance before it of any person who, in the opinion of the Board, is or might be able to testify to any matter which the Board has to determine and may examine such person on oath, and may call for the production of books, plans and documents. (5) Where the matter for consideration by the Board is a report made in terms of section ninety, ninety-one or ninety-two, the Board shall, on the request of the applicant or licensee concerned given not less than seven days before the date of the meeting of the Board, require the appearance before it of the maker of the report and shall afford the licensee or applicant an opportunity to cross-examine such person on oath and such cross-examination shall be recorded. (6) For the purposes of requiring the appearance before it of any person or the production of any books, plans or documents, the Board may issue a subpoena. (7) A subpoena referred to in subsection (6) shall be— (a) issued in the name of the Board and signed by the secretary; and (b) served— (i) in the same manner as a subpoena for the attendance of any witness at a criminal trial in the magistrates courts; and (ii) by any person who may serve a subpoena described in subparagraph (i) or by an inspector of premises. (8) Subsection (3) of section 11 and sections 12, 13, 14, 16 and 18 of the Commissions of Inquiry Act [Chapter 10:07] shall apply, mutatis mutandis , in relation to the Board and the rights and obligations of any person appearing or required to appear before the Board."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "General addresses to Board",
+      "content": "15. General addresses to Board (1) Any person who, whether on his own behalf or on behalf of any association of persons, wishes to address the Board generally on— (a) the control of liquor distribution; or (b) the desirability of reducing or increasing the number of licences; or (c) the exercise by the Board of any of its powers or functions; may apply to the chairman for authority to do so. (2) An application made in terms of subsection (1) shall be in writing and shall— (a) identify the person who wishes to address the Board and the person or association of persons on whose behalf the address will be made; and (b) provide a general outline of the proposed address. (3) Upon considering an application in terms of this section, the chairman may grant or refuse such application. (4) Where the chairman grants an application in terms of this section, the secretary shall select a date not less than fourteen days from the granting of the application for the Board to hear such address and shall, in writing and not less than seven days before the hearing, notify each member and the applicant of the date, time and place of such hearing. (5) At any hearing at which an address is presented in terms of this section, the chairman may refuse to allow such presentation to continue or may terminate such hearing where any representation is repetitious or irrelevant and such ruling by the chairman shall not be subject to appeal. (6) The chairman may, if he thinks fit, permit any person to reply to an address made to the Board in terms of this section. (7) The Board shall receive and consider any petition presented to it by the inhabitants of any area in respect of the grant or refusal by the Board of any application or applications, or the exercise by the Board of any of its other powers or functions."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "General powers of Board",
+      "content": "16. General powers of Board The Board may, subject to this Act— (a) in the case of an application— (i) grant the application; or (ii) grant the application subject to such conditions as the Board may consider appropriate; or (iii) grant the application but refuse to approve the manager of the premises; or (iv) after consulting the applicant and any other person who has an interest in the proceedings, treat the application as one for a conditional authority and determine the application accordingly; or (v) refuse the application; or (b) upon consideration of a report made in terms of section ninety-one or ninety-two— (i) cancel the licence concerned forthwith; or (ii) suspend the licence concerned for such period as it thinks fit; or (iii) vary or amend any existing conditions of, or impose any new conditions in respect of, the licence concerned; or (iv) withdraw approval of the approved manager."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Decisions of Board",
+      "content": "17. Decisions of Board (1) The decision or opinion of the majority of the members present and qualified to vote on any issue shall be the decision or opinion of the Board: Provided that, in the event of an equality of votes, the chairman, in addition to his deliberative vote, shall have a casting vote. (2) It shall not be incumbent upon the Board to give any reasons for its decision upon any matter decided under subsection (1) unless requested in writing within seven days of the decision to do so by the applicant or objector and upon payment of the prescribed fee."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Record of Board’s proceedings",
+      "content": "18. Record of Board’s proceedings (1) Subject to of this section, a record of the proceedings of the Board— (a) shall be kept; and (b) shall be filed in the office of the secretary; and (c) may be inspected and copies thereof obtained upon payment of the prescribed fees. (2) Where the proceedings or any part thereof are held in camera a separate record of such proceedings or such part, as the case may be, shall be kept and shall be filed in the office of the secretary. (3) Any person who has good cause to inspect any record kept in terms of subsection (2) may apply to the Minister for leave to inspect and obtain copies of such record. (4) Upon receiving an application in terms of subsection (3), the Minister may, upon good cause being shown, grant leave to the applicant to inspect and obtain copies of the record in question. (5) A person to whom leave has been granted in terms of subsection (4) may, upon payment of the prescribed fees, inspect and obtain copies of the record in question."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Appeals",
+      "content": "19. Appeals (1) Subject to this Act, any person who is aggrieved by a decision— (a) of the Board or the chairman in terms of any provision of this Act, other than in terms of Part XI; or (b) by the Minister in terms of subsection (4) of section eighteen; or (c) by the Board or the Minister in relation to a permit referred to in subsection (2) of section eighty-six; may appeal against that decision to the Administrative Court. (2) A person who wishes to appeal in terms of subsection (1) shall, within twenty-eight days of being notified of the decision of the Board or chairman or Minister or within such extension of that period as the Administrative Court may allow, submit a notice of appeal in the prescribed form, setting out the grounds of appeal, to the Administrative Court and a copy of such notice to the Board or chairman or Minister, as may be appropriate. (3) Within fourteen days of the Board or chairman or Minister, as the case may be, receiving a copy of a notice of appeal referred to in subsection (2), the recipient shall serve a copy of the record of the relevant proceedings and any representations which the Board or chairman or Minister, as the case may be, might wish to make in response to the grounds of appeal upon— (a) the Administrative Court; and (b) the appellant. (4) Any person who bas appealed to the Administrative Court in terms of this section and who is dissatisfied with the decision of the Administrative Court may appeal to the Supreme Court in terms of section 19 of the Administrative Court Act [Chapter 7:01]. Part IV – Licences and licensing authorities"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Classification of licences",
+      "content": "20. Classification of licences (1) The licences which may be issued or renewed under this Act shall be those set forth in the Schedule. (2) Subject to subsection (9) of section fifty-three, if a licence is issued or renewed in contravention of this Act it shall be null and void and any person holding any such licence shall be deemed not to be licensed."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Form of licences",
+      "content": "21. Form of licences (1) A licence issued or renewed under this Act shall— (a) be in the prescribed form; and (b) specify— (i) except in the case of an agent’s liquor licence, the premises to which it relates; and (ii) any condition imposed in respect of the licence in terms of this Act by the licensing authority; and (iii) the name and address of the approved manager, if any, of the licensed premises. (2) Failure to endorse any condition upon a licence in terms of subparagraph (ii) of paragraph (b) of subsection (1) shall not relieve the licensee of the duty to comply with such condition."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Licensing authorities",
+      "content": "22. Licensing authorities (1) Subject to this Act— (a) an issuing authority may issue a Part I licence; (b) the Board may grant authority for the issue, renewal, removal or transfer of a Part II licence; (c) the secretary may grant authority for the renewal of, or may renew, a Part II licence. (2) In granting authority in terms of paragraph (b) or (c) of subsection (1) for the issue or renewal of a Part II licence, the Board or secretary, as the case may be, shall specify the date of expiry of such licence. (3) Any authority granted in terms of paragraph (b) or (c) of subsection (1) shall lapse and be of no force or effect if an applicant fails to obtain the issue, renewal, removal or transfer of the licence, as the case may be, within the period specified in the certificate furnished in terms of subsection (4): Provided that the chairman may, for good cause shown, extend the period of any such authority or lapsed authority. (4) Where the Board or secretary grants an authority in terms of paragraph (b) or (c) of subsection (1) for the issue, renewal, removal or transfer of a Part II licence, the Board or secretary, as the case may be, shall furnish the applicant with a certificate stating— (a) the authority that has been granted; and (b) the date on which the authority was granted; and (c) the appropriate fee; and (d) the particulars which are required to be endorsed on the licence in terms of paragraph (b) of subsection (1) of section twenty-one; and (e) the time within which the applicant must obtain the issue, renewal, removal or transfer of the licence, as the case may be, under such authority, failing which such authority will expire and be of no force or effect: Provided that the Chairman may, for good cause shown, extend the period of such authority. (5) A person to whom an authority for the removal or transfer of a Part II licence has been granted may obtain the removal or transfer of such licence by submitting to the secretary at any time within the currency of the licence— (a) the licence; and (b) the relevant certificate referred to in subsection (4); and (c) the prescribed fee; and the secretary shall make the necessary endorsements upon the licence reflecting the removal or transfer thereof, as the case may be. (6) Subject to subsection (3), a person to whom authority for the issue or renewal of a Part II licence has been granted may obtain the issue or renewal of such licence by submitting the relevant certificate referred to in subsection (4) and the prescribed fee— (a) where the premises to which the licence relates are or will be situated within the licensing area of a local authority, to that local authority; (b) in any other case to the secretary; and the local authority or secretary, as the case may be, shall issue or renew the licence as may be appropriate. (7) Where a local authority has issued or renewed a licence in terms of subsection (6) the local authority shall submit a copy thereof to the secretary."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Part I licences: duration and fees",
+      "content": "23. Part I licences: duration and fees (1) Save as is otherwise provided in this Act, a Part I licence which is issued in terms of this Act shall be in force for the period stated in such licence. (2) Upon the issue of a Part I licence there shall be paid to the issuing authority the prescribed fee. (3) Any moneys received by an issuing authority in terms of subsection (2) shall vest in and be paid into the Consolidated Revenue Fund."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Part II licences: duration and fees",
+      "content": "24. Part II licences: duration and fees (1) Save as is otherwise provided in this Act, a Part II licence which is issued or renewed in terms of this Act shall be in force from the date of its issue or renewal, as the case may be, until the end of the licensing year. (2) Upon the issue or renewal of a Part II licence there shall be paid to the local authority or secretary, as the case may be, the prescribed fee: Provided that whenever a licence has been issued after the 31st July in any year, the appropriate fee payable in respect of such issue shall be reduced by one-twelfth for each complete month which has passed from the preceding 30th June to the date upon which authority for the issue of the licence was granted. (3) Upon the removal or transfer of a Part II licence there shall be paid to the secretary the prescribed fee and, notwithstanding such removal or transfer, such licence shall, subject to this Act, remain in force until the end of the licensing year. (4) In relation to a Part II licence any moneys received by— (a) a local authority for the issue or renewal of such licence in terms of subsection (6) of section twenty-two, shall vest in that local authority; (b) the secretary for— (i) the issue or renewal of such licence in terms of subsection (6) of section twenty-two; or (ii) the removal or transfer of such licence in terms of subsection (5) of section twenty-two; or (iii) the renewal of such licence in terms of subsection (7) of section fifty-four; shall vest in and be paid into the Consolidated Revenue Fund."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Exemptions and refunds",
+      "content": "25. Exemptions and refunds Where he considers that it is just and equitable by reason of the fact that the carrying on of a trade or business for which a licence is required in terms of this Act has been or is likely to be restricted or curtailed by virtue of anything done or required to be done under any law relating to defence, the preservation of public safety or the maintenance of law and order or by virtue of any hostile act or activity directed towards the Government or inhabitants of Zimbabwe, the Minister may— (a) by notice in writing exempt any person from liability to pay the whole or part of any fee payable in respect of the issue or renewal of a licence: Provided that, where such fee is payable to a local authority, the Minister shall not so exempt such person unless he has first consulted with the local authority concerned; (b) with the consent of the Minister responsible for finance, refund to any person the whole or part of any fee which was paid in respect of the issue or renewal of a licence and which is vested in the Consolidated Revenue Fund; (c) after consultation with the local authority concerned, direct that local authority to refund to any person the whole or part of any fee which was paid in respect of the issue or renewal of a licence and which is vested in that local authority, whereupon the local authority shall, notwithstanding any law to the contrary, comply with such direction. Part V – Form, scope and purpose of licences General"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Licences to be in prescribed form",
+      "content": "26. Licences to be in prescribed form All licences shall be in the prescribed form. Part I licences"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Extended hours (occasional) liquor licence",
+      "content": "27. Extended hours (occasional) liquor licence (1) An extended hours (occasional) liquor licence may be issued only— (a) to the holder of a club, hotel, hotel (private), restaurant (ordinary), restaurant (special) or theatre club liquor licence; and (b) in respect of licensed premises of a club, hotel, restaurant or theatre club; and (c) for a bona fide social function to be held on premises referred to in paragraph (b). (2) An extended hours (occasional) liquor licence shall authorize the sale of liquor on the licensed premises to a person bona fide attending the social function in respect of which the licence is issued on such days and at such times as may, subject to such limitations as may be prescribed, be fixed by the issuing authority and stated in the licence. (3) An extended hours (occasional) liquor licence shall, subject to subsection (2), be subject to the same conditions and restrictions as those which relate, in terms of this Act, to the licence which has been issued for the licensed premises concerned."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Temporary retail liquor licence",
+      "content": "28. Temporary retail liquor licence (1) A temporary retail liquor licence may be issued only to— (a) the holder of a bar, club, hotel, hotel (private), restaurant (ordinary), restaurant (special) or theatre club liquor licence; or (b) the holder of a permit; or (c) an office-bearer of an association or body of persons formed otherwise than for the purpose of making a profit either for itself or for any of its members. (2) No more than six temporary retail liquor licences may be issued in any one calendar year to or in respect of a particular association or body referred to in paragraph (c) of subsection (1). (3) A temporary retail liquor licence shall authorize the sale of liquor at such places and during such hours as may be specified in the licence by the issuing authority upon consideration of the reasonable requirements of the public in each case: Provided that— (i) the hours so specified shall fall within a period not exceeding twenty-four hours; (ii) nothing in this subsection shall be construed as preventing the granting of more than one temporary retail liquor licence in respect of consecutive periods of twenty-four hours; (iii) if any hours specified in terms of this subsection extend beyond half past ten o’clock in the evening in relation to any place specified in terms of this subsection, the appropriate fee in respect of an extended hours (occasional) liquor licence shall, in addition, be payable in respect of each such place. (4) A holder of a temporary retail liquor licence, or such other person as may be specified in the licence, shall possess all the rights and powers and shall be subject to all the duties of an approved manager in relation to the place to which the licence relates and sections one hundred and fifteen and one hundred and sixteen shall apply, mutatis mutandis , in relation to such holder, person or place."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Temporary removal liquor licence",
+      "content": "29. Temporary removal liquor licence (1) Subject to section fifty-two, the holder of a Part II licence may, pending the submission of an application to the Board for the removal of a licence in terms of section fifty-six, apply to an issuing authority for a temporary removal liquor licence. (2) A temporary removal liquor licence shall authorize the holder thereof to operate the business concerned as if the removal concerned had been authorized by the Board— (a) for a period of six months; or (b) until the decision of the Board upon the application for the removal in terms of section fifty-six is given; whichever is the sooner. (3) The issuing authority shall notify the secretary of any temporary removal liquor licence granted within one month of such grant."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Temporary transfer liquor licence",
+      "content": "30. Temporary transfer liquor licence (1) Subject to section fifty-two, the holder of a Part II licence may, pending the submission of an application to the Board for the transfer of a licence in terms of section fifty-eight, apply to an issuing authority for a temporary transfer liquor licence. (2) A temporary transfer liquor licence shall authorize the holder thereof to operate the business concerned as if the transfer concerned had been authorized by the Board— (a) for a period of six months; or (b) until the decision of the Board upon the application for the transfer in terms of section fifty-eight is given; which ever is the sooner. (3) The issuing authority shall notify the secretary of any temporary transfer liquor licence granted within one month of such grant. Part II licences"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Agent’s liquor licence",
+      "content": "31. Agent’s liquor licence (1) An agent’s liquor licence shall authorize the holder thereof to solicit and receive, on any day and at any time from the holder of any other licence, authority or permit, orders for the sale of liquor on behalf of any person who carries on the business inside or outside Zimbabwe of selling liquor. (2) A person who is employed by the holder of an agent’s liquor licence shall not solicit or receive orders for the supply of liquor on behalf of his employer unless he himself holds an agent’s liquor licence. (3) An agent’s liquor licence which has been issued to a person who is employed by the holder of an agent’s liquor licence shall terminate concurrently with the termination of his employment by such holder."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Airport liquor licence",
+      "content": "32. Airport liquor licence (1) Authority for the issue or renewal of an airport liquor licence shall not be granted unless the premises in respect of which the application is made are situated at an airport. (2) An airport liquor licence shall authorize the sale of liquor on the licensed premises— (a) on any day and at any time to— (i) a corporation providing an air passenger service; (ii) a bona fide air passenger and the bona fide guest of such passenger for consumption on the licensed premises; (b) on such days and at such times as may be prescribed to any other person for consumption on the licensed premises. (3) An airport liquor licence shall authorize the sale of light refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Airport bottle liquor licence",
+      "content": "33. Airport bottle liquor licence (1) Authority for the issue or renewal of an airport bottle liquor licence shall not be granted unless the premises in respect of which the application is made are situated at an airport. (2) An airport bottle liquor licence shall authorize the sale on the licensed premises of liquor in sealed containers in any quantity on any day and at any time to a bona fide air passenger for consumption off the licensed premises."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Bar liquor licence",
+      "content": "34. Bar liquor licence (1) Authority for the issue or renewal of a bar liquor licence shall not be granted in respect of premises which are attached to or form part of any hotel, restaurant, club or beer-hall: Provided that this subsection shall not apply in respect of premises at a railway station. (2) A bar liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed, for consumption on or off such premises: Provided that where there are any premises in respect of which a bottle liquor licence has been issued situated within fifteen kilometres of the licensed premises of the bar, liquor may not be sold from such premises for consumption off such premises during such hours as liquor may be sold in terms of a bottle liquor licence. (3) A bar liquor licence shall authorize the sale of light refreshments on the licensed premises on such days and at such times as liquor may be sold in terms of such licence for consumption on the licensed premises."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Beer-hall liquor licence",
+      "content": "35. Beer-hall liquor licence (1) A beer-hall liquor licence shall authorize the sale of beer on the licensed premises on such days and at such times as may be prescribed for consumption on or off the licensed premises. (2) Beer sold in terms of a beer-hall liquor licence shall contain not more than fifteen per centum of absolute alcohol. (3) A beer-hall liquor licence shall authorize the sale of refreshments on the licensed premises on such days and at such times as beer may be sold in terms of such licence."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Bottle liquor licence",
+      "content": "36. Bottle liquor licence (1) A bottle liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed, for consumption off— (a) the licensed premises; and (b) any premises or place occupied or controlled by the licensee which are adjoining or near the licensed premises. (2) Liquor sold in terms of a bottle liquor licence shall be delivered in sealed containers and in a quantity of not less than one hundred and seventy-five millilitres at any one time. (3) A bottle liquor licence shall authorize the sale of light refreshments on the licensed premises on such days and at such times as liquor may be sold in terms of such licence. (4) It shall be a condition of a bottle liquor licence that the holder thereof shall not enter into any arrangement with a person who occupies or controls any premises or place adjoining or near the licensed premises whereby members of the public who have purchased liquor on the licensed premises are admitted to such second-mentioned premises or place for the purpose of consuming such liquor."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Special bottle liquor licence",
+      "content": "37. Special bottle liquor licence (1) Authority for the issue or renewal of a special bottle liquor licence shall not be granted unless premises in respect of which the application is made— (a) are situated in a rural district council area; and (b) are provided with suitable facilities approved by the Board for the consumption of liquor on the licensed premises. (2) A special bottle liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed— (a) for consumption on the licensed premises in such areas as may be approved by the Board; and (b) for consumption off the licensed premises. (3) A special bottle liquor licence shall authorize the sale of light refreshments on the licensed premises on such days and at such times as liquor may be sold in terms of such licence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Camp and caravan park liquor licence",
+      "content": "38. Camp and caravan park liquor licence (1) A camp and caravan park liquor licence shall authorize the sale of liquor on the licensed premises— (a) for consumption on, or for consumption on and off, the licensed premises; and (b) subject to such limitations as may be prescribed, on such days and at such times; as may be determined by the Board in each case and stated in such licence. (2) A camp and caravan park liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Casino liquor licence",
+      "content": "39. Casino liquor licence (1) A casino liquor licence may be granted to any person who is the holder of a licence or temporary casino licence granted in terms of the Casino Act [Chapter 10:03]. (2) A casino liquor licence shall, subject to such limitations as may be prescribed, authorize the sale of liquor on the licensed premises on such days and at such times as may be determined by the Board in each case and stated in such licence, for consumption on the licensed premises. (3) Paragraphs (b) and (c) of subsection (2) and subsections (3), (4), (5), (6) and (7) of section forty-one shall apply, mutatis mutandis , in relation to a casino liquor licence and the premises to which it relates. (4) The licensed premises for the purposes of a casino liquor licence shall be those premises in respect of which the licence or temporary casino licence concerned was granted under the Casino Act [Chapter 10:03]."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Club liquor licence",
+      "content": "40. Club liquor licence (1) Authority for the issue or renewal of a club liquor licence shall not be granted unless— (a) there has been lodged with the secretary— (i) where authority for the issue of such a licence is sought, a copy of the constitution and any rules of the club, certified by the chairman of such club; or (ii) where authority for the renewal of such a licence is sought, a statement certified by the chairman of the club concerned— A. stating that there have been no changes; or B. setting out any changes there have been; to the constitution and rules of such club since the issue or last renewal, as the case may be, of the licence; and (b) it is established that— (i) the club is a bona fide club the membership of which is restricted to bona fide ordinary, temporary, honorary and reciprocity members; and (ii) the club is managed by a committee of its members; and (iii) the committee holds regular meetings of which proper minutes are kept; and (iv) only members of the club, including temporary, honorary and reciprocity members, and, subject to subsection (2), the bona fide guests of such members are permitted to pay for accommodation, liquor or refreshments supplied therein; and (v) no person is accepted as an ordinary member of the club less than fourteen days after nomination or without his name having been displayed on the club premises for at least seven days; and (vi) the acceptance of ordinary members is either by the committee or by all members of the club: Provided that the rules of the club may disqualify from voting any temporary or reciprocity member or any member in arrear with any payment due to the club; and (vii) a register of members and proper accounts are kept; and (viii) no person residing within fifteen kilometres of the club house is eligible for honorary or temporary membership of the club except where— A. such eligibility is granted in terms of the rules of the club by reason of such person holding some public or religious office or being a student or a scholar or a bona fide candidate for membership or having conferred some special benefit upon or performed some special service for the club; or B. by resolution of the club committee, such person is allowed the privilege of membership while engaged in any match or competition; and (ix) except in the case of country, temporary or reciprocity members, the annual subscription or life membership fee is equal to or exceeds such amount as may be prescribed; and (x) the club consists of at least thirty-five members or, where the club-house is situated more than thirty kilometres from any municipal area or area under the jurisdiction of a town council or town ward of a rural district council or an area that has been declared in terms of the Rural District Councils Act [Chapter 29:13] to be a specified area, at least twenty members; and (xi) except under any written agreement approved by the Board, no profit from the sale of liquor by the club accrues to any individual; and (xii) no member who has not paid his subscription in accordance with the club rules is deemed to be a member while his subscription is unpaid. (2) A club liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed— (a) to ordinary members of the club; and (b) where so authorized by the rules of the club, to— (i) temporary, honorary or reciprocity members of the club; or (ii) bona fide guests of any member of the club; or (iii) persons who pay a fee for the bona fide use of the sporting facilities of the club: for consumption on the licensed premises. (3) Where the club-house of a club to which a club liquor licence has been issued is situated more than fifteen kilometres from the nearest premises in respect of which a bottle liquor licence has been issued, the club liquor licence shall authorize the sale of liquor on the licensed premises to ordinary members of the club on such days and at such times as may be prescribed for consumption off the licensed premises. (4) Where a club to which a club liquor licence has been issued provides sporting facilities on land which it owns or occupies within a five-kilometre radius of the club-house, all such land shall be regarded as part of the licensed premises for the purposes of subsection (2). (5) A club liquor licence shall authorize the sale of refreshments at such places and times as liquor may be sold in terms of such licence"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Hotel liquor licence",
+      "content": "41. Hotel liquor licence (1) Authority for the issue or renewal of an hotel liquor licence shall not be granted unless it is established that a bona fide hotel business is or will be conducted upon the premises in respect of which the application is made. (2) An hotel liquor licence shall authorize the sale of liquor on the licensed premises— (a) on such days and at such times as may be prescribed, for consumption on the licensed premises; (b) on such days and at such times as may be prescribed and from such places as may be approved by the Board in each case, for consumption off the licensed premises: Provided that where there are any premises in respect of which a bottle liquor licence has been issued situated within fifteen kilometres of the hotel, liquor may not be sold in terms of this paragraph during such hours and on such days as liquor may be sold in terms of a bottle liquor licence; (c) on any day and at any time to bona fide guests who are staying at the hotel for consumption on or off the licensed premises. (3) At an hotel in respect of which an hotel liquor licence has been issued— (a) only such bars as are specified by the Board shall be maintained on the premises for the sale of liquor; (b) such number of bedrooms as is specified by the Board shall be maintained on the premises: Provided that the Board may, on application and on being satisfied that the circumstances warrant it, reduce either temporarily or otherwise and subject to such conditions as the Board may fix, the number of bedrooms that are required to be maintained; (c) the approved manager shall reside on the licensed premises or at premises which the Board has approved and specified in terms of subsection (4). (4) The Board may approve and specify premises (hereinafter called the specified premises) where the approved manager may reside off the licensed premises if the Board is satisfied that— (a) the specified premises are within reasonable distance of the licensed premises; and (b) there are adequate and satisfactory means of communication between the specified premises and the licensed premises; and (c) the approved manager will be able to maintain proper control of the licensed premises. (5) If, in the opinion of the Board, the circumstances so warrant it, the Board may, by notice in writing to the approved manager or the licensee, withdraw its approval given in terms of subsection (4). (6) Where approval given in terms of subsection (4) has been withdrawn by the Board in terms of subsection (5), the approved manager shall reside on the licensed premises or any other premises approved and specified in terms of subsection (4). (7) An hotel liquor licence shall authorize the sale on the licensed premises, on any day and at any time, of refreshments and such toilet requisites, medicines and photographic materials as may be prescribed."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part V",
+      "section": "42",
+      "title": "Hotel (private) liquor licence",
+      "content": "42. Hotel (private) liquor licence (1) Authority for the issue or renewal of an hotel (private) liquor licence shall not be granted unless it is established that— (a) a bona fide hotel business is or will be conducted upon the premises in respect of which the application is made; and (b) there is no bar or similar place on the premises at which a person can attend for the sale or consumption of liquor. (2) An hotel (private) liquor licence shall authorize the sale of liquor to— (a) bona fide guests who are staying at the hotel, at any time; (b) persons, other than those referred to in paragraph (a), taking a meal at the hotel for consumption with, or immediately before or after, such meal; for consumption on the licensed premises. (3) An hotel (private) liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part V",
+      "section": "43",
+      "title": "Night-club liquor licence",
+      "content": "43. Night-club liquor licence (1) Authority for the issue or renewal of a night-club liquor licence shall not be granted unless it is established with regard to the premises in respect of which the application is made that— (a) adequate provision is made for the accommodation of persons waiting for admission to that part of the premises in which the music, dancing or other public entertainment is taking place or is to take place; and (b) the number of persons admitted at any time to that part of the premises in which the music, dancing or other public entertainment takes place will be limited to such number as the Board may determine, having regard to the space available in that part; and (c) reasonable amenities and entertainment will be provided. (2) A night-club liquor licence shall authorize the sale of liquor on the licensed premises to persons bona fide attending any music, dancing or other public entertainment on the licensed premises on such days and at such times as may be prescribed, for consumption on the licensed premises. (3) A night-club liquor licence shall authorize the sale of refreshments on the licensed premises on such days and at such times as liquor may be sold in terms of such licence."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part V",
+      "section": "44",
+      "title": "Park area liquor licence",
+      "content": "44. Park area liquor licence (1) A park area liquor licence shall authorize the sale of liquor on licensed premises situated within a park area as defined in the Parks and Wild Life Act [Chapter 20:14]— (a) for consumption on, or for consumption on and off, the licensed premises; and (b) subject to such limitations as may be prescribed, on such days and at such times; as may be determined by the Board in each case and stated in such licence. (2) A park area liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part V",
+      "section": "45",
+      "title": "Passenger vessel liquor licence",
+      "content": "45. Passenger vessel liquor licence (1) Authority for the issue or renewal of a passenger vessel liquor licence shall be granted only in respect of a passenger vessel. (2) A passenger vessel liquor licence shall authorize the sale of liquor on the passenger vessel to which it relates— (a) to any bona fide passenger or member of the crew while— (i) the vessel is in open water or is not less than one kilometre from premises in respect of which an hotel liquor licence has been issued, on any day and at any time subject to such limitations as may be prescribed; or (ii) the vessel is not in open water or is within one kilometre from premises in respect of which an hotel liquor licence has been issued, on such days and at such times as may be prescribed; and (b) to any visitor authorized by the approved manager on such days and at such times as may be prescribed, while the passenger vessel is not within an area specified in terms of subsection (3); for consumption on the passenger vessel. (3) The Minister may, by notice in a statutory instrument, specify an area or areas along any shore in which it shall not be lawful for the holder of a passenger vessel liquor licence to sell liquor to any person who is not a bona fide passenger or member of the crew of the vessel. (4) A passenger vessel liquor licence shall authorize the sale of refreshments on the passenger vessel to which it relates on such days and at such times as liquor may be sold in terms of such licence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Restaurant (ordinary) liquor licence",
+      "content": "46. Restaurant (ordinary) liquor licence (1) Authority for the issue or renewal of a restaurant (ordinary) liquor licence shall not be granted unless it is established that— (a) a bona fide restaurant business is or will be conducted upon the premises in respect of which the application is made; and (b) there is no bar or similar place on the premises at which a person can attend for the sale or consumption of liquor. (2) A restaurant (ordinary) liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed, to any person bona fide taking a meal on the licensed premises for consumption with, or immediately before or after, such meal. (3) A restaurant (ordinary) liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Restaurant (special) liquor licence",
+      "content": "47. Restaurant (special) liquor licence (1) Authority for the issue or renewal of a restaurant (special) liquor licence shall not be granted unless it is established that a bona fide restaurant business is or will be conducted upon the premises in respect of which the application is made. (2) A restaurant (special) liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed for consumption on the licensed premises, whether or not— (a) sold from a bar; or (b) served with a meal. (3) A restaurant (special) liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part V",
+      "section": "48",
+      "title": "Theatre liquor licence",
+      "content": "48. Theatre liquor licence (1) Authority for the issue or renewal of a theatre liquor licence shall not be granted unless it is established that a bona fide theatre or cinema business is or will be conducted on the premises in respect of which the application is made. (2) A theatre liquor licence shall authorize the sale of liquor on the licensed premises to a person who is about to attend, is attending or has attended a performance at the theatre or cinema at such times on the day of such performance as may be prescribed, for consumption on the licensed premises: Provided that no liquor may be sold in terms of a theatre liquor licence— (a) more than one hour before the commencement of any performance; or (b) more than thirty minutes after the end of any performance. (3) A theatre liquor licence shall authorize the sale of light refreshments on the licensed premises on such days and at such times as liquor may be sold in terms of such licence."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part V",
+      "section": "49",
+      "title": "Theatre club liquor licence",
+      "content": "49. Theatre club liquor licence (1) Authority for the issue or renewal of a theatre club liquor licence shall not be granted unless— (a) there has been lodged with the secretary— (i) where authority for the issue of such a licence is sought, a copy of the constitution and any rules of the theatre club, certified by the chairman of such club; or (ii) where authority for the renewal of such a licence is sought, a statement certified by the chairman of the club concerned— A. stating that there have been no changes; or B. setting out any changes there have been; to the constitution and rules of such club since the issue or last renewal, as the case may be, of the licence; (b) it is established that— (i) the theatre club is a bona fide theatre group which stages public performances at a theatre the membership of which is restricted to bona fide ordinary, temporary, honorary and reciprocity members; and (ii) the theatre club is managed by a committee of its members; and (iii) the committee holds regular meetings of which proper minutes are kept; and (iv) only members of the theatre club, including temporary, honorary and reciprocity members, are permitted to pay for liquor or refreshments supplied therein; and (v) no person is accepted as an ordinary member of the theatre club less than fourteen days after nomination or without his name having been displayed on the theatre club premises for at least seven days; and (vi) the acceptance of ordinary members is either by the committee or by all members of the theatre club: Provided that the rules of the theatre club may disqualify from voting any temporary or reciprocity member or any member in arrear with any payment due to the theatre club; and (vii) no person is eligible for honorary or temporary membership of the theatre club except where such eligibility is in terms of the rules of the theatre club granted by reason of such person holding some public office, being a student or scholar, having conferred some special benefit upon or performed some special service for the theatre club or being concerned in the staging of a public performance at the theatre referred to in subparagraph (i); and (viii) a register of members and proper accounts are kept; and (ix) the theatre club consists of at least thirty-five members, and (x) except in the case of temporary or reciprocity members, the annual subscription or life membership fee exceeds or is equal to such amount as may be prescribed; and (xi) except under any written agreement approved by the Board, no profit from the sale of liquor by the theatre club accrues to any individual; and (xii) no member who has not paid his subscription in accordance with the theatre club rules is deemed to be a member while his subscription is unpaid. (2) A theatre club liquor licence shall authorize the sale of liquor on the licensed premises on such days and at such times as may be prescribed— (a) to ordinary members of the theatre club; and (b) where so authorized by the rules of the theatre club, to— (i) temporary, honorary or reciprocity members of the theatre club; or (ii) bona fide guests of any member of the theatre club; or (iii) persons who pay a fee for the bona fide use of the facilities of the theatre club; for consumption on the licensed premises. (3) A theatre club liquor licence shall authorize the sale of refreshments on the licensed premises on any day and at any time."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part V",
+      "section": "50",
+      "title": "Wholesale liquor licence",
+      "content": "50. Wholesale liquor licence (1) A wholesale liquor licence shall authorize the sale of liquor supplied from premises specified in such licence to the holder of a licence or permit or to a person who is exempted from this Act by section three, at any time on any day. (2) No liquor the sale of which is authorized under a wholesale liquor licence may be supplied directly to the holder of a licence or permit from premises other than those specified in such licence."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part V",
+      "section": "51",
+      "title": "Wine producer’s liquor licence",
+      "content": "51. Wine producer’s liquor licence (1) Authority for the issue or renewal of a wine producer’s liquor licence shall not be granted unless it is established that the holder is or will be bona fide engaged in the production or manufacture of wine in Zimbabwe. (2) A wine producer’s liquor licence shall authorize the sale on the licensed premises in sealed containers of wine produced or manufactured in Zimbabwe by the holder of such licence on such days and at such times as may be prescribed for consumption off the licensed premises. Part VI – Licence applications"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "Application for Part I licence",
+      "content": "52. Application for Part I licence (1) A person who wishes to obtain a Part I licence may make application therefor in the prescribed form, accompanied by the prescribed fee and the prescribed documents, to an issuing authority. (2) Upon an application being made in, terms of subsection (1), the issuing authority may, subject to this Act— (a) grant the application and issue the licence; or (b) refuse the application. (3) An issuing authority to whom an application has been made in terms of subsection (1) may require the applicant to appear before him and may examine him on oath. (4) The decision of the issuing authority shall be final and there shall be no appeal therefrom."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VI",
+      "section": "53",
+      "title": "Application for issue of Part II licence",
+      "content": "53. Application for issue of Part II licence (1) A person who wishes to obtain the authority of the Board for the issue of a Part II licence may, subject to this section, make application therefor in the prescribed form to the Board. (2) Before making an application in terms of subsection (1) the applicant shall— (a) not less than fourteen days or more than thirty days before the application is submitted to the Board, cause to be published, in the Gazette and in a newspaper circulating in the area in which the applicant intends to sell liquor, a notice in the prescribed form indicating his intention to make the application and requesting any person objecting to the proposed application to submit his objection and the reasons for such objection to the secretary within fourteen days of publication of the notice; and (b) except in the case of an agent’s liquor licence, submit a copy of the notice referred to in paragraph (a) and such other documents, plans and information as may be prescribed to— (i) a medical officer of health for the area concerned; and (ii) the officer commanding the police district in which the applicant intends to sell liquor; and request their reports on the proposed application. (3) An application in terms of subsection (1) shall be accompanied by— (a) the prescribed fee; and (b) proof that notice has been published in terms of paragraph (a) of subsection (2); and (c) such number of copies as may be prescribed of— (i) the application and any documents, plans or information submitted in terms of paragraph (b) of subsection (2); and (ii) each report requested in terms of paragraph (b) of subsection (2). (4) Upon receipt of an application in terms of subsection (1) accompanied by the prescribed fee and upon being satisfied that notice has been published in terms of paragraph (a) of subsection (2), the secretary shall— (a) obtain a report on the application from an inspector of premises; and (b) without any undue delay submit a copy of each document referred to in paragraph (c) of subsection (3) and a copy of the report referred to in paragraph (a) of this subsection to each member. (5) Each member, other than a member precluded by virtue of section ten or the chairman, shall, within fourteen days of the documents being submitted to him in terms of subsection (4), convey to the chairman any objections he may have to the application. (6) If, at the end of the period of fourteen days referred to in subsection (5), no objection to the application has been raised— (a) in response to the request in terms of paragraph (a) of subsection (2); or (b) in any report requested in terms of paragraph (b) of subsection (2) or paragraph (a) of subsection (4); or (c) in terms of subsection (5); the chairman may, on behalf of the Board, grant the authority applied for, subject to such conditions as he may consider appropriate, and in such event no hearing in respect of the application shall be necessary. (7) Where the chairman does not in terms of subsection (6) grant the authority applied for, the secretary shall fix a date for the hearing of the application concerned and shall, at least fourteen days before the date so fixed, give notice of the date, time and place of the hearing to— (a) the applicant; and (b) any person who or body which objected to the proposed application in terms of paragraph (a) of subsection (2) or otherwise; and (c) any person referred to in paragraph (b) of subsection (2) whose report contained an objection to the granting of the application. (8) At the same time as the secretary gives notice of the hearing to an applicant in terms of subsection (7) he shall forward to the applicant details of any objection made in respect of the application and the reasons for such objection. (9) The validity of a licence shall not be affected solely by reason of failure of the applicant to comply with subsection (2)."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VI",
+      "section": "54",
+      "title": "Application for renewal of Part II licence",
+      "content": "54. Application for renewal of Part II licence (1) Any person who wishes to obtain authority for the renewal of a Part II licence shall, subject to this section, make application therefor to the secretary before the end of the licensing year in the form and manner prescribed. (2) Where the licence which is to be renewed was issued— (a) before the 1st January of the year in which the application for renewal is to be made, such application shall be made on or before the 1st February of that year; (b) on or after the 1st January of the year in which the application for renewal is to be made, such application shall, subject to subsection (1), be made within sixty days of the issue of the licence. (3) If any application in terms of subsection (1) for the renewal of a licence is received by the secretary after the relevant time limit as specified in subsection (2) there shall be paid a penalty of fifty dollars in respect of each month or part of a month that has elapsed from the 1st February or the expiration of the period of sixty days, as the case may be, to the date upon which the secretary received the application. (4) An application in terms of subsection (1) shall be accompanied by the prescribed fee and any penalty payable in terms of subsection (3). (5) The secretary may, in anticipation of, or on receipt of, an application in terms of subsection (1), request all or any of the following— (a) a medical officer of health for the area concerned; (b) an inspector of premises; (c) the officer commanding the police district in which the licensed premises concerned are situated; to indicate whether he or they, as the case may be, object to the granting of such application and, if so, the reasons for so objecting. (6) Any person who wishes to object to the renewal of a Part II licence shall, in anticipation of, or upon becoming aware of, an application for the renewal of such licence, lodge his objection thereto and his reasons for such objection with the secretary by the date, or within the time, specified in subsection (2) for the making of such application. (7) In relation to an application in terms of subsection (1), if the secretary has not, by the date, or within the time, specified in subsection (2) for the making of such application, received— (a) an objection to such application from— (i) any person called upon in terms of subsection (5) to provide a report; or (ii) any person in terms of subsection (6); or (b) a direction by a member to set the matter down for hearing by the Board; the secretary shall, unless he considers that the application should be considered by the Board, where the licence concerned relates to premises situated in— (i) a local authority area, grant authority for the renewal of the licence; or (ii) an area other than a local authority area, upon receipt of the prescribed fee renew such licence; and in either event no hearing by the Board in respect of the application shall be necessary. (8) Where the secretary— (a) receives any objection or direction referred to in subsection (7); or (b) in terms of subsection (7) considers that the application should be considered by the Board; he shall fix a date for the hearing of the application concerned by the Board and shall, at least fourteen days before the date so fixed, give notice of the date and time when and the place where the application will be heard to— (i) the applicant; and (ii) any person objecting to the application in terms of subsection (5) or (6). (9) At the same time as the secretary gives notice to an applicant in terms of subsection (8), he shall forward to him details of the objection made in respect of the application and a statement of the grounds, if any, that are believed by the Board or any member to exist for refusing the application."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VI",
+      "section": "55",
+      "title": "Temporary continuation of validity of licence",
+      "content": "55. Temporary continuation of validity of licence (1) Where an authority for the renewal of a Part II licence has not been granted for any reason, the Board may, upon application being made to it in the prescribed form, if any, authorize the continuation of the validity of the licence concerned— (a) for such period or periods as the Board may specify; and (b) subject to such conditions as the Board may consider appropriate. (2) Where an application for the renewal of a licence has been made in terms of this Act, the validity of the licence shall, where the applicant has not been given notice of the grant or refusal of his application by the 1st June, continue after the 30th June for the period of thirty days next following the date on which he is given such notice. (3) In respect of any period of one month or part thereof during which the validity of a licence is continued in terms of subsection (1) or (2), as the case may be, the licence holder shall be liable to pay, when so directed by the secretary, one-twelfth of the prescribed fee that would be payable on the renewal of the licence: Provided that no amount shall be payable in terms of this subsection— (a) if the licence is subsequently renewed; or (b) in respect of any period during which the applicant has not carried on the trade or business to which the licence concerned relates and in respect of which he has notified the secretary."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Application for removal of Part II licence",
+      "content": "56. Application for removal of Part II licence (1) If the holder of a Part II licence wishes to remove the business to which his licence relates from the licensed premises to other premises, he may, subject to subsection (2), make application in the prescribed form to the Board to remove his licence from the former to the latter premises. (2) With the exception of subparagraph (ii) of paragraph (b) of subsection (2) of section fifty-three, that section shall apply, mutatis mutandis , to an application referred to in subsection (1) as if any reference in that section to an application were a reference to an application in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Application for conditional authority",
+      "content": "57. Application for conditional authority (1) A person may apply in the prescribed form for the conditional authority of the Board for the issue or removal of a Part II licence in respect of premises proposed to be erected, constructed, renovated, added to or altered, as the case may be. (2) Section fifty-three shall apply, mutatis mutandis , to an application referred to in subsection (1) as if any reference in that section to an application were a reference to an application in terms of subsection (1). (3) Upon consideration of an application in terms of subsection (1) the Board may grant conditional authority in respect of the premises concerned if it is satisfied that— (a) it would be lawful, if the premises were completed at the date of the consideration of the application, to grant authority for the issue or removal, as the case may be, of the licence; and (b) it is the bona fide intention of the applicant if the application is granted to erect, construct, renovate, alter or add to the premises within such period as the Board may determine from the date of the grant of the authority; and (c) generally it is desirable that conditional authority be granted for the issue or removal of the licence in respect of the premises concerned. (4) A conditional authority granted in terms of subsection (3) shall— (a) be in the prescribed form; and (b) specify— (i) the premises to which it relates; and (ii) any condition which the Board considers should be imposed in respect of the licence if subsequently issued or removed; and (iii) the period referred to in paragraph (b) of subsection (3). (5) Where the chairman is satisfied on the basis of a report by an inspector of premises and a medical officer of health that within the period referred to in paragraph (b) of subsection (3) the premises in respect of which the conditional authority has been granted— (a) have been erected, constructed, renovated, altered or added to substantially in accordance with plans produced to the Board in support of the application; and (b) are in a condition suitable for use as licensed premises; he may authorize the issue of a certificate to the applicant or some other person approved by him. (6) A certificate referred to in subsection (5) shall state— (a) the date of issue thereof; and (b) that the authority of the Board has been granted for the issue or removal of the appropriate licence; and (c) the prescribed fee; and (d) the particulars which are required to be endorsed on the licence in terms of paragraph (b) of subsection (1) of section twenty-one. (7) Upon the issue of a certificate in terms of subsection (5), the authority of the Board for the issue or removal of the appropriate licence shall be deemed to have been granted on the date of the issue of that certificate and of subsections (5), (6) and (7) of section twenty-two shall apply, mutatis mutandis . (8) Where the premises in respect of which a conditional authority has been granted are not erected, constructed, renovated, altered or added to within the period referred to in paragraph (b) of subsection (3) substantially in accordance with plans produced to the Board in support of the application for the conditional authority, the conditional authority shall lapse and be of no force or effect: Provided that the chairman may for good cause shown grant an extension of the period within which the premises must be erected, constructed, renovated, altered or added to in terms of the conditional authority and this subsection shall apply, mutatis mutandis , in relation to such extended period."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Application for transfer of Part II licence",
+      "content": "58. Application for transfer of Part II licence (1) An application for the authority of the Board for the transfer of a Part II licence may be made by the following persons and in the following circumstances— (a) a licensee, where the licensee sells, leases or disposes of the licensed premises or business to which the licence relates or where he is about to do so; or (b) the employer of a licensee, where— (i) the licensee leaves or is about to leave his employment with that employer or ceases or is about to cease to be employed by that employer in a capacity which necessitates his holding of the licence; or (ii) the employer sells or otherwise disposes of the licensed premises or business or is about to do so; or (c) a member of a committee of a club or theatre club, where it is or will be no longer practicable for the holder of the club liquor licence or theatre club liquor licence, as the case may be, to hold the licence; or (d) a person who has a right of occupation of the licensed premises, where neither the licensee nor the approved manager has or will have any right of occupation of those premises. (2) With the exception of paragraph (b) of subsection (2) of section fifty-three, that section shall apply, mutatis mutandis , to an application referred to in subsection (1) as if any reference in that section to an application were a reference to an application in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Death or incapacity of applicant",
+      "content": "59. Death or incapacity of applicant (1) Where a person has applied in terms of this Part for authority for the issue, renewal, removal or transfer of a licence but before the grant or refusal of such application he dies, is declared insolvent, assigns his estate under the law relating to insolvency or is declared incapable of managing his own affairs or, being a body corporate, is placed under liquidation— (a) his executor, trustee, assignee or curator or the liquidator, as the case may be, shall have such powers and rights in relation to the application as the applicant would have had but for his death or incapacity; and (b) the Board or secretary, as the case may be, may grant the application in favour of the executor, trustee, assignee, curator or liquidator, as the case may be, in his representative capacity. (2) Where the Board or secretary grants an application in favour of an executor, trustee, assignee, curator or liquidator in terms of paragraph (b) of subsection (1), the executor, trustee, assignee, curator or liquidator, as the case may be, may, in accordance with the authority granted— (a) obtain the issue or renewal of the licence in his representative capacity; or (b) effect the removal or transfer of the licence, as the case may be."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VI",
+      "section": "60",
+      "title": "Transfer of licence pending grant or refusal of application for renewal",
+      "content": "60. Transfer of licence pending grant or refusal of application for renewal Where a person has applied in terms of this Part for authority for the renewal of a licence and before such authority is granted or refused the licence is transferred, the Board or secretary may, subject to this Act, grant the application in the name of the transferee. Part VII – Monopoly areas"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VII",
+      "section": "61",
+      "title": "***",
+      "content": "61. *** [section 61 repealed by section 10 of act 12 of 1997]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VII",
+      "section": "62",
+      "title": "***",
+      "content": "62. *** [section 62 repealed by section 10 of act 12 of 1997]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VII",
+      "section": "63",
+      "title": "***",
+      "content": "63. *** [section 63 repealed by section 10 of act 12 of 1997] Part VIII – Approved managers"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VIII",
+      "section": "64",
+      "title": "Application for approval of manager",
+      "content": "64. Application for approval of manager (1) An application for the approval of a person as the manager of any licensed or proposed licensed premises may be made to the Board— (a) by any person applying in terms of Part VI for authority for the issue, renewal, removal or transfer of a licence; or (b) by a licensee. (2) Before applying for the approval of a person as manager in terms of subsection (1), the applicant shall notify the officer commanding the police district in which the licensed premises are or are proposed to be situated and request him to furnish a report on the proposed application. (3) An application in terms of subsection (1)— (a) shall be made in the form and manner prescribed; and (b) shall be accompanied by— i. the prescribed fee; and ii. the police report furnished in terms of subsection (2); and (c) may be made for the licensee himself to he approved as manager. (4) Upon receiving an application in terms of subsection (1), the Board— (a) may require the applicant and additionally, or alternatively, the person in respect of whom the application has been made to appear before it and may examine the applicant or that person; (b) may, subject to this Act— (i) if satisfied that the person in respect of whom the application is made is a fit and proper person to be approved as manager, grant the application; or (ii) refuse the application. (4) Where the Board grants an application referred to in subsection (1), the name and address of the approved manager shall be endorsed by the secretary, where a licence has already been issued or renewed, upon the licence or, in any other case, upon the certificate referred to in subsection (4) of section twenty-two and subsequently upon the licence when issued. [Please note: numbering as in original]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VIII",
+      "section": "65",
+      "title": "Board may authorize more than one approved manager",
+      "content": "65. Board may authorize more than one approved manager (1) The Board may, upon application in the prescribed form by a person who is the holder of or the applicant for a licence, authorize the approval of more than one person, subject to such maximum number as the Board may specify, as approved managers of the licensed premises to which the licence or proposed licence relates or will relate, as the case may be. (2) Where the Board grants an application referred to in subsection (1) the secretary shall endorse upon the licence, if a licence has been issued, or, if no licence has been issued, upon the certificate referred to in subsection (4) of section twenty-two and subsequently upon the licence when issued, the maximum number of persons authorized to be approved as approved managers. (3) The Board may, after affording the holder of the licence concerned an opportunity of making such representations to the Board as he may wish, reduce the maximum number of persons specified in any authority referred to in subsection (1) or may revoke any such authority. (4) Where the Board has made a reduction or revocation in terms of subsection (3), the licensee shall, as soon as possible, submit the licence or, if no licence has been issued, the certificate referred to in subsection (4) of section twenty-two to the secretary who shall make such corrections to any endorsement on the licence or certificate concerned as may be necessary to reflect the Board’s decision and shall, where necessary, delete the names of any such approved managers as may be indicated to him by the holder of the licence or certificate concerned."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VIII",
+      "section": "66",
+      "title": "When approved manager ceases to be manager",
+      "content": "66. When approved manager ceases to be manager Where an approved manager has ceased or will cease for any reason to be the manager of the licensed premises, the licensee may make application in terms of section sixty-four to the Board for the deletion of the manager’s name and address from the licence or certificate upon which it is endorsed and for the approval of some other person as manager."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VIII",
+      "section": "67",
+      "title": "Qualifications of approved manager",
+      "content": "67. Qualifications of approved manager (1) No person shall be approved as manager who— (a) is not a citizen of Zimbabwe unless the Minister has given him exemption in terms of section one hundred and twenty-one; or (b) has, in terms of a law in force in any country— (i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or (ii) made an assignment to, or an arrangement or composition with, his creditors generally which has not been rescinded or set aside; or (c) has been declared incapable of managing his own affairs; or (d) has, within the preceding twelve months, been twice convicted of an offence in terms of this Act and has been sentenced therefor to a term of imprisonment without the option of a fine or to a fine exceeding level three, whether or not such sentence has been suspended; or [paragraph (d) as amended by section 4 of Act 22 of 2001 ] (e) does not reside in Zimbabwe or does not intend to reside in Zimbabwe if approved as manager; or (f) is under the age of eighteen years; or (g) is the spouse of a person disqualified under paragraph (b), (c) or (d) unless the parties are bona fide living apart under notarial deed or judicial order of separation. (2) An approval granted in terms of section sixty-four to a person who— (a) is disqualified from being granted such approval in terms of subsection (1), shall be null and void; (b) becomes a person who would be disqualified from being granted such approval in terms of subsection (1), shall lapse and become null and void."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VIII",
+      "section": "68",
+      "title": "Appointment of deputy for period not exceeding thirty days",
+      "content": "68. Appointment of deputy for period not exceeding thirty days (1) A licensee or an approved manager or a person acting on behalf of either of them may appoint a deputy to act for the approved manager for a period not exceeding thirty days. (2) An appointment made in terms of subsection (1) shall— (a) be made in writing; and (b) state the period and reason for the appointment; and (c) be notified to the secretary by the licensee or approved manager or person acting on behalf of either of them before the commencement of such period of appointment or, where it is not possible to do so, as soon as possible after the commencement of such period of appointment. (3) No appointment in terms of subsection (1) shall be made within fourteen days of the last appointment in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VIII",
+      "section": "69",
+      "title": "Appointment of deputy for period exceeding thirty days",
+      "content": "69. Appointment of deputy for period exceeding thirty days (1) A licensee or an approved manager or a person acting on behalf of either of them may apply to the chairman for the appointment of a deputy to act for the approved manager— (a) for a period exceeding thirty days but not exceeding sixty days; or (b) for a period not exceeding forty-eight hours in each or any week. (2) An application in terms of subsection (1) shall be— (a) made in the form and manner prescribed; and (b) accompanied by the prescribed fee. (3) Where the chairman is satisfied that the person proposed to be appointed as a deputy is a fit and proper person for the purpose, the chairman may appoint such person to act as deputy for the approved manager for such period not exceeding sixty days or for such period not exceeding forty-eight hours in each or any week, as the case may be, and, in such event, shall notify the secretary of such appointment. (4) No appointment in terms of subsection (3) shall be made within fourteen days of the last appointment in terms of that subsection. Part IX – General considerations relating to licences"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part IX",
+      "section": "70",
+      "title": "General discretion of licensing authority",
+      "content": "70. General discretion of licensing authority (1) The Minister may issue directions on matters of policy, including directions that the issue or the grant of authority for the issue of any particular class of licence shall be discontinued or limited for a specified period, and in exercising its discretion in terms of subsection (2) a licensing authority shall comply with such directions. (2) Subject to this Act, a licensing authority shall have a discretion in regard to the issue or grant of authority for the issue, renewal, removal or transfer of a licence. (3) Where authority for the issue of a licence is granted by the Board, the licence shall be of the description which, in the opinion of the Board, is appropriate to the particular business which the applicant proposes to carry on."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part IX",
+      "section": "71",
+      "title": "General considerations",
+      "content": "71. General considerations (1) The Board shall, in the exercise of its powers relating to the granting of authority for— (a) the issue or renewal of a licence, have regard to— (i) the question whether the licence is reasonably required in order to afford the public reasonable facilities to acquire liquor in terms of this Act; (ii) the question whether having the premises concerned licensed does, or is likely to, interfere with the amenities of the neighbourhood concerned and the rights of persons living there; and (iii) the question whether the business which is or will be carried on under the licence does, or is likely to, interfere with the amenities of the neighbourhood where the premises concerned are or will be situated and the rights of persons living there; and (iv) the question whether adequate arrangements exist or will be made for controlling the supply of liquor so as to ensure that it is not supplied to persons to whom it is unlawful to supply liquor in terms of this Act and to prevent excessive drinking; and (v) the question whether the proposed licensee is a fit and proper person to hold a licence; (b) the removal of a licence, have regard to the questions specified in subparagraphs (ii), (iii) and (iv) of paragraph (a); (c) the transfer of a licence, have regard to the question specified in subparagraph (v) of paragraph (a). (2) An issuing authority shall, in the exercise of his powers relating to— (a) the issue of an extended hours (occasional) liquor licence or a temporary retail liquor licence to a licensee, have regard to the questions specified in subparagraphs (i) to (iv) of paragraph (a) of subsection (1); (b) the issue of a temporary retail liquor licence to a person other than a licensee, have regard to the questions specified in subparagraphs (i) to (v) of paragraph (a) of subsection (1); (c) the issue of a temporary removal liquor licence, have regard to the questions specified in subparagraphs (ii), (iii) and (iv) of paragraph (a) of subsection (1); (d) the issue of a temporary transfer liquor licence, have regard to the question specified in subparagraph (v) of paragraph (a) of subsection (1)."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part IX",
+      "section": "72",
+      "title": "Persons to whom licences may not be granted",
+      "content": "72. Persons to whom licences may not be granted (1) No authority for the issue, renewal or transfer of a licence shall be granted in favour of, and no licence shall be issued to, any person who— (a) is serving or, within the preceding three years, has been released from prison after having served, a term of imprisonment exceeding three months which was imposed without the option of a fine after conviction— (i) within Zimbabwe of a criminal offence; or (ii) outside Zimbabwe of an offence by whatever name called which, if committed within Zimbabwe, would have been a criminal offence; or (b) has, within the preceding three years been convicted— (i) within Zimbabwe of a criminal offence involving dishonesty; or (ii) outside Zimbabwe of an offence by whatever name called which, if committed within Zimbabwe, would have been a criminal offence involving dishonesty; and sentenced by a court to a fine exceeding level four or to a term of imprisonment exceeding three months without the option of a fine, whether or not such sentence has been suspended; or (c) has, within the preceding twelve months, twice convicted of an offence in terms of this Act and has been sentenced therefor to a term of imprisonment without the option of a fine or to a fine exceeding level four, whether or not such sentence has been suspended; or (d) in the case of an individual— (i) is not a citizen of Zimbabwe, unless the Minister has given him exemption from this subparagraph; or (ii) has, in terms of any law in force in any country— A. been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or B. made an assignment to, or an arrangement or composition with, his creditors generally which has not been rescinded or set aside; or (iii) has been declared incapable of managing his own affairs; or (iv) does not reside in Zimbabwe; or (v) is the spouse of a person disqualified under paragraph (a), (b) or (c) or subparagraph (ii) or (iii) of paragraph (d) unless the parties are bona fide living apart under notarial deed or judicial order of separation; or (e) in the case of a company— (i) has a majority of directors who are not citizens of Zimbabwe, unless the Minister has given the company exemption from this subparagraph; or (ii) has been placed in liquidation; or (iii) has a director who, within the period referred to in paragraph (a) or (b), has been convicted of an offence referred to in such paragraph and sentenced therefor to a term of imprisonment referred to in that paragraph or, within the period referred to in paragraph (c), has been twice convicted of an offence referred to in that paragraph and sentenced therefor to the penalty referred to in that paragraph. [subsection (1) as amended by section 4 of Act 22 of 2001 ] (2) No licence shall be issued, renewed or transferred— (a) except to an individual, a partnership, a club, a company, a co-operative society, a private business corporation or a local authority or to such statutory corporations as the Minister may approve for the purposes of this paragraph; [paragraph (a) amended by section 10 of Act 12 of 1997 ] (b) in respect of premises owned, let or hired by a police officer or by the spouse of a police officer. (3) Subject to section ninety-nine, the issue, renewal or transfer of a licence to or in respect of a person who— (a) is disqualified in terms of this section from holding it, shall be null and void; (b) becomes a person who would be disqualified in terms of this section from holding it, shall become null and void: Provided that, in the case of a company which has become disqualified by virtue of subparagraph (i) or (ii) of paragraph (d) of subsection (1) because of a change among the directors or in the particulars of any director, the licence shall not become null and void if the disqualification is removed within one month of the notification of the change in terms of subsection (1) of section seventy-three or, if such notification has not been made, of the expiration of the period within which such notification should have been made."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part IX",
+      "section": "73",
+      "title": "Notification of change of directors",
+      "content": "73. Notification of change of directors (1) Where, in the case of a company which is the holder of a licence, there is a change— (a) among the directors of the company; or (b) in the particulars referred to in subparagraph (i) or (iii) of paragraph (d) of subsection (1) of section seventy-two relating to any director of the company; the company shall, within one month of becoming aware, or of being notified in terms of subsection (2), of such change, notify the secretary in the prescribed form of such change. (2) If a director of a company which is the holder of a licence— (a) becomes or ceases to be a citizen of Zimbabwe; or (b) is convicted of an offence referred to in paragraph (a) or (b) of subsection (1) of section seventy-two and sentenced to the punishment referred to in the appropriate paragraph; he shall notify the secretary of the company thereof in writing within fourteen days: Provided that, if, after a conviction referred to in paragraph (b), an appeal is lodged or is under consideration, the notification shall be made after the expiration of the period within which an appeal may be lodged or the determination, abandonment or withdrawal of the appeal, whichever is the later."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part IX",
+      "section": "74",
+      "title": "General restrictions as to premises",
+      "content": "74. General restrictions as to premises (1) No authority for the issue, renewal or removal of a licence shall be granted by the Board unless the Board is satisfied that the licensed premises or proposed licensed premises— (a) comply with the standards prescribed in respect of such premises or, if none have been prescribed, afford suitable and satisfactory accommodation for all purposes to which the premises may be put in terms of the licence; and (b) in the case of an hotel liquor licence, comply with the requirements of subsection (3) of section forty-one; and (c) are sufficiently complete to enable the business or proposed business to be carried on in accordance with the law governing the same: Provided that where the Board is satisfied that in the circumstances it is just that relief be given, it may grant authority for the removal of a licence for a period not exceeding one hundred and twenty days, even though it is not satisfied as specified in paragraphs (a) and (c) with regard to the premises in respect of which the licence is proposed to be removed."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part IX",
+      "section": "75",
+      "title": "Conditions may be imposed",
+      "content": "75. Conditions may be imposed (1) A licensing authority other than the secretary in issuing or in granting authority for the issue, renewal, removal or transfer of a licence or upon consideration of a report made in terms of section ninety-one or ninety-two may impose such conditions, not inconsistent with this Act, as the licensing authority considers appropriate. (2) Without derogation from the generality of the power conferred by subsection (1), conditions imposed in terms of that subsection may relate to— (a) any structural alteration or arrangement of, or addition or repair to, the licensed premises concerned; (b) accommodation to be afforded to the public in or upon the licensed premises concerned; (c) any matter considered by the licensing authority to be necessary or desirable in order to meet the reasonable requirements of the public or visitors in or upon the licensed premises concerned, and to facilitate supervision by the police; (d) any matter considered by the licensing authority to be necessary or desirable to prevent interference with the amenities of the neighbourhood where the licensed premises are or will be situated, and the rights of persons living there or to prevent excessive drinking. (3) A condition imposed in terms of subsection (1) may stipulate— (a) the time within which the condition shall be complied with; (b) that a licence shall not be issued, renewed, removed or transferred until the chairman has certified in writing that the condition has been fulfilled. (4) Notwithstanding anything to the contrary in this Act, where it appears to the Board to be necessary or desirable— (a) to prevent excessive drinking; or (b) to prevent interference with the amenities of a neighbourhood or the rights of any persons living there; or (c) to facilitate supervision by the police; it may impose as a condition of a particular licence that the hours during which and the days on which liquor may be sold in terms of the licence shall be as fixed by the Board: Provided that such a condition shall not purport to authorize the sale of liquor on a day or during hours when the sale of liquor is not authorized in terms of the appropriate provision contained in Part V. (5) Where a licence is renewed, removed or transferred, any conditions in force at the time of such renewal, removal or transfer shall continue in force. Part X – Conduct of licensed premises"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part X",
+      "section": "76",
+      "title": "Duty of approved manager",
+      "content": "76. Duty of approved manager (1) Subject to subsection (3), an approved manager shall— (a) take charge of the business conducted on the licensed premises in respect of which he is the manager; and (b) visit the licensed premises in respect of which he is the manager on each day that, and during the hours when, liquor is sold in terms of the licence which relates to those licensed premises. (2) Where a deputy has been appointed in terms of Part VIII paragraphs (a) and (b) of subsection (1) shall apply to that deputy. (3) Where two or more approved managers have been appointed in terms of an authority granted in terms of section sixty-five, it shall be sufficient compliance by all of them with subsection (1) if any one of them complies with of subsection (1)."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part X",
+      "section": "77",
+      "title": "Licensed premises not to be altered without permission",
+      "content": "77. Licensed premises not to be altered without permission (1) No structural alteration or addition to any licensed premises and no material alteration in the internal arrangement of such premises shall be made without the permission of the Board. (2) Any licensee wishing to obtain the permission of the Board in terms of subsection (1) shall apply therefor in the form and manner prescribed."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part X",
+      "section": "78",
+      "title": "Employment of certain persons in licensed premises",
+      "content": "78. Employment of certain persons in licensed premises The holder of a Part II licence, other than a wholesale liquor licence, and an approved manager of the licensed premises to which any such licence relates shall not employ in connection with the sale of liquor or in any bar on his licensed premises during the hours when liquor may be sold or supplied by him, any person who— (a) is under the age of eighteen: Provided that this paragraph shall not apply in relation to the employment of a person of or over the age of sixteen years who has undergone or is undergoing a course of instruction in catering which has been approved by the Minister; or (b) has, within the preceding three years, been convicted of an offence involving the sale or supply of liquor in contravention of this Act and has been sentenced therefor to a term of imprisonment without the option of a fine or to a fine exceeding level three, whether or not such sentence has been suspended. [paragraph (b) as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part X",
+      "section": "79",
+      "title": "Exclusion of certain persons from licensed premises",
+      "content": "79. Exclusion of certain persons from licensed premises (1) A licensee or approved manager or an agent or employee of a licensee or approved manager may refuse to admit to, or may turn out of, the licensed premises in respect of which he is the licensee or approved manager any person— (a) who is drunk; or (b) who is violent, quarrelsome or offensive; or (c) who habitually frequents licensed premises for the purpose of soliciting drink; or (d) whose presence on licensed premises would subject the licensee or approved manager to a penalty under this Act; and may refuse to serve any such person with liquor. (2) All police officers in uniform are required, on the request of the licensee or approved manager or the agent or employee of the licensee or approved manager, to expel or assist in expelling every person referred to in subsection (1) from the licensed premises concerned and may use such force as may be reasonably necessary for that purpose."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part X",
+      "section": "80",
+      "title": "No liquor to be consumed on licensed premises later than thirty minutes after closing time",
+      "content": "80. No liquor to be consumed on licensed premises later than thirty minutes after closing time (1) Subject to subsection (2), no liquor which is sold to any person on licensed premises during any period in which the liquor may be sold to that person shall be consumed on the licensed premises later than thirty minutes after the end of that period. (2) Subsection (1) shall not apply to liquor sold in terms of an hotel liquor licence or an hotel (private) liquor licence to a guest staying at the hotel."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part X",
+      "section": "81",
+      "title": "Restriction on credit sales of liquor",
+      "content": "81. Restriction on credit sales of liquor (1) Subject to subsection (2), no person shall, in or on any licensed premises— (a) supply for consumption therein or thereon; or (b) consume therein or thereon; any liquor unless it is paid for at the time when it is supplied. (2) Subsection (1) shall not apply— (a) in relation to premises in respect of which a club liquor licence is held; or (b) if the liquor is supplied to any person bona fide taking a meal on the licensed premises for consumption with, or immediately before or after, such meal and the price of the liquor is paid at the conclusion of such meal together with the price of the meal; or (c) if the liquor is supplied in moderate quantity to the order of any guest staying or boarding at the licensed premises; or (d) if the liquor is supplied in moderate quantity, having regard to the type of social function concerned, to the order of any person who is holding a social function in or on the licensed premises; or (e) if the liquor is supplied free of charge and in moderate quantity by the owner of such liquor to his friends or regular customers."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part X",
+      "section": "82",
+      "title": "Payments for liquor",
+      "content": "82. Payments for liquor (1) The holder of a licence, other than an agent’s liquor licence, bottle liquor licence or wholesale liquor licence, and an approved manager of the licensed premises to which any such licence relates shall not— (a) accept any payment for any liquor supplied in or on his licensed premises in anything except cash or a cheque payable otherwise than at a future date: Provided that the holder of a club liquor licence or the approved manager of the licensed premises to which such licence relates may accept payment for liquor supplied by means of coupons paid for at the time of issue in cash or by a cheque payable otherwise than at a future date; or (b) prior to the conclusion of any sale of liquor, accept payment for the liquor or accept from any person a deposit of money in respect of a future supply of liquor; or (c) accept a pledge in respect of liquor supplied in or upon the licensed premises. (2) A payment, pledge or deposit made in contravention of subsection (1) shall be of no force and effect and any such payment, pledge or deposit may be recovered by the person giving or making it, notwithstanding that any liquor has been supplied in pursuance thereof."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part X",
+      "section": "83",
+      "title": "Restrictions on recovery of debts for liquor supplied",
+      "content": "83. Restrictions on recovery of debts for liquor supplied (1) Notwithstanding any agreement to that effect, no employer shall deduct from any salary or wages of an employee any sums due to any person in respect of liquor supplied. (2) Subject to subsection (3), no order of civil imprisonment or garnishee order shall be granted or issued in respect of any judgment or amount due for liquor supplied. (3) Nothing in subsection (2) contained shall apply in respect of— (a) liquor supplied under the authority of a wholesale liquor licence or bottle liquor licence to the holder of any licence or permit; (b) traditional beer supplied under the authority of a wholesale liquor licence or bottle liquor licence to any person who is authorized or permitted to sell traditional beer in terms of any enactment relating thereto."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part X",
+      "section": "84",
+      "title": "Sale or supply of liquor to persons under eighteen",
+      "content": "84. Sale or supply of liquor to persons under eighteen (1) Notwithstanding anything to the contrary contained in this Act, but subject to this section, no licensee or approved manager shall— (a) sell, deliver or supply liquor to any person who is under the age of eighteen years; or (b) permit any person who is under the age of eighteen years to drink any intoxicating liquor upon his licensed premises; or (c) permit any person who is under the age of eighteen years to be at any time in the bar of his licensed premises except during such hours as the bar is closed. (2) It shall be a sufficient defence to any charge under subsection (1) if the accused satisfies the court that he had reasonable cause to believe that the person alleged in the charge to be under the age of eighteen years was of or above the age of eighteen years. (3) Nothing in paragraph (c) of subsection (1) contained shall apply— (a) in respect of any person who is in the bar of the licensed premises solely for the purpose of passing through in order to obtain access to or egress from any other part of the premises; (b) to railway refreshment rooms or other premises constructed, fitted or intended to be used for any purpose for which the sale of liquor is merely ancillary; (c) to any part of a passenger vessel which is not immediately adjacent to any bar counter on such passenger vessel. (4) Paragraphs (a) and (c) of subsection (1) shall not apply in relation to a person of or above the age of sixteen years who has undergone or is undergoing a course of instruction in catering which has been approved by the Minister and to whom liquor is sold, delivered or supplied, or is in the bar of the licensed premises, in the course of his employment thereon or in connection with that course of instruction."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part X",
+      "section": "85",
+      "title": "Display of licence and name of deputy approved manager",
+      "content": "85. Display of licence and name of deputy approved manager (1) Subject to subsection (2), a licensee shall ensure that his licence is prominently displayed at all times upon the licensed premises to which it relates. (2) Subsection (1) shall not apply in respect of any period during which the licence is necessarily removed from the licensed premises concerned for the purpose of doing anything in terms of this Act or for any other lawful purpose the proof whereof, in any proceedings against any person for contravention of subsection (1), shall lie upon that person. (3) Whenever a deputy approved manager is appointed in terms of section sixty-eight or sixty-nine the licensee shall ensure that there is prominently displayed next to the licence concerned the name of the deputy approved manager concerned and the period for which he has been appointed. Part XI – Permits to sell liquor"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XI",
+      "section": "86",
+      "title": "Permits for sale of liquor",
+      "content": "86. Permits for sale of liquor (1) The Board may grant a permit for the sale or supply of liquor— (a) in respect of a training camp held under the Defence Act [Chapter 11:02], to the camp commandant; (b) in respect of a drill hall occupied and used by members of the Defence Forces, to the commandant or the officer commanding a local unit of such forces; (c) in respect of a military or air force camp, to the officer in charge of such camp; (d) in respect of a canteen or mess which is conducted under the authority of the Commander of the Air Force, the Commander of the Army, the Commissioner of Police or the Director of Prisons, to the person responsible for the conduct of such canteen or mess; (e) in respect of any canteen, restaurant, mess or other establishment for employees of the State, to any person authorized by the Minister after consultation with the Minister concerned; (f) in respect of a canteen, restaurant or other establishment which is conducted under the authority of the Director of National Parks and Wildlife Management and which is situated in a park area as defined in the Parks and Wildlife Act [Chapter 20:14], to the officer responsible for the conduct of such canteen, restaurant or other establishment; (g) in respect of any establishment which is conducted by the Zimbabwe Youth Council or the Sports and Recreation Commission for the accommodation of persons, to the person in charge of such establishment. (2) The Board may grant a permit for the sale or supply of liquor, other than beer, in respect of any outlet through which beer may lawfully be sold by— (a) any local authority; or (b) the administering authority of a local government area; or (c) the holder of a controlled liquor licence as defined in section 2 of the Traditional Beer Act [Chapter 14:25]; to such local authority or administrating authority or holder, as the case may be. (3) The Board may refuse to grant a permit in terms of subsection (1) or (2) where, in its opinion, the facilities for accommodating the reasonable needs of persons drinking at such premises are inadequate (4) A permit granted in terms of subsection (1) or (2) shall be in the prescribed form and shall contain such conditions as may be specified in terms of section eighty-seven. (5) A person who wishes to obtain a permit shall apply therefor in the prescribed form and shall submit such number of copies as may be prescribed of his application together with the prescribed fee, if any, to the secretary. (6) Upon receipt of an application in terms of subsection (5) the secretary shall without undue delay submit a copy of the application to each member. (7) Each member, other than a member precluded by virtue of section ten or the chairman, shall, within fourteen days of the application being served on him, convey to the chairman any objections he may have to the application and may request that the matter be referred to a meeting of the Board. (8) At the end of the period of fourteen days referred to in subsection (7), if— (a) no member has requested that the matter be referred to a meeting of the Board, the chairman may, on behalf of the Board, grant the permit applied for, subject to such conditions as he considers appropriate, and in such event no meeting of the Board shall be necessary; (b) any member has requested that the matter be referred to a meeting of the Board, the secretary shall convene a meeting as soon as convenient and, notwithstanding section nine, such meeting shall not be open to the public."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XI",
+      "section": "87",
+      "title": "Conditions of permits",
+      "content": "87. Conditions of permits (1) The Board shall, in granting a permit, specify as conditions thereof— (a) the persons to whom liquor may be sold; and (b) the days on which and the hours during which liquor may be sold; and (c) the place or places at which liquor may be sold; and may specify such other conditions as it considers appropriate. (2) A permit shall authorize the sale of refreshments on the premises or at the places to which the permit relates at such times and on such days as liquor may be sold in terms of the permit."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XI",
+      "section": "88",
+      "title": "Duration and renewal of permits",
+      "content": "88. Duration and renewal of permits (1) Subject to section eighty-nine, a permit shall be of force for one year from the 1st July until the 30th June: Provided that if the date of issue is later than the 1st July the permit shall be in force from such later date until the 30th June next succeeding. (2) Upon payment by the applicant of the prescribed fee, the Board may authorize the secretary to renew any permit or class of permits on its behalf."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XI",
+      "section": "89",
+      "title": "Cancellation, suspension and variation of permits",
+      "content": "89. Cancellation, suspension and variation of permits (1) The Board may if it thinks fit, after due inquiry, and, if so directed the Minister, shall— (a) cancel a permit; or (b) suspend a permit for such period as it may specify; (c) vary or amend any existing conditions of, or impose any new conditions on, a permit. Part XII – Powers and duties of inspectors of premises, medical officers and police"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XII",
+      "section": "90",
+      "title": "Reports to be submitted",
+      "content": "90. Reports to be submitted An inspector of premises, a medical officer of health and a police officer who has been called upon to report in terms of paragraph (b) of subsection (2) of section fifty-three, subsection (5) of section fifty-four or subsection (2) of section sixty-four shall as soon as possible furnish such report in such form and manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XII",
+      "section": "91",
+      "title": "General duty of inspector to report",
+      "content": "91. General duty of inspector to report (1) It shall be the general duty of an inspector of premises to ascertain and report to the chairman upon— (a) the condition and state of any licensed premises; and (b) the manner in which any licensed premises and the business carried on thereon are being conducted; and (c) whether conditions imposed in respect of any licence or permit have been or are being complied with. (2) Any person may at any time submit a report to the chairman concerning any matter relating to licensed premises or the business being conducted thereon."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XII",
+      "section": "92",
+      "title": "Special report by police",
+      "content": "92. Special report by police Whenever it appears to the officer commanding the police district where any licensed premises are situated that— (a) in order to prevent interference with the amenities of the neighbourhood where the licensed premises are situated or the rights of persons living there; or (b) by reason of the condition and state of the licensed premises; or (c) by reason of the manner in which the licensed premises or the business being conducted thereon is being conducted; or (d) by reason of the conduct of the licensee or the approved manager; the Board should exercise any powers referred to in paragraph (b) of section sixteen in respect of the licence concerned, he shall report the matter to the chairman."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XII",
+      "section": "93",
+      "title": "Chairman to convene meeting to consider report",
+      "content": "93. Chairman to convene meeting to consider report (1) The chairman, upon receipt of a report— (a) in terms of section ninety-one, may; or (b) in terms of section ninety-two, shall; convene a meeting of the Board to consider the report. (2) The secretary shall, not less than fourteen days before the date of a meeting convened in terms of subsection (1), serve— (a) on the licensee, a copy of the report concerned; and (b) on the licensee and the person who submitted the report, a notice of the date, time and place of such meeting in case either person wishes to attend, or to make representations at, such meeting."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XII",
+      "section": "94",
+      "title": "Inspection of premises",
+      "content": "94. Inspection of premises (1) The chairman, or any other member of the Board authorized by the chairman, may at all reasonable times enter upon and inspect— (a) any premises in respect of which an application for the issue or grant of authority for the issue, renewal, removal or transfer of a licence or for the grant of a permit is pending; and (b) any licensed premises for the purpose of making a general inspection of the licensed premises. (2) An inspector of premises, a medical officer of health and the officer commanding the police district in which any licensed premises are situated and any person authorized in writing by such medical officer of health or police officer may at all reasonable times enter upon and inspect any licensed premises or any premises in respect of which an application for the issue, or grant of authority for the issue, renewal, removal or transfer, of a licence or the grant of a permit is pending for the purpose of obtaining information for any report intended to be furnished to the Board in terms of this Act or of carrying out any other duties required to be performed in terms of this Act. (3) Every member and inspector of premises shall be issued with a certificate signed by or on behalf of the Minister stating that he has been appointed a member or inspector of premises, as the case may be. (4) A member or inspector of premises shall, on demand by any person affected by the exercise or the performance by him of any power or function under this Act, exhibit the certificate issued to him in terms of subsection (3)."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XII",
+      "section": "95",
+      "title": "Police right of entry and seizure",
+      "content": "95. Police right of entry and seizure (1) Any police officer may— (a) at all times enter and inspect any land or premises or room or any portion thereof or vehicle in respect of which there is reasonable ground to believe that any contravention of any provision of this Act is taking place; (b) call upon any person who he has reasonable ground to believe is doing or has done anything for which in terms of this Act a licence or permit is required, to produce for inspection— (i) the relevant licence or permit; or (ii) evidence of the relevant licence or permit. (2) Any police officer referred to in subsection (1) may seize and remove from such land, premises or vehicle anything— (a) the keeping and possession of which on such land, premises or vehicle he has reason to believe to be unlawful; or (b) in respect of which he has reason to believe an offence has been committed."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XII",
+      "section": "96",
+      "title": "Police may demand names and addresses",
+      "content": "96. Police may demand names and addresses (1) Any police officer may demand the name and address of any person whom he finds in or on any premises or vehicle in which he seizes or from which he removes any liquor under section ninety-five. (2) Any person of whom a demand has been made in terms of subsection (1) who— (a) fails to furnish his full name and address to the police officer making such demand; or (b) furnishes to the police officer making such demand a name and address which that police officer upon reasonable grounds suspects to be false; may be arrested and detained by the police officer for a period not exceeding twelve hours until the name and address of such person have been ascertained or verified, as the case may be."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part XII",
+      "section": "97",
+      "title": "Closing of licensed premises during tumult",
+      "content": "97. Closing of licensed premises during tumult (1) During the course of, or whenever he has reason to apprehend, any strike, lock-out, riot or tumult, the officer in charge of any police station may, by notice in writing, order the licensee or approved manager of any licensed premises to close such premises during such time as the police officer thinks fit. (2) A licensee or approved manager to whom a notice has been given in terms of subsection (1) shall forthwith comply with the notice and upon his failure to do so the person giving the notice may take such steps and use such force as he deems necessary to close the premises."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part XII",
+      "section": "98",
+      "title": "Closing of licensed premises for reasons of public safety or public order",
+      "content": "98. Closing of licensed premises for reasons of public safety or public order (1) If it appears to the Minister necessary or expedient in the interests of public safety or public order that certain licensed premises should be closed, he may, after consulting with the Minister responsible for home affairs, by order under his hand direct the licensee or approved manager concerned to close such licensed premises. (2) The licensee or approved manager upon whom an order in terms of subsection (1) is served— (a) shall close the licensed premises concerned forthwith and shall not re-open such licensed premises until such order is revoked by the Minister; and (b) may make representations to the Minister concerning such order. (3) If the officer in charge of any police station has reason to believe that in respect of any licensed premises there are grounds which would justify the issue of an order in terms of subsection (1), he may by order under his hand direct the licensee or approved manager concerned to close such licensed premises for any period specified in such order not exceeding forty-eight hours. (4) Whenever the officer in charge of any police station makes an order in terms of subsection (3)— (a) he shall as soon as possible thereafter, and in any event within twenty-four hours of serving such order, send to the Minister a copy of such order and a written report setting out fully the reasons for making such order; and (b) he shall not issue another such order in respect of the same licensed premises within thirty days of issuing the first-mentioned order unless directed to do so in terms of subsection (5). (5) Where the Minister— (a) has made an order in terms of subsection (1); and (b) considers it essential that the licensed premises are closed without delay and before the order can be served; he may direct any police officer by telephone or other means to serve an order in terms of subsection (3) forthwith upon the licensee or approved manager concerned and, notwithstanding subsection (3), such order shall have effect pending the service of the order referred to in paragraph (a). Part XIII – General"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XIII",
+      "section": "99",
+      "title": "Representative may continue when licensee incapacitated",
+      "content": "99. Representative may continue when licensee incapacitated (1) Where a licensee or person in whose favour an authority for the issue, renewal, removal or transfer of a licence has been granted— (a) dies; or (b) is declared insolvent or assigns his estate in terms of the law relating to insolvency; or (c) in the case of a company, is placed under liquidation; or (d) is declared incapable of managing his own affairs; his executor, trustee, assignee or curator or the liquidator, as the case may be, may with the permission of the chairman upon application being made to him, or, if the chairman has referred the application to the Board for determination, with the permission of the Board and subject to such conditions as the chairman or the Board, as the case may be, may impose— (i) in accordance with the authority granted— A. obtain the issue or renewal of the licence in his representative capacity; or B. effect the removal or transfer of the licence; (ii) where a licence has been issued or renewed, carry on the business to which the licence relates. (2) Where an executor, trustee, assignee, curator or liquidator carries on the business to which a licence relates in terms of subsection (1), he shall possess all the rights and powers of, and be subject to all the duties, obligations and penalties as if he were, the licensee. (3) The chairman may, pending the appointment of an executor, trustee or curator where the holder of a licence— (a) dies; or (b) is declared insolvent or assigns his estate in terms of the law relating to insolvency; or (c) is declared incapable of managing his own affairs; authorize any person whom he thinks fit to carry on the business to which the licence concerned relates and subsection (2) shall apply, mutatis mutandis , in relation to any such person."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XIII",
+      "section": "100",
+      "title": "Appointment of inspectors of premises",
+      "content": "100. Appointment of inspectors of premises (1) The Minister may, subject to the laws relating to the Public Service, appoint persons to be styled inspectors of premises who shall perform such duties as are imposed upon them by this Act or as may be assigned to them by the chairman. (2) The secretary shall ex officio be an inspector of premises."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XIII",
+      "section": "101",
+      "title": "Other licences under Chapter 14:17 not required",
+      "content": "101. Other licences under Chapter 14:17 not required Notwithstanding anything to the contrary contained in the Shop Licences Act [Chapter 14:17], the holder of a licence or permit may, in accordance with this Act, sell any liquor, refreshments, light refreshments or other articles the sale of which is authorized by his licence or permit, as the case may be."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XIII",
+      "section": "102",
+      "title": "Right of disposal on forfeiture or cancellation of licence",
+      "content": "102. Right of disposal on forfeiture or cancellation of licence (1) Whenever a licence is declared by a court under any law to be forfeited or whenever the Board has cancelled a licence, the licence shall immediately become null and void: Provided that the holder thereof may, within fourteen days after such declaration or order, or in the event of an appeal therefrom or of a review thereof, within fourteen days after the final determination thereof, sell by public auction on the premises in respect of which the licence was held or at such other place as the chairman may determine any liquor on his licensed premises. (2) If any forfeiture or cancellation of a licence is reversed by a competent court on appeal or review, the licence concerned shall ipso facto become of full force and effect. (3) No portion of the sum paid in respect of any licence so forfeited or cancelled shall be refunded to the holder or person who was the holder of such licence."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XIII",
+      "section": "103",
+      "title": "Presumption of sale by unlicensed person",
+      "content": "103. Presumption of sale by unlicensed person Evidence that an unlicensed person— (a) had on or near his premises any signboard or notice importing that he was licensed; or (b) was in occupation or apparent occupation of premises fitted with a bar or similar place containing bottles, casks or vessels so displayed as to induce a reasonable belief that liquor was sold therein; or (c) had on his premises more liquor than was reasonably required for the persons residing thereon; shall be prima facie proof of the sale of liquor by such person."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XIII",
+      "section": "104",
+      "title": "When supply of liquor presumed to be sale",
+      "content": "104. When supply of liquor presumed to be sale Evidence that a person has supplied any liquor in connection with any dealing or transaction in the nature of a sale or exchange shall be prima facie proof that such person had sold, supplied or dealt in such liquor."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XIII",
+      "section": "105",
+      "title": "Evidence of sale or consumption of liquor",
+      "content": "105. Evidence of sale or consumption of liquor In proving the sale or consumption of liquor for the purpose of any proceedings relative to any offence under this Act, it shall not be necessary to show that any money actually passed or any liquor was actually consumed, if the court is satisfied that a transaction in the nature of a sale actually took place or that any consumption of liquor was about to take place."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part XIII",
+      "section": "106",
+      "title": "Presumption of sale arising from presence in licensed premises",
+      "content": "106. Presumption of sale arising from presence in licensed premises Evidence that any person other than— (a) the licensee; or (b) the approved manager; or (c) an agent or employee of the licensee or approved manager; or (d) a member of the family of the licensee or approved manager; or (e) a person residing on the premises; or (f) any member or inspector of premises; was in that portion of the licensed premises set aside as a bar at a time when the sale of liquor to the public was not authorized on those premises shall be prima facie proof of the sale of liquor to that person by the licensee or approved manager at that time."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part XIII",
+      "section": "107",
+      "title": "Presumption arising from supply of liquor",
+      "content": "107. Presumption arising from supply of liquor Evidence that any liquor was supplied to any person upon licensed premises by— (a) an agent or employee of the licensee or approved manager; or (b) a member of the family of a licensee or approved manager; shall be prima facie proof of the supply of that liquor to that person by or on behalf of the licensee or approved manager."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part XIII",
+      "section": "108",
+      "title": "Presumption arising from consumption of liquor",
+      "content": "108. Presumption arising from consumption of liquor Evidence of consumption or intended consumption of liquor on licensed premises by some person other than— (a) the licensee; or (b) the approved manager; or (c) the agent or employee of the licensee or approved manager; or (d) a member of the family of the licensee or approved manager; shall be prima facie proof that the liquor being consumed or about to be consumed was supplied by the licensee or approved manager."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part XIII",
+      "section": "109",
+      "title": "Burden of proof where prohibited person on premises",
+      "content": "109. Burden of proof where prohibited person on premises If any person, who in terms of this Act is prohibited from access to, or from being at any particular time upon, any licensed premises or any particular portion thereof, is proved to have been upon such premises or portion thereof or to have been there at such time, the licensee or approved manager of such premises shall be deemed to have permitted such person to be at the place where he is proved to have been unless the licensee or approved manager proves to the satisfaction of the court that he and, in addition, his agents and employees exercised all due diligence to prevent the presence there of such person."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part XIII",
+      "section": "110",
+      "title": "Burden of proof that accused is licensed or exempted or premises have approved manager",
+      "content": "110. Burden of proof that accused is licensed or exempted or premises have approved manager (1) In any proceedings against any person under this Act for selling liquor without a licence or permit or selling liquor under a licence on premises in respect of which there is no approved manager, it shall be deemed, until the contrary is proved, that— (a) the person charged had no licence or permit; or (b) the premises upon which the sale, supply or dealing in took place had no approved manager; as the case may be. (2) In any proceedings against any person for a contravention of any provision of this Act, the onus of proving that such person in consequence of any exemption provided by this Act is not criminally liable shall be upon such person."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part XIII",
+      "section": "111",
+      "title": "Extract from register",
+      "content": "111. Extract from register A document certified by the secretary and purporting to be an extract from the register kept by him in terms of subsection (3) of section seven shall, upon its mere production by any person, be received as prima facie proof of the facts stated therein."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part XIII",
+      "section": "112",
+      "title": "Criminal responsibility of licensee or approved manager for unlawful act of agent, employee or member of family",
+      "content": "112. Criminal responsibility of licensee or approved manager for unlawful act of agent, employee or member of family (1) Whenever, upon any licensed premises or in pursuance or in the course of any transaction upon or arrangement made or commenced upon licensed premises, any approved manager or any agent or employee of the licensee or approved manager or any member of the family of the licensee or approved manager does or omits to do any thing which it would be an offence under this Act for such licensee or approved manager to do or omit to do, such licensee or approved manager, as the case may be, shall be deemed himself to have done or omitted to do such thing and shall be liable to be convicted thereof and sentenced therefor, unless he proves to the satisfaction of the court that— (a) in doing or omitting to do such thing such agent, employee or member of his family was acting without his connivance or permission; and (b) all reasonable steps were taken by him to prevent any act or omission of the kind in question; and (c) it was not under any condition or in any circumstances within the scope of the authority or in the course of the employment of the agent, employee or member of the family to do or omit to do acts, whether lawful or unlawful, of the character of the act or omission charged. (2) The fact that the licensee or approved manager issued instructions forbidding any act or omission of the kind in question shall not of itself be accepted as sufficient proof that he took all reasonable steps to prevent the act or omission. (3) Whenever a licensee or approved manager is, by virtue of subsection (1), liable for anything done or omitted by another person, such other person shall also be liable therefor as if he were the licensee or approved manager, as the case may be: Provided that this section shall not relieve such other person from any other liability which he may have incurred apart from the liability which he shares with the licensee or approved manager."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part XIII",
+      "section": "113",
+      "title": "Control of sale of liquor",
+      "content": "113. Control of sale of liquor (1) Subject to any enactment relating to traditional beer, no person shall sell any liquor except— (a) in terms of a permit; or (b) in terms of a licence and, save in the case of an agent’s liquor licence, an airport bottle liquor licence, a temporary retail liquor licence or a wholesale liquor licence, unless an approved manager has been appointed in respect of the premises to which the licence relates. (2) No liquor shall be sold by auction in terms of any licence or permit unless prior to the holding of the auction the holder of the licence or permit has obtained from the chairman written permission stating the date and place where the auction is to be held and the quantity and description of the liquor to be offered for sale. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection (3) inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part XIII",
+      "section": "114",
+      "title": "Control of soliciting, etc., off licensed premises of orders for sale of liquor",
+      "content": "114. Control of soliciting, etc., off licensed premises of orders for sale of liquor (1) No person shall, except in terms of an agent’s liquor licence or a wholesale liquor licence— (a) solicit or receive any order for the sale of liquor; or (b) accept any offer to purchase liquor; or (c) receive any offer for the purchase of liquor in order that such offer may be conveyed by him to the person to whom such offer is made or his agent or employee; at any place other than the premises within which the person by, or on whose behalf, the proposed sale is to be made, is licensed or permitted to make such sale. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection (2) inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part XIII",
+      "section": "115",
+      "title": "Prohibited conduct by licensees and approved managers",
+      "content": "115. Prohibited conduct by licensees and approved managers (1) No licensee or approved manager shall— (a) permit drunkenness or any riotous conduct to take place upon his licensed premises; or (b) sell or supply liquor to any person who is drunk; or (c) sell as a particular kind or brand, or as the manufacture of a particular person, liquor which is not of that kind or brand or is not the manufacture of such person, unless he satisfies the court that he was not a party to and had no knowledge of the fact and had no means of detecting or preventing it; or (d) permit to be in any bar on his licensed premises any person who, by virtue of any provision of this Act or any other enactment or of any condition imposed thereunder, is not permitted to be in such bar where such presence of such person is not elsewhere prohibited by this Act; or (e) permit any unlawful game or gambling to be carried on his licensed premises; or (f) permit his licensed premises to be a brothel or habitual resort of reputed prostitutes; or (g) sell liquor on his licensed premises at a time or on a day when, or at a place where, the sale is not authorized under the licence which relates to those premises; or (h) permit liquor sold on his licensed premises to be consumed on his licensed premises at a time or on a day when, or at a place where, the consumption thereof is prohibited by this Act or not authorized under the licence which relates to those premises; or (i) sell, supply or deal in liquor contrary to the conditions of, or in a manner not authorized by, the licence which relates to his licensed premises where such sale, supply or dealing is not elsewhere prohibited by this Act; or (j) employ or engage any person for employment at or in connection with work in which the employment of such person is prohibited by this Act; or (k) fail to render assistance to the best of his ability to any police officer engaged on any duty in or about his licensed premises or in any way obstruct or hinder any police officer in the performance of his duty under this Act; or (l) fail to comply with any provision of this Act or any condition imposed in respect of the licence which relates to his licensed premises where such failure is not elsewhere prohibited by this Act. (2) Any licensee or approved manager who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection (2) inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part XIII",
+      "section": "116",
+      "title": "Prohibited conduct by persons in general",
+      "content": "116. Prohibited conduct by persons in general (1) No person shall— (a) refuse to comply with the demand of any police officer made under this Act for information as to his name or address or for the production of a licence or permit; or (b) obstruct or hinder any police officer or any member, inspector or other official in the performance of any duty under this Act; or (c) with intent to deceive, make use for any purpose whatsoever of any authority, permit, certificate, licence or other document which is issued under or for any purpose of this Act and which is not his own; or (d) with intent to deceive, alter, destroy or mutilate any authority, permit, certificate, licence or other document issued under or for any purpose of this Act or unlawfully withhold any such authority, permit, certificate, licence or other document from any person entitled to the possession thereof or use any such authority, permit, certificate, licence or other document for any unlawful purpose; or (e) submit to a licensing authority any written information, whether on affidavit or otherwise, which he knows to be false or does not know to be true or any false document or document which purports to be, but which is not in fact, a true copy of the original or be in any way a party to any such submission; or (f) after being duly sworn, give false evidence before a licensing authority on any matter relevant to the question under inquiry, knowing such evidence to be false or not knowing or believing it to be true; or (g) knowing that he is disqualified from doing so, act as a member or take any part in the hearing or decision of an application for a licence or make a false declaration as to his qualification to be a member; or (h) refuse or fail to leave any licensed premises when requested by the licensee, the approved manager, the agent or employee of the licensee or approved manager or any police officer to do so or be upon any restricted portion of licensed premises, knowing that his presence there is unlawful; or (i) refuse or fail to leave any premises in respect of which a permit has been granted when requested to do so by any police officer, by the person to whom the permit was granted or by any person whom the grantee of the permit has authorized, whether in a particular case or in general, to make such request; or (j) be drunk, violent or disorderly upon any licensed premises or premises to which a permit relates; or (k) be drunk in or near— (i) any road, lane, thoroughfare or market place; or (ii) any shop, warehouse or public garage; or (iii) any place of entertainment, restaurant or race course; or (iv) any other place to which the public is admitted or has access, whether on payment or otherwise and whether or not the right of admission thereto is reserved; or (v) any aircraft, railway carriage, passenger vessel, omnibus or other means of public transportation; or (l) being a person to whom in terms of this Act the sale of liquor is prohibited, purchase or attempt to purchase liquor in contravention of such provision; or (m) purchase or consume any liquor at any time when, or at a place or in circumstances in which, it is unlawful for such liquor to be sold to or consumed by him, as the case may be; or (n) consume any liquor in any road, lane, thoroughfare, public square, public park or public garden within the area of a local authority or a local government area: Provided that this paragraph shall not apply to the consumption of liquor— (i) at any social function which is held in any public park or public garden within the area and with the permission of the local authority or official administering the local government area concerned; or (ii) on any land set aside by the local authority or official administering the local government area concerned for camping or picnic purposes or a caravan park; or (o) sell, lend, give, supply or deliver, or offer so to do, any liquor to any person under the age of eighteen years except with the consent of the parent or guardian of that person. (1a) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection (1a) inserted by section 4 of Act 22 of 2001 ] (2) For the purposes of paragraph (n) of subsection (1)— “local authority” means a municipal council, town council or rural district council."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part XIII",
+      "section": "117",
+      "title": "Free supply of liquor by proprietors of unlicensed restaurants prohibited",
+      "content": "117. Free supply of liquor by proprietors of unlicensed restaurants prohibited (1) No proprietor of a restaurant who is not in possession of a licence shall supply in such restaurant any liquor free to any person who enters such restaurant for the purpose of having a meal or other refreshment. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection (2) inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part XIII",
+      "section": "118",
+      "title": "Offences and penalties",
+      "content": "118. Offences and penalties (1) [subsection (1) deleted by section 4 of Act 22 of 2001 ] (2) [subsection (2) deleted by section 4 of Act 22 of 2001 ] (3) [subsection (3) deleted by section 4 of Act 22 of 2001 ] (4) Where a person is convicted of an offence in terms of this Act the court may, in addition to any penalty which it may impose in terms of this Act or any other enactment, direct that any liquor in respect of which the offence has been committed, or any part of such liquor, be forfeited to the State. (5) Upon a third or subsequent conviction of a licensee for a contravention of paragraph (f), (g), (h), (i) or (e) of section one hundred and fifteen or paragraph (c), (d), (e) or (f) of subsection (1) of section one hundred and sixteen the court may, in lieu of or in addition to any penalty which it may impose, declare the licence to be forfeited. (6) An order in terms of subsection (4) shall be deemed to include the forfeiture of any containers in which such liquor is contained or stored. (7) A conviction for contravening a provision of the Liquor Act [Chapter 289 of 1974] shall, for the purposes of this section, be treated as a previous conviction for a contravention of the corresponding provision of this Act."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part XIII",
+      "section": "119",
+      "title": "Surrender of licence or permit to secretary",
+      "content": "119. Surrender of licence or permit to secretary (1) Whenever— (a) a licence is declared by a court under any law to be forfeited; or (b) the Board has— (i) cancelled a licence or permit; or (ii) varied or amended the conditions of a licence or permit; or (iii) imposed new conditions on a licence or permit; the secretary may request the licensee or approved manager or permit holder, as the case may be, to produce such licence or permit within such reasonable period as may be specified. (2) Any person failing to comply with a request in terms of subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection (2) amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part XIII",
+      "section": "120",
+      "title": "Limitation of liability",
+      "content": "120. Limitation of liability No action, civil or criminal, shall lie against a licensee or approved manager who refuses to supply liquor to any person whom such licensee or approved manager believes to be a person prohibited from acquiring liquor in terms of this Act."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part XIII",
+      "section": "121",
+      "title": "Provisions relating to exemptions",
+      "content": "121. Provisions relating to exemptions (1) The Minister may grant an exemption from the provisions of paragraph (a) of subsection (1) of section sixty-seven to any person who is not a citizen of Zimbabwe, and any such exemption shall be of force and effect until the 30th June next succeeding the date on which it was given. (2) Any exemption granted by the Minister for the purposes of this Act shall be subject to such terms and conditions as may be imposed thereon by the Minister, and may at any time be withdrawn by him: Provided that, before withdrawing any such exemption, the Minister shall give to the person concerned not less than thirty days’ notice of his intention to do so, inviting that person to lodge with the Minister within that period any representations he may wish to make against the proposed withdrawal."
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part XIII",
+      "section": "122",
+      "title": "Regulations",
+      "content": "122. Regulations (1) The Minister may make regulations providing for all matters which by this Act are required or permitted to be prescribed or which, in his opinion, are necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Regulations made in terms of subsection (1) may provide for— (a) minimum standards of accommodation, quality of service, facilities structure and lay-out to be provided in respect of premises to be licensed; (b) the form of notices and other documents to be issued in terms of this Act; (c) the form of, and the information to be given in, reports made or required to be made in terms of this Act; (d) the form of licences, permits and authorities granted in terms of this Act and applications made for such; (e) the fees to be paid in respect of applications made in terms of this Act; (f) the fees to be paid in respect of the issue or renewal, removal or transfer of licences or permits; (g) the fees to be paid in respect of inspections performed or reports compiled for the purposes of subsection (5) of section fifty-seven; (h) the documents, plans and information to be submitted in connection with applications made in terms of this Act; (i) the days on which and the times at which liquor may be sold in terms of any Part II licence. Liquor licences (Section 20) Part I 1. Extended hours (occasional) liquor licence. 2. Temporary retail liquor licence. 3. Temporary removal liquor licence. 4. Temporary transfer liquor licence. Part II 1. Agent’s liquor licence. 2. Airport liquor licence. 3. Airport bottle liquor licence. 4. Bar liquor licence. 5. Beer-hall liquor licence. 6. Bottle liquor licence. 7. Camp and caravan park liquor licence. 8. Casino liquor licence. 9. Club liquor licence. 10. Hotel liquor licence. 11. Hotel (private) liquor licence. 12. Night-club liquor licence. 13. Park area liquor licence. 14. Passenger vessel liquor licence. 15. Restaurant (ordinary) liquor licence. 16. Restaurant (special) liquor licence. 17. Special Bottle Liquor Licence. 18. Theatre liquor licence. 19. Theatre club liquor licence. 20. Wholesale liquor licence. 21. Wine producer’s liquor licence."
+    }
+  ],
+  "definitions": []
+}

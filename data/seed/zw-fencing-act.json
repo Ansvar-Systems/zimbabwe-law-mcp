@@ -1,0 +1,350 @@
+{
+  "id": "zw-fencing-act",
+  "type": "statute",
+  "title": "Fencing Act",
+  "title_en": "Fencing Act",
+  "short_name": "Fencing Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1976/45/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Fencing Act [Chapter 20:06] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation (1) In this Act— “ applicant owner ” means an owner of land who has applied for a contribution order ; “ clerk of court ” means the clerk of court attached to the appropriate magistrates court referred to in section four; “ construct ” includes, in the case of a hedge, plant; “ contribution notice ” means a notice referred to in subsection (1) of section sixteen or subsection (2) of section twenty-seven; “ contribution order ” means an order made in terms of paragraph (a) of subsection (1) of section nineteen; “ contribution summons ” means a contribution summons issued in terms of subsection (3) of section sixteen; “ cost ”, in relation to the construction or repair of a fence , includes the cost of any— (a) clearance in terms of paragraph (b) of subsection (1) of section thirty-four; (b) survey made for the purpose of that construction or repair ; “ creditor owner ” means an owner of land in whose favour a contribution order has been made; “ debtor owner ” means an owner of land against whom a contribution order has been made; “ dividing fence ” means a fence separating the adjoining pieces of land of different owners; “ fence ” includes— (a) any gate, grid track, other than a grid on a main road as defined in the Roads Act [Chapter 13:12] , or stile and any other means of passage over or through the fence concerned; and (b) any ditch, hedge, railings or wall used as a fence; “ fencing court ” means a fencing court referred to in section four; “ local authority ” means a municipal council, town council, local board or rural district council; “ Minister ” means the Minister of Lands and Water Resources or such other Minister to whom the President may, from time to time, assign the administration of this Act; “ occupier ”, in relation to a piece of land, subject to subsection (2), means the person, other than the owner , who— (a) is in lawful occupation of the piece of land; and (b) has the right to exercise general control over the piece of land; “ owner ”, in relation to a piece of land, subject to subsection (2) (a) means— (i) subject to subparagraphs (ii), (iii) and (iv), the person in whose name the piece of land is registered in the Deeds Registry; or (ii) a person who is a party to an agreement which, on the fulfilment by him of the conditions fixed in that agreement, entitles him to obtain transfer of the piece of land and, in the event of this subparagraph applying, subparagraph (i) shall not apply; or (iii) a statutory authority or body to which the ownership of the piece of land has been transferred by an Act and, in the event of this subparagraph applying, subparagraph (i) shall not apply; or (iv) the lessee of a piece of land under a lease the unexpired portion of which is for a period of ten years or more and, in the event of this subparagraph applying, subparagraph (i) shall not apply; and (b) includes— (i) the trustee or assignee of an insolvent estate or the liquidator of a company being wound up, in the name of which estate or company the piece of land is registered in the Deeds Registry; and (ii) the legal representative of a person— (A) in whose name the piece of land is registered in the Deeds Registry; and (B) who has died or is a minor or of unsound mind or otherwise under disability; so long as that trustee, assignee, liquidator or legal representative is acting within the authority conferred on him by law; “ repair ” includes— (a) alter, relocate or replace; or (b) in the case of a hedge, trim, maintain or replant; “ respondent owner ” means an owner of land against whom application has been made for a contribution order ; “ standard rate ” means a rate of interest of one per centum per annum above the current rate of interest charged by the State in respect of loans to municipalities. (2) A local authority shall not be regarded as the owner or occupier of any avenue, footpath, lane, road, sanitary lane, street or thoroughfare."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act Nothing in this Act shall be construed as affecting any agreement in writing concerning matters dealt with by this Act. Part II – Fencing courts"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Fencing courts",
+      "content": "4. Fencing courts For the purposes of this Act, each magistrates court shall be a fencing court for the province in which it is situated."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Fencing courts to be courts of record",
+      "content": "5. Fencing courts to be courts of record (1) The clerk of court shall keep and file a record of the proceedings of each fencing court , including details of the decision and the reasons therefor. (2) The record kept and filed in terms of subsection (1) shall be accessible to the public and copies thereof shall be obtainable upon— (a) the like conditions; and (b) payment of the like fees; as if they were civil records of a magistrates court."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Proceedings to be in public",
+      "content": "6. Proceedings to be in public The proceedings of a fencing court shall be conducted in public."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Representation of parties",
+      "content": "7. Representation of parties At a hearing before a fencing court a party may appear— (a) in person; or (b) in the case of a body corporate, by any member or employee thereof duly authorized thereto in writing by the body corporate; or (c) represented by a legal practitioner."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Adjournments",
+      "content": "8. Adjournments A fencing court may adjourn its proceedings for periods not exceeding twenty-one days at a time."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Summoning of witnesses and privileges thereof",
+      "content": "9. Summoning of witnesses and privileges thereof (1) A fencing court shall have power— (a) to summon witnesses; and privileges thereof. (b) to call for the production of, and grant inspection of, books and documents; and (c) to examine witnesses on oath. (2) A subpoena for the attendance of witnesses or the production of books and documents or both shall be— (a) signed by the clerk of court ; and (b) served in the same manner as a subpoena for the attendance of a witness at a civil trial in a magistrates court is served. (3) Any person subpoenaed to give evidence or to produce any book or document or giving evidence before a fencing court shall be entitled to the same privileges and immunities as if he were subpoenaed to attend or were giving evidence at a civil trial in a magistrates court."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Witnesses failing to attend or refusing to be sworn or to give evidence",
+      "content": "10. Witnesses failing to attend or refusing to be sworn or to give evidence (1) If any person who has been subpoenaed to give evidence or to produce any book or document before a fencing court fails to attend or to remain in attendance until duly excused by the fencing court from further attendance, the fencing court may, if it is satisfied upon oath or by the return of the person charged with the service of the subpoena that the subpoena was duly served upon that person, and if no sufficient excuse for that failure seems to it to exist, issue a warrant signed by the fencing court for the apprehension of the person so failing, and that person shall thereupon be apprehended by any police officer to whom that warrant is delivered and brought before the fencing court to give his evidence or to produce the book or document. (2) If any person who has been subpoenaed to give evidence or to produce any book or document before a fencing court refuses, without lawful excuse, the onus of proof whereof lies on him, to be sworn as a witness or, having been sworn as a witness, to answer fully and satisfactorily any question lawfully put to him or to produce such book or document, the fencing court may order that person to be removed and detained in custody as if he were a person awaiting trial until the rising of the fencing court or until he consents to do what is required of him. (3) Nothing in this section contained shall prevent a fencing court from giving judgment in any case or otherwise disposing of the same in the meantime according to any other sufficient evidence taken: Provided that if judgment is given or the case is otherwise disposed of, a person detained in terms of subsection (2) shall thereupon be released. (4) A person referred to in subsection (1) or (2) shall be liable, in addition to being detained in terms of subsection (2), to be sentenced summarily by the fencing court to pay a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (5) No person shall be bound to produce any book or document not specified or otherwise sufficiently described in the subpoena served on him unless he actually has the book or document in the fencing court ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Witnesses giving false evidence",
+      "content": "11. Witnesses giving false evidence A witness who, after having been duly sworn, makes a false statement of fact material to any question under investigation before a fencing court , knowing that statement to be false or not knowing or believing it to be true, shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Contempt of fencing courts",
+      "content": "12. Contempt of fencing courts If any person wilfully— (a) insults a fencing court during any sitting thereof; or (b) interrupts the proceedings of a fencing court ; or (c) disturbs the peace or order of the proceedings of a fencing court otherwise than in the manner referred to in paragraph (a) or (b); the fencing court may order the person to be removed and detained in custody until the rising of the fencing court and the person shall be liable, in addition to that removal and detention, to be sentenced summarily by the fencing court to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Costs",
+      "content": "13. Costs (1) A fencing court may, in determining any question referred to it, make such order as to costs as the fencing court deems just. (2) The costs referred to in subsection (1) shall be payable in accordance with such scale of costs as the Minister responsible for justice may provide by notice in a statutory instrument: Provided that, until that scale of costs is so provided, the scale of costs for the time being in use in a magistrates court in civil cases shall apply, mutatis mutandis . (3) Any costs awarded by a fencing court shall be taxed by the clerk of court in accordance with the scale of costs referred to in subsection (2) and the taxation of those costs shall be subject to appeal to the fencing court ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Appeals from decisions of fencing courts",
+      "content": "14. Appeals from decisions of fencing courts (1) A party who is aggrieved by any decision of a fencing court may appeal against that decision to the High Court within a period of thirty days from the date of the announcement by the fencing court of that decision: Provided that if the parties had, before the hearing concerned commenced, lodged with the clerk of court an agreement in writing that the decision of the fencing court should be final, no appeal shall lie from that decision. (2) On the hearing of an appeal in terms of subsection (1) the High Court may— (a) confirm, alter or reverse the decision appealed from; (b) set aside or correct the proceedings or any part thereof of the fencing court concerned; (c) remit the matter to the fencing court concerned with such instructions in regard to the taking of further evidence or the setting out of further information as the High Court deems fit; (d) order the parties or any of them to produce at some convenient time before the High Court such further evidence as the High Court deems necessary or desirable; (e) take any course, other than the courses set out in paragraphs (a) to (c), which may lead to the just, speedy and, as far as possible, inexpensive settlement of the matter; (f) make such order as to costs as the High Court considers just. [section amended by section 10 of Act 9 of 1997 ] Part III – Construction and repair of dividing fences"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Proportions in which adjoining owners to contribute to cost of dividing fences",
+      "content": "15. Proportions in which adjoining owners to contribute to cost of dividing fences (1) Subject to this Act and to any contribution order , the owners of adjoining pieces of land— (a) to be separated by a dividing fence shall contribute to the cost of construction; or (b) separated by a dividing fence shall contribute to the cost of repair ; of the dividing fence in equal proportions: Provided that, if the dividing fence is to be constructed or repaired in accordance with specifications more expensive than the appropriate prescribed specifications, those owners shall contribute to the cost of that construction or repair in such proportions as may be agreed on in writing by those owners or, if no such agreement is reached, in the proportions set out in subsection (2). (2) If no agreement referred to in the proviso to subsection (1) is reached, the owner at whose instance the dividing fence concerned is to be constructed or repaired in accordance with specifications more expensive than the appropriate prescribed specifications shall be liable to contribute the whole cost of that construction or repair less half the cost of constructing or repairing that dividing fence in accordance with the appropriate prescribed specifications and the other owner concerned shall contribute half the cost of constructing or repairing that dividing fence in accordance with the appropriate prescribed specifications."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Owners wishing adjoining owners to contribute to cost of dividing fences may serve contribution notices",
+      "content": "16. Owners wishing adjoining owners to contribute to cost of dividing fences may serve contribution notices (1) If an owner of a piece of land who intends to construct or repair a dividing fence between his piece of land and an adjoining piece of land wishes the owner of the adjoining piece of land to contribute to the cost of that construction or repair and no agreement is reached concerning the contribution to be paid, he shall serve on the owner of the adjoining piece of land a notice in writing setting out— (a) the boundary concerned; and (b) the specifications, line and estimated cost of construction or repair of the proposed dividing fence or dividing fence , as the case may be; and (c) if the serving owner does not propose to construct or repair the dividing fence himself, the name of the person by whom the proposed dividing fence or dividing fence , as the case may be, is to be constructed or repaired; and (d) the period within which construction or repair of the proposed dividing fence or dividing fence , as the case may be, is to be completed; and (e) the proportion of the estimated cost referred to in paragraph (b) which the serving owner wishes the served owner to contribute. (2) If the serving owner and the served owner fail, within a period of thirty days from the date of service of the contribution notice concerned, to agree on all the matters set out in that contribution notice , the serving owner may apply in writing to the fencing court for a contribution order . (3) On an application in terms of subsection (2), the clerk of court shall issue a contribution summons — (a) in the prescribed form; and (b) completed by the applicant owner ; calling on the respondent owner to show cause at the time, on the date and at the place stated in the contribution summons why the fencing court should not make a contribution order : Provided that the date stated in the contribution summons shall not be less than seven days or more than thirty days from the date of issue of the contribution summons . (4) In this section— “served owner ” means an owner of land on whom a contribution notice has been served; “serving owner ” means an owner of land who has served a contribution notice ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Service of contribution summonses",
+      "content": "17. Service of contribution summonses Subject to this Part, a contribution summons shall be served on the respondent owner in the same manner as a subpoena for the attendance of a witness at a civil trial in a magistrates court is served."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Inquiries to be held into applications for contribution orders",
+      "content": "18. Inquiries to be held into applications for contribution orders (1) At the time, on the date and at the place stated in the contribution summons concerned, the fencing court shall, subject to subsection (2), inquire into the application for a contribution order . (2) If the respondent owner or his representative fails to appear in compliance with the contribution summons , the fencing court may, on proof— (a) of the service of the contribution summons on the respondent owner ; and (b) that the respondent owner consents to the holding of the inquiry referred to in subsection (1) in his absence; proceed in terms of subsection (1) in his absence."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Making of contribution orders",
+      "content": "19. Making of contribution orders (1) Having considered any evidence or argument tendered by the parties or requested by itself at the inquiry referred to in subsection (1) of section eighteen, the fencing court may— (a) if it is satisfied that the respondent owner should contribute towards the cost of construction or repair , as the case may be, of the dividing fence concerned, make an order in respect of the matters referred to in the contribution notice concerned; or (b) refuse to make a contribution order . (2) The fencing court may, in a contribution order , fix the terms on which the debtor owner shall pay the amount of the contribution payable by him in terms of the contribution order : Provided that— (i) the contribution, together with interest at the standard rate , shall be paid within five years; (ii) if the contribution is payable in instalments, monthly instalments shall be not less than twenty dollars and annual instalments shall be not less than two hundred and forty dollars; (iii) the debtor owner may at any time during the period fixed in the contribution order for the payment of the contribution pay the unpaid balance of that amount with interest at the standard rate up to the date of payment of that balance."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Matters to be considered by fencing courts",
+      "content": "20. Matters to be considered by fencing courts A fencing court shall, in making a contribution order , have regard to— (a) section fifteen; and (b) the extent to which the dividing fence concerned confers, or is likely to confer, any advantage or benefit on each of the parties to the proceedings concerned."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Persons on whom contribution orders to be served",
+      "content": "21. Persons on whom contribution orders to be served The clerk of court shall serve a copy of a contribution order on the creditor owner and the debtor owner ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Debtor owners may apply for amendment or revocation of contribution orders",
+      "content": "22. Debtor owners may apply for amendment or revocation of contribution orders (1) A creditor owner or debtor owner may apply to the fencing court for the contribution order to be amended or revoked: Provided that no such application may be made within twelve months of the date on which the contribution order was made or the date of any previous application under this section without the leave of the fencing court . (2) On an application in terms of subsection (1) the fencing court may amend or revoke the contribution order concerned or refuse such application. (3) If the fencing court amends or revokes a contribution order in terms of subsection (2)— (a) any direction made in terms of subsection (1) of section twenty-five shall be amended or revoked accordingly; and (b) the clerk of court shall notify in writing the person subject to the direction referred to in paragraph (a) or the Registrar of Deeds, as the case may be, of the amendment or revocation referred to in that paragraph; and (c) in the case of a direction referred to in paragraph (a) which is amended— (i) the person subject to such direction shall comply with such direction as amended; or (ii) the Registrar of Deeds shall amend the appropriate entry and endorsements accordingly; and (d) in the case of a direction referred to in paragraph (a) which is revoked— (i) the person subject to such direction shall cease to comply therewith; or (ii) the Registrar of Deeds shall cancel the appropriate entry and endorsements."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Certificates of compliance with contribution orders",
+      "content": "23. Certificates of compliance with contribution orders (1) When a contribution order has been complied with by the debtor owner , the creditor owner shall serve on the clerk of court and the debtor owner a certificate to that effect: Provided that, if the debtor owner considers that— (a) he has complied with the contribution order ; and (b) the creditor owner has not served that certificate; the debtor owner may apply to the fencing court for a direction that the creditor owner serve that certificate. (2) On an application in terms of the proviso to subsection (1) the fencing court may make the direction applied for or refuse such application."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Failure to comply with contribution orders or directions penalized",
+      "content": "24. Failure to comply with contribution orders or directions penalized A person who— (a) being a debtor owner , fails to comply with a contribution order made against him; or (b) being a creditor owner , fails to comply with a direction made against him in terms of subsection (2) of section twenty three; shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Manner in which creditor owners may recover unpaid balances of contributions",
+      "content": "25. Manner in which creditor owners may recover unpaid balances of contributions (1) If the debtor owner has failed to comply with a contribution order made against him in respect of the dividing fence concerned, the creditor owner may recover the unpaid balance of the contribution payable in respect of the construction or repair of that dividing fence in terms of that contribution order , together with interest on that balance at the standard rate , either by proceeding in a court of competent jurisdiction against the debtor owner or by obtaining from the fencing court a direction that— (a) the whole or any portion of the amount of that balance and interest be deducted from the rent payable to the debtor owner in respect of the land of the debtor owner adjoining that dividing fence by— (i) any person receiving that rent on behalf of the debtor owner and paid by the person so receiving to the creditor owner : Provided that that person may, before making payment to the creditor owner , deduct from that rent the amount of any commission or reward bona fide payable to that person in consideration of the receipt of that rent on behalf of the debtor owner ; or (ii) any person paying that rent to the debtor owner or a person referred to in subparagraph (i) and paid by the person so paying to the creditor owner ; or (b) the Registrar of Deeds make an entry in his registers against, and an endorsement on the registry duplicate of the title deed to, the land referred to in paragraph (a) and, if at any time the duplicate of that title deed belonging to the owner concerned is lodged with the Registrar of Deeds for any purpose, on that duplicate, which entry and endorsement shall constitute a hypothecation of the land— (i) in favour of the creditor owner ranking from the date on which that entry and endorsement were made; and (ii) for the whole or any portion of the amount of that balance and interest. (2) A person receiving or paying rent referred to in subparagraph (i) or (ii), as the case may be, of paragraph (a) of subsection (1) who fails to comply with a direction referred to in that paragraph shall be guilty of an offence and liable to a fine not exceeding five hundred dollars or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. (3) The Registrar of Deeds shall not pass transfer of any land hypothecated in terms of a direction referred to in paragraph (b) of subsection (1) unless he receives— (a) a request in writing by the creditor owner for the cancellation of that hypothecation; or (b) an agreement in writing— (i) signed by the creditor owner , the debtor owner and the intended transferee of that land; and (ii) stating that any sums due and unpaid in respect of the balance and interest referred to in that subsection, together with interest on those sums at the standard rate , shall remain and be registered as a charge against that land after transfer has been passed."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Lines of dividing fences",
+      "content": "26. Lines of dividing fences (1) Subject to subsection (2) and section 35 of the Land Survey Act [Chapter 20:12] , a dividing fence shall be constructed on the common boundary between the pieces of land concerned. (2) If the boundary referred to in subsection (1)— (a) passes through or over any physical feature; or (b) crosses any water body or terrain; whether natural or otherwise, rendering the construction of a dividing fence on that boundary impracticable or undesirable, the line of the dividing fence may, in terms of a contribution order or an order made in terms of subsection (6), be sited to one side, or partly to one side and partly to the other side, of that boundary. (3) The occupation of a portion of a piece of land on either side of a boundary occasioned by the siting of the line of a dividing fence in terms of subsection (2) shall not be deemed to be possession of that portion for the purpose of any law relating to prescription. (4) If the owners concerned fail to agree on the payment of compensation by the one owner to the other owner in respect of the loss of occupation of a portion of a piece of land referred to in subsection (3) or on the amount of that compensation, the owner seeking compensation may apply to the fencing court for the determination of the issue in dispute. (5) An application in terms of subsection (4) may be made during the course of an inquiry by the fencing court in terms of subsection (1) of section eighteen. (6) Either of the owners of adjoining pieces of land separated by a dividing fence , the line of which is sited in terms of subsection (2), may apply to the fencing court for an order authorizing him, subject to such conditions as the fencing court thinks fit, to replace the whole or part of that dividing fence with a dividing fence constructed on the common boundary between those pieces of land or on some other line."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Obligation of adjoining owners on damage to or destruction of dividing fences",
+      "content": "27. Obligation of adjoining owners on damage to or destruction of dividing fences (1) Notwithstanding anything contained in this Part or in section thirty-four, if a dividing fence is damaged or destroyed— (a) solely through the act or omission of the owner or occupier of one of the pieces of land separated by the dividing fence , that owner or occupier shall— (i) forthwith repair the dividing fence at his own expense; or (ii) if the owner or occupier of the other piece of land repairs the dividing fence , pay to that owner or occupier the cost of that repair with interest on that cost at the standard rate from the date of that repair ; or (b) otherwise than solely through the act or omission referred to in paragraph (a), the owner or occupier of either of the pieces of land concerned may, if he repairs the dividing fence , proceed in terms of subsection (2). (2) An owner or occupier referred to in paragraph (b) of subsection (1) may serve on the owner or occupier of the other piece of land concerned a notice in writing setting out— (a) the boundary concerned; and (b) the specifications, line and actual cost of repair of that dividing fence ; and (c) the proportion of the actual cost referred to in paragraph (b) which the owner or occupier serving such notice wishes the owner or occupier on whom such notice is served to contribute; and subsections (2) to (4) of section sixteen and of sections seventeen to twenty-six shall thereafter apply, mutatis mutandis . (3) Nothing in this section contained shall be deemed to take away or interfere with the right of any person to sue for and recover compensation for or in respect of any damage to or destruction of a dividing fence occasioned by any person other than one of the owners or occupiers referred to in subsection (1). Part IV – Offences relating to fences"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Interpretation in Part IV",
+      "content": "28. Interpretation in Part IV In this Part— “ damage ” includes any interference with a fence which is likely to reduce the usefulness of the fence to the owner thereof."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Wilful damage to or destruction or removal of fences",
+      "content": "29. Wilful damage to or destruction or removal of fences Any person who, without reasonable excuse, the of proof whereof lies on him, wilfully damages, destroys or removes the whole or any part of a fence shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Breach of duty by persons damaging or destroying fences",
+      "content": "30. Breach of duty by persons damaging or destroying fences Any person, other than the owner or occupier concerned, who, having damaged, destroyed or removed the whole or any part of a fence , fails forthwith— (a) to repair that fence ; or (b) if he is unable to effect the repair of that fence , to report that damage or destruction and his full name and address to that owner or occupier or to the police officer in charge of the police station nearest to that fence ; shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months. [section as amended by Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Persons failing to shut or fasten gates",
+      "content": "31. Persons failing to shut or fasten gates (1) Any person who, not being the owner or occupier of the piece of land on or directly adjacent to which a fence is situated or a person authorized by that owner or occupier to open or unfasten the gate concerned, opens or unfastens a gate in that fence and, without reasonable excuse, the onus of proof whereof lies on him, leaves that gate open or unfastened shall be guilty of an offence and liable, subject to subsection (2), to a fine not exceeding level five or to imprisonment for a period not exceeding six months. (2) If it is proved that a person who left a gate open or unfastened in contravention of subsection (1) intended thereby to cause loss to the owner or occupier referred to in that subsection or to hinder or embarrass that owner or occupier in the use of his land, that person shall be liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [section as amended by Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Unauthorized climbing over or crawling through or under fences",
+      "content": "32. Unauthorized climbing over or crawling through or under fences Any person who, without reasonable excuse or the permission of the owner or occupier of the piece of land on or directly adjacent to which that fence is situated or of a person authorized to give permission on behalf of that owner or occupier , the onus of proof whereof lies on him, climbs over or crawls through or under that fence shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [section as amended by Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Powers of owners or occupiers of land or of authorized persons",
+      "content": "33. Powers of owners or occupiers of land or of authorized persons (1) An owner or occupier of a piece of land or any person authorized in writing thereto by that owner or occupier (hereinafter in this section called an authorized person) may require any person— (a) whom be reasonably suspects of having committed or of being about to commit an offence in terms of this Part in relation to a fence on or directly adjacent to that piece of land or who is found on that piece of land, otherwise than on a road as defined in the Road Traffic Act [Chapter 13:11] , without the permission of such owner or occupier or authorized person; and (b) to whom he discloses his identity and, in the case of an authorized person, his authority in writing; to furnish that owner , occupier or authorized person, as the case may be, with his full name and address. (2) Any person who, when required in terms of subsection (1) to furnish his full name and address— (a) fails or refuses to do so; or (b) furnishes an incorrect or incomplete name or address; shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (3) An owner or occupier of a piece of land or an authorized person may arrest without warrant any person whom he reasonably suspects of having committed or of being about to commit an offence in terms of this Part. (4) Section 32 of the Criminal Procedure and Evidence Act [Chapter 9:07] shall apply to a person arrested in terms of subsection (3). Part V – General"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Powers of persons constructing or repairing dividing fences",
+      "content": "34. Powers of persons constructing or repairing dividing fences (1) Subject to the Natural Resources Act [Chapter 20:13] and of subsection (2), any person lawfully engaged or about to be engaged in constructing or repairing a dividing fence and his employees or agents may, for the purpose of that construction or repair— (a) if access to the line of the dividing fence cannot otherwise be gained, at all reasonable times enter on or cross the and of any other person, including State land: Provided that nothing in this paragraph shall be construed as authorizing the entry on or crossing of any garden or cultivated land or land within one hundred metres of any homestead or dwelling-house belonging to another person without the consent of that person; and (b) clear any rocks, vegetation or other natural obstacles for a width not exceeding two metres on each side of the line of the dividing fence : Provided that nothing in this paragraph shall be construed as authorizing any such clearance until all persons having any right to or interest in the land within that width, including, in the case of Communal Land, any rural district council on a boundary of whose area the line of the dividing fence is situated, have been notified in writing of the proposed clearance and afforded a reasonable opportunity of making representations in relation to that clearance. (2) Subject to subsections (3) and (4), no person shall interfere with, damage or destroy any cultivated crops, pastures, shrubs or trees without the consent of the owner or occupier on whose land those crops, pastures, shrubs or trees are situated. (3) If— (a) an owner or occupier referred to in subsection (2) has withheld his consent to any interference, damage or destruction referred to in that subsection; and (b) the person seeking the consent referred to in paragraph (a) considers that that consent has been unreasonably withheld; the person referred to in paragraph (b) may apply to the fencing court for authority to interfere with, damage or destroy the cultivated crops, pastures, shrubs or trees concerned. (4) On an application in terms of subsection (3) the fencing court may— (a) grant the authority applied for subject to such conditions and to the payment of such compensation to the owner or occupier concerned as the fencing court deems just; or (b) refuse such application. (5) In this section— “ dividing fence ” includes a fence separating State land from an adjoining piece of land of an owner other than the State; “ owner or occupier ”, in relation to a piece of State land, means the Minister responsible for the administration of the piece of State land."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Regulatory powers of Minister",
+      "content": "35. Regulatory powers of Minister (1) The Minister may make regulations providing for all matters which by this Act are required or permitted to be prescribed or which, in his opinion, are necessary or convenient to be prescribed in order to carry out or give effect to this Act. (2) Regulations made in terms of subsection (1) may provide for— (a) the manner in which applications to the fencing court shall be made and the notice which shall be given to other parties concerned in the application; (b) penalties for any contravention thereof: Provided that the penalties shall not exceed a fine of level four or imprisonment for a period of three months or both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "applicant owner",
+      "definition": "applicant owner ” means an owner of land who has applied for a contribution order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clerk of court",
+      "definition": "clerk of court ” means the clerk of court attached to the appropriate magistrates court referred to in section four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "construct",
+      "definition": "construct ” includes, in the case of a hedge, plant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contribution notice",
+      "definition": "contribution notice ” means a notice referred to in subsection (1) of section sixteen or subsection (2) of section twenty-seven",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contribution order",
+      "definition": "contribution order ” means an order made in terms of paragraph (a) of subsection (1) of section nineteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contribution summons",
+      "definition": "contribution summons ” means a contribution summons issued in terms of subsection (3) of section sixteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "creditor owner",
+      "definition": "creditor owner ” means an owner of land in whose favour a contribution order has been made",
+      "source_provision": "s2"
+    },
+    {
+      "term": "debtor owner",
+      "definition": "debtor owner ” means an owner of land against whom a contribution order has been made",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dividing fence",
+      "definition": "dividing fence ” means a fence separating the adjoining pieces of land of different owners",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fencing court",
+      "definition": "fencing court ” means a fencing court referred to in section four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "local authority ” means a municipal council, town council, local board or rural district council",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Lands and Water Resources or such other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "respondent owner",
+      "definition": "respondent owner ” means an owner of land against whom application has been made for a contribution order",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cost",
+      "definition": "cost ”, in relation to the construction or repair of a fence , includes the cost of any— (a) clearance in terms of paragraph (b) of subsection (1) of section thirty-four; (b) survey made for the purpose of that construction or repair",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fence",
+      "definition": "fence ” includes— (a) any gate, grid track, other than a grid on a main road as defined in the Roads Act [Chapter 13:12] , or stile and any other means of passage over or through the fence concerned; and (b) any ditch, hedge, railings or wall used as a fence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "occupier ”, in relation to a piece of land, subject to subsection (2), means the person, other than the owner , who— (a) is in lawful occupation of the piece of land; and (b) has the right to exercise general control over the piece of land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "owner ”, in relation to a piece of land, subject to subsection (2) (a) means— (i) subject to subparagraphs (ii), (iii) and (iv), the person in whose name the piece of land is registered in the Deeds Registry; or (ii) a person who is a party to an agreement which, on the fulfilment by him of the conditions fixed in that agreement, entitles him to obtain transfer of the piece of land and, in the event of this subparagraph applying, subparagraph (i) shall not apply; or (iii) a statutory authority or body to which the ownership of the piece of land has been transferred by an Act and, in the event of this subparagraph applying, subparagraph (i) shall not apply; or (iv) the lessee of a piece of land under a lease the unexpired portion of which is for a period of ten years or more and, in the event of this subparagraph applying, subparagraph (i) shall not apply; and (b) includes— (i) the trustee or assignee of an insolvent estate or the liquidator of a company being wound up, in the name of which estate or company the piece of land is registered in the Deeds Registry; and (ii) the legal representative of a person— (A) in whose name the piece of land is registered in the Deeds Registry; and (B) who has died or is a minor or of unsound mind or otherwise under disability; so long as that trustee, assignee, liquidator or legal representative is acting within the authority conferred on him by law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repair",
+      "definition": "repair ” includes— (a) alter, relocate or replace; or (b) in the case of a hedge, trim, maintain or replant",
+      "source_provision": "s2"
+    }
+  ]
+}

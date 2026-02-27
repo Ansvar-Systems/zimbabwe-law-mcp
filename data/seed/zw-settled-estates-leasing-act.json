@@ -1,0 +1,92 @@
+{
+  "id": "zw-settled-estates-leasing-act",
+  "type": "statute",
+  "title": "Settled Estates Leasing Act",
+  "title_en": "Settled Estates Leasing Act",
+  "short_name": "Settled Estates Leasing Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1876/17/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Settled Estates Leasing Act [Chapter 20:19] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ settled estates ” means all immovable property and all estates or interests in any such immovable property, which are the subject of any settlement ; “ settlement ” means any deed, agreement, will or other instrument under or by virtue of which any immovable property or any estate or interest in any such immovable property stands limited to or in trust for any person or persons by way of succession or for a life or lives, or for a term of years determinable with the death of any person."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Leases of settled estates may be authorized under certain conditions",
+      "content": "3. Leases of settled estates may be authorized under certain conditions It shall be lawful for the High Court, if it considers it proper and consistent with a due regard for the interest of all parties entitled under any settlement , and subject to this Act, to authorize leases of any settled estates or of any rights or privileges over or affecting any settled estates for any purposes whatsoever: Provided that the following conditions are observed— (a) every such lease shall be made to take effect in possession at or within one year next after the making thereof, and shall be for a term not exceeding twenty-one years or, where the Court is satisfied that it will be beneficial to all persons interested to grant building leases for a longer term, then for such term as the High Court directs; and (b) on every such lease shall be reserved the best rent, or reservation in the nature of rent, either uniform or not, that can reasonably be obtained, to be made payable annually or oftener; and (c) every such lease shall be in writing and shall contain a condition for re-entry on non-payment of the rent for a period of not less than three months after it becomes due."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "High Court may impose any further conditions deemed expedient",
+      "content": "4. High Court may impose any further conditions deemed expedient Subject and in addition to the conditions hereinbefore mentioned, every such lease shall contain such covenants, conditions and stipulations as the High Court considers expedient with reference to the special circumstances of the case."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Leases of the whole or any part of settled estates",
+      "content": "5. Leases of the whole or any part of settled estates The power to authorize leases conferred by this Act shall extend to authorize leases either of the whole or any part of settled estates and may be exercised from time to time."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Leases may be surrendered",
+      "content": "6. Leases may be surrendered Any leases granted under this Act may by leave of the High Court be surrendered, either for the purpose of obtaining a renewal of the same or not; and the power to authorize leases conferred by this Act shall extend to authorize new leases of the whole or any part of the property comprised in any surrendered lease."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "How power to authorize leases may be exercised by High Court",
+      "content": "7. How power to authorize leases may be exercised by High Court The power to authorize leases conferred by this Act may be exercised by the High Court either approving of particular leases or ordering that powers of leasing in conformity with this Act shall be vested in trustees in manner hereinafter mentioned."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "High Court may require applicants to produce evidence",
+      "content": "8. High Court may require applicants to produce evidence When application is made to the High Court, either to approve of a particular lease or to vest any powers of leasing in trustees, the High Court shall require the applicant to produce such evidence as it considers sufficient to enable it to ascertain the nature, value and circumstances of the estate and the terms and conditions on which leases thereof ought to be authorized."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "High Court may appoint lessors in particular cases",
+      "content": "9. High Court may appoint lessors in particular cases When a particular lease has been approved by the High Court, the High Court shall direct which person shall execute the same as lessor, and the lease executed by such person shall take effect in all respects as if he was at the time of the execution thereof absolutely entitled to the whole estate or interest which is bound by the settlement ."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "High Court may invest trustees with general power of leasing",
+      "content": "10. High Court may invest trustees with general power of leasing When the High Court considers it expedient that any general powers of leasing settled estates conformably to this Act should be vested in trustees, it may by order vest any such power accordingly, either in the existing trustees of the settlement or in any other persons, and such powers when exercised by such trustees shall take effect in all respects as if the powers so vested in them had been originally contained in the settlement ."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Notice of application to be given",
+      "content": "11. Notice of application to be given Notice of any application under this Act shall be served upon all persons who, in the opinion of the High Court, ought to be so served, unless the High Court thinks fit to dispense with notice. Such notice shall require the person served to notify, within a time to be specified therein, whether he assents to or dissents from such application, or submits his rights or interests, so far as they may be affected by such application, to be dealt with by the High Court; and every such notice shall specify to whom and in what manner such notification is to be delivered or left. If no notification is delivered or left in accordance with the notice and within the time thereby limited, the person to or for whom such notice has been given or left shall be deemed to have submitted his rights and interests to be dealt with by the High Court."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "High Court may make rules",
+      "content": "12. High Court may make rules It shall be lawful for the judges of the High Court to make rules for carrying the purposes of this Act into effect and for regulating the form and mode of procedure and, generally, the practice of the High Court in respect of the matters to which this Act relates."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "settled estates",
+      "definition": "settled estates ” means all immovable property and all estates or interests in any such immovable property, which are the subject of any settlement",
+      "source_provision": "s2"
+    }
+  ]
+}

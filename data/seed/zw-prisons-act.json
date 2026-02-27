@@ -1,0 +1,1060 @@
+{
+  "id": "zw-prisons-act",
+  "type": "statute",
+  "title": "Prisons Act",
+  "title_en": "Prisons Act",
+  "short_name": "Prisons Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1955/9/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Prisons Act [Chapter 7:11] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ commissioned officer ” means a prison officer of one of the ranks referred to in subsection (2) of section five; “ Commissioner-General ” means the Commissioner-General of Prisons and Correctional Service appointed in terms of section 229(1) of the Constitution; “ convicted prisoner ” means any prisoner under sentence of a court or court martial; “ Deputy Commissioner ” means a Deputy Commissioner of Prisons and Correctional Service referred to in section 5 (1)(b); “ extended imprisonment ” means extended imprisonment imposed in terms of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; “ mechanical restraint ” means restraint by the use of hand-cuffs, leg irons, strait-jacket or any other form of restraint approved by the Minister ; “ medical officer ” means a medical officer appointed or nominated under section thirty-six; “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may from time to time assign the administration of this Act; “ non-commissioned officer ” means a prison officer other than a commissioned officer ; “ officer in charge ” means the person appointed to be in charge of a prison under section twenty-four; “ official visitor ” means a person appointed as such under section forty-eight; “ penal diet ” means a punishment diet prescribed as a penal diet; “ periodical imprisonment ” means periodical imprisonment imposed in terms of section 345 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; “ prison ” means any building or place declared to be a prison and includes a temporary prison established under section four; “ prison officer ” means any officer of the Service and includes— (a) the Commissioner; and (b) every Deputy Commissioner ; and (c) any officer seconded to the Service ; “ prisoner ” means any person, whether convicted or not, under detention in any prison ; “ Prisons and Correctional Service Commission ” means the Prisons and Correctional Service Commission established by section 230 of the Constitution and “Commission” shall be construed accordingly; “ prohibited article ” means any article which is not issued to any prisoner by authority of the officer in charge , with the approval of the Commissioner or in accordance with this Act; “ reduced diet ” means a punishment diet prescribed as a reduced diet; “ Service ” means the Prisons and Correctional Service established by section 229(1) of the Constitution; “ unconvicted prisoner ” means any person, not being a convicted prisoner , duly committed to custody under a writ, warrant or order of any court or any order of detention issued by any person authorized thereto by any enactment or by order of a court martial; “ visiting justice ” means a visiting justice appointed under section forty-five; “ weapon ” means any firearm, baton or tear smoke or such other instrument as may be prescribed; “ young prisoner ” means a prisoner under the apparent age of nineteen years and may, at the discretion of an officer in charge , include a prisoner whose apparent age does not exceed twenty years. [section amended by Act 3 of 2016 ] Part II – Establishment of prisons"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of prisons",
+      "content": "3. Establishment of prisons The Minister may declare any building or place in Zimbabwe to be a prison under this Act and may declare that any such prison shall cease to be a prison ."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Temporary prisons",
+      "content": "4. Temporary prisons Such provision shall be made as the Commissioner may direct for the shelter and safe custody in temporary prisons of such number of prisoners as the Commissioner may determine and every such temporary prison shall be deemed to be a prison for the purposes of this Act. Part III – Prisons and Correctional Service and appointment of prison officers"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Composition and ranks of Prisons and Correctional Service",
+      "content": "5. Composition and ranks of Prisons and Correctional Service (1) Subject to this Part, the Service shall consist of— (a) the Commissioner; and (b) one or more Deputy Commissioners; and (c) prison officers divided into such ranks as are prescribed by the Minister . (2) The Minister shall prescribe which ranks of the Service are those of commissioned officers. (3) When prescribing ranks for the purpose of this section, the Minister shall consult the Commissioner and obtain the approval of Commission."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Appointment of Commissioner-General",
+      "content": "6. Appointment of Commissioner-General (1) The President shall appoint the Commissioner-General in terms of section 229 of the Constitution after consultation with the Minister . (2) Before tendering advice to the President for the purpose of subsection (1), the Minister shall consult the Commission. [section substituted by Act 3 of 2016 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Terms and conditions of service of Commissioner-General",
+      "content": "7. Terms and conditions of service of Commissioner-General (1) Subject to this section, the Commissioner-General shall be appointed for a period of four years. (2) With the President’s consent, the Commissioner may retire before completing a period of four years in that appointment, whatever his age or the length of his pensionable service. (3) The Commissioner-General shall retire on completing a period of four years in that appointment, whatever his age or the length of his pensionable service: Provided that, if the President considers that it is desirable in the public interest and the Commissioner is medically fit, the President may, with the Commissioner’s consent, extend the period of his service for periods of not more than twelve months at a time. (4) Subject to this Act, the Commissioner-General ’s terms and conditions of service shall be as fixed by the President from time to time in terms of section 231(3) of the Constitution. [section amended by Act 3 of 2016 ]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Removal from office of Commissioner-General",
+      "content": "8. Removal from office of Commissioner-General The Commissioner-General may be removed from office by the President for any reason after consultation with the Minister , and the President shall cause Parliament to be informed as soon as is practicable of any such removal."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Appointment and removal of prison officers",
+      "content": "9. Appointment and removal of prison officers (1) Subject to this Act, the President may— (a) by commission, appoint any person as a commissioned officer ; and (b) promote any commissioned officer to a higher rank; and (c) reprimand, suspend, reduce in rank or discharge any commissioned officer ; and when appointing, promoting, reprimanding, suspending, reducing in rank or discharging any such person, the President shall pay due regard to the advice of the Minister tendered after consultation with the Commissioner-General . (2) The appointment or promotion of any person as a commissioned officer shall be notified in the Gazette . (3) The power to— (a) appoint persons as non-commissioned officers; and (b) promote any non-commissioned officer to another non-commissioned rank; and (c) reprimand, suspend, reduce in rank or discharge any non-commissioned officer ; shall vest in the Commissioner-General , acting with the approval of the Commission."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Liberty to resign",
+      "content": "10. Liberty to resign (1) Unless permitted to do so by the Commissioner-General, no prison officer shall be at liberty to resign from the Service except in such circumstances as may be prescribed. (2) Any member of the Service whose period of service expires during a state of war, insurrection or public emergency may be retained in the Service by the Commissioner-General for such period as the Commissioner-General may direct. (3) Any prison officer who withdraws himself from his official duties in contravention of this section shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Appointment of committee of inquiry",
+      "content": "11. Appointment of committee of inquiry Whenever the Minister considers it necessary or desirable, he may appoint a committee to inquire into and make recommendations and additionally, or alternatively, to report to him, on any matter relating to either or both the following— (a) the administration of any prison or prisons generally; (b) the conditions of service of prison officers; or any matter connected therewith or incidental thereto. Part IV – Prisons and Correctional Service Commission"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Term of office of members of Prisons and Correctional Service Commission",
+      "content": "12. Term of office of members of Prisons and Correctional Service Commission (1) Subject to this Part, a member of the Prisons and Correctional Service Commissionshall hold office for such period, not exceeding five years, as the President may fix on his appointment, and on the expiry of that period shall be eligible for reappointment. (2) If a person is appointed to the Prisons and Correctional Service Commission to act in place of a member of the Commission who is unable to exercise his functions, the period of the acting appointment shall not exceed one year."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Resignation of members of Prisons and Correctional Service Commission",
+      "content": "13. Resignation of members of Prisons and Correctional Service Commission (1) A member of the Prisons and Correctional Service Commissionmay resign his office at any time by giving the President, through the Minister , such notice of his intention to resign as may be fixed in his conditions of service in terms of section fourteen or, if no such period has been fixed, after the expiry of thirty days from the date he gives such notice or after the expiry of such other period of notice as he and the President may agree. (2) A member of the Prisons and Correctional Service Commissionshall be deemed to have resigned his office as a member and his office shall become vacant if— (a) he accepts nomination for election to, or becomes a member of, Parliament; or (b) he accepts nomination for election as, or becomes a member of, a local authority or accepts employment as an employee of a local authority; or (c) he accepts office as a member of a statutory body or employment as an employee of a statutory body; or (d) being a member of or employed by a local authority or statutory body at the time he becomes a member of the Prisons and Correctional Service Commission , he fails to terminate his appointment or employment as such within fourteen days of the date on which he became a member of the Commission."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Conditions of service of members of Prisons and Correctional Service Commission",
+      "content": "14. Conditions of service of members of Prisons and Correctional Service Commission (1) Subject to this Part, the conditions of service of members of the Prisons and Correctional Service Commission , including their remuneration, allowances and pension benefits, shall be fixed by the President either at the time of their appointment or, subject to subsection (5) of section 109 of, and Schedule 6 to, the Constitution, at any time thereafter. (2) When fixing conditions of service of a member of Prisons and Correctional Service Commission in terms of subsection (1), the President may direct that any enactment relating to the conditions of service of members of the Service or the Public Service shall apply to the conditions of service of the member, subject to such modifications, exceptions or conditions as the President may specify, and thereupon the enactment concerned shall so apply to the conditions of service of the member concerned."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Functions of Prisons and Correctional Service Commission",
+      "content": "15. Functions of Prisons and Correctional Service Commission (1) The functions of the Prisons and Correctional Service Commission shall be— (a) to make recommendations to the Minister and the Commissioner in regard to the recruitment of persons to the Service and the qualifications for appointment and promotion to the various ranks in the Service ; (b) to approve the appointment, promotion, removal from office or reduction in rank of non-commissioned officers in terms of section nine; (c) to inquire into and deal with complaints, other than complaints relating to disciplinary action, made by prison officers; (d) to make recommendations to the Minister regarding remuneration and the general conditions of service of prison officers; (e) to exercise any other functions that may be conferred or imposed upon it in terms of this Act or any other enactment. (2) In the exercise of its functions under this Act, the Prisons and Correctional Service Commission , with the approval of the Minister and after consultation with the Commissioner; may— (a) carry out any inquiry or investigation into the practices of the Service ; (b) require the production of any documents, books or other records; (c) summon and examine any witness whose evidence it considers will assist the conduct of its inquiries or investigations; (d) obtain information and advice from any prison officer or other person. (3) For the purposes of any inquiry or investigation carried out by it in terms of this Act, the Prisons and Correctional Service Commission shall have the same powers as are conferred upon commissioners in terms of the Commissions of Inquiry Act [Chapter 10:07] , other than the power to order a person to be detained in custody, and section 3 and sections 10 to 13 and 15 to 19 of that Act shall apply, mutatis mutandis , in relation to such an inquiry or investigation and to any person summoned to give or giving evidence at that inquiry or investigation: Provided that no person shall be required by the Prisons and Correctional Service Commission to disclose information or to produce an official document book or other record if— (a) its disclosure or production is prohibited or restricted under any enactment prohibiting or restricting the disclosure of information; or (b) the Minister certifies in writing that its disclosure or production would be contrary to the interests of the Service ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Procedure of Prisons and Correctional Service Commission",
+      "content": "16. Procedure of Prisons and Correctional Service Commission The Prisons and Correctional Service Commission shall meet as often as is necessary for the discharge of its business and may adjourn, close and otherwise regulate its meetings as it thinks fit."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Staff of Prisons and Correctional Service Commission",
+      "content": "17. Staff of Prisons and Correctional Service Commission The Minister , in consultation with the Public Service Commission, may second to the Prisons and Correctional Service Commission such members of the Public Service as may be necessary for the exercise of the Prisons and Correctional Service Commission ’s functions."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Reports of Prisons and Correctional Service Commission",
+      "content": "18. Reports of Prisons and Correctional Service Commission (1) The Prisons and Correctional Service Commission — (a) shall, as soon as possible after the 31st December in each year, submit to the Minister an annual report upon matters dealt with by the Commission during the previous year, except such matters as the Commission may consider inexpedient to publish; (b) may at any time submit to the Minister a special report on any matter upon which the Commission considers it desirable to report. (2) The Minister shall lay before Parliament on one of the fourteen days on which Parliament next sits after the report is received by him— (a) every annual report submitted to him in terms of paragraph (a) of subsection (1); and (b) any special report submitted to him in terms of paragraph (b) of subsection (1) which the Prisons and Correctional Service Commission requests be laid before Parliament."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Validity of acts and decisions of Prisons and Correctional Service Commission",
+      "content": "19. Validity of acts and decisions of Prisons and Correctional Service Commission No decision or act of the Prisons and Correctional Service Commission or act done under the authority of the Prisons and Correctional Service Commission shall be invalid solely because— (a) a person who was not entitled to do so acted as a member of the Commission when the decision was taken or the act was done or authorized; or (b) there were one or more vacancies on the Commission when the decision was taken or the act was done or authorized. Part V – Powers and duties of prison officers"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Control of prisons and of Service vested in Commissioner",
+      "content": "20. Control of prisons and of Service vested in Commissioner Subject to this Act and any general directions of policy that the Minister may give him, the Commissioner shall have the administrative command, superintendence, control and direction of prisons and of the Service ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Standing orders",
+      "content": "21. Standing orders (1) Subject to this Act and after consultation with the Minister , the Commissioner may make standing orders with respect to— (a) the administration of prisons; and (b) the discipline, regulation and orderly conduct of the affairs of the Service . (2) Notwithstanding section 20 of the Interpretation Act [Chapter 1:01] , standing orders issued under subsection (1) need not be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Delegation of functions of Commissioner",
+      "content": "22. Delegation of functions of Commissioner (1) Subject to any orders or directions of the Commissioner, anything that may be done, ordered or performed by the Commissioner may be done, ordered or performed by a Deputy Commissioner . (2) The Commissioner may from time to time, with the Minister ’s approval, delegate to any prison officer any right or function conferred or imposed upon him by this Act or any other enactment, other than the power of further delegating the right or function so delegated."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Policy directions by Minister",
+      "content": "23. Policy directions by Minister The Minister may give the Commissioner, in writing, such general directions of policy as he considers necessary in the public interest relating to— (a) the appointment, promotion, training and disposition of prison officers; and (b) the maintenance of the Service in a high state of efficiency; and the Commissioner shall forthwith take all such steps as are necessary to ensure due compliance with all such directions."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Appointment of officers in charge of prisons",
+      "content": "24. Appointment of officers in charge of prisons (1) The officer in charge of any prison shall be appointed by the Commissioner in consultation with the Minister . (2) The Commissioner, in consultation with the Minister , may appoint any person to supervise and control any prison for which no prison officer has been appointed as officer in charge , and the person so appointed shall— (a) in matters relating to the prison and prisoners therein, be subject to the orders and directions of the Commissioner; and (b) subject to any express limitation which may have been imposed upon him by the Commissioner, have all the powers conferred by this Act upon an officer in charge ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Officer in charge of prison to supervise and control prison",
+      "content": "25. Officer in charge of prison to supervise and control prison Every officer in charge shall supervise and control all matters in connection with the prison to which he is appointed and shall be responsible to the Commissioner for the conduct and treatment of prison officers and prisoners under his control and for the due observance by prison officers and prisoners of this Act."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Powers and duties of prison officers",
+      "content": "26. Powers and duties of prison officers (1) Every prison officer shall exercise such powers and perform such duties as may be assigned to him in accordance with this Act and shall obey all lawful directions in respect of the execution of his office which he may receive from any officer senior to him in the Service . (2) The Commissioner may assign to a prison officer any duties relating to the detention of— (a) a prisoner detained in terms of this Act or any other enactment; or (b) any person detained in a special institution as defined in section 2 of the Mental Health Act [Chapter 15:06] ; or the custody of such prisoner or person whilst in transit from one place to another."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Prison officers always liable for duty",
+      "content": "27. Prison officers always liable for duty Every prison officer shall be deemed to be available for duty at all times and may at any time be detailed for duty in any part of Zimbabwe."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Prison officers and prohibited activities",
+      "content": "28. Prison officers and prohibited activities (1) No prison officer shall be concerned in any employment other than the duties assigned to him in accordance with this Act. (2) No prison officer shall accept any bribe, fee, gratuity or reward from, or, without the permission of the Commissioner, have any business dealings with, prisoners, visitors to prisoners or persons he knows to be exprisoners or friends of prisoners or ex-prisoners."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Punishment by subordinate officers",
+      "content": "29. Punishment by subordinate officers No prison officer shall punish a prisoner unless lawfully ordered so to do by the Commissioner or by an officer in charge ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Use of weapons by prison officers",
+      "content": "30. Use of weapons by prison officers (1) Subject to this section, a prison officer may use a weapon against— (a) a prisoner who is— (i) escaping or attempting to escape; or (ii) engaged in a combined outbreak or in an attempt to force, break open or scale the outside door, gate, fence or enclosure wall of the prison ; or (iii) using violence to him or another prison officer or other person; (b) a person who— (i) whilst assisting a prisoner to escape, is using violence to him or another prison officer or other person; or (ii) is engaged in a combined break-in or in an attempt to force, break open or scale the outside door, gate, fence or enclosure wall of the prison or an inside door, gate, fence or wall of the prison ; or (iii) whilst so engaged, is using violence to him or another prison officer or other person. (2) Resort shall not be had to the use of a weapon — (a) in terms of subparagraph (i) of paragraph (a) of subsection (1), unless— (i) the prison officer has reasonable grounds to believe that he cannot otherwise prevent the escape; and (ii) the prison officer gives a warning to the prisoner that he is about to use the weapon against him; and (iii) the warning given by the prison officer is unheeded; (b) in terms of subparagraph (iii) of paragraph (a) or subparagraph (i) or (iii) of paragraph (b) of subsection (1), unless the prison officer has reasonable grounds to believe that he or the other prison officer or other person, as the case may be, is in danger of suffering grievous bodily harm. (3) No prison officer shall in the presence of a prison officer senior to himself make use of a weapon in terms of subsection (1), except on the orders of the senior prison officer . (4) The use of weapons in terms of this section shall be, as far as possible, to disable and not to kill."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Prison officers’ power of arrest",
+      "content": "31. Prison officers’ power of arrest For the purpose of arresting any person who may have escaped from lawful custody, every prison officer shall have the power to arrest such person and to convey him to a prison ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Prison officers’ visits to cells",
+      "content": "32. Prison officers’ visits to cells (1) No prison officer shall, except in the case of sickness or emergency, enter a prison cell or ward at night unless accompanied by another prison officer . (2) No male prison officer shall enter a cell in which female prisoners are confined unless accompanied by a female prison officer ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Power to take photographs and finger-prints of prisoners",
+      "content": "33. Power to take photographs and finger-prints of prisoners An officer in charge may cause statistics as to height, weight and measurements and photographs, fingerprints, hand-prints and footprints of any prisoner to be taken by any person whom he may designate for such purpose, and shall make such records as the Commissioner may determine."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Immunity for act done under authority of warrant",
+      "content": "34. Immunity for act done under authority of warrant Where the defence to any suit instituted against a prison officer is that the act complained of was done in obedience to a warrant purporting to be issued by a judge, magistrate or justice of the peace, the court shall, upon production of the warrant containing the signature of the judge, magistrate or justice of the peace and upon proof that the act complained of was done in obedience to such warrant in good faith and without negligence, enter judgment in favour of such prison officer ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Proof of signature not required",
+      "content": "35. Proof of signature not required No proof of the signature of such judge, magistrate or justice of the peace as is mentioned in section thirty-four shall be required unless the court has reason to doubt the genuineness thereof and, where such signature is proved not to be genuine, judgment shall nevertheless be given in favour of such prison officer if it be proved that, at the time the act complained of was committed, he believed on reasonable grounds that such signature was genuine. Part VI – Appointment and duties of medical officers"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Medical officers",
+      "content": "36. Medical officers (1) The Minister may appoint as medical officer of a prison any medical practitioner who is registered as such in accordance with the Health Professions Act [Chapter 27:19] . [subsection amended by section 4 of Act 22/2001 ] (2) In default of any appointment in terms of subsection (1), a Government medical officer resident at the place where such prison is situated and nominated for such duty by the Secretary of the Ministry responsible for health shall be a medical officer for such prison."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Duties of medical officers",
+      "content": "37. Duties of medical officers Subject to section twenty-five, the medical officer shall have the general care of the health of prisoners and shall visit the prison daily where practicable or when called upon by the officer in charge . (2) The medical officer shall report to the officer in charge any circumstances connected with the prison or the treatment of prisoners which at any time appear to him to require consideration on medical or health grounds. [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Medical inspection",
+      "content": "38. Medical inspection (1) The medical officer shall, where practicable, ensure that every prisoner is medically examined on admission to and before discharge from a prison , and shall perform such other duties as may be prescribed and shall ensure that a record is kept of the state of health of every prisoner . (2) Until he has been examined by the medical officer , every prisoner on admission shall, so far as possible, be kept apart from other prisoners."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Observation of prisoners charged with capital offence",
+      "content": "39. Observation of prisoners charged with capital offence The medical officer shall observe the mental condition of all prisoners under sentence of death or charged with a capital offence and, for that purpose, shall personally examine all such prisoners on every day on which he visits the prison , and shall furnish reports on such prisoners to the officer in charge in such form and at such times as may be prescribed."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Examination of prisoners in solitary confinement or in hospital",
+      "content": "40. Examination of prisoners in solitary confinement or in hospital The medical officer shall ensure that every prisoner under sentence of death or charged with a capital offence or in solitary confinement or in hospital, is medically examined every day on which the medical officer visits the prison ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Officer in charge empowered to order prisoner to be examined",
+      "content": "41. Officer in charge empowered to order prisoner to be examined An officer in charge may order any prisoner to submit himself to medical examination as often as such officer thinks necessary."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Death of prisoner",
+      "content": "42. Death of prisoner The medical officer shall, on the death of any prisoner otherwise than by lawful execution, record in a register to be kept for such purpose the following particulars, so far as they can be ascertained— (a) the day on which the deceased was sentenced; and (b) the day on which he was admitted to prison ; and (c) the day on which he first complained of illness or was observed to be ill; and (d) the labour, if any, on which he was engaged on the day of his death; and (e) the scale of his diet on the day of his death; and (f) the day on which he was admitted to hospital; and (g) the day on which the medical officer or his subordinate was first informed of the illness; and (h) the nature of the disease; and (i) when the deceased was last seen before death by the medical officer or his subordinate; and (j) when the prisoner died and, in cases where a post-mortem examination is made, an account of the appearance after death, together with any special remarks that appear to the medical officer to be required; and (k) his opinion as to the cause of death."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Notification of death of prisoner",
+      "content": "43. Notification of death of prisoner Upon the death of a prisoner , the officer in charge shall at once notify a magistrate and the medical officer of the prison and shall arrange for compliance with the law relating to inquests. Part VII – Official visitors, visiting justices, ministers of religion and prisoners' aid societies"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Vice-President, Judges, Ministers and Deputy Ministers may visit prisons",
+      "content": "44. Vice-President, Judges, Ministers and Deputy Ministers may visit prisons A Vice-President and any— (a) judge of the Supreme Court or the High Court; or (b) Minister or Deputy Minister ; may visit and inspect any prison at any time and while so doing may exercise any of the powers referred to in subsection (1) of section forty-six."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Magistrates to be visiting justices in own areas",
+      "content": "45. Magistrates to be visiting justices in own areas Magistrates shall be visiting justices of the prisons situated in the area in which they normally exercise jurisdiction."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Powers of visiting justices",
+      "content": "46. Powers of visiting justices (1) Any visiting justice may at any time visit a prison in respect of which he is a visiting justice , and may— (a) call for all books, papers and records relating to the management and discipline of the prison ; (b) visit every part of the prison and see every prisoner in confinement; (c) inspect and test the quality and quantity of prisoners’ food; (d) ascertain, so far as possible, that the standing orders and regulations are observed; (e) inquire into any complaint or request made by a prisoner . (2) A visiting justice — (a) may, if requested by the Commissioner or the officer in charge , hear and determine a charge under section ninety-one or ninety-two; and (b) for the exercise of such powers, may summon witnesses and administer oaths."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Visiting justice to record visit in prescribed book",
+      "content": "47. Visiting justice to record visit in prescribed book On completion of each visit a visiting justice shall enter in a book to be kept for such purpose such remarks, suggestions or recommendations for the information of the Commissioner as he may consider fit: Provided that a visiting justice may make any such remarks, suggestions or recommendations in a written report if— (a) he enters in the said book a statement that he is making such a report; and (b) he submits such report to the Commissioner within one week of his visit."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Appointment of official visitors",
+      "content": "48. Appointment of official visitors The Minister may appoint official visitors to any prison or section of a prison , either generally or for such purposes as the Minister may specify."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VII",
+      "section": "49",
+      "title": "Functions of official visitors",
+      "content": "49. Functions of official visitors (1) An official visitor who is appointed generally to a prison or section of a prison — (a) shall, so far as possible, at least once in every two months visit the prison or section of a prison to which he is appointed between such hours as may be prescribed; and (b) may visit all parts of the prison or section of a prison to which he is appointed and see every prisoner in confinement therein: Provided that female official visitors may only visit those parts of a prison or section of a prison which are set aside for the detention of female prisoners; and (c) may inspect and test the quality and quantity of food for prisoners in the prison or section of a prison to which he is appointed; and (d) may take steps to ascertain, so far as possible, that the standing orders and regulations applicable to the prison or section of a prison to which he is appointed are observed; and (e) may inquire into any complaints or requests made by a prisoner in the prison or section of a prison to which he is appointed. (2) An official visitor who is appointed for specific purposes shall perform such functions as the Minister may specify in his case."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VII",
+      "section": "50",
+      "title": "Official visitors to record visit in prescribed book",
+      "content": "50. Official visitors to record visit in prescribed book On completion of each visit an official visitor shall enter in a book to be kept for such purposes such remarks, suggestions or recommendations for the information of the Commissioner as he may consider fit: Provided that an official visitor may make any such remarks, suggestions or recommendations in a written report if— (a) he enters in the said book a statement that he is making such report; and (b) he submits such report to the Commissioner within one week of his visit."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VII",
+      "section": "51",
+      "title": "Ministers of religion may visit prison",
+      "content": "51. Ministers of religion may visit prison Ministers of religion or other accredited representatives of any religious body recognized by the Minister whose visits are approved by the Commissioner may, at such hours and in such places as may be prescribed or as the officer in charge may permit— (a) be admitted to the prison to visit prisoners who may be desirous of their services; and (b) be permitted to hold religious services."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VII",
+      "section": "52",
+      "title": "Visits of probation officers and representatives of prisoners’ aid society",
+      "content": "52. Visits of probation officers and representatives of prisoners’ aid society A probation officer appointed as such under any enactment or a representative of a prisoners’ aid society who has obtained the written permission of the Commissioner may be admitted to any prison at times to be arranged by the officer in charge . Part VIII – Desertion and mutiny"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Desertion",
+      "content": "53. Desertion Any prison officer who absents himself from duty without reasonable cause for a period exceeding twenty-one days shall be deemed to be a deserter and shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [section amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "Deserter may be apprehended by prison officer or police officer",
+      "content": "54. Deserter may be apprehended by prison officer or police officer Any prison officer or police officer who has reason to believe that any prison officer has deserted from the Service may apprehend him and— (a) take him forthwith to a police station and lay a charge against him; or (b) if there is no police station in the vicinity, take him forthwith before a magistrate with a view to obtaining a warrant for his arrest."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Penalty for inciting prison officer to desert",
+      "content": "55. Penalty for inciting prison officer to desert Any person who by any means, directly or indirectly— (a) procures or persuades, or attempts to procure or persuade, any prison officer to desert; or (b) aids, abets or is accessory to the desertion of any prison officer; or (c) having reason to believe that any person is a deserter, harbours such deserter or aids him in concealing himself or assists in his rescue; shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [section amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VIII",
+      "section": "56",
+      "title": "Penalty for mutiny or sedition",
+      "content": "56. Penalty for mutiny or sedition Any prison officer who mutinies and any prison officer or other person who, directly or indirectly, instigates, commands, counsels or solicits any mutiny or sedition amongst any prison officers or prisoners or disobedience to any lawful command given by any prison officer, or who attempts to seduce any prison officer from his allegiance or duty, shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [section amended by section 4 of Act 22/2001 ] Part IX – Admission and confinement of prisoners"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Admission of prisoners",
+      "content": "57. Admission of prisoners (1) No person shall be admitted into a prison unless accompanied by— (a) a remand warrant, order of detention or warrant of conviction or of committal under the hand of any person authorized to sign or countersign such warrant or order under any enactment; or (b) an order of a court martial; or (c) a written requisition of an immigration officer issued in terms of the Immigration Act [Chapter 4:02] ; or (d) a written requisition issued in terms of the Refugees Act [Chapter 4:03] by a person who is an authorized officer in terms of that Act; or (e) an order in writing signed by a police officer of or above such rank as may be prescribed. (2) An order issued under paragraph (e) of subsection (1) shall be valid only for such period as is necessary to obtain a warrant or order referred to in paragraph (a) of subsection (1) and for no longer. (3) The officer in charge shall satisfy himself before the admission of a prisoner that such prisoner is the person named in the requisition or in the warrant or order of detention accompanying him, and that such requisition, warrant or order bears the signature of the proper authority lawfully authorized to issue it, and that it is in all other respects in order . (4) The officer in charge shall not refuse to accept any prisoner merely on the grounds that there is an error on the face of any requisition, warrant or order of detention accompanying such prisoner , but shall take steps as soon as practicable to have such error corrected."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Admission of infant child with female prisoner",
+      "content": "58. Admission of infant child with female prisoner Subject to such conditions as may be specified by the Commissioner, any unweaned infant child of a female prisoner may be received into prison with its mother and may be supplied with clothing and necessaries at the public expense: Provided that, when such child has been weaned, the officer in charge , on being satisfied that there are relatives or friends of the child able and willing to support it, shall cause such child to be handed over to such relatives or friends or, if he is not so satisfied, shall hand such child over to the care of such welfare authority as may be approved for the purpose by the Commissioner."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IX",
+      "section": "59",
+      "title": "Particulars of prisoners to be recorded",
+      "content": "59. Particulars of prisoners to be recorded Upon the admission to prison of any person, the officer in charge shall cause to be recorded such particulars regarding such person as may be prescribed."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part IX",
+      "section": "60",
+      "title": "Search of prisoners",
+      "content": "60. Search of prisoners Every prisoner , male or female, shall be searched on admission, and at such times subsequently as may be prescribed, by a prison officer of his or her own sex, but not in the presence of a person of the opposite sex, and all prohibited articles taken from him or her, and the search shall be conducted with strict regard to decency."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part IX",
+      "section": "61",
+      "title": "Money and other effects of prisoners to be kept in custody of officer in charge",
+      "content": "61. Money and other effects of prisoners to be kept in custody of officer in charge (1) All money, clothes or other effects brought into a prison by any prisoner , or sent to a prison for his use, which he is not permitted to retain shall be placed in the custody of the officer in charge , who shall keep an inventory of them, and all such money, clothes or other effects shall be returned to the prisoner when he is released or discharged. (2) Where any clothes of any prisoner referred to in subsection (1) are so old, worn out or dirty as to be unsuitable for further use, the officer in charge may order them to be destroyed, and in such case, on the release or discharge of the prisoner , the officer in charge may, at the public expense, provide him with suitable clothing. (3) The officer in charge may refuse to take into prison any property of a prisoner which, by reason of its bulk, nature or excessive quantity, cannot be conveniently stored in the prison ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part IX",
+      "section": "62",
+      "title": "Moneys on prisoner may be appropriated to payment of fine",
+      "content": "62. Moneys on prisoner may be appropriated to payment of fine Notwithstanding section sixty-one, if any person who, having been convicted of an offence and sentenced to pay a fine or, in default of payment, to imprisonment, elects to serve a term of imprisonment and brings into a prison any moneys, the Commissioner may seize such moneys as are sufficient to pay the fine payable by that person or, if such moneys are not sufficient for that purpose, all of such moneys for the payment of part of the fine. Part X – Segregation and classification of prisoners"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part X",
+      "section": "63",
+      "title": "Separation of prisoners",
+      "content": "63. Separation of prisoners (1) Male and female prisoners shall be kept apart and confined in separate parts of the prison in such manner as to prevent their communicating the one sex with the other. (2) Subject to subsection (1), prisoners of each sex shall be divided into the following classes— (a) unconvicted prisoners; (b) convicted prisoners; (c) young prisoners; (d) adults; (e) first offenders; (f) prisoners with previous convictions; (g) prisoners suspected or certified as being of unsound mind; (h) such other classes as the Commissioner may determine; and, so far as the prison accommodation renders it practicable, each such class shall be kept apart from the other classes. Part XI – Custody and removal of prisoners"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XI",
+      "section": "64",
+      "title": "Prisoners in lawful custody of officer in charge",
+      "content": "64. Prisoners in lawful custody of officer in charge Every person confined in a prison shall be in the lawful custody of the officer in charge thereof and, subject to this Act, shall remain in such lawful custody and be subject to prison discipline and to this Act during the whole period of his imprisonment, whether he is or is not within the precincts of a prison ."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XI",
+      "section": "65",
+      "title": "Commencement, termination and computation of sentence",
+      "content": "65. Commencement, termination and computation of sentence (1) Except as otherwise provided in this Act, a sentence of imprisonment imposed by any court shall take effect from the day on which that sentence is passed unless it is suspended in terms of any law or the convicted person is released on bail granted in terms of any law, in which case the sentence shall take effect from the day on which he surrenders himself or is taken into custody to undergo his sentence. (2) Where a person receives more than one sentence of imprisonment or receives additional sentences while serving a term of imprisonment, each such sentence shall be served, the one after the expiration, setting aside or remission of the other, in such order as the Commissioner may determine unless the court specifically directs otherwise or directs that such sentences shall run concurrently: Provided that— (i) any such sentence of imprisonment or additional sentence of imprisonment in which spare or reduced diet and solitary confinement is imposed shall be served first; (ii) any determinate sentence of imprisonment to be served by any person shall run concurrently with a life sentence or with any sentence of extended imprisonment to be served by him; (iii) one or more life sentences and additionally, or alternatively, one or more sentences of extended imprisonment to be served by any person shall run concurrently. (3) The date of expiry of any sentence of imprisonment being served by a prisoner who escapes from lawful custody or who is unlawfully discharged shall, upon his recapture or re-arrest, be postponed for a period equal to the period by which such sentence was interrupted by reason of such escape or discharge. (4) Any prisoner whose term of imprisonment expires on a Sunday or a public holiday may be discharged on the authority of the Commissioner at any hour of the day preceding such Sunday or public holiday, as the Commissioner thinks fit."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XI",
+      "section": "66",
+      "title": "Production of prisoners in court",
+      "content": "66. Production of prisoners in court (1) Where it appears to the Supreme Court, the High Court or any magistrates court that the attendance before such court of a person who is a prisoner is necessary for the purpose of obtaining evidence in any proceedings before such court, the judge or magistrate, as the case may be, may issue an order directed to the officer in charge of the prison where the prisoner is serving a sentence, requiring him to produce the prisoner at the time and place specified in the order , and such officer in charge shall arrange for compliance with such order . (2) The court before which any person is produced in accordance with an order issued in terms of subsection (1) may give such directions as to the costs of compliance with the order as such court may deem fit."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XI",
+      "section": "67",
+      "title": "Prisoners under police escort",
+      "content": "67. Prisoners under police escort (1) Prisoners on remand or committed for trial, who are required to attend any court, may be taken for that purpose into police custody at the prison to which they have been committed, and shall remain under police supervision and guard until returned to the prison or discharged by the court. (2) Where on the removal of any prisoner from any prison the number of prison officers is insufficient to provide an escort for such prisoner , the officer in charge of the prison from which the prisoner is to be removed may, with the general or special permission of the Commissioner of Police, deliver the prisoner to any police officer who may be detailed for such duty. (3) While a prisoner is in the custody of a police officer in accordance with this Act, he shall be deemed to be in lawful custody, and escape from the custody of such police officer shall be deemed to be escape from lawful custody for the purposes of any law."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XI",
+      "section": "68",
+      "title": "Statements to police officers",
+      "content": "68. Statements to police officers (1) Subject to subsection (2), a police officer, with the approval of the officer in charge of a prison and on production of an order in writing from a police officer of or above such rank as may be prescribed, may, in the sight and hearing of a prison officer , interview within a prison any prisoner for purposes connected with the investigation of any offence. (2) If the officer in charge is satisfied that a prisoner is willing to be interviewed by police officers out of the sight and hearing of a prison officer , then the officer in charge may permit that prisoner to be interviewed by not less than two police officers within the prison and out of the sight and hearing of a prison officer ."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XI",
+      "section": "69",
+      "title": "Prisoners and criminal investigations",
+      "content": "69. Prisoners and criminal investigations (1) If a commissioned police officer certifies verbally or in writing that a prisoner is required at a police station or any other place in the interests of justice or in connection with the investigation of a crime, whether committed or alleged to have been committed by such prisoner or by some other person and whether or not such prisoner is detained in connection with such crime, the officer in charge in whose custody such prisoner is may release, remove or permit the removal of such prisoner from prison in accordance with this section. (2) An officer in charge may release any unconvicted prisoner into police custody for such period as he considers necessary for the purposes mentioned in subsection (1). (3) An officer in charge may remove or permit the removal of a convicted prisoner from prison in the custody of a prison officer and, in any interview between the police and such prisoner , such prison officer shall remain in sight of the prisoner . (4) Subject to the general or specific directions of the Commissioner, an officer in charge may release any convicted prisoner into police custody for such period as he considers necessary for the purposes mentioned in subsection (1)."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XI",
+      "section": "70",
+      "title": "Removal of prisoners from one prison to another",
+      "content": "70. Removal of prisoners from one prison to another The Commissioner may, by any general or special order , direct that any prisoner shall be removed to any prison other than that in which he is confined or to which he has been committed."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XI",
+      "section": "71",
+      "title": "Certain prisoners may be restrained",
+      "content": "71. Certain prisoners may be restrained When the officer in charge considers it necessary for the safe custody of any prisoner that he should be confined by means of mechanical restraint , he may so confine him but in accordance with such regulations as may be prescribed."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part XI",
+      "section": "72",
+      "title": "Maximum period of extended imprisonment",
+      "content": "72. Maximum period of extended imprisonment A prisoner who is serving a sentence of extended imprisonment shall, unless earlier released in terms of Part XIX, be detained in a prison until the expiry of the maximum period of such imprisonment determined in accordance with subsection (3) of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07] ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part XI",
+      "section": "73",
+      "title": "Mentally disordered or defective prisoners",
+      "content": "73. Mentally disordered or defective prisoners (1) Any convicted prisoner adjudged according to any enactment to be a mentally disordered or defective person shall remain in the place named in the order providing for his detention as such until the prisoner has been discharged in accordance with such enactment, whereupon the Minister shall, if the prisoner has not completed the sentence in respect of which he was committed, order that he be delivered into the custody of the officer in charge of a prison for the completion of the sentence; but where the prisoner has completed the sentence in respect of which he was committed, he shall forthwith be released. (2) If any prisoner mentioned in subsection (1) was sentenced to death before being adjudged to be a mentally disordered or defective person and such sentence has not, at the time when he is certified to be of sound mind, been commuted to a term of imprisonment, then the Minister shall report the matter to the President."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part XI",
+      "section": "74",
+      "title": "Removal of sick prisoners to hospital",
+      "content": "74. Removal of sick prisoners to hospital (1) In the case of the serious illness of a prisoner , the officer in charge , on the advice of the medical officer , may make an order for the removal of such prisoner to a hospital, but in case of emergency or in the absence of the medical officer such removal may be ordered by the officer in charge . (2) The medical authority in charge of the hospital to which a prisoner is removed in terms of subsection (1) shall, on admission of such prisoner and at the end of every month while the prisoner remains in hospital, transmit to the officer in charge of the prison whence he came a certificate signed by him, stating his opinion as to the necessity for the prisoner to remain in the hospital and, when possible, stating the period for which the prisoner should so remain; and while in hospital the prisoner shall be deemed to be in lawful custody. (3) When, in the opinion of the medical authority in charge of any hospital, it is no longer necessary that any prisoner should remain therein, he shall transmit to the officer in charge of the prison whence the prisoner came a certificate stating that such necessity has ceased, and thereupon the officer in charge shall cause the prisoner to be brought to the prison , if he is still liable to be confined therein. (4) Every reasonable precaution shall be taken by the medical and other officers of any hospital to prevent the escape of any prisoner at any time under treatment therein, and it shall be lawful for such officers to take such measures for preventing the escape of any such prisoner as are reasonably necessary: Provided that the medical authority in charge of the hospital may refuse to take or permit any action authorized under this section if, in his opinion, such action would be prejudicial to the health of the prisoner or impracticable for any good and sufficient reason. (5) Where, on account of the gravity of the offence for which any prisoner is in custody or for any other reason, an officer in charge considers it to be desirable to take special measures for the security of the prisoner while he is undergoing treatment in hospital, it shall be lawful for him, by order in writing, to give such prisoner into the custody of fit and proper persons, being not less than two in number and willing to undertake such duty, one of whom at least shall always be with the prisoner by day and by night, and such persons are hereby vested with authority to do all things reasonably necessary to prevent the prisoner from escaping and shall be answerable for his safe custody until such time as he is handed over to an officer in charge on his discharge from hospital, or until such time as his sentence expires, whichever may first occur."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part XI",
+      "section": "75",
+      "title": "Serving sentence while in hospital",
+      "content": "75. Serving sentence while in hospital The period during which a prisoner has been detained in any hospital or institution in terms of section seventy-three or seventy-four shall be reckoned as part of his period of imprisonment. Part XII – Labour of prisoners"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part XII",
+      "section": "76",
+      "title": "Employment of convicted prisoners",
+      "content": "76. Employment of convicted prisoners (1) Notwithstanding any other enactment, every prisoner under sentence of imprisonment may, subject to subsection (2), be kept to labour within or outside the precincts of any prison in any part of Zimbabwe and in any employment that may be approved by the Minister : Provided that, if the judicial officer passing sentence has specified in respect of a prisoner that the sentence of imprisonment is to be without labour, the prisoner shall not be required to perform any labour other than that required of an unconvicted prisoner . (2) Female prisoners shall not be employed outside a prison except on the recommendation of a medical officer , and then only on such labour as may be prescribed."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part XII",
+      "section": "77",
+      "title": "Employment of unconvicted prisoners",
+      "content": "77. Employment of unconvicted prisoners Unconvicted prisoners may elect to be given light employment, but shall be required to keep clean their cells, precincts of cells, clothing, furniture and utensils. Part XIV – Maintenance"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part XIV",
+      "section": "78",
+      "title": "Maintenance of unconvicted prisoners from private sources",
+      "content": "78. Maintenance of unconvicted prisoners from private sources An unconvicted prisoner may be permitted to maintain himself and to arrange for the purchase of, or receive from private sources at proper hours, such food, clothing, bedding or other necessaries as the Commissioner may from time to time determine."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part XIV",
+      "section": "79",
+      "title": "Food, etc., not to be transferred to other prisoners",
+      "content": "79. Food, etc., not to be transferred to other prisoners No food, clothing, bedding or other necessaries permitted under section seventy-eight shall be given, hired or sold to any other prisoner , and any prisoner who contravenes this section shall be liable to lose all privileges permitted under that section for such time as the officer in charge may determine."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part XIV",
+      "section": "80",
+      "title": "Food, clothing and bedding for unconvicted prisoners",
+      "content": "80. Food, clothing and bedding for unconvicted prisoners If an unconvicted prisoner does not provide himself with food, clothing and bedding, he shall receive the normal prison food, clothing and bedding. Part XIII – Prohibited articles and areas"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part XIII",
+      "section": "81",
+      "title": "Power to search",
+      "content": "81. Power to search Any prison officer may examine anything being brought into or being taken out of a prison and may stop and search, or cause to be stopped and searched, any person or vehicle suspected by him of bringing any prohibited article into, or taking any such article out of, a prison , or of carrying out of a prison any property belonging to that prison , and the officer in charge shall immediately be informed of the finding of any such article or property and may seize and dispose of it in accordance with the instructions of the Commissioner."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part XIII",
+      "section": "82",
+      "title": "Penalty for introduction or removal of prohibited articles and for unauthorized communication",
+      "content": "82. Penalty for introduction or removal of prohibited articles and for unauthorized communication Any person who, save as is provided in this Act— (a) removes from or introduces into or throws from or into or attempts by any means whatsoever to remove from or introduce into a prison or takes from or gives to any prisoner any article whatsoever; or (b) communicates with any prisoner; shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [section amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part XIII",
+      "section": "83",
+      "title": "Powers of arrest",
+      "content": "83. Powers of arrest Any prison officer may arrest without a warrant any person who— (a) commits or attempts to commit any offence in terms of section eighty-two; or (b) when suspected by him of committing any offence in terms of section eighty-two, refuses on demand of such prison officer to give his name and address; or (c) on the demand of a prison officer , gives a name or an address which such prison officer knows or has reason to believe to be false or which subsequently proves to be false; and shall deliver such person into custody of a police officer and thereupon such police officer shall proceed as if the offence had been committed in his presence."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part XIII",
+      "section": "84",
+      "title": "Unauthorized communications",
+      "content": "84. Unauthorized communications (1) Every letter or document, except as may be prescribed, written in a prison by or on behalf of a prisoner shall be delivered to the officer in charge of that prison who shall, before the letter or document is removed from the prison, clearly endorse or cause to be endorsed thereon— (a) the name of the prison; and (b) a statement to the effect that its removal from the prison is authorized; and (c) the signature or initials of the prison officer making the endorsement. (2) Every person who comes into possession of a letter or document which he has reasonable cause to believe was written in a prison by or on behalf of a prisoner and which is not endorsed in accordance with subsection (1) shall report that fact as soon as possible to the Commissioner or the officer in charge of the nearest prison and shall deliver the letter or document or cause it to be delivered to the Commissioner or such officer in charge. (3) No person shall, without the authority of the Minister, publish or cause to be published or transmit to any person for publication or otherwise the whole or any part of a letter or document which he has reasonable cause to believe was written in a prison by or on behalf of a prisoner and which is not endorsed in accordance with subsection (1). (4) Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part XIII",
+      "section": "85",
+      "title": "Offences in respect of prisons and prisoners",
+      "content": "85. Offences in respect of prisons and prisoners Any person who— (a) is found loitering within one hundred metres of any prison or other place where prisoners may be for the purpose of imprisonment or labour, and who fails to depart therefrom upon being requested to do so by any prison officer or by a police officer; or (b) in any manner wilfully interferes with any prisoner or gang of prisoners; shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [section amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XIII",
+      "section": "86",
+      "title": "Removal of certain offenders",
+      "content": "86. Removal of certain offenders Any person who is found committing an offence in terms of section eighty-five may be removed from the place where he is committing such offence by a prison officer or a police officer and, if the offence is repeated by any such person after he has once been removed in accordance with this section, he may be arrested without warrant by a prison officer who, if he makes such an arrest, shall hand the offender over to a police officer."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XIII",
+      "section": "87",
+      "title": "Unlawful possession of articles supplied to prison officers",
+      "content": "87. Unlawful possession of articles supplied to prison officers Any person, other than a prison officer , who is found in possession of any article which has been supplied to any prison officer for the purposes of his duty, or of any other prison property and who fails to account satisfactorily for his possession thereof, or who, without lawful authority, purchases or receives any such article or property from any prison officer , or who aids or abets any prison officer in selling or disposing of any such article or property, shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XIII",
+      "section": "88",
+      "title": "Offences in connection with uniforms and decorations",
+      "content": "88. Offences in connection with uniforms and decorations (1) Any persons who wears or uses without due authority any uniform or decoration supplied to or authorized for use by any member of the Service or any uniform or decoration so nearly resembling the same as to be calculated to deceive shall be guilty of an offence. (2) Any person who falsely represents himself by act or words to be a person who is or has been entitled to use or wear any uniform or decoration referred to in subsection (1) shall be guilty of an offence. (3) Any person convicted of an offence in terms of this section shall be liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22/2001 ]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XIII",
+      "section": "89",
+      "title": "Notice to be displayed stating offences in respect of prisons and prisoners",
+      "content": "89. Notice to be displayed stating offences in respect of prisons and prisoners The officer in charge shall cause to be affixed in a conspicuous place outside the prison a notice setting forth the acts prohibited under sections eight-two, eighty-five and eighty-seven and the penalties which may be incurred by their commission. Part XV – Discipline of prisoners"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XV",
+      "section": "90",
+      "title": "Prison offences",
+      "content": "90. Prison offences Any act or omission specified in the Second Schedule shall, when committed by a prisoner , constitute a prison offence, and any specified— (a) in Part I of the Second Schedule shall, when committed by a prisoner , constitute a Part I prison offence; (b) in Part II of the Second Schedule shall, when committed by a prisoner , constitute a Part II prison offence."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XV",
+      "section": "91",
+      "title": "Trial of Part I prison offences",
+      "content": "91. Trial of Part I prison offences A charge against a prisoner in respect of a Part I prison offence shall, subject to this Part, be heard and determined— (a) within a prison , before a court presided over by a visiting justice ; or (b) before a magistrates court."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XV",
+      "section": "92",
+      "title": "Trial of Part II prison offences",
+      "content": "92. Trial of Part II prison offences (1) A charge against a prisoner in respect of a Part II prison offence shall, subject to this Part, be heard and determined— (a) within a prison, before a court presided over by the Commissioner; or (b) at the request of the Commissioner or the officer in charge— (i) within a prison, before a court presided over by a visiting justice; or (ii) before a magistrates court. (2) The Commissioner may confer the power of presiding over a court for the purpose of hearing and determining a charge under this section upon a commissioned officer or an officer in charge and in so doing may limit the power of the officer to award punishments conferred by section ninety-three to punishments less than the maxima specified in that section. (3) In any case where it appears to the Commissioner, the commissioned officer or the officer in charge that a Part II prison offence alleged to have been committed— (a) would not, by reason of its gravity or by reason of previous prison offences or for any other reason, be adequately punished by any punishment which the Commissioner or such officer, as the case may be, may impose in terms of section ninety-three; or (b) should, in the interests of justice, be heard and determined by a visiting justice or magistrate; the Commissioner or such officer, as the case may be, shall request that the charge in respect of that Part II prison offence be heard and determined— (i) within a prison, before a court presided over by a visiting justice; or (ii) before a magistrates court; whichever he may consider appropriate. (4) Where a visiting justice has been requested to hear and determine a charge in terms of subsection (1) or (3) he may— (a) instead of hearing the charge, direct that it be heard before a magistrates court; (b) at any time during the hearing of the charge, change the place of hearing to one outside the prison and adjourn the hearing for that purpose."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XV",
+      "section": "93",
+      "title": "Punishment for prison offences",
+      "content": "93. Punishment for prison offences (1) Subject to this Part, a prisoner found guilty of a prison offence may be awarded any one or more or all of the following punishments— (a) imprisonment for a period not exceeding seven years; [paragraph as amended by section 282 of Act 23 of 2004 ] (b) loss, for a period not exceeding sixty days, of any remission of sentence; (c) deprivation of privileges; (d) extra work for a period not exceeding ten days. (2) A prisoner found guilty of a Part II prison offence by the Commissioner or a commissioned officer or officer in charge may not be awarded a punishment of imprisonment. (3) A sentence of imprisonment awarded for a prison offence to a prisoner who— (a) is a convicted prisoner , shall commence on the date of expiry of the sentence of imprisonment being served by the convicted prisoner at the time of the offence; (b) is not a convicted prisoner , shall commence on the date the sentence of imprisonment is awarded."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XV",
+      "section": "94",
+      "title": "Special provisions relating to prisoner undergoing sentence of periodical imprisonment",
+      "content": "94. Special provisions relating to prisoner undergoing sentence of periodical imprisonment (1) Notwithstanding section ninety-three, a prisoner undergoing a sentence of periodical imprisonment who is found guilty of a prison offence may be awarded, in lieu of any punishment referred to in that section, an additional period of periodical imprisonment of not less than twelve hours and not more than ninety-six hours. (2) Subsection (5) of section 345 of the Criminal Procedure and Evidence Act [Chapter 9:07] shall apply, mutatis mutandis , in respect of a prisoner who is undergoing a sentence of periodical imprisonment and who is sentenced to any other form of detention in terms of section ninety-three."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XV",
+      "section": "95",
+      "title": "Trials by visiting justices",
+      "content": "95. Trials by visiting justices Where a prison offence is heard and determined by a visiting justice in terms of this Part— (a) the jurisdiction of the visiting justice in respect of imprisonment shall, subject to section ninety-three, be the same as it would be if the offence were being heard by that visiting justice before a magistrates court; (b) so far as is possible in the circumstances, the Magistrates Court Act [Chapter 7:10] , the Criminal Procedure and Evidence Act [Chapter 9:07] including the provisions relating to competent verdicts on particular charges, and the High Court of Zimbabwe Act [Chapter 7:06] , shall apply, mutatis mutandis , in respect of the proceedings as though they were proceedings before a magistrates court."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XV",
+      "section": "96",
+      "title": "Trials by prison officers",
+      "content": "96. Trials by prison officers Where a Part II prison offence is to be heard and determined by the Commissioner or a commissioned officer or officer in charge in terms of this Part, the procedure to be followed in connection with the charging of the prisoner and the proceedings before the court, including competent verdicts on particular charges, shall be as prescribed."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part XV",
+      "section": "97",
+      "title": "Prosecution for offences under other laws",
+      "content": "97. Prosecution for offences under other laws Nothing in this Part shall be construed as precluding the prosecution of a prisoner for an offence in terms of any other law: Provided that no prisoner shall be punished twice for the same act or omission."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part XV",
+      "section": "98",
+      "title": "Review of cases heard by Commissioner, commissioned officer or officer in charge",
+      "content": "98. Review of cases heard by Commissioner, commissioned officer or officer in charge (1) Any case heard and determined in terms of this Part, may be reviewed— (a) if the case was heard by the Commissioner, by the chief magistrate or a regional or provincial magistrate within whose jurisdiction the prison is situated; (b) if the case was heard by a commissioned officer or officer in charge , by the chief magistrate or a regional, provincial or senior magistrate within whose jurisdiction the prison is situated. (2) On review of any proceedings in terms of subsection (1) the magistrate may hear any evidence and, whether or not he has heard any evidence, he may— (a) confirm the conviction and sentence; or (b) alter or quash the conviction; or (c) reduce or set aside the sentence or substitute a different sentence from that imposed by the Commissioner, commissioned officer or officer in charge , as the case may be: Provided that— (i) the sentence so substituted shall not be more severe than the sentence imposed by the Commissioner or such officer, as the case may be; (ii) a magistrate shall not reduce or set aside the sentence or substitute a different sentence unless another magistrate has agreed that such alteration of sentence is in the interests of justice; or (d) refer the matter back to the Commissioner, commissioned officer or officer in charge , as the case may be, for reconsideration, with instructions in regard to the taking of further evidence or otherwise as he may consider necessary or desirable. Part XVI – Escapes [Part XVI repealed by section 282 of Act 23 of 2004 ]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XVI",
+      "section": "99",
+      "title": "***",
+      "content": "99. *** [section repealed by section 282 of Act 23 of 2004 ]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XVI",
+      "section": "100",
+      "title": "***",
+      "content": "100. *** [section repealed by section 282 of Act 23 of 2004 ] Part XVII – Corporal punishment"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XVII",
+      "section": "101",
+      "title": "Interpretation in Part XVII",
+      "content": "101. Interpretation in Part XVII In this Part— “ corporal punishment ” means a moderate correction of whipping referred to in section 353 of the Criminal Procedure and Evidence Act [Chapter 9:07] ."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XVII",
+      "section": "102",
+      "title": "Corporal punishment: confirmation",
+      "content": "102. Corporal punishment: confirmation Where any enactment provides for confirmation of any sentence of corporal punishment awarded by a court, no such sentence shall be carried out until it has been confirmed in accordance with such enactment."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XVII",
+      "section": "103",
+      "title": "Medical officer and officer in charge to be present while corporal punishment is being inflicted",
+      "content": "103. Medical officer and officer in charge to be present while corporal punishment is being inflicted A sentence of corporal punishment shall not be carried out unless the medical officer who examined the prisoner in terms of subsection (4) of section 353 of the Criminal Procedure and Evidence Act [Chapter 9:07] and the officer in charge are present while the corporal punishment is being inflicted on the prisoner."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XVII",
+      "section": "104",
+      "title": "Sentence of corporal punishment may be stayed",
+      "content": "104. Sentence of corporal punishment may be stayed The medical or prison officer mentioned in section one hundred and three may at any time during the carrying out of the sentence of corporal punishment intervene and prohibit the remainder of the sentence from being carried out if, in his opinion, the punishment is likely to cause more serious injury than is contemplated in the sentence."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XVII",
+      "section": "105",
+      "title": "Corporal punishment not to be inflicted by instalments",
+      "content": "105. Corporal punishment not to be inflicted by instalments No sentence of corporal punishment shall be carried out by instalments. Part XVIII – Prisoners under sentence of death"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part XVIII",
+      "section": "106",
+      "title": "Confinement of condemned prisoner",
+      "content": "106. Confinement of condemned prisoner Every prisoner sentenced to death shall be confined in some safe place within a prison and, if possible, shall be kept apart from other prisoners and shall be placed under constant observation both by day and by night."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part XVIII",
+      "section": "107",
+      "title": "Person who may have access to condemned prisoner",
+      "content": "107. Person who may have access to condemned prisoner No person other than a prison officer, a medical officer, a visiting justice, a minister of religion or a person authorized by the Commissioner shall have access to a prisoner under sentence of death: Provided that such prisoner may, with the consent of and subject to any reasonable conditions which may be imposed by the Commissioner or the officer in charge, be visited by his legal advisers and such of his relatives and friends as he may express a wish to see."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part XVIII",
+      "section": "108",
+      "title": "Attendance at execution by officials",
+      "content": "108. Attendance at execution by officials (1) Executions shall be carried out at such prisons as the Commissioner may specify and shall be attended by the officer in charge and such other prison officers as the Commissioner or officer in charge may direct, and may be attended by the Sheriff or a deputy sheriff of Zimbabwe, by a minister of religion and by such other persons as the Minister may authorize. (2) As soon as may be after sentence of death has been executed on the prisoner , the medical officer shall examine the body and shall ascertain the fact of death and shall sign a certificate thereof and deliver such certificate to the officer in charge , who shall also sign such certificate and transmit it to the registrar of the court which imposed the sentence. Part XIX – Remission of sentence"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part XIX",
+      "section": "109",
+      "title": "Remission",
+      "content": "109. Remission (1) A convicted prisoner under sentence of imprisonment for a period of more than one month, other than a prisoner sentenced to imprisonment for life or to periodical or extended imprisonment , may, subject to such conditions as may be prescribed, earn by satisfactory industry and good conduct remission of one-third of his sentence: Provided that in no case shall a sentence be reduced by reason of remission to less than one month. (2) The Commissioner may restore in whole or in part any remission forfeited or lost under this Act."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part XIX",
+      "section": "110",
+      "title": "Remission on special grounds",
+      "content": "110. Remission on special grounds The Commissioner may recommend to the Minister , who, if he thinks fit, may recommend to the President that remission should be granted to a prisoner by reason of the meritorious conduct or the mental or physical condition of such prisoner . Part XX – Release of prisoners on licence or order"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part XX",
+      "section": "111",
+      "title": "Interpretation in Part XX",
+      "content": "111. Interpretation in Part XX In this Part— “ Advisory Board ” means the Prisoners Release Advisory Board established by section one hundred and twelve; “ licence ” means a licence issued in terms of section one hundred and fifteen; “ order ” means an order issued in terms of section one hundred and sixteen; “ Parole Board ” means the Parole Board established by section one hundred and thirteen."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part XX",
+      "section": "112",
+      "title": "Prisoners Release Advisory Board",
+      "content": "112. Prisoners Release Advisory Board (1) There is hereby established a board, to be known as the Prisoners Release Advisory Board . (2) The Advisory Board shall consist of— (a) a chairman who shall be a provincial magistrate or senior magistrate; and (b) not less than two other members; appointed by the Minister . (3) Members of the Advisory Board shall hold office for such period and on such terms and conditions as the Minister may in each case fix. (4) Members of the Advisory Board may be paid out of moneys appropriated for the purpose by Parliament such remuneration and allowances as the Minister , with the approval of the Minister responsible for finance, may from time to time fix. (5) The functions of the Advisory Board shall be to consider the cases referred to it by the Commissioner of prisoners who might be or have been released in terms of this Part and to make recommendations for the purposes of sections one hundred and fifteen and one hundred and sixteen. (6) The quorum and procedure at a meeting of the Advisory Board and the proceedings of the Advisory Board shall be as fixed from time to time by the Minister ."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part XX",
+      "section": "113",
+      "title": "Parole Board",
+      "content": "113. Parole Board (1) There is hereby established a board, to be known as the Parole Board . (2) The Parole Board shall consist of such number of members being not less than three, as the Minister may appoint. (3) Members of the Parole Board shall hold office for such period and on such terms and conditions as the Minister may in each case fix. (4) Members of the Parole Board may be paid out of moneys appropriated for the purpose by Parliament such remuneration and allowances as the Minister , with the approval of the Minister responsible for finance, may from time to time fix. (5) The functions of the Parole Board shall be— (a) to consider the cases of prisoners who are serving sentences of extended imprisonment and to make reports to the Minister as to the treatment and release on licence of such prisoners; and (b) to exercise such other powers and perform such other duties as may be prescribed. (6) The quorum and procedure at meetings of the Parole Board shall be as fixed from time to time by the Minister ."
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part XX",
+      "section": "114",
+      "title": "Reports by Parole Board on prisoners undergoing extended imprisonment",
+      "content": "114. Reports by Parole Board on prisoners undergoing extended imprisonment (1) For the purpose of exercising its functions in terms of section one hundred and thirteen, the Parole Board shall, subject to this section, consider and report on the case of each prisoner who is serving a sentence of extended imprisonment — (a) within one month after the expiry of the minimum period of such imprisonment determined in accordance with subsection (3) of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; and (b) thereafter at intervals of not more than twelve months; and may, in addition, consider and report on the case of any such prisoner at any other times that the Parole Board thinks appropriate. (2) When making a report to the Minister as to the release of any prisoner , the Parole Board shall have regard to all the relevant circumstances of the case and of the prisoner , and in particular to— (a) the number and nature of the offences committed by the prisoner ; and (b) the period during which the prisoner has been detained; and (c) the behaviour of the prisoner while in prison ; and (d) the likelihood of the prisoner leading a useful and law-abiding life outside prison ; and (e) the need to protect the public. (3) Whenever it has made a report to the Minister as to the release of any prisoner , the Parole Board shall, within one month after making the report— (a) inform the prisoner whether or not the Parole Board has recommended his release; and (b) if the Parole Board has not recommended his release, inform the prisoner briefly of the reasons why no such recommendation was made."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part XX",
+      "section": "115",
+      "title": "Release of prisoners by Minister",
+      "content": "115. Release of prisoners by Minister (1) Subject to subsection (3), the Minister may at any time release on licence , for such period and subject to such conditions as may be specified in the licence , any convicted prisoner , including a prisoner who has been sentenced to periodical or extended imprisonment , other than a prisoner who has been sentenced to death or to imprisonment for life. (2) Subject to subsection (4), the Minister may at any time— (a) amend, cancel or add to any of the conditions of a licence ; (b) cancel a licence and direct that the person concerned be returned to a prison . (3) The Minister shall not exercise the powers conferred upon him by subsection (1) in relation to— (a) a prisoner serving a sentence of extended imprisonment — (i) except after consultation with the Parole Board ; and (ii) unless the prisoner concerned— (A) has served the minimum period of such imprisonment determined in accordance with subsection (3) of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; or (B) is infirm by reason of advanced age or terminal or chronic illness or is disabled, and can be cared for outside prison ; (b) a prisoner other than a prisoner referred to in paragraph (a), except after consultation with the Advisory Board . (4) The Minister shall not exercise the powers conferred upon him by paragraph (a) of subsection (2) in relation to— (a) a person who was released from a sentence of extended imprisonment , except after consultation with the Parole Board ; (b) a person other than a person referred to in paragraph (a), except after consultation with the Advisory Board ."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part XX",
+      "section": "116",
+      "title": "Release of prisoners by Commissioner",
+      "content": "116. Release of prisoners by Commissioner (1) Subject to subsection (3) and any orders or directions of the Minister , the Commissioner may at any time, by order , release, for such period and subject to such conditions as may be specified in the order , a convicted prisoner who— (a) is serving a sentence of imprisonment which does not exceed two years; or (b) was sentenced to imprisonment other than an extended imprisonment for a period which exceeded two years and has less than two years still to serve. (2) Subject to subsection (3), the Commissioner may at any time— (a) amend, cancel or add to any of the conditions of an order ; (b) cancel an order and direct that the person concerned be returned to a prison . (3) The Commissioner— (a) shall not exercise the powers conferred on him by subsection (1) or paragraph (a) of subsection (2) except on the recommendation of the Advisory Board ; (b) shall not order the release of a prisoner unless the prisoner has served at least one month of his sentence of imprisonment. (4) For the purpose of calculating the period of imprisonment still to be served by a prisoner referred to in paragraph (b) of subsection (1) any remission of sentence to which that prisoner is entitled at the date the order is made shall not be included as part of the period of imprisonment he has still to serve."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part XX",
+      "section": "117",
+      "title": "Conditions of release",
+      "content": "117. Conditions of release (1) In fixing the conditions to be specified in a licence or order, the Minister or Commissioner, as the case may be, may fix such conditions as he considers to be desirable in the circumstances and, without derogation from the generality of the foregoing, may fix conditions relating to— (a) the area in which the person concerned is to reside; (b) an area which the person concerned may not visit; (c) the occupation or employment to be undertaken by the person concerned; (d) the making of reports to a specified person or authority by the person concerned; (e) the permanent departure of the person concerned from Zimbabwe: Provided that, in the case of a person who is a citizen of Zimbabwe, no condition requiring his departure from Zimbabwe may be fixed. (2) The provisions of this Act relating to the remission of sentence shall continue to apply, mutatis mutandis , to a person who has been released on licence or by order."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part XX",
+      "section": "118",
+      "title": "Arrest and detention of persons released on licence or order",
+      "content": "118. Arrest and detention of persons released on licence or order (1) Where— (a) the Minister has, in terms of subsection (2) of section one hundred and fifteen, cancelled a licence ; or (b) the Commissioner has, in terms of subsection (2) of section one hundred and sixteen, cancelled an order ; and directed that the person concerned be returned to a prison any prison officer or police officer may arrest that person without warrant and convey him to a prison and, until that person is so arrested, he shall be deemed to be unlawfully at large. (2) If a prison officer or police officer has reason to believe that a person who has been released on licence or by order has contravened any condition of the licence or order for his release, he may arrest that person without warrant and convey him to a prison . (3) Whenever a prison officer or police officer arrests a person in terms of subsection (1) or (2), he shall forthwith inform that person of the reasons for his arrest. (4) The officer in charge of a prison to which a person has been conveyed in terms of subsection (2) shall, unless he is satisfied that a mistake has been made— (a) detain that person in the prison as though the licence or order for his release had been cancelled; and (b) forthwith inform— (i) if that person was released on licence , the Minister ; (ii) if that person was released by order , the Commissioner; of the arrest and imprisonment of that person and of the reasons therefor. (5) On receiving any information in terms of subsection (4), the Minister or Commissioner, as the case may be— (a) shall refer the matter to the Parole Board or Advisory Board , as the case may be; and (b) shall, subject to section one hundred and fifteen or one hundred and sixteen, as the case may be, issue a further licence or order , as the case may be, or cancel the licence or order as he thinks fit. (6) Where a licence or order for the release of a person has been cancelled in terms of section one hundred and fifteen or one hundred and sixteen, as the case may be, that person shall be liable to undergo imprisonment— (a) subject to section sixty-five, in the case of a person who was released from a sentence of extended imprisonment , until the expiry of the maximum period of imprisonment determined in accordance with subsection (3) of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; (b) in the case of a person other than a person referred to in paragraph (a), for the remainder of the period for which he was sentenced; unless he is earlier released again in terms of this Part."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part XX",
+      "section": "119",
+      "title": "Serving sentence while on release",
+      "content": "119. Serving sentence while on release The period from the date when a person is released on licence or by order until the expiration or cancellation of the licence or order shall be reckoned as part of his period of imprisonment."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part XX",
+      "section": "120",
+      "title": "Transitional provisions",
+      "content": "120. Transitional provisions (1) Every person who, on the 6th May, 1983, was serving a sentence in consequence of having been declared a habitual criminal shall be deemed thereafter to be serving a sentence of extended imprisonment the length of which shall be determined in accordance with subsection (3). (2) Where a person had been released on licence before the 6th May, 1983, from an indeterminate sentence he was serving in consequence of his having been declared a habitual criminal, and his licence had not expired before that date, he shall be deemed to have been released on licence from a sentence of extended imprisonment the length of which shall be calculated in accordance with subsection (3). (3) The length of a sentence of extended imprisonment for the purposes of subsection (1) or (2) shall be deemed to be a minimum of seven year and a maximum of fifteen years, calculated from the date on which the person concerned was declared to be a habitual criminal. Part XXI – Report on long-term prisoners"
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part XXI",
+      "section": "121",
+      "title": "Report on long-term prisoners",
+      "content": "121. Report on long-term prisoners (1) At the end of every four years’ imprisonment of each prisoner serving a sentence of imprisonment, other than extended imprisonment or imprisonment for life, exceeding seven years, the Commissioner shall forward a report upon such prisoner to the Minister who may, if he thinks fit, submit it to the President. [subsection as amended by section 22(1) of Act No. 8 of 1997 ] (1a) At the end of every five years’ imprisonment after the first ten years served by each prisoner undergoing imprisonment for life, the Commissioner shall forward a report upon the prisoner to the Minister who may, if he thinks fit, submit it to the President. [subsection as inserted by section 22(1) of Act No. 8 of 1997 .] (2) Where the Minister asks for a report on any prisoner to be supplied at any time or at intervals more frequent than those provided in subsection (1), or (1a) the Commissioner shall supply such report as requested, and shall arrange for compliance with any instructions as to pardon, respite, reprieve, commutation or remission of sentence given by the President. [subsection as amended by section 22(1) of Act No. 8 of 1997 .] Part XXII – Discharge of prisoners"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part XXII",
+      "section": "122",
+      "title": "Officer in charge to be responsible for discharge of prisoners",
+      "content": "122. Officer in charge to be responsible for discharge of prisoners (1) Every officer in charge shall be responsible for the due discharge from prison of all prisoners under his control immediately upon their becoming entitled thereto. (2) Where, by or under any enactment, a prisoner becomes entitled to discharge from a prison otherwise than by the expiration of his sentence, the officer in charge shall not discharge him otherwise than in accordance with the terms of an order , warrant or instruction issued in writing under the hand of a person authorized to do so under such enactment or in due course of law."
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part XXII",
+      "section": "123",
+      "title": "Travelling expenses of prisoner on discharge",
+      "content": "123. Travelling expenses of prisoner on discharge The travelling expenses to such place as the Commissioner may determine of a prisoner on his discharge from prison shall, if the Commissioner by standing orders or otherwise so directs, be a charge against public funds. Part XXIII – General"
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Part XXIII",
+      "section": "124",
+      "title": "List of unconvicted prisoners to be delivered to High Court",
+      "content": "124. List of unconvicted prisoners to be delivered to High Court (1) In this section— “quarter day” means the 1st January, the 1st April, the 1st July and the 1st October of any year. (2) Within fourteen days of each quarter day, every officer in charge shall deliver to the registrar of the High Court a list (a) showing all the prisoners who, on the quarter day concerned, were under detention in his prison, other than convicted prisoners who were serving their sentences of imprisonment; and (b) specifying in the case of each prisoner shown on the list, the date of the prisoner’s admission and the authority for the prisoner’s detention. [subsection substituted by section 9 of Act 14/2002 ]"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Part XXIII",
+      "section": "125",
+      "title": "Rewards for apprehension of escaped prisoners",
+      "content": "125. Rewards for apprehension of escaped prisoners (1) The Commissioner may offer rewards to persons who give information leading to the apprehension of prisoners who have escaped from custody, and any person giving any such information, whether or not any such offer has previously been made, and any person who apprehends, secures and hands over or causes to be handed over to any officer in charge any prisoner who has escaped may be paid his just and reasonable expenses and, in addition, such sum by way of reward as the Commissioner may determine. (2) No payment of any sum as a reward shall be made under the authority of this section to any prison officer or police officer unless, in the opinion of the Commissioner, such exceptional circumstances exist as to justify such a payment being made."
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Part XXIII",
+      "section": "126",
+      "title": "Commutation of death sentence to sentence of imprisonment",
+      "content": "126. Commutation of death sentence to sentence of imprisonment Where the President pardons any person who has been sentenced to death on condition that he serves a period of imprisonment, that person shall be deemed to have been sentenced to such period by the court before which he was convicted."
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Part XXIII",
+      "section": "127",
+      "title": "Compensation for injury or loss caused by person performing community service",
+      "content": "127. Compensation for injury or loss caused by person performing community service (1) In this section— “community service” means any service rendered for the benefit of the community or a section thereof, which is rendered by a person in compliance with a condition of postponement or suspension of sentence made in terms of paragraph (a) or (b) of subsection (2) of section 358 of the Criminal Procedure and Evidence Act [Chapter 9:07] ; “injured party” means a person who has suffered bodily injury or patrimonial loss as a result of a delict referred to in subsection (2). (2) Subject to subsection (3), where a person, in the course of rendering community service, commits a delict which causes bodily injury or patrimonial loss to any other person, the State shall be liable to compensate the injured party for such injury or loss in all respects as if the person rendering community service were employed by the State to render such service, and the State may avail itself of any defence, limitation or other relief that would have been available to it had it been the employer of the person rendering community service, including any defence or relief based on the contributory negligence of any other person. (3) The State’s liability to compensate an injured party under subsection (2) shall be reduced by any amount which the injured party is entitled to recover in respect of his injury or loss under a contract of insurance or indemnity. (4) Where the State has compensated an injured party in terms of this section, all the injured party’s rights and remedies against the wrongdoer shall pass to the State, to the extent that they are satisfied by the compensation so paid. (5) Nothing in this section shall prevent the State from making an ex gratia payment to an injured party in respect of any injury, loss or damage for which the State is not liable under subsection (2)."
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Part XXIII",
+      "section": "128",
+      "title": "Removal of prisoners outside Zimbabwe",
+      "content": "128. Removal of prisoners outside Zimbabwe (1) Any person who has been sentenced to imprisonment by any court within Zimbabwe may, by warrant signed by the Minister , be removed to any country in which he was born or where he normally resided before his entry into Zimbabwe, in order that such person may be detained in any prison in such country until the expiration of his sentence or release according to law: Provided that no person who is domiciled in Zimbabwe in terms of the Immigration Act [Chapter 4:02] shall be removed in accordance with this subsection without his consent. (2) Any person detained in custody by reason of his having been charged with an offence and either found to have been insane at the time of such offence, or found or certified or otherwise lawfully proved to be unfit on the grounds of his insanity to be tried for such offence, and any person convicted of an offence and afterwards certified or otherwise lawfully proved to be insane may, by warrant signed by the Minister , be removed to any such territory as is provided in subsection (1), in order that such person may be confined in such place as may be stated in such warrant until the Minister may otherwise determine. (3) Any person in the course of removal under a warrant signed in accordance with this section shall be deemed to be in lawful custody whilst in any part of Zimbabwe. (4) Nothing in this Act shall prevent the conviction, judgment, finding, order or sentence recorded or made in respect of any person removed in terms of this section from being questioned within Zimbabwe in the same manner as if he had not been removed, and the sentence of such person may be remitted and his discharge ordered in the same manner and by the same authority as if he had not been removed."
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Part XXIII",
+      "section": "129",
+      "title": "Minister may grant permission to be absent from prison",
+      "content": "129. Minister may grant permission to be absent from prison The Minister may, subject to such conditions as he may specify, grant a prisoner permission in writing to be absent from prison for a specified period for personal, family or other reasons if, in the opinion of the Minister , the circumstances of the case warrant the granting of such permission."
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Part XXIII",
+      "section": "130",
+      "title": "Power to make regulations",
+      "content": "130. Power to make regulations (1) Subject to this Act and section 231(2) of the Constitution, the Minister may make regulations with respect to any of the following matters— (a) the conditions of service of prison officers and other persons employed in prisons, including the qualifications for their appointment and promotion, their remuneration and discipline and their punishment for breaches of discipline; (b) the functions of prison officers and other persons employed in prisons; (c) measures for the prevention of contagious and infectious diseases in prisons or for the preservation of the general health of prisoners; (d) the powers and duties of visiting justices, official visitors, ministers of religion and prisoners’ aid societies; (e) the type and description of cells for separate confinement; (f) the safe custody, classification, hours of labour, mode of employment, segregation, diet, clothing, maintenance, instruction, discipline, discharge, treatment, correction and training of prisoners; (g) the time and day of discharge of a prisoner , other than a prisoner who has been committed to prison under an enactment relating to imprisonment for non-payment of debts: Provided that any regulations made in terms of this paragraph shall not extend the period of imprisonment which a person is liable to undergo; (h) the manner in which and the conditions under which a sentence of periodical imprisonment shall be served, including, the times when a prisoner serving a sentence shall present himself to undergo the sentence, and regulations made in terms of this paragraph shall, in so far as they conflict with any other provisions of this Act, take precedence over those other provisions; (i) visits to and communications with prisoners; (j) the introduction of a progressive stage system; (k) the introduction of a payment system for prisoners; (l) the responsibility and safekeeping of all stores, equipment and accoutrements issued to prisons; (m) accounts and accounting procedures; (n) preventing prison officers or visitors or other persons who have access to prisons from divulging to any unauthorized person any information concerning the administration of prisons or the condition, treatment and affairs of prisoners; (o) the establishment, constitution, functions and procedure of a prison officers’ association and matters incidental thereto; (p) the custody and maintenance, including charges to be paid by a judgment creditor, of persons who may be committed to a prison under any enactment relating to imprisonment for non-payment of debts; (q) the treatment of prisoners serving sentences of extended imprisonment ; (r) the establishment of such boards as the Minister considers necessary or expedient for any purpose arising under this Act and the powers, rights, privileges and duties of, and the procedure to be followed by, such boards; (s) applying, with such modification as may be considered necessary or desirable, the provisions of this Act and any other enactment which applies in respect of prison officers to persons who undergo National Service in the Service in terms of the National Service Act [Chapter 11:08] ; (t) prescribing anything to be prescribed under this Act; (u) generally for the effective administration of this Act, the good management and government of prisons and the discipline and safe custody of prisoners. (2) Regulations made under subsection (1) may prescribe penalties for a contravention thereof not exceeding a fine of level six or imprisonment for a period of one year. (3) No regulations shall be made in terms of subsection (1) unless they have been submitted to the Prisons and Correctional Service Commission and the Commissioner for examination and recommendation. Schedule (Section 90) Prison offences Part I – Prison offences 1. Mutiny. 2. Attacking or taking part in an attack upon a prison officer. 3. Escaping or procuring the escape of another prisoner or assisting another prisoner to escape from a prison in which he is detained or from a conveyance, hospital or other place whatsoever where or in which he may be or whilst in the course of removal in custody from one place to another or from any other lawful custody. 4. Any conspiracy, incitement or attempt to commit any prison offence specified in this Part. Part II – Prison offences 1. Possessing any instrument or other thing with intent to procure his own escape or that of another prisoner. 2. Omitting or refusing to help any prison officer to prevent an escape, an attempted escape or an attack upon such officer or upon another prisoner. 3. Taking part in an attack upon another prisoner. 4. Any assault or act of violence upon a prisoner or person other than a prison officer. 5. Brawling or engaging in any loud argument or altercation with any other prisoner. 6. Making groundless complaints. 7. Making false charges against a prison officer in reply to any question as to matters concerning the prison or prison discipline, or answering untruthfully any questions put by a prison officer while carrying out any of the provisions of this Act. 8. Holding any communication, in writing, by word of mouth or otherwise, with a prisoner or any other person in disobedience of the regulations of the prison. 9. Doing any act calculated to create unnecessary alarm among prisoners or prison officers. 10. Omitting or refusing to march as ordered, when within the prison or when proceeding to or returning from work outside the prison. 11. Refusing, without satisfactory reason, to eat the food provided. 12. Eating or appropriating any food not assigned to him or taking from or adding to the portions of food assigned to other prisoners. 13. Without permission of a prison officer, removing food from a cookhouse or from a place where meals are served or disobeying any order as to the issue and distribution of food and drink. 14. Wilfully destroying food or throwing it away without orders. 15. Introducing into food or drink anything likely to render it unpalatable or unwholesome. 16. Omitting or refusing to wear the clothing issued to him or exchanging any portion of it for the clothing of another prisoner or losing, discarding, damaging or altering any part of it. 17. Removing, defacing or altering any distinctive number, mark or badge attached to or worn on clothing issued to him or another prisoner. 18. Omitting or refusing to keep his person clean or disobeying any order as to the cutting or shaving of hair. 19. Omitting or refusing to keep clothing, blankets, bedding or equipment clean or disobeying any order as to the arrangement or disposition of any such articles. 20. Interfering in any way with prison locks, lamps, lights or other public property without authority. 21. Stealing the clothing or any part of the prison equipment or the private property of any other prisoner. 22. Committing a nuisance in any part of the prison. 23. Defacing or injuring the walls, furniture or other property of the prison. 24. Spitting on or otherwise soiling any floor, door, wall or other part of the prison building or any article in the prison. 25. Wilfully fouling latrines or washing or bathing places. 26. Failing or refusing to take due care of or injuring, destroying or misappropriating any tools or any clothing or other articles, being public property. 27. Wilfully causing to himself or failing to report any illness, injury or disability. 28. Committing any act of insubordination. 29. Failing to assist in the suppression of violence. 30. Contravening or failing or neglecting to comply with any regulation or lawful order, including a standing order, made under this Act with which it is his duty to comply. 31. Treating with disrespect any prison officer or visitor or any person employed in connection with the prison. 32. Being idle, careless or negligent at work or refusing to work. 33. Leaving his cell or other appointed location, or his place of work, without permission. 34. Receiving or having in his possession"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "commissioned officer",
+      "definition": "commissioned officer ” means a prison officer of one of the ranks referred to in subsection (2) of section five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner-General",
+      "definition": "Commissioner-General ” means the Commissioner-General of Prisons and Correctional Service appointed in terms of section 229(1) of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "convicted prisoner",
+      "definition": "convicted prisoner ” means any prisoner under sentence of a court or court martial",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Commissioner",
+      "definition": "Deputy Commissioner ” means a Deputy Commissioner of Prisons and Correctional Service referred to in section 5 (1)(b)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extended imprisonment",
+      "definition": "extended imprisonment ” means extended imprisonment imposed in terms of section 346 of the Criminal Procedure and Evidence Act [Chapter 9:07]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mechanical restraint",
+      "definition": "mechanical restraint ” means restraint by the use of hand-cuffs, leg irons, strait-jacket or any other form of restraint approved by the Minister",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical officer",
+      "definition": "medical officer ” means a medical officer appointed or nominated under section thirty-six",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may from time to time assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-commissioned officer",
+      "definition": "non-commissioned officer ” means a prison officer other than a commissioned officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer in charge",
+      "definition": "officer in charge ” means the person appointed to be in charge of a prison under section twenty-four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official visitor",
+      "definition": "official visitor ” means a person appointed as such under section forty-eight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "penal diet",
+      "definition": "penal diet ” means a punishment diet prescribed as a penal diet",
+      "source_provision": "s2"
+    },
+    {
+      "term": "periodical imprisonment",
+      "definition": "periodical imprisonment ” means periodical imprisonment imposed in terms of section 345 of the Criminal Procedure and Evidence Act [Chapter 9:07]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison",
+      "definition": "prison ” means any building or place declared to be a prison and includes a temporary prison established under section four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prisoner",
+      "definition": "prisoner ” means any person, whether convicted or not, under detention in any prison",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Prisons and Correctional Service Commission",
+      "definition": "Prisons and Correctional Service Commission ” means the Prisons and Correctional Service Commission established by section 230 of the Constitution and “Commission” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prohibited article",
+      "definition": "prohibited article ” means any article which is not issued to any prisoner by authority of the officer in charge , with the approval of the Commissioner or in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reduced diet",
+      "definition": "reduced diet ” means a punishment diet prescribed as a reduced diet",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Service",
+      "definition": "Service ” means the Prisons and Correctional Service established by section 229(1) of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unconvicted prisoner",
+      "definition": "unconvicted prisoner ” means any person, not being a convicted prisoner , duly committed to custody under a writ, warrant or order of any court or any order of detention issued by any person authorized thereto by any enactment or by order of a court martial",
+      "source_provision": "s2"
+    },
+    {
+      "term": "visiting justice",
+      "definition": "visiting justice ” means a visiting justice appointed under section forty-five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "weapon",
+      "definition": "weapon ” means any firearm, baton or tear smoke or such other instrument as may be prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "young prisoner",
+      "definition": "young prisoner ” means a prisoner under the apparent age of nineteen years and may, at the discretion of an officer in charge , include a prisoner whose apparent age does not exceed twenty years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison officer",
+      "definition": "prison officer ” means any officer of the Service and includes— (a) the Commissioner; and (b) every Deputy Commissioner ; and (c) any officer seconded to the Service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Advisory Board",
+      "definition": "Advisory Board ” means the Prisoners Release Advisory Board established by section one hundred and twelve",
+      "source_provision": "s111"
+    },
+    {
+      "term": "licence",
+      "definition": "licence ” means a licence issued in terms of section one hundred and fifteen",
+      "source_provision": "s111"
+    },
+    {
+      "term": "order",
+      "definition": "order ” means an order issued in terms of section one hundred and sixteen",
+      "source_provision": "s111"
+    }
+  ]
+}

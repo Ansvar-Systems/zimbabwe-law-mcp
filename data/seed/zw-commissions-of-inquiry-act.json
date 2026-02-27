@@ -1,0 +1,134 @@
+{
+  "id": "zw-commissions-of-inquiry-act",
+  "type": "statute",
+  "title": "Commissions of Inquiry Act",
+  "title_en": "Commissions of Inquiry Act",
+  "short_name": "Commissions of Inquiry Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1941/4/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Commissions of Inquiry Act [Chapter 10:07] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Power to appoint commissions of inquiry into matters of public nature",
+      "content": "2. Power to appoint commissions of inquiry into matters of public nature (1) The President may, when he considers it advisable, by proclamation, appoint a commission of inquiry consisting of one or more commissioners and may authorize the commissioner or commissioners or any quorum of them specified in the proclamation to inquire into the conduct of any officer in the Public Service, the conduct of any chief appointed in terms of the Chiefs and Headmen Act [Chapter 29:01] , the conduct or management of any department of the Public Service or of any public or local institution, or into any matter in which any inquiry would, in the opinion of the President, be for the public welfare. (2) A proclamation made in terms of subsection (1) shall specify the subject of inquiry, and may, in the discretion of the President, if there is more than one commissioner, direct which commissioner shall be chairman and direct where and when the inquiry shall be held and the report thereof rendered, and prescribe how the commission shall be executed, and may direct whether the inquiry shall or shall not be held in public."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to appoint fresh commissioners and to alter and revoke proclamations",
+      "content": "3. Power to appoint fresh commissioners and to alter and revoke proclamations (1) If any commissioner is or becomes unable or unwilling to act or dies, the President may appoint another commissioner in his place. (2) A proclamation made in terms of this Act may be amended by the President as he thinks fit or may be revoked altogether by a statutory instrument to that effect."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Proclamations not affected by change of President",
+      "content": "4. Proclamations not affected by change of President No proclamation made in terms of this Act shall lapse by reason of or be otherwise affected by the death, absence or removal of the President who made the proclamation."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Oath of office by commissioners",
+      "content": "5. Oath of office by commissioners It shall be the duty of each commissioner appointed in terms of this Act to make and subscribe an oath that he will faithfully, fully, impartially and to the best of his ability discharge the trust and perform the duties devolving upon him by virtue of his appointment, which oath may be taken before the President or before such person as the President may appoint and shall be deposited by the commissioner with the Secretary to the President."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Appointment of secretary",
+      "content": "6. Appointment of secretary The President may appoint a secretary to attend the sittings of the commission to record its proceedings, to keep its papers, to summon and minute the testimony of witnesses and generally to perform such duties connected with such inquiry as the commissioners shall direct."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Duties of commissioners",
+      "content": "7. Duties of commissioners It shall be the duty of the commissioners after taking the oath referred to in section five— (a) to make a full, faithful and impartial inquiry into the matters specified in the proclamation; and (b) to conduct the inquiry in accordance with the directions, if any, in the proclamation; and (c) in due course, to report to the President in writing the result of their inquiry; and (d) when required to do so, to furnish to the President a full statement of the proceedings of the commission and of the reasons leading to the conclusions arrived at or reported."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Division of opinion of commissioners",
+      "content": "8. Division of opinion of commissioners If the commissioners are in any case equally divided on any question that arises during the proceedings of the commission, the chairman of the commission shall have a second or casting vote."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Inquiry to be held in public",
+      "content": "9. Inquiry to be held in public In the absence of a direction to the contrary, the inquiry shall be held in public, but the commissioners shall nevertheless be entitled to exclude any particular person or persons for the preservation of order, for the due conduct of the inquiry or for any other reason."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Commissioners’ power to regulate proceedings",
+      "content": "10. Commissioners’ power to regulate proceedings Commissioners acting in terms of this Act may make such rules for their own guidance and the conduct and management of proceedings before them and the hours and times and places for their sittings, not inconsistent with their appointment, as they may from time to time think fit, and may from time to time adjourn for such time and to such place as they may think fit, subject only to the terms of their appointment."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Commissioners’ power to summon witnesses, etc.",
+      "content": "11. Commissioners’ power to summon witnesses, etc. (1) Commissioners acting in terms of this Act shall have the powers which a magistrates court has to summon witnesses, to cause the oath to be administered to them, to examine them and to call for the production of books, plans and documents. (2) A subpoena for the attendance of a witness or for the production of any book, plan or document may be in the form set out in the Schedule and shall be signed by one of the commissioners and served in the same manner as a subpoena for the attendance of a witness at a criminal trial in a magistrates court. (3) Any person subpoenaed to give evidence or to produce any book, plan or document or giving evidence before the commissioners shall be entitled to the same privileges and immunities as if he were subpoenaed to attend or were giving evidence at a trial in a magistrates court."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Witnesses failing to attend or refusing to be sworn or to give evidence",
+      "content": "12. Witnesses failing to attend or refusing to be sworn or to give evidence If any person who has been subpoenaed to give evidence or to produce any book, plan or document before the commissioners— (a) fails, without sufficient cause, to attend at the time and place mentioned in the subpoena served on him; or (b) attends but leaves the commission without the permission of the commissioners; or (c) refuses to be sworn or, having been duly sworn, refuses, without sufficient cause to answer or to answer fully and satisfactorily to the best of his knowledge and belief all questions put to him by or with the concurrence of the commissioners: or (d) refuses or omits, without sufficient cause, to produce any books plans or documents in his possession or under his control and mentioned or referred to in the subpoena served on him; he shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment [section amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Witness giving false evidence",
+      "content": "13. Witness giving false evidence Any witness who, after having been sworn, gives false evidence before the commissioners concerning the subject-matter of the inquiry, knowing such evidence to be false or not knowing or believing it to be true, shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [section amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Contempt of commission",
+      "content": "14. Contempt of commission (1) If any person, at any sitting of the commission, wilfully insults any commissioner or the secretary or wilfully interrupts the proceedings of the commission or otherwise wilfully disturbs the peace or order of such proceedings, any commissioner may order that person to be removed and detained in custody until the rising of the commission. (2) Any person referred to in subsection (1) shall be guilty of an offence and liable, in addition to any such removal and detention, to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [section amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Witness expenses",
+      "content": "15. Witness expenses (1) Any person subpoenaed to give evidence or to produce books, plans or documents at any sitting of any commission shall be entitled to witness expenses as if he had been summoned to attend at a magistrates court on a criminal trial, if the same are allowed by the commissioners; but the commissioners may disallow the whole or any part of such expenses in any case if they think fit. (2) The secretary to the commission shall be responsible for the payment, from moneys appropriated for the purpose by Act of Parliament, of the witness expenses referred to in subsection (1)."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Immunity from suit",
+      "content": "16. Immunity from suit No commissioner shall be liable to any action or suit for any matter or thing done by him as commissioner."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Appearance of legal practitioners",
+      "content": "17. Appearance of legal practitioners Any person whose conduct is the subject of inquiry under this Act, or who is in any way implicated or concerned in the matter under inquiry, shall be entitled to be represented by a legal practitioner at the whole of the inquiry, and any other person who may consider it desirable that he should be so represented may, by leave of the commission, be represented in the same manner."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Police officers to attend commissioners",
+      "content": "18. Police officers to attend commissioners The Commissioner of Police shall detail police officers to attend upon commissioners to preserve order during the proceedings of the commission, and to serve summonses on witnesses and to perform such duties as the commissioners may direct."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Remuneration of commissioners",
+      "content": "19. Remuneration of commissioners (1) The President may direct what remuneration, if any, shall be paid to the commissioners, the secretary and any other persons employed in or about the commission, and may direct the payment of any other expenses attendant upon the carrying out of any work of the commission. (2) Any sums directed to be paid in terms of this section shall be paid out of the Consolidated Revenue Fund."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Proclamations to be published in Gazette",
+      "content": "20. Proclamations to be published in Gazette Every proclamation made in terms of section two shall be published in a statutory instrument and shall take effect from the date of such publication. Schedule Summons to witness (Section 11) To A.B. ( name of person summoned and his calling and residence, if known ). You are hereby summoned to appear before ( here name the commissioners ) appointed by the President to inquire ( state briefly the subject of the inquiry ) at ( place ) upon the_________day of__________19_________, at_________o’clock, and to give evidence respecting such inquiry. ( If the person summoned is to produce any documents, add ) And you are required to bring with you ( specify the books, plans and documents required ). Given under the hand of_____________commissioner, this_______ day of___________19________ ."
+    }
+  ],
+  "definitions": []
+}

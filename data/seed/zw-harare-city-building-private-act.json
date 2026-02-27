@@ -1,0 +1,32 @@
+{
+  "id": "zw-harare-city-building-private-act",
+  "type": "statute",
+  "title": "Harare City Building (Private) Act",
+  "title_en": "Harare City Building (Private) Act",
+  "short_name": "Harare City Building (Priva...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1952/25/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Harare City Building (Private) Act [Chapter 29:07] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Powers of Harare City Council",
+      "content": "2. Powers of Harare City Council (1) The City Council of Harare shall have power and authority— (a) to construct a multi-storeyed building containing shops, restaurants, offices and not less than nine floors of residential flats upon the land specified in the Schedule; (b) to lease such shops, restaurants, offices and residential flats; (c) to sell such multi-storeyed building, whether the construction of the same shall have been completed or not, together with the land specified in the Schedule; (d) to set aside moneys out of its ordinary revenue for any of the purposes prescribed in this subsection. (2) It shall not be necessary to obtain the consent of the Minister responsible for local government to the leasing of any such shops, restaurants, offices and residential flats or for the sale of such multi-storeyed building and land."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Validation of things done",
+      "content": "3. Validation of things done Anything which has been done before the 22nd August, 1952, which could have been lawfully done under the provisions of this Act shall be deemed to have been lawfully done under this Act. Schedule (Section 2) Certain seventeen thousand eight hundred and twenty-five (17 825) square feet of land being Stand No. 3169, Salisbury Township, portion of Gardens situate in the District of Harare."
+    }
+  ],
+  "definitions": []
+}

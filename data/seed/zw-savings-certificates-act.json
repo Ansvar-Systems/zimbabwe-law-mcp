@@ -1,0 +1,73 @@
+{
+  "id": "zw-savings-certificates-act",
+  "type": "statute",
+  "title": "Savings Certificates Act",
+  "title_en": "Savings Certificates Act",
+  "short_name": "Savings Certificates Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1963/57/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Savings Certificates Act [Chapter 22:12] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ appropriate Minister ” means the Minister to whom the administration of the Posts and Telecommunications Corporation Act [Chapter 12:02] has been assigned; “ Corporation ” means the Posts and Telecommunications Corporation established by the Posts and Telecommunications Corporation Act [Chapter 12:02] ; “ Minister ” means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of savings certificates",
+      "content": "3. Issue of savings certificates (1) The Minister may, when so authorized by the President, issue savings certificates in Zimbabwe and may at any time withdraw any issue of savings certificates. (2) Every savings certificate— (a) shall have on its face the amount thereof and the date of maturity; (b) shall be issued at a discount; (c) shall be repaid at its face value upon maturity, which shall be at such date, not more than ten years from the date of issue, as the President shall have prescribed for that particular issue. (3) The President, in authorizing an issue of savings certificates, shall prescribe the denominations, price of issue and period of currency of such certificates, and may prescribe conditions for the payment of interest on the face value of certificates unredeemed after the maturity date for that particular issue. (4) The President may prescribe as a condition of any particular issue that the interest thereon shall be exempt from income tax and supertax, present and future, payable or chargeable under any enactment. The interest on savings certificates issued with such a condition shall, notwithstanding anything contained in any enactment, be so exempt."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Minister may impose conditions",
+      "content": "4. Minister may impose conditions (1) The Minister may, when so authorized by the President, impose conditions not inconsistent with this Act as to all or any of the following matters— (a) the conditions on which a savings certificate may be surrendered prior to the date of maturity; (b) the aggregate face value of savings certificates of any issue which may be held by any person; (c) such other conditions as he may deem to be expedient. (2) The Minister may fix a higher aggregate face value under paragraph (b) of subsection (1) for persons or institutions or trusts whose receipts and accruals are exempt from income tax."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Administration",
+      "content": "5. Administration (1) Subject to this Act, the control, management, issue and repayment of savings certificates shall be vested in and entrusted to the Corporation : Provided that the Minister , after consultation with the appropriate Minister , may issue directions to the Corporation concerning the control, management, issue and repayment of savings certificates and the Corporation shall comply with such directions. (2) Savings certificates shall be available for purchase by the public at such public offices as the Corporation shall determine."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repayment of savings certificates",
+      "content": "6. Repayment of savings certificates The Minister shall, as circumstances require, pay out of the Consolidated Revenue Fund, which is hereby appropriated to the purpose, to the Corporation such sums as may be required to meet the amount due in respect of the repayment of savings certificates."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Undeemed certificates",
+      "content": "7. Undeemed certificates If any savings certificate remains unclaimed by any person having a just and lawful right thereto for a period of forty-five years from the date when the certificate was issued, then the right to claim repayment of such certificate shall be extinguished."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Savings certificates issued under Act No. 29 of 1954",
+      "content": "8. Savings certificates issued under Act No. 29 of 1954 Savings certificates issued in terms of the Post Office Savings Bank and Savings Certificates Act, 1954 ( No. 29 of 1954 ) the repayment of which becomes the responsibility of Zimbabwe by virtue of an Order in Council issued under the Rhodesia and Nyasaland Act, 1963, of the United Kingdom shall be repaid in accordance with the terms of issue by the Corporation from moneys paid to the Corporation in terms of section six."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appropriate Minister",
+      "definition": "appropriate Minister ” means the Minister to whom the administration of the Posts and Telecommunications Corporation Act [Chapter 12:02] has been assigned",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "Corporation ” means the Posts and Telecommunications Corporation established by the Posts and Telecommunications Corporation Act [Chapter 12:02]",
+      "source_provision": "s2"
+    }
+  ]
+}

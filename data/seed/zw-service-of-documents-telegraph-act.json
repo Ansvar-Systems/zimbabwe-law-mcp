@@ -1,0 +1,38 @@
+{
+  "id": "zw-service-of-documents-telegraph-act",
+  "type": "statute",
+  "title": "Service of Documents (Telegraph) Act",
+  "title_en": "Service of Documents (Telegraph) Act",
+  "short_name": "Service of Documents (Teleg...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1882/41/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Service of Documents (Telegraph) Act [Chapter 8:13] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Transmission of summonses and writs by telegraph",
+      "content": "2. Transmission of summonses and writs by telegraph Any summons, writ, warrant, rule, order, notice or other process, document or communication which by any enactment or agreement of parties is required or directed to be served upon any person or left at the house or place of abode or business of any person, in order that such person may be affected thereby, may be transmitted by telegraph, and a telegraphic copy served upon such person or left at his house or place of abode or business shall be of the same effect as if the original had been shown to, or a copy thereof served upon, that person or left as aforesaid, as the case may be: Provided that this section shall not relate to criminal process or to process of the High Court or the Supreme Court."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "President may make regulations for service of documents other than legal process",
+      "content": "3. President may make regulations for service of documents other than legal process The President may make regulations for the service of notices or documents other than such as relate to legal process and procedure, by the delivery of telegraphic copies of such notices or documents, and for prescribing the manner in which the service of such copies shall be made, and for certifying by telegraphic officers that such service has been effected, and may by those regulations declare that any notice, document or instrument described in those regulations, which is by any law required or directed to be in writing and delivered or transmitted by or to any officer or person in the Public Service, may be transmitted by telegraph."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Repeal of Act",
+      "content": "4. Repeal of Act When the President is satisfied that matters to be done under this Act have been, subject to rules of court, incorporated in the appropriate rules of court, he shall by statutory instrument, repeal this Act. [section inserted by section 6 of Act 6 of 2005 ]"
+    }
+  ],
+  "definitions": []
+}

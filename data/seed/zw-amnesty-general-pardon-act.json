@@ -1,0 +1,38 @@
+{
+  "id": "zw-amnesty-general-pardon-act",
+  "type": "statute",
+  "title": "Amnesty (General Pardon) Act",
+  "title_en": "Amnesty (General Pardon) Act",
+  "short_name": "Amnesty (General Pardon) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/ord/1980/12/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Amnesty (General Pardon) Act [Chapter 9:03] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Conferment of general pardon",
+      "content": "2. Conferment of general pardon A free pardon is hereby granted to every person in respect of any act committed by him, being an act which constitutes a criminal offence, to which this Act applies."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Acts which are pardoned",
+      "content": "3. Acts which are pardoned (1) The acts to which this Act applies, and in respect of which a free pardon is accordingly granted by section 2 , are— (a) any act for which the person who committed it was, on 1st March, 1980, entitled to an amnesty or discontinuance of prosecution under the Amnesty Act [Chapter 9:02] ; (b) any act for which the person who committed it would, on 1st March, 1980, have been entitled to an amnesty or discontinuance of prosecution under the Amnesty Act [Chapter 9:02] if he had not already been convicted of the offence constituted by that act before the appointed day referred to in that Act; (c) any act which was done in good faith at any time before 1st March, 1980 (whether before or after 11th November 1965 and whether before or after 21st December 1979) for, or in connection with, any of the following purposes, that is to say— (i) the purpose of promoting or furthering the achievement in Southern Rhodesia of independence under majority rule; (ii) the purpose of promoting or furthering the objectives or the interests of any political party or movement or otherwise promoting or furthering any objective relating to the form or mode of government of Southern Rhodesia; (iii) the purpose of resisting or combating the achievement of either of the purposes described in paragraphs (i) and (ii); and (iv) the purpose of resisting, preventing, or securing the apprehension of any person committing or having committed or reasonably suspected of committing or having committed, any act done for either of the purposes described in paragraphs (i) and (ii); and (d) any act which was done under the authority of martial law at any time before 21st March 1980 and which was so done in good faith for the purpose of, or in connection with, the restoration or maintenance of good order and public safety in Southern Rhodesia or any part thereof. (2) In this section— (a) references to any act include references to acts by way of conspiracy or incitement or attempt to commit that act or acts preparatory or incidental to that act; and (b) the term “act” includes an omission and references to the commission of an act shall be construed accordingly."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Savings for penalties previously undergone",
+      "content": "4. Savings for penalties previously undergone Without prejudice to the right to release, without unreasonable delay, of any person who, on the 21st March, 1980 of this Act, is serving a sentence of imprisonment for an offence in respect of which he is granted a free pardon by section 2 , no pardon so granted shall operate so as to affect the validity, before the said date of commencement or, as the case may be, before the date of release as aforesaid, of any sentence of imprisonment or to affect the validity of any other penalty that has been imposed in respect of any such offence."
+    }
+  ],
+  "definitions": []
+}

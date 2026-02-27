@@ -1,0 +1,505 @@
+{
+  "id": "zw-pneumonoconiosis-act",
+  "type": "statute",
+  "title": "Pneumonoconiosis Act",
+  "title_en": "Pneumonoconiosis Act",
+  "short_name": "Pneumonoconiosis Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1971/13/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Pneumonoconiosis Act [Chapter 15:08] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation (1) In this Act— “ Appeal Board ” means the Medical Board of Appeal established in terms of section nineteen; “ appointed member of the Board ” means a member of the Board appointed in terms of paragraph (a), (d) or (e) of subsection (1) of section four; “ approved medical practitioner ” means a person appointed in terms of section eighteen; “ Board ” means the Pneumonoconiosis Board established in terms of section three; “ Bureau ” means the Medical Bureau established in terms of section fourteen; “ certificate ” means an initial certificate or a periodical certificate or a duplicate of such certificate issued in terms of this Act; “ certification ” means certification by the Bureau that a person has suffered or is suffering from pneumoconiosis or from pneumoconiosis with tuberculosis ; “ child ” means any person who is unmarried and under the age of nineteen years and who is— (a) a son or a daughter; (b) a step-child; (c) a child adopted under the law in force in the place of adoption; and includes any such person who is unmarried and is over the age of nineteen years and is, in the opinion of the Board , unable by reason of mental or physical disability or other cause to earn sufficient income for his or her proper maintenance; “ Compensation Fund ” means the Workers’ Compensation Insurance Fund referred to in the Scheme or such other fund as may replace it under that or any other scheme; “ dependant ” means— (a) a widow; (b) any child as defined in this section, any unmarried posthumous or illegitimate son or daughter who is under the age of nineteen years and any unmarried posthumous or illegitimate son or daughter who is over the age of nineteen years and is, in the opinion of the Board , unable by reason of mental or physical disability or other cause to earn sufficient income for his or her proper maintenance; “ dusty occupation ” means— (a) in relation to work in Zimbabwe, work in or on a mining location or any other area which is— (i) below the natural surface of the earth; or (ii) on or above the natural surface of the earth on a place where rock, stone, ore or any mineral is ordinarily reduced in size or classified by any dust-producing process; or (iii) at any place where tailings or residues, other than in liquid form, are deposited; or (iv) at a place where drills are sharpened; or (v) in a building provided for the purpose of enabling workers to change their clothes; or (vi) at a place where ground rock, stone, ore or mineral is manipulated for the purpose of assaying it; or (vii) specially declared by the Minister , by notice in writing to the employer of persons engaged therein, to be a dusty occupation; or (viii) generally declared by the Minister , by statutory instrument, to be a dusty occupation; (b) in relation to work outside Zimbabwe, any work which, in the opinion of the Board after consultation with the Bureau , could cause or aggravate pneumonoconiosis ; “ fixed date ” means the 1st January, 1979; “ Fund ” means the Pneumonoconiosis Fund in existence immediately before the fixed date ; “ mining location ” means a defined area of ground in Zimbabwe in respect of which mining rights or rights in connection with mining may have been acquired under any law relating to mines and minerals, but does not include any mining location which the Minister has, by statutory instrument, declared to be an exempted mining location; “ Minister ” means the Minister of Public Service, Labour and Social Welfare or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ monthly wages ”, in relation to a worker , means monthly wages determined in terms of section thirty-five; “ pneumonoconiosis ” means any disease of the respiratory organs due to the inhalation of mineral dust and, for the purposes of this Act, a person shall be deemed to be or to have been suffering from pneumonoconiosis in the— (a) first stage when the Bureau has found that the first specific signs of pneumonoconiosis detected by any means whatsoever are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by not more than twenty per centum ; (b) second stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than twenty per centum but less than fifty per centum ; (c) third stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than fifty per centum but less than seventy-five per centum ; (d) fourth stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than seventy-five per centum ; “ repealed Act ” means the Pneumoconiosis Act [Chapter 166 of 1963] ; “ standards of fitness ” includes matters relating to physical and mental development, health and age; “ Scheme ” means— (a) the Accident Prevention and Workers’ Compensation Scheme established in terms of section 3 of the National Social Security Authority Act [Chapter 17:04] , and published in Statutory Instrument 68 of 1990; or (b) any scheme declared in terms of subsection (2) to be the Scheme for the purposes of this Act; “ tuberculosis ” means tuberculosis of the respiratory organs and a person shall, for the purposes of this Act, be deemed to be suffering from tuberculosis if the Bureau has found— (a) such person’s sputum to contain tubercle bacilli; or (b) such person to be suffering from “closed” tuberculosis which seriously impairs his working capacity; “ worker ” means any person who works or has worked or intends to work in a dusty occupation . (2) In the event of the repeal of the Accident Prevention and Workers’ Compensation Scheme referred to in paragraph (a) of the definition of “ Scheme ” in subsection (1), the Minister may, by statutory instrument, declare that any other scheme established in terms of the National Social Security Authority Act [Chapter 17:04] , which provides benefits equivalent to those provided by the Accident Prevention and Workers’ Compensation Scheme, shall be the Scheme for the purposes of this Act. Part II – Establishment of Pneumonoconiosis Board: Duties and powers"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of Pneumonoconiosis Board",
+      "content": "3. Establishment of Pneumonoconiosis Board There is hereby established a board to be known as the Pneumonoconiosis Board."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Composition of Board",
+      "content": "4. Composition of Board (1) The Board shall consist of the following members— (a) the chairman who shall be an officer in the Public Service appointed and chosen by the Minister; (b) the Chief Government Mining Engineer, ex officio , or his nominee; (c) the chairman of the Bureau, ex officio ; (d) three members appointed by the Minister and chosen by him from a panel of names submitted to him by organizations representing employers; (e) three members appointed by the Minister and chosen by him from a panel of names submitted to him by organizations representing employees. (2) If a member, other than the chairman, is prevented by illness, absence from Zimbabwe or other specific cause from exercising his functions on the Board, the Minister may appoint a person to act for such member during his absence. (3) If the chairman is prevented by illness, absence from Zimbabwe or other specific cause from exercising his functions on the Board, the Minister may appoint an officer in the Public Service to act as chairman during his absence and the person so appointed shall, during the term of his appointment, exercise the powers and fulfil all the duties of the chairman."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Conditions of office of appointed members of Board",
+      "content": "5. Conditions of office of appointed members of Board (1) An appointed member of the Board, other than the chairman, shall, subject to this Part, hold office for three years on such conditions as the Minister may in his case fix. (2) Members of the Board shall be paid out of the Compensation Fund such fees or allowances or both as the Minister, after consultation with the Minister responsible for finance, may from time to time determine: Provided that the remuneration for a member who is a daily-paid employee shall not be less than any wages lost by him through attending any meeting of the Board."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Disqualification for appointment as member of Board",
+      "content": "6. Disqualification for appointment as member of Board The Minister shall not appoint a person, other than the chairman, as a member of the Board and no person, other than the chairman, shall be qualified to hold office as an appointed member of the Board who— (a) has in terms of a law in force in any country— (i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or (ii) made an assignment to or an arrangement or composition with his creditors which has not been rescinded or set aside; or (b) has within the period of five years immediately preceding the date of his proposed appointment been convicted— (i) within Zimbabwe of a criminal offence; or (ii) outside Zimbabwe of an offence by whatever name called which, if committed within Zimbabwe, would have been a criminal offence; and sentenced by a court to imprisonment for a term of six months or more without the option of a fine, whether or not such sentence has been suspended, and has not received a free pardon."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Vacation of office by appointed member of Board",
+      "content": "7. Vacation of office by appointed member of Board An appointed member of the Board, other than the chairman, shall vacate his office and his office shall become vacant— (a) one month after the date he gives notice in writing to the Minister of his intention to resign his office or after the expiration of such shorter period as he and the Minister may agree; or (b) thirty days after the date he is sentenced by a court to imprisonment referred to in paragraph (b) of section six after conviction of an offence referred to in that paragraph: Provided that, if during the said period of thirty days an application for a free pardon is made or an appeal is filed, the question whether the member is to vacate his office shall not be determined until the final disposal of such application or appeal, whereupon the member shall forthwith vacate his office and his office shall become vacant unless he is granted a free pardon, his conviction is set aside, his sentence is reduced to a term of imprisonment of less than six months or a punishment other than imprisonment is substituted; or (c) if he becomes disqualified in terms of paragraph (a) of section six to hold office as a member; or (d) if he is required in terms of section eight to vacate his office; or (e) if he is absent from three consecutive meetings of the Board or of any committee of the Board of which he is a member and of which he has had notice, without the permission of the Board."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Minister may require appointed member to vacate office or may suspend him",
+      "content": "8. Minister may require appointed member to vacate office or may suspend him (1) The Minister may require an appointed member of the Board to vacate his office if the Minister is satisfied that the member— (a) has been guilty of improper conduct as a member; or (b) has failed to comply with the conditions of his office fixed by the Minister in terms of subsection (1) of section five; or (c) is mentally or physically incapable of efficiently per forming his duties as a member. (2) The Minister may suspend from office an appointed member of the Board against whom criminal proceedings are instituted for an offence in respect of which a sentence of imprisonment without the option of a fine may be imposed and, whilst that member is so suspended, he shall not carry out any duties or be entitled to any remuneration as a member."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Filling of vacancies among appointed members",
+      "content": "9. Filling of vacancies among appointed members On the death of or vacation of office by an appointed member of the Board, the Minister may appoint a person to fill the vacancy until the expiration of the period during which the member would, but for his death or the vacation of his office, have continued in office."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Meetings and decisions of Board",
+      "content": "10. Meetings and decisions of Board (1) The Board shall meet for the dispatch of business and adjourn, close and otherwise regulate its meetings and proceedings as it thinks fit. (2) The chairman of the Board may himself at any time, and shall at the request in writing of not less than two members. convene a special meeting of the Board, which meeting in the latter case shall be convened for a date not less than seven days or more than thirty days after the receipt of such request. (3) If at a meeting of the Board the chairman is absent, the members present may elect one of their number to preside at the meeting as chairman. (4) Five members shall form a quorum at a meeting of the Board. (5) All acts, matters or things authorized or required to be done by the Board may be decided by a majority vote at a meeting of the Board at which a quorum is present. (6) At all meetings of the Board each member present shall have one vote on a question before the Board and, in the event of an equality of votes, the chairman shall have, in addition to a deliberative vote, a casting vote. (7) Any proposal circulated among all members and agreed to in writing by a majority of all members shall be of the same force and effect as a resolution passed at a duly constituted meeting of the Board and shall be incorporated in the minutes of the next succeeding meeting of the Board: Provided that if a member requires that such a proposal shall be placed before a meeting of the Board, this subsection shall not apply to such proposal."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Validity of decisions and acts of Board",
+      "content": "11. Validity of decisions and acts of Board No decision or act of the Board or act done under the authority of the Board shall be invalid by reason only of the fact that a person disqualified in terms of section six acted as a member of the Board at the time the decision was taken or the act was done or authorized."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Functions and duties of Board",
+      "content": "12. Functions and duties of Board (a) on being informed by the Bureau that any worker is suffering from pneumonoconiosis— (i) to notify such worker or cause him to be notified of the fact; and (ii) after making any investigation it considers necessary, to invite him or cause him to be invited to submit a claim for compensation under the Scheme if it considers that he is entitled thereto; and (iii) to notify the employer of that worker that the worker is suffering from pneumonoconiosis, and to prohibit his further employment in any dusty occupation and, (iv) to specify the nature or conditions of work under which the worker may continue to be employed, and notify the terms of any certificate which may have been granted to that worker; (b) as soon as possible after the 30th June in each year, to report to the Minister on its work during that year and to include in any such report the report of the Bureau; (c) to study measures for the prevention of pneumonoconiosis in dusty occupations in Zimbabwe and to submit to the Minister proposals for giving effect to its recommendations; (d) to make arrangements for or to carry out investigations of the dust hazard or other risks of pneumonoconiosis in any dusty occupation or any occupation which there is reason to believe should be declared a dusty occupation; (e) to make recommendations to the Minister in regard to the training in trades or industries of persons who are suffering from pneumonoconiosis; (f) to make recommendations to the Minister in regard to financial assistance towards schemes for the rehabilitation of persons who are suffering from pneumonoconiosis; (g) to advise the Minister in regard to any matter concerning the welfare of workers; (h) to enter into arrangements or agreements with the compensating authorities of other countries which have similar compensatory schemes in order to facilitate the administration of this Act; (i) to demand such proof of identity of a worker or a dependant as it may deem necessary; (j) to perform such other functions and duties as may be assigned to it in terms of this Act or as may be prescribed."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Summoning and examining of witnesses by Board",
+      "content": "13. Summoning and examining of witnesses by Board (1) The Board shall in the performance of any duty or the exercise of any function imposed or conferred upon it by this Act, have power to— (a) summon and examine on oath any witnesses; (b) call for the production of and authorize the inspection of any book, document or thing. (2) A summons issued in the exercise of the powers of the Board— (a) shall be signed by the chairman of the Board; (b) may call upon any person who, in the opinion of the Board, may be able to give material information concerning the matter under investigation or whom the Board suspects or believes has in his possession or custody or under his control any book, document or thing which has any bearing on the matter under investigation to appear before the Board at a time and place to be specified in the summons to be interrogated or to produce that book, document or thing. (3) The Board may retain for examination any book, document or thing produced in pursuance of a summons referred to in subsection (2). (4) A summons issued in terms of this section shall be served in the prescribed manner. (5) The chairman at a meeting of the Board at which any witness appears, whether the witness has been served with a summons or not, shall have power to administer an oath to the witness and may require him to produce any book, document or thing in his possession or custody or under his control. (6) The chairman at a meeting of the Board at which any witness appears and any member of the Board present at the meeting may put any question to the witness: Provided that the chairman may in his discretion disallow any question which in his opinion is not relevant to the matter under investigation by the Board. (7) The interrogation of any witness under this section shall be conducted in private unless the chairman decides otherwise: Provided that— (i) at the request of any witness the interrogation of that witness shall be conducted in private; (ii) the chairman may, in his discretion and with the consent of the witness, authorize the presence of any specified person at the interrogation of that witness. (8) If a person being duly summoned under this section fails without sufficient cause to attend at the time and place specified in the summons or to remain in attendance until excused from attendance by the chairman of the Board or if any person, when lawfully required to do so under this section, without sufficient cause, refuses to be sworn as a witness or fails, without sufficient cause, to answer fully and satisfactorily to the best of his knowledge and belief all questions lawfully put to him or to produce any book, document or thing in his possession or custody or under his control, he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment: [subsection as amended by section 4 of Act No. 22 of 2001 ] Provided that in connection with the interrogation of any such person or the production of any such book, document or thing in terms of this section the law relating to privilege, as applicable to a witness summoned to give evidence or produce any book, document or thing before a court of law, shall apply. (9) Any witness who, after having been sworn, gives a false answer to any question put to him under this section or makes a false statement on any matter knowing that answer or statement to be false or not knowing or believing it to be true shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (10) Any person summoned in terms of this section to appear before the Board may, if the chairman is satisfied that he has, by reason of his appearance in obedience to the summons, suffered any pecuniary loss or been put to any expense, be paid out of the Compensation Fund any allowance that may be prescribed or the amount of such loss and such expense, whichever is the lesser. (11) Any person who wilfully hinders or insults the chairman or any member of the Board in the exercise of the powers conferred upon him by this section shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] Part III – Establishment of Medical Bureau : Functions, duties and powers"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Establishment of Medical Bureau",
+      "content": "14. Establishment of Medical Bureau (1) There is hereby established a bureau, to be known as the Medical Bureau , which shall consist of the following members appointed by the Minister — (a) one medical practitioner, who shall be the chairman, chosen by the Minister by reason of his specialized knowledge of the diseases of the lung and respiratory organs after consultation with the Minister responsible for health; (b) one radiologist and one medical practitioner chosen by the Minister by reason of their experience in the treatment or diagnosis of diseases of the lung or respiratory organs after consultation with the Minister responsible for health; (c) one medical practitioner employed as a mine medical officer chosen by the Minister from a panel of names submitted to him by organizations representing employers in the mining industry. (2) The Minister may appoint any person to the Bureau as an alternate member to any member of the Bureau and such alternate member— (a) shall act as a member of the Bureau only when a member to whom he is alternate is unable to exercise his functions on the Bureau by reason of illness, absence from Zimbabwe or other cause; (b) when acting as a member of the Bureau , shall exercise the functions and powers and perform the duties of a member to whom he is alternate. (3) The members of the Bureau shall hold office for such period as the Minister may determine. (4) The members of the Bureau shall be paid out of the Compensation Fund such remuneration or allowances or both as the Minister , after consultation with the Minister responsible for finance, may from time to time determine."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Procedure of Bureau",
+      "content": "15. Procedure of Bureau (1) The Bureau may meet for the dispatch of business, adjourn and otherwise regulate its meetings and proceedings as it thinks fit. (2) Three members of the Bureau shall form a quorum at any meeting thereof. (3) At every meeting of the Bureau the chairman or, in his absence, such member as the members present shall select shall act as chairman. (4) The decision of the majority of members of the Bureau present at any meeting shall constitute the decision of the Bureau : Provided that, in the event of an equality of votes at any such meeting, the chairman at the meeting shall have a casting vote in addition to his deliberative vote."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Duties and functions of Bureau",
+      "content": "16. Duties and functions of Bureau (1) The Bureau shall— (a) make such recommendations as by this Act are required to be made by it; (b) conduct or direct and control all medical examinations under this Act; (c) issue certificates to workers under this Act; (d) have power to grant permission in writing to any person who is suffering or has suffered from pneumonoconiosis in the fourth stage to enter any place or premises where a dusty occupation is carried on and to attach to such permission such conditions at it may think fit; (e) upon finding any person to have suffered or to be suffering from pneumonoconiosis immediately certify that fact to the Board ; (f) in consultation with the Director of Census and Statistics, arrange for the collection, compilation, tabulation and recording of statistics relating to the incidents or cases of pneumonoconiosis ; (g) as soon as possible after the 30th June in each year, furnish to the Board a report upon its work during such year. (2) The Bureau is authorized to perform any medical examination and to issue any medical certificates and to give any decision or express any findings on any medical question for the purposes of this Act, and may base any such certificate , decision or finding upon facts ascertained by the Bureau itself or by a member thereof or by an approved medical practitioner or by any other person who, in its opinion, is qualified to ascertain those facts. (3) The Bureau shall have the power, subject to such conditions as it may impose, to delegate such of its powers under this section as may be agreed by the Minister to any approved medical practitioner ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Decision of Bureau to be binding",
+      "content": "17. Decision of Bureau to be binding (1) On all purely medical questions the decision of the Bureau shall, subject to this section and section twenty, be accepted by the Board and by any person for the purposes of this Act. (2) A person who is dissatisfied with the decision of the Bureau , other than a decision on a matter referred to in paragraph (d) of subsection (1) of section sixteen, given in respect of himself may, if his own medical adviser was not heard by the Bureau in connection with that decision, apply in writing and subject to such conditions as may be prescribed to the Bureau to reconsider his case after hearing his medical adviser. (3) Upon an application being made to it in terms of subsection (2) the Bureau shall afford the medical adviser of the applicant an opportunity of being heard by the Bureau and shall thereafter reconsider its decision in relation to the applicant."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Appointment of approved medical practitioners",
+      "content": "18. Appointment of approved medical practitioners (1) The Minister may, after consultation with the Bureau , appoint any medical practitioner to be an approved medical practitioner for the purposes of this Act. (2) Every approved medical practitioner shall act in accordance with the directions of the Bureau and shall perform such functions as the Bureau directs and shall render such reports and information to the Bureau as it may require. (3) An approved medical practitioner who is not a member of the Public Service shall be paid out of the Consolidated Revenue Fund such remuneration or allowance or both as the Minister , after consultation with the Minister responsible of finance, may from time to time determine. (4) If any approved medical practitioner fails to carry out or properly to perform his duties under this Act, the Minister may revoke the appointment of such person as an approved medical practitioner . Part IV – Establishment of Medical Board of Appeal: Functions, duties and appeals"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Establishment of Appeal Board",
+      "content": "19. Establishment of Appeal Board (1) As from a date to be fixed by the Minister there shall be established a board, to be known as the Medical Board of Appeal, which shall consist of three medical practitioners chosen by the Minister by reason of their specialized knowledge of the diseases of the lung and respiratory organs after consultation with the Minister responsible for health. (2) The members of the Appeal Board shall hold office for such period as the Minister may from time to time determine. (3) The members of the Appeal Board shall be paid out of the Compensation Fund such remuneration or allowances or both as the Minister , after consultation with the Minister of Finance, may from time to time determine. (4) Until the Board referred to in subsection (1) is established the Appeal Board for the purposes of this Act shall be the Medical Certification Committee for Occupational Diseases established under Act No. 78 of 1973 of the Republic of South Africa and the Minister shall pay to such authority from the Compensation Fund such fee as may from time to time be fixed by agreement between such authority and the Minister in respect of every person who undergoes a medical examination at the hands of such authority."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Appeals from decision of Bureau",
+      "content": "20. Appeals from decision of Bureau (1) Subject to such conditions as may be prescribed, a person who is dissatisfied with the decision of the Bureau , other than a decision on a matter referred to in paragraph (d) of subsection (1) of section sixteen, given in respect of himself may appeal to the Appeal Board . (2) Whenever a dependant of a deceased person is satisfied with the decision of the Bureau as to whether such person did or did not have pneumonoconiosis at the time of his death, he may, subject to such conditions as may be prescribed, appeal from that decision to the Appeal Board . (3) The Board and the Bureau shall produce to the Appeal Board all the records in their possession which are relevant to an appeal to the Appeal Board . (4) The Appeal Board may reverse, alter, amend or confirm the decision of the Bureau and the decision of the Appeal Board shall be final. (5) Unless the decision of the Bureau is confirmed the Bureau shall give effect to the decision of the Appeal Board by revoking the certificate or certification issued by the Bureau and by issuing a fresh certificate or certification which shall have effect from the date of the original decision which was the subject of appeal."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Reference to Appeal Board",
+      "content": "21. Reference to Appeal Board The Bureau may refer any medical question for the opinion of the Appeal Board . Part V – Issue of certificates to workers"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Prohibition of employment of workers suffering from pneumonoconiosis in dusty occupation",
+      "content": "22. Prohibition of employment of workers suffering from pneumonoconiosis in dusty occupation Any person who employs in a dusty occupation another person whom he knows or has reasonable grounds to believe to be suffering from pneumonoconiosis shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [section as substituted by Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Prohibition of employment of workers who do not hold certificates",
+      "content": "23. Prohibition of employment of workers who do not hold certificates (1) No person shall employ a worker in a dusty occupation — (a) unless the worker is the holder of a current certificate ; (b) except in accordance with the terms, conditions and restrictions prescribed in the certificate issued to the worker . (1a) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment [subsection as inserted by section 4 of Act No. 22 of 2001 ] (2) An employer shall keep a record of the particulars of a certificate relating to any worker employed by him and shall retain such certificate in his possession as long as the worker remains in his employ. (3) Any person who contravenes subsection (2) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Minister may prescribe medical examinations and standards of fitness",
+      "content": "24. Minister may prescribe medical examinations and standards of fitness (1) The Minister may, after consultation with the Bureau , by statutory instrument, prescribe— (a) the nature of the medical examinations to be performed on applicants for certificates; and (b) standards of fitness with which applicants for certificates must comply; and may prescribe different medical examinations and different standards of fitness for different types of certificates and different types of dusty occupations. (2) The Minister may, after consultation with the Bureau , by statutory instrument, revoke or amend any statutory instrument referred to in subsection (1)."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Types of certificates",
+      "content": "25. Types of certificates The certificates which may be applied for and issued under this Part are— (a) an initial certificate ; (b) a periodical certificate ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Application for certificates",
+      "content": "26. Application for certificates A worker may apply to the Bureau for the issue of a certificate ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Issue of initial certificate",
+      "content": "27. Issue of initial certificate If the Bureau is satisfied than an applicant for an initial certificate — (a) complies with the prescribed standards of fitness ; and (b) has not previously held an initial or periodical certificate ; it shall issue to him an initial certificate in the prescribed form which shall be valid for such period stated therein and not exceeding one year as the Bureau may fix: Provided that if different standards of fitness have been prescribed for different types of dusty occupations, the Bureau shall limit the validity of the certificate to work in dusty occupations in accordance with the applicant’s standard of fitness. (2) The Bureau may issue a restricted initial certificate to an applicant who does not conform to the prescribed standards of fitness if such applicant makes application for an initial certificate within a period of six months from the date on which the Minister in terms of subparagraph (vii) or (viii) of paragraph (a) of the definition of “ dusty occupation ” in section two declares his work to be a dusty occupation : Provided that no restricted initial certificate shall be issued to an applicant who is found by the Bureau to be suffering from pneumonoconiosis . (3) The Bureau may in respect of any restricted initial certificate issued in terms of subsection (2) impose terms, conditions and restrictions in regard to the dusty occupation to be performed by the holder of the certif icate and shall fix the period of the validity of the certificate for a period not exceeding one year. (4) For the purposes of this section— “restricted initial certificate ” means a certificate issued by the Bureau to an applicant who does not conform to the prescribed standards of fitness required in relation to a specified type of dusty occupation in respect of which the application is made."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Issue of periodical certificates",
+      "content": "28. Issue of periodical certificates (1) Subject to subsection (4), if the Bureau is satisfied that an applicant for a periodical certificate — (a) complies with the prescribed standards of fitness ; and (b) is the holder of or has previously held an initial certificate ; it shall, upon the surrender to it of the initial certificate or periodical certificate held by the applicant or upon being satisfied that such certificate has been lost or destroyed, issue to the applicant a periodical certificate which shall be valid for such period stated therein as the Bureau may fix and which does not exceed such period as may be prescribed by the Minister from time to time by statutory instrument. Provided that if different standards of fitness have been prescribed for different types of dusty occupations the Bureau shall limit the validity of the certificate to work in dusty occupations in accordance with the applicant’s standard of fitness. (2) The Bureau may issue a restricted periodical certificate to an applicant who does not conform to the prescribed standard of fitness: Provided that no restricted periodical certificate shall be issued to an applicant who is found to be suffering from pneumoconiosis in the fourth stage. (3) The Bureau may in any restricted periodical certificate issued in terms of subsection (2) impose terms, conditions and restrictions in regard to dusty occupations to be performed by the holder of such certificate and shall fix the period of the validity of such certificate for a period not exceeding one year. (4) No medical examination of an applicant for a periodical certificate shall be made more than two months before the date of expiry of the current certificate held by the applicant. (5) If the standard of fitness of the holder of a current certificate who is medically examined in terms of section twenty-nine is found by the Bureau to have improved since the issue of his existing current certificate , the Bureau may cancel such existing certificate and issue to the holder thereof a periodical certificate which accords with his improved standard of fitness."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Further medical examinations",
+      "content": "29. Further medical examinations (1) If six months or more have elapsed since the issue of an initial or periodical certificate to a worker , such worker may make written application to the Bureau for a prescribed medical examination and the Bureau shall at the earliest opportunity arrange for the prescribed medical examination of such applicant by itself, a member of the Bureau or an approved medical practitioner . (2) An application in terms of subsection (1) shall be accompanied by a deposit of four dollars. (3) If the Bureau certifies that the applicant is or has contracted pneumonoconiosis since his previous medical examination by the Bureau or has advanced to a stage of pneumonoconiosis later than the stage that he was previously certified to be suffering from, the deposit referred to in subsection (2) shall be refunded to the applicant. (4) If the deposit referred to in subsection (2) is not refunded to the applicant in terms of subsection (3), it shall be paid into the Compensation Fund ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Loss of certificate",
+      "content": "30. Loss of certificate (1) In the event of the loss of a certificate the worker in respect of whom it was issued may apply in writing to the Board for the issue of a duplicate of the certificate . (2) Upon an application in terms of subsection (1) the Board may, upon being satisfied of the fact of the loss and upon the payment of a fee of fifty cents, issue a duplicate of the certificate . (3) The fee referred to in subsection (2) shall be paid into the Compensation Fund ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Cancellation of Bureau certificate",
+      "content": "31. Cancellation of Bureau certificate (1) If the holder of any certificate is certified by the Bureau to be suffering from pneumonoconiosis the Bureau shall immediately cancel that certificate . (2) If the holder of an initial certificate is found by the Bureau not to comply with the prescribed standards of fitness for the types of dusty occupation in respect of which such certificate was issued, the Bureau may cancel such certificate and may, subject to the provisions of subsections (1), (2) and (3) of section twenty-eight, issue him with a periodical or restricted periodical certificate . (3) Where the Bureau is of the opinion that the health of any worker who is suffering from pneumonoconiosis in the second or third stage would be impaired to such an extent as to endanger his life should he continue to work in a dusty occupation , it may cancel any initial or periodical certificate held by the worker . (4) The Bureau shall notify the holder of any certificate which is cancelled in terms of this section and the employer of such holder of any action taken by it in terms of this section. (5) The holder of any certificate which has been cancelled in terms of this section shall forthwith return it to the Bureau . (6) Any person who contravenes subsection (5) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Re-examination upon certificate issued by medical practitioner",
+      "content": "32. Re-examination upon certificate issued by medical practitioner (1) Whenever in the opinion of a medical practitioner it is desirable that a worker who is the holder of a periodical certificate should undergo a prescribed medical examination he shall certify to that effect to the Bureau . (2) On receipt of a certificate in terms of subsection (1) the Bureau shall— (a) at the earliest opportunity arrange for the prescribed medical examination of the worker concerned by the Bureau , any member thereof or an approved medical practitioner ; (b) require the worker concerned to submit himself to the prescribed medical examination arranged in terms of paragraph (a). (3) If the standard of fitness of a worker who is medically examined in terms of subsection (2) is found to have altered since the issue of the certificate the Bureau may, without derogation from any other power conferred upon it in terms of this Act— (a) cancel the certificate of the worker concerned; (b) cancel the certificate of the worker concerned and issue him with a periodical certificate or a restricted periodical certificate which accords with his standard of fitness: Provided that no restricted periodical certificate shall be issued if the worker concerned is found to be suffering from pneumonoconiosis in the fourth stage; (c) impose any limitation, term, condition or restriction upon any certificate issued or to be issued to the worker which could be imposed in terms of section twenty-eight. (4) The Bureau shall notify the holder of any certificate and the employer of such holder of any action taken by it in terms of subsection (3). (5) The holder of any certificate which has been cancelled or in respect of which any limitation, term, condition or restriction has been imposed in terms of subsection (3) shall comply with any direction relating to the return of the certificate to the Bureau as may be given to him by the Bureau . (6) Any person who contravenes subsection (5) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] Part VI – Register of employees"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Register of employees",
+      "content": "33. Register of employees (1) Every person who employs a worker in a dusty occupation in Zimbabwe shall provide and keep a register of employees in which the following information shall be recorded in respect of each worker — (a) the date of engagement; (b) the date of discharge; (c) the nature of the worker ’s duties; (d) the wages and allowances paid to the worker from time to time; (e) the date of the last medical examination performed under this Act; (f) the number and date of expiry of the current certificate ; (2) If a person ceases for a period of six months to employ workers in a dusty occupation in Zimbabwe, he shall forthwith send the register of employees to the Board for retention by it. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] Part VII – General provisions relating to benefits"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Application for benefits",
+      "content": "34. Application for benefits Any worker who claims to be entitled to benefits in accordance with section forty-three shall transmit his claim or cause his claim to be transmitted in the manner and form and with the documents and particulars prescribed."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Determination of monthly wages",
+      "content": "35. Determination of monthly wages (1) For the purposes of the provisions of this Act relating to the monthly wages of a worker , the monthly wages of a worker shall, subject to this section, be computed by the Board in such manner as is best calculated to give the rate per month at which the workman is or was being remunerated by his employer— (a) at the date of certification if the worker is employed on a mining location at that date; or (b) at the date of his last service on a mining location if the worker was certified after such date; and shall include— (i) the value of any food and quarters or food or quarters supplied by the employer to the worker ; (ii) any overtime payments or other special remuneration if of a constant character or for work habitually performed; (iii) any cost of living and local allowances; but shall not include casual payments of a non-recurrent nature, or any sums paid by an employer to a worker to cover any special expense entailed to the worker by the nature of the work or ex gratia payment, whether given by the employer or any other person: Provided that if on the date referred to in paragraph (a) or (b) the worker is or was, as the case may be, receiving wages which have been reduced on account of the contraction by him or advance in him of pneumonoconiosis , the Board shall determine the monthly wages of the worker in accordance with this section at the highest rate of wage at which the worker was remunerated whilst employed at any time as a worker before any reduction in his wages on that account took place. (2) If a worker who is an apprentice contracts pneumonoconiosis any benefits payable to him in terms of this Act shall be based on the wages which would have been payable to him on the completion of his apprenticeship if he was not suffering from pneumonoconiosis . (3) Every employer of workers shall, within seven days of the receipt by him of a request by the Board , supply— (a) a true and correct statement of the monthly wages received by any worker employed by him at the date specified in the request; (b) such details of service of any worker employed by him as the Board may require. (4) Any person who contravenes subsection (3) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Variation of benefits and reconsideration of claims",
+      "content": "36. Variation of benefits and reconsideration of claims (1) If the Board considers that any benefits under this Act have been obtained by fraud or in any other improper manner or have been given in contravention of this Act, it may of its own motion, after notice to and hearing the beneficiary, set aside or vary the benefits. (2) If the Board is at any time satisfied that benefits under this Act were refused by reason either of evidence not then being given which was afterwards produced or of mistake of fact either by itself or by the Bureau , it may, subject to this Act, grant such benefits as were erroneously refused."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Recovery of benefits paid in error",
+      "content": "37. Recovery of benefits paid in error If any benefits paid under this Act were paid in error, the Minister may recover that amount by action in any court of competent jurisdiction or by deduction from any benefits to which the recipient has or may become entitled under this Act or the Scheme ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Benefits not to be assigned",
+      "content": "38. Benefits not to be assigned No amount payable as a benefit under this Act shall be assignable or transferable or be capable of being hypothecated or averaged, nor shall any such amount be liable to be attached or subjected to any form of execution under a judgment or order of any court of law."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Rights of pensioners and their dependants under Silicosis Act preserved",
+      "content": "39. Rights of pensioners and their dependants under Silicosis Act preserved (1) A person receiving a pension under proviso (ii) to section 70 of the Silicosis Act, 1949 ( No. 33 of 1949 ) shall be entitled to be paid that pension until his death and shall not be entitled to any benefits under this Act. (2) If a person who is in receipt of a pension in terms of subsection (1) dies, his dependants shall be entitled to the payment of such lump sum, not exceeding two hundred and sixty dollars, as the Board shall determine. (3) All benefits payable under this section shall be payable from moneys appropriated by Act of Parliament for the purpose."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Agreements with other governments",
+      "content": "40. Agreements with other governments (1) The Minister may, by agreement with the government of any country in Africa, regulate the manner in which the benefits payable to any worker or dependant who is domiciled in the country in question shall be paid to the worker or dependant concerned or to any other person on his behalf and the manner of disposing of any part of such benefits which has not been expended before the beneficiary died. (2) When the Minister has entered into an agreement referred to in subsection (1) which contains any provisions mentioned in that subsection which are in conflict with this Act in relation to a worker or dependant who is domiciled in the country with whose government the agreement was concluded, the agreement shall prevail."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Pensions not to be duplicated",
+      "content": "41. Pensions not to be duplicated Any worker , who is certified to have suffered or to be suffering from pneumonoconiosis or pneumonoconiosis with tuberculosis and has received or is entitled to receive under the law of any other country in respect of a like certification made in that country the full benefits prescribed under the law of that country, shall not be entitled to any benefits under this Act."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Disposal of unexpended benefits",
+      "content": "42. Disposal of unexpended benefits Any unexpended benefits, whether awarded under this Act or under the repealed Act — (a) which are still remaining upon the death of a worker who has left no dependants shall be paid to the credit of the Consolidated Revenue Fund or the Compensation Fund , whichever is appropriate; (b) which have been unable to be paid to any person in terms of this Act, by reason of his death, disappearance or other cause, shall after a period of two years be paid to the credit of the Consolidated Revenue Fund or the Compensation Fund , whichever is appropriate: Provided that if the reason for the non-payment is subsequently removed, the benefits may then be paid. Part VIII – General"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Benefits in respect of worker suffering from pneumonoconiosis",
+      "content": "43. Benefits in respect of worker suffering from pneumonoconiosis Subject to section forty-four, with effect from the fixed date — (a) if a worker is certified to be suffering from pneumonoconiosis , the Scheme shall apply in relation to the determination of whether he is entitled to compensation and, if so, in relation to the payment thereof; (b) on the death of a worker who was suffering from pneumonoconiosis and who was entitled to compensation in terms of the Scheme or, but for his death, would have been entitled to such compensation, that Act shall apply in relation to the determination of whether his dependants are entitled to the payment of any benefits and, if so, in relation to the payment thereof."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Continued payment of benefits due before fixed date",
+      "content": "44. Continued payment of benefits due before fixed date (1) Subject to subsections (3) and (4), a worker who, before the fixed date , had been certified to be suffering from pneumonoconiosis or tuberculosis and was entitled to receive benefits under Part VI or VII shall, on and after the fixed date , continue to be entitled to the benefits he would have received had those Parts not been repealed and Part VI or VII, as the case may be, as read with the repealed Part IX shall continue to apply in relation to benefits payable to him or that might become payable for his dependants. (2) Subject to subsections (3) and (4), any benefits which, immediately before the fixed date , were being paid under Part Vl or VII to the dependants of a worker shall, on and after the fixed date , continue to be paid in accordance with Part VI or VII, as the case may be, as read with Part IX as though those Parts had not been repealed. (3) Any benefits referred to in subsection (1) or (2) which first became payable on or after the 1st October, 1978, shall be reassessed in terms of the Scheme as though the Pneumonoconiosis Amendment Act, 1978, had come into operation on that date and, if the benefits are less than the benefits that would have been payable in terms of the Scheme , they shall be increased accordingly with effect from the date they became payable: Provided that this subsection shall not apply in relation to benefits referred to in subsection (2) if the worker concerned had been receiving benefits in terms of this Act prior to the 1st October, 1978. (4) Any benefits payable in terms of this section which, immediately before the fixed date , were being or would have been paid from— (a) the Fund shall, on and after the fixed date , be paid from the Compensation Fund ; (b) the Consolidated Revenue Fund shall, on and after the fixed date , be paid from the Consolidated Revenue Fund ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Transfer of assets and liabilities",
+      "content": "45. Transfer of assets and liabilities With effect from the fixed date — (a) the assets of the Fund shall be transferred to the Compensation Fund : (b) the liabilities of the Fund shall be transferred to and may be enforced against the Compensation Fund ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Staff of Board and Bureau",
+      "content": "46. Staff of Board and Bureau (1) The clerical and secretarial work in connection with the functions of the Board and of the Bureau shall be performed by such members of the Public Service as may be deputed thereto by the Minister . (2) The duties which a member of the Public Service may be required to perform in terms of this section shall be deemed for the purposes of the law relating to the Public Service to be duties of the office of such member."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Lungs and heart to be sent to Bureau",
+      "content": "47. Lungs and heart to be sent to Bureau Every medical practitioner who carries out any post-mortem examination on the body of any person over the age of fifteen years shall, if he finds on such examination pneumonoconiosis to be present in the lungs of the deceased, send the lungs and heart of such person to the Bureau accompanied by his report thereupon."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Workers to submit themselves to medical examinations",
+      "content": "48. Workers to submit themselves to medical examinations (1) The Board or the Bureau may at any time require any worker to submit himself to a prescribed medical examination by the Bureau or any member of the Bureau or any approved medical practitioner . (2) If any person— (a) wilfully fails to submit himself; or (b) wilfully prevents any other person from submitting himself; to a medical examination required in terms of subsection (1) he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Travelling and subsistence allowances",
+      "content": "49. Travelling and subsistence allowances (1) There shall be paid out of the Compensation Fund travelling and subsistence allowances in accordance with the prescribed scale— (a) to any appellant who is required by the Board or the Bureau to proceed to the Republic of South Africa in order to undergo a medical examination at the hands of the Medical Bureau for Occupational Diseases established under Act No. 78 of 1973 of the Republic of South Africa; (b) to any worker required to submit himself to a medical examination in terms of section forty-eight who must proceed from his place of employment or residence to the place where the medical examination is to be carried out. (2) Travelling allowances in accordance with the prescribed scale shall be paid out of the Compensation Fund to any worker employed on a mining location who is required to proceed from his place of employment or residence in Zimbabwe to any other place for the purpose of obtaining a certificate . (3) Compensation shall be paid by every employer to any worker in his employ for any loss of wages occasioned by any necessary absence from his employment whilst obtaining any certificate referred to in subsection (2): Provided that no compensation shall be payable for any loss of wages in respect of any period of absence in excess of two days."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Appointment of inspectors",
+      "content": "50. Appointment of inspectors Subject to the laws relating to the Public Service, the Minister may appoint such persons to be inspectors as he may consider necessary for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Rights of entry and inspection",
+      "content": "51. Rights of entry and inspection (1) Any member of the Board or of the Bureau , any approved medical practitioner and any inspector may enter upon any place or premises where a dusty occupation is carried on or where he has reasonable grounds for believing that work that should be declared to be work within the definition of “ dusty occupation ” is being carried on in the exercise of his powers or in the performance of duties conferred or imposed upon him by this Act. (2) Any member of the Board or of the Bureau , any approved medical practitioner and any inspector may require the production for examination of any certificate or any register required to be maintained under this Act. (3) Any person who prevents any such entry as is authorized by this section or who obstructs or hinders any person in the exercise of his powers or in the performance of his duties under this Act shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Person with pneumonoconiosis not to enter premises where dusty occupation carried on",
+      "content": "52. Person with pneumonoconiosis not to enter premises where dusty occupation carried on Any person who knows that he has suffered or is suffering from pneumonoconiosis and who, without the permission in writing of the Bureau or in contravention of any condition attached by the Bureau to any such permission, enters any place or premises where a dusty occupation is carried on shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [section as amended by Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Regulations",
+      "content": "53. Regulations (1) The Minister may by regulation prescribe all matters which by this Act are required or permitted to be prescribed or which, in his opinion, are necessary or convenient to be prescribed for the better carrying out of or giving effect to this Act. (2) The Minister may in the exercise of the powers conferred upon him by subsection (1) provide for— (a) the forms to be used for the purposes of this Act; (b) the conditions governing appeals from decisions of the Bureau to the Board of Appeal; (c) the payment from the Compensation Fund of witness fees and expenses to persons appearing before the Board , the National Social Security Board established under the National Social Security Authority Act [Chapter 17:04] or the Appeal Board in relation to claims for benefits and appeals under this Act and the scale of such fees and expenses; (d) the scale of travelling and subsistence allowances payable in terms of section forty-nine; (e) the methods and precautions to be followed for the prevention and control of pneumonoconiosis in dusty occupations. (3) Regulations made in terms of subsection (1) may prescribe penalties for contraventions thereof, but no such penalty shall exceed a fine of level five or imprisonment for a period of six months or both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "***",
+      "content": "54. *** [section repealed by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Savings",
+      "content": "55. Savings (1) All regulations made under the repealed Act and in force immediately before the 1st August, 1971, shall, save in so far as they are inconsistent with this Act, be deemed to have been made under this Act and shall continue in force subject to any amendment or repeal thereof effected under this Act. (2) Any certificate which was issued under the repealed Act and which was current on the date immediately preceding the 1st August, 1971, shall be deemed to have been issued in terms of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Appeal Board",
+      "definition": "Appeal Board ” means the Medical Board of Appeal established in terms of section nineteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appointed member of the Board",
+      "definition": "appointed member of the Board ” means a member of the Board appointed in terms of paragraph (a), (d) or (e) of subsection (1) of section four",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved medical practitioner",
+      "definition": "approved medical practitioner ” means a person appointed in terms of section eighteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "Board ” means the Pneumonoconiosis Board established in terms of section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bureau",
+      "definition": "Bureau ” means the Medical Bureau established in terms of section fourteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate",
+      "definition": "certificate ” means an initial certificate or a periodical certificate or a duplicate of such certificate issued in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certification",
+      "definition": "certification ” means certification by the Bureau that a person has suffered or is suffering from pneumoconiosis or from pneumoconiosis with tuberculosis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Compensation Fund",
+      "definition": "Compensation Fund ” means the Workers’ Compensation Insurance Fund referred to in the Scheme or such other fund as may replace it under that or any other scheme",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fixed date",
+      "definition": "fixed date ” means the 1st January, 1979",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "Fund ” means the Pneumonoconiosis Fund in existence immediately before the fixed date",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mining location",
+      "definition": "mining location ” means a defined area of ground in Zimbabwe in respect of which mining rights or rights in connection with mining may have been acquired under any law relating to mines and minerals, but does not include any mining location which the Minister has, by statutory instrument, declared to be an exempted mining location",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Public Service, Labour and Social Welfare or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "monthly wages",
+      "definition": "monthly wages ”, in relation to a worker , means monthly wages determined in terms of section thirty-five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "repealed Act ” means the Pneumoconiosis Act [Chapter 166 of 1963]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standards of fitness",
+      "definition": "standards of fitness ” includes matters relating to physical and mental development, health and age",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "child ” means any person who is unmarried and under the age of nineteen years and who is— (a) a son or a daughter; (b) a step-child; (c) a child adopted under the law in force in the place of adoption; and includes any such person who is unmarried and is over the age of nineteen years and is, in the opinion of the Board , unable by reason of mental or physical disability or other cause to earn sufficient income for his or her proper maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dependant",
+      "definition": "dependant ” means— (a) a widow; (b) any child as defined in this section, any unmarried posthumous or illegitimate son or daughter who is under the age of nineteen years and any unmarried posthumous or illegitimate son or daughter who is over the age of nineteen years and is, in the opinion of the Board , unable by reason of mental or physical disability or other cause to earn sufficient income for his or her proper maintenance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dusty occupation",
+      "definition": "dusty occupation ” means— (a) in relation to work in Zimbabwe, work in or on a mining location or any other area which is— (i) below the natural surface of the earth; or (ii) on or above the natural surface of the earth on a place where rock, stone, ore or any mineral is ordinarily reduced in size or classified by any dust-producing process; or (iii) at any place where tailings or residues, other than in liquid form, are deposited; or (iv) at a place where drills are sharpened; or (v) in a building provided for the purpose of enabling workers to change their clothes; or (vi) at a place where ground rock, stone, ore or mineral is manipulated for the purpose of assaying it; or (vii) specially declared by the Minister , by notice in writing to the employer of persons engaged therein, to be a dusty occupation; or (viii) generally declared by the Minister , by statutory instrument, to be a dusty occupation; (b) in relation to work outside Zimbabwe, any work which, in the opinion of the Board after consultation with the Bureau , could cause or aggravate pneumonoconiosis",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pneumonoconiosis",
+      "definition": "pneumonoconiosis ” means any disease of the respiratory organs due to the inhalation of mineral dust and, for the purposes of this Act, a person shall be deemed to be or to have been suffering from pneumonoconiosis in the— (a) first stage when the Bureau has found that the first specific signs of pneumonoconiosis detected by any means whatsoever are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by not more than twenty per centum ; (b) second stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than twenty per centum but less than fifty per centum ; (c) third stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than fifty per centum but less than seventy-five per centum ; (d) fourth stage when the Bureau has found that specific signs of pneumonoconiosis are or were present in the lungs of the person in question and that his ability to perform manual work has been reduced as a direct result of the presence of such pneumonoconiosis by more than seventy-five per centum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Scheme",
+      "definition": "Scheme ” means— (a) the Accident Prevention and Workers’ Compensation Scheme established in terms of section 3 of the National Social Security Authority Act [Chapter 17:04] , and published in Statutory Instrument 68 of 1990; or (b) any scheme declared in terms of subsection (2) to be the Scheme for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tuberculosis",
+      "definition": "tuberculosis ” means tuberculosis of the respiratory organs and a person shall, for the purposes of this Act, be deemed to be suffering from tuberculosis if the Bureau has found— (a) such person’s sputum to contain tubercle bacilli; or (b) such person to be suffering from “closed” tuberculosis which seriously impairs his working capacity",
+      "source_provision": "s2"
+    }
+  ]
+}

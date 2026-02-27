@@ -1,15 +1,20 @@
 #!/usr/bin/env tsx
 /**
- * Zimbabwe Law MCP -- Ingestion Pipeline
+ * Zimbabwe Law MCP -- Census-Driven Ingestion Pipeline
  *
- * Fetches Zimbabwean legislation from ZimLII (zimlii.org).
- * ZimLII provides free access to Zimbabwean legal information
- * hosted by AfricanLII at the University of Cape Town.
+ * Reads data/census.json and fetches + parses every ingestable Act
+ * from ZimLII (zimlii.org) (Peachjam/AKN HTML).
+ *
+ * Features:
+ *   - Resume support: skips Acts that already have a seed JSON file
+ *   - Census update: writes provision counts + ingestion dates back to census.json
+ *   - Rate limiting: 500ms minimum between requests (via fetcher.ts)
  *
  * Usage:
- *   npm run ingest                    # Full ingestion
+ *   npm run ingest                    # Full census-driven ingestion
  *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
+ *   npm run ingest -- --skip-fetch    # Reuse cached HTML (re-parse only)
+ *   npm run ingest -- --force         # Re-ingest even if seed exists
  *
  * Data is sourced under free access principles; government legislation
  * is public domain under Zimbabwean law.
@@ -19,18 +24,55 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseZimLIIHtml, KEY_ZW_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { parseZimLIIHtml, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
+const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+/* ---------- Types ---------- */
+
+interface CensusLawEntry {
+  id: string;
+  title: string;
+  identifier: string;
+  url: string;
+  chapter: string;
+  status: 'in_force' | 'amended' | 'repealed';
+  category: 'act';
+  classification: 'ingestable' | 'excluded' | 'inaccessible';
+  ingested: boolean;
+  provision_count: number;
+  ingestion_date: string | null;
+}
+
+interface CensusFile {
+  schema_version: string;
+  jurisdiction: string;
+  jurisdiction_name: string;
+  portal: string;
+  census_date: string;
+  agent: string;
+  summary: {
+    total_laws: number;
+    ingestable: number;
+    ocr_needed: number;
+    inaccessible: number;
+    excluded: number;
+  };
+  laws: CensusLawEntry[];
+}
+
+/* ---------- Helpers ---------- */
+
+function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean } {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
+  let force = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
@@ -38,44 +80,108 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
       i++;
     } else if (args[i] === '--skip-fetch') {
       skipFetch = true;
+    } else if (args[i] === '--force') {
+      force = true;
     }
   }
 
-  return { limit, skipFetch };
+  return { limit, skipFetch, force };
 }
 
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Zimbabwean Acts...\n`);
+/**
+ * Convert a census entry to an ActIndexEntry for the parser.
+ */
+function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
+  return {
+    id: law.id,
+    title: law.title,
+    titleEn: law.title,
+    shortName: law.title.length > 30 ? law.title.substring(0, 27) + '...' : law.title,
+    chapterNumber: law.chapter || '',
+    status: law.status === 'in_force' ? 'in_force' : law.status === 'amended' ? 'amended' : 'repealed',
+    issuedDate: '',
+    inForceDate: '',
+    url: law.url,
+  };
+}
+
+/* ---------- Main ---------- */
+
+async function main(): Promise<void> {
+  const { limit, skipFetch, force } = parseArgs();
+
+  console.log('Zimbabwe Law MCP -- Ingestion Pipeline (Census-Driven)');
+  console.log('======================================================\n');
+  console.log(`  Source: ZimLII (zimlii.org)`);
+  console.log(`  Format: Peachjam/AKN HTML`);
+  console.log(`  License: Free Access (AfricanLII)`);
+
+  if (limit) console.log(`  --limit ${limit}`);
+  if (skipFetch) console.log(`  --skip-fetch`);
+  if (force) console.log(`  --force (re-ingest all)`);
+
+  // Load census
+  if (!fs.existsSync(CENSUS_PATH)) {
+    console.error(`\nERROR: Census file not found at ${CENSUS_PATH}`);
+    console.error('Run "npx tsx scripts/census.ts" first.');
+    process.exit(1);
+  }
+
+  const census: CensusFile = JSON.parse(fs.readFileSync(CENSUS_PATH, 'utf-8'));
+  const ingestable = census.laws.filter(l => l.classification === 'ingestable');
+  const acts = limit ? ingestable.slice(0, limit) : ingestable;
+
+  console.log(`\n  Census: ${census.summary.total_laws} total, ${ingestable.length} ingestable`);
+  console.log(`  Processing: ${acts.length} acts\n`);
 
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
 
   let processed = 0;
+  let ingested = 0;
   let skipped = 0;
   let failed = 0;
   let totalProvisions = 0;
   let totalDefinitions = 0;
-  const results: { id: string; shortName: string; provisions: number; definitions: number; status: string }[] = [];
+  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
 
-  for (const act of acts) {
+  // Build a map for census updates
+  const censusMap = new Map<string, CensusLawEntry>();
+  for (const law of census.laws) {
+    censusMap.set(law.id, law);
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+
+  for (const law of acts) {
+    const act = censusToActEntry(law);
     const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
     const seedFile = path.join(SEED_DIR, `${act.id}.json`);
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      results.push({
-        id: act.id,
-        shortName: act.shortName,
-        provisions: existing.provisions.length,
-        definitions: existing.definitions.length,
-        status: 'cached',
-      });
-      totalProvisions += existing.provisions.length;
-      totalDefinitions += existing.definitions.length;
-      skipped++;
-      processed++;
-      continue;
+    // Resume support: skip if seed already exists (unless --force)
+    if (!force && fs.existsSync(seedFile)) {
+      try {
+        const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
+        const provCount = existing.provisions?.length ?? 0;
+        const defCount = existing.definitions?.length ?? 0;
+        totalProvisions += provCount;
+        totalDefinitions += defCount;
+
+        // Update census entry
+        const entry = censusMap.get(law.id);
+        if (entry) {
+          entry.ingested = true;
+          entry.provision_count = provCount;
+          entry.ingestion_date = entry.ingestion_date ?? today;
+        }
+
+        results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'resumed' });
+        skipped++;
+        processed++;
+        continue;
+      } catch {
+        // Corrupt seed file, re-ingest
+      }
     }
 
     try {
@@ -83,13 +189,21 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
 
       if (fs.existsSync(sourceFile) && skipFetch) {
         html = fs.readFileSync(sourceFile, 'utf-8');
+        console.log(`  [${processed + 1}/${acts.length}] Using cached ${act.id} (${(html.length / 1024).toFixed(0)} KB)`);
       } else {
-        process.stdout.write(`  Fetching ${act.shortName} (${act.title})...`);
+        process.stdout.write(`  [${processed + 1}/${acts.length}] Fetching ${act.id}...`);
         const result = await fetchWithRateLimit(act.url);
 
         if (result.status !== 200) {
           console.log(` HTTP ${result.status}`);
-          results.push({ id: act.id, shortName: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
+
+          // Mark as inaccessible in census
+          const entry = censusMap.get(law.id);
+          if (entry) {
+            entry.classification = 'inaccessible';
+          }
+
+          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
           failed++;
           processed++;
           continue;
@@ -98,7 +212,13 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
         // Check for 404 soft-fail (page returns 200 but shows "Not found")
         if (result.body.includes('Not found (Error 404)')) {
           console.log(` SOFT 404 (page not found)`);
-          results.push({ id: act.id, shortName: act.shortName, provisions: 0, definitions: 0, status: 'soft-404' });
+
+          const entry = censusMap.get(law.id);
+          if (entry) {
+            entry.classification = 'inaccessible';
+          }
+
+          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'soft-404' });
           failed++;
           processed++;
           continue;
@@ -113,52 +233,91 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
       fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
       totalProvisions += parsed.provisions.length;
       totalDefinitions += parsed.definitions.length;
+      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions`);
+
+      // Update census entry
+      const entry = censusMap.get(law.id);
+      if (entry) {
+        entry.ingested = true;
+        entry.provision_count = parsed.provisions.length;
+        entry.ingestion_date = today;
+      }
+
       results.push({
-        id: act.id,
-        shortName: act.shortName,
+        act: act.shortName,
         provisions: parsed.provisions.length,
         definitions: parsed.definitions.length,
-        status: parsed.provisions.length > 0 ? 'OK' : 'WARN: 0 provisions',
+        status: 'OK',
       });
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
+      ingested++;
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR parsing ${act.shortName}: ${msg}`);
-      results.push({ id: act.id, shortName: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
+      console.log(`  ERROR parsing ${act.id}: ${msg}`);
+      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
       failed++;
     }
 
     processed++;
+
+    // Save census every 50 acts (checkpoint)
+    if (processed % 50 === 0) {
+      writeCensus(census, censusMap);
+      console.log(`  [checkpoint] Census updated at ${processed}/${acts.length}`);
+    }
   }
 
-  // Print summary table
-  console.log(`\n${'='.repeat(80)}`);
-  console.log('INGESTION REPORT');
-  console.log('='.repeat(80));
-  console.log(`${'Act'.padEnd(12)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(12)}  Status`);
-  console.log('-'.repeat(80));
-  for (const r of results) {
-    console.log(`${r.shortName.padEnd(12)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(12)}  ${r.status}`);
+  // Final census update
+  writeCensus(census, censusMap);
+
+  // Report
+  console.log(`\n${'='.repeat(70)}`);
+  console.log('Ingestion Report');
+  console.log('='.repeat(70));
+  console.log(`\n  Source:      zimlii.org (Peachjam/AKN HTML)`);
+  console.log(`  Processed:   ${processed}`);
+  console.log(`  New:         ${ingested}`);
+  console.log(`  Resumed:     ${skipped}`);
+  console.log(`  Failed:      ${failed}`);
+  console.log(`  Total provisions:  ${totalProvisions}`);
+  console.log(`  Total definitions: ${totalDefinitions}`);
+
+  // Summary of failures
+  const failures = results.filter(r => r.status.startsWith('HTTP') || r.status.startsWith('ERROR') || r.status === 'soft-404');
+  if (failures.length > 0) {
+    console.log(`\n  Failed acts:`);
+    for (const f of failures) {
+      console.log(`    ${f.act}: ${f.status}`);
+    }
   }
-  console.log('-'.repeat(80));
-  console.log(`${'TOTAL'.padEnd(12)} ${String(totalProvisions).padStart(12)} ${String(totalDefinitions).padStart(12)}`);
-  console.log(`\nProcessed: ${processed}  |  Skipped (cached): ${skipped}  |  Failed: ${failed}`);
+
+  // Zero-provision acts
+  const zeroProv = results.filter(r => r.provisions === 0 && !r.status.startsWith('HTTP') && !r.status.startsWith('ERROR') && r.status !== 'soft-404');
+  if (zeroProv.length > 0) {
+    console.log(`\n  Zero-provision acts (${zeroProv.length}):`);
+    for (const z of zeroProv.slice(0, 20)) {
+      console.log(`    ${z.act}`);
+    }
+    if (zeroProv.length > 20) {
+      console.log(`    ... and ${zeroProv.length - 20} more`);
+    }
+  }
+
+  console.log('');
 }
 
-async function main(): Promise<void> {
-  const { limit, skipFetch } = parseArgs();
+function writeCensus(census: CensusFile, censusMap: Map<string, CensusLawEntry>): void {
+  // Update the laws array from the map
+  census.laws = Array.from(censusMap.values()).sort((a, b) =>
+    a.title.localeCompare(b.title),
+  );
 
-  console.log('Zimbabwe Law MCP -- Ingestion Pipeline');
-  console.log('======================================\n');
-  console.log(`  Source: ZimLII (zimlii.org)`);
-  console.log(`  Format: Peachjam/AKN HTML`);
-  console.log(`  License: Free Access (AfricanLII)`);
+  // Recalculate summary
+  census.summary.total_laws = census.laws.length;
+  census.summary.ingestable = census.laws.filter(l => l.classification === 'ingestable').length;
+  census.summary.inaccessible = census.laws.filter(l => l.classification === 'inaccessible').length;
+  census.summary.excluded = census.laws.filter(l => l.classification === 'excluded').length;
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
-
-  const acts = limit ? KEY_ZW_ACTS.slice(0, limit) : KEY_ZW_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  fs.writeFileSync(CENSUS_PATH, JSON.stringify(census, null, 2));
 }
 
 main().catch(error => {

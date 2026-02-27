@@ -1,0 +1,77 @@
+{
+  "id": "zw-rhodesia-and-malawi-common-services-guarantee-act",
+  "type": "statute",
+  "title": "Rhodesia and Malawi Common Services Guarantee Act",
+  "title_en": "Rhodesia and Malawi Common Services Guarantee Act",
+  "short_name": "Rhodesia and Malawi Common ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1963/64/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Rhodesia and Malawi Common Services Guarantee Act [Chapter 22:11] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ agreement ” means an agreement made between a corporation and— (a) a government or any division or department of a government; or (b) any other body or organization outside Zimbabwe; “ corporation ” means— (a) the Central African Airways Corporation constituted by the Order in Council ; or (b) the Zambezi River Authority, formerly the Central African Power Corporation, constituted by the Order in Council ; or (c) the Rhodesia Railways referred to in the Order in Council ; as the case may be; “ International Bank ” means the International Bank for Reconstruction and Development; “ Minister ” means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ Order in Council ” means the Federation of Rhodesia and Nyasaland (Dissolution) Order in Council 1963 of the United Kingdom."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Guarantee of obligations of corporation",
+      "content": "3. Guarantee of obligations of corporation (1) The Minister may, on such terms and conditions as he thinks fit— (a) guarantee the discharge by a corporation of its obligations under any agreement ; and (b) undertake such other obligations as he may consider expedient in relation to or pursuant to any such agreement ; and may give written authority to any person to sign and execute any such guarantee or undertaking as his representative. (2) Any sum required for fulfilling any guarantee given in terms of subsection (1) is hereby charged on, and shall be paid by the Minister or such officer in his Ministry as he may authorize thereto out of, the general revenues and assets of Zimbabwe, which are hereby appropriated to the purpose, and any sum received by way of repayment of any sum so paid shall be paid into the Consolidated Revenue Fund. (3) As soon as possible after any guarantee is given in terms of subsection (1) the Minister shall lay a statement thereof before Parliament. (4) If any sum has been paid out of the general revenues and assets of Zimbabwe in terms of subsection (2) the Minister shall, as soon as possible after the end of each financial year of the corporation concerned, beginning with that in which the sum was paid and ending with that in which all liability in respect of that sum and any interest payable thereon is finally discharged, lay before Parliament a statement relating thereto."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application of borrowing of corporation",
+      "content": "4. Application of borrowing of corporation Any loan made by the International Bank to a corporation in terms of an agreement shall be applied by the corporation to the purposes specified in that agreement : Provided that any part of the loan which cannot be so applied shall be applied only to such other purposes as may be approved by the Government of the United Kingdom, the Government of Zimbabwe and the International Bank ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Repayment of sums paid by United Kingdom under guarantee",
+      "content": "5. Repayment of sums paid by United Kingdom under guarantee Any sums issued out of the Consolidated Fund of the United Kingdom on account of any guarantee given by the Treasury of the United Kingdom in respect of any loan made to a corporation by the International Bank shall, to the extent of any guarantee given by the Minister in respect of that loan in terms of subsection (1) of section three, be repaid to the Treasury of the United Kingdom by the Minister or such officer in his Ministry as he may authorize thereto out of the general revenues and assets of Zimbabwe, which are hereby appropriated to the purpose, with interest thereon at such rates as the Treasury of the United Kingdom in consultation with the Minister may fix."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Implementation of agreements",
+      "content": "6. Implementation of agreements (1) Notwithstanding anything contained in any enactment, the President may exercise all such powers and authorities and do or cause to be done all such things as appear to him to be necessary for giving full and complete effect to any guarantee given, and for the carrying out of any obligations undertaken, by the Minister in terms of subsection (1) of section three. (2) The State, a local authority, a corporation or a statutory commission (in this subsection referred to as the borrower) shall not, without the consent of the President, create any lien on any of its assets as security for any loan raised by it outside Zimbabwe or for any guarantee given by it in respect of any loan raised outside Zimbabwe unless it is expressly provided that the lien will ipso facto equally and rateably secure the payment of the principal of and interest and other charges on any loan made by or any bonds issued pursuant to any loan made by the International Bank to any of the aforesaid borrowers, whether or not the latter loan was made to the borrower who desires to create the lien. In this subsection— “lien” includes mortgage, pledge, charge, privilege and priority of any kind; “statutory commission” means the Reserve Bank of Zimbabwe or any body incorporated directly by an enactment. (3) For the avoidance of doubt it is hereby declared that for the purposes of subsection (2) a loan shall be deemed to have been made to a corporation if such loan was made to any other body and thereafter was assumed by that corporation ."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "No stamp or other duty payable",
+      "content": "7. No stamp or other duty payable No stamp or other duty and no fees or other charges shall be payable in respect of anything done under this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "International Bank",
+      "definition": "International Bank ” means the International Bank for Reconstruction and Development",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "agreement",
+      "definition": "agreement ” means an agreement made between a corporation and— (a) a government or any division or department of a government; or (b) any other body or organization outside Zimbabwe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corporation",
+      "definition": "corporation ” means— (a) the Central African Airways Corporation constituted by the Order in Council ; or (b) the Zambezi River Authority, formerly the Central African Power Corporation, constituted by the Order in Council ; or (c) the Rhodesia Railways referred to in the Order in Council ; as the case may be",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "zw-civil-protection-declaration-of-state-of-disaster-rural-and-urban-areas-of-zimbabwe-covid-19-notice-2020",
+  "type": "statute",
+  "title": "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020",
+  "title_en": "Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) (COVID-19) Notice, 2020",
+  "short_name": "Civil Protection (Declarati...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/si/2020/76/eng@2020-03-23",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Title",
+      "content": "1. Title This notice may be cited as the Civil Protection (Declaration of State of Disaster: Rural and Urban Areas of Zimbabwe) ( COVID-19 ) Notice, 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this notice — “ COVID-19 ” means the Novel Coronavirus (2019-nCov), which is an infectious disease caused by a virus which, having emerged during 2019, was declared a global pandemic by the World Health Organisation on the 11th March, 2020; “ urban area ” means any area which is — (a) a municipal area, town area or local government area; or (b) a town ward of a rural district council or an area declared to be a specified area in terms of the Rural District Councils Act [Chapter 29:13] ', or (c) a township as defined in the Land Survey Act [Chapter 20:12]', “ rural area ” means any area outside an urban area ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Declaration of state of disaster",
+      "content": "3. Declaration of state of disaster In the wake of the declaration by the World Health Organisation of COVID-19 as a global pandemic, a state of disaster exists in all rural and urban areas in Zimbabwe with effect from promulgation of this notice."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "COVID-19",
+      "definition": "COVID-19 ” means the Novel Coronavirus (2019-nCov), which is an infectious disease caused by a virus which, having emerged during 2019, was declared a global pandemic by the World Health Organisation on the 11th March, 2020",
+      "source_provision": "s2"
+    },
+    {
+      "term": "urban area",
+      "definition": "urban area ” means any area which is — (a) a municipal area, town area or local government area; or (b) a town ward of a rural district council or an area declared to be a specified area in terms of the Rural District Councils Act [Chapter 29:13] ', or (c) a township as defined in the Land Survey Act [Chapter 20:12]',",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "id": "zw-building-societies-act",
+  "type": "statute",
+  "title": "Building Societies Act",
+  "title_en": "Building Societies Act",
+  "short_name": "Building Societies Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1965/20/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Building Societies Act [Chapter 24:02] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— \" accredited agent \" means a representative of a society with written authority from a society in regard to the acceptance of money in respect of deposits or shares or repayments of advances or loans or the receipt of applications in respect of advances or loans on behalf of that society ; \" advance \" includes one or more advances on the security of a mortgage or a hypothecation of one property or of two or more properties jointly; \" approved investment \" means an investment approved in terms of paragraph (i) of section seventeen; \" authorized deposit \" means a deposit mentioned in paragraph (h) of section seventeen; \" bank \" means-a commercial bank or an accepting house; \" board of directors \", in relation to any society , means the managing body thereof by whatever name it may be called; \" chief executive officer \" means the person who is responsible to the board of directors for the general management of a society ; \" court \" means the High Court and, in relation to any offence under this Act, includes a magistrates court having jurisdiction in respect of that offence; \" director \" includes any person occupying the position of director of a society by whatever name he may be called; \" existing share \" means a share issued by an existing society which had not been redeemed immediately prior to the 1st July, 1965; \" fixed deposit \" means a deposit for a period which is fixed in accordance with paragraph (d) of section nineteen; \" fixed-period share \" means a fully paid-up share issued for a period of not less than five years; \" fixed-term advance \" means an advance on terms and conditions which provide for the repayment of the capital amount advanced within a fixed period; \" hypothecation \" means a hypothecation of a registered lease of urban immovable property the unexpired period of which, at the date of the hypothecation, exceeds the period of repayment of the advance made on the security of that hypothecation by not less than ten years; \" member \", in relation to a society , means a person who holds shares therein, whether fully or partly paid up, which participate in the profits thereof whether or not such shares are held by the society as security for an advance ; \" Minister \" means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act; \" mortgage \" means a mortgage of urban immovable property or a registered cession of a mortgage bond over urban immovable property; \" officer \", in relation to a society , means any director , local director , local committee member , manager, secretary, clerk, accredited agent or other employee of the society but does not include an auditor of the society ; \" permanent share \" means a fully paid up share of which the holder shall not be entitled to demand redemption but which the society may redeem after six months’ notice to the holder if its rules so provide; \" reducible advance \" means an advance on terms and conditions which provide for the reduction of the capital amount advanced by periodical payments; \" registered commercial bank \", \"registered accepting house\" and \"registered discount house\" mean, respectively, a commercial bank , an accepting house and a discount house registered as such under the Banking Act [Chapter 24:01] ; \" Registrar \" means the Registrar of Building Societies appointed in terms of section five; \" reserves \" means the reserves established in terms of section thirty-two and built up out of profits and not set aside for any specific purpose; \" savings deposit \" means— (a) a deposit other than a fixed deposit ; and (b) a deposit for a fixed period not exceeding twelve months; \" society \" means a building society as defined in section three; \" subscription share \" means a share which— (a) is paid for by periodical contributions; and (b) is calculated to mature at the expiry of a period of not less than two years."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act (1) This Act shall apply to every building society . (2) In this Act, the expression \"building society \" means an association of persons— (a) the name or title of which contains the words \"building society \"; or (b) the principal object of which is raising money by issuing shares to its members and by accepting deposits or loans from its members and others, and using such money to make advances to members and others upon the security of a mortgage or hypothecation — (i) for the purpose of enabling the persons to whom such advances are to be made to acquire immovable property or to erect and maintain buildings upon immovable property; and (ii) for any other purpose."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Use of certain words",
+      "content": "4. Use of certain words (1) No person shall include the words \"building society \" in his name unless he is registered in terms of this Act. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Appointment of Registrar",
+      "content": "5. Appointment of Registrar (1) There shall be a Registrar of Building Societies and such other officers as may be necessary for the proper administration of this Act, who shall be employees of the Reserve Bank appointed in terms of section 46 of the Reserve Bank of Zimbabwe Act [Chapter 22:15] . (2) The Registrar shall perform such functions as are conferred upon him or her in terms of this Act. (3) Subject to the directions of the Registrar , the other officers referred to in subsection (1) shall perform such of the Registrar ’s functions as the Registrar may assign to them. [section as substituted by section 20 of Act 16 of 2004 ] Part II – Registration of societies and matters incidental thereto"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Prohibition of unregistered society",
+      "content": "6. Prohibition of unregistered society (1) No society , association or company shall carry on business in Zimbabwe as a building society unless it is registered in terms of this Act: Provided that a society , association or company registered as a building society on or before the 1st July, 1965, shall be deemed to be registered in terms of this Act. (2) Any society , association or company which contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level fourteen or to imprisonment for a period not exceeding five years or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Establishment and registration of society",
+      "content": "7. Establishment and registration of society (1) If an association of persons wishes to be established and registered as a society it shall submit to the Registrar — (a) an application in writing signed on behalf of the association by not less than seven persons who are members of that association; and (b) two copies of the draft rules providing for the matters specified in section eight and such other matters as are considered desirable. (2) If, after considering an application in terms of subsection (1), the draft rules accompanying such application and such further information as he may require, the Registrar is satisfied— (a) the application conforms to the requirements of this section; and (b) the draft rules are not inconsistent with this Act; and (c) the rights of voting as laid down in the draft rules are equitable; and (d) the methods of transacting the business of the society as laid down in the draft rules are not undesirable; and (e) the establishment and registration of the society would be in the interests of the public; he shall, as soon as subsection (4) has been complied with, register the applicant as a society and shall issue a certificate of registration to the applicant. (3) The Registrar — (a) may at any time after receiving the draft rules return them to the applicant for reconsideration or amendment; and (b) shall, if he is satisfied as to all the matters referred to in paragraphs (a) to (e) of subsection (2), return a copy of the draft rules as approved by him to the applicant. (4) The draft rules returned in terms of paragraph (b) of subsection (3) shall be printed, duplicated or typed by the applicant and thereafter two copies thereof shall— (a) be signed by each person who signed the application form in terms of subsection (1) with opposite each such signature there being shown— (i) the full name of the person, his occupation and his residential or business address; and (ii) the number and type of shares he has agreed to subscribe for and the nominal value of such shares; and (b) then be submitted to the Registrar ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Matters which must be provided for in rules of society",
+      "content": "8. Matters which must be provided for in rules of society (1) The rules of every society shall provide for the following matters— (a) the name of the society and the situation in Zimbabwe of its head office; and (b) the principal objects of the society ; and (c) the manner in which the funds of the society are to be raised, the purposes to which they are to be applied and the manner in which surplus funds are to be invested; and (d) the manner in which a person may become a member and may cease to be a member ; and (e) the classes of shares to be issued, the conditions of redemption or repayment of shares and the preferential and other special rights attaching to each class of share; and (f) the right of voting at meetings of the society including the right of voting conferred by each class of share; and (g) the manner in and the conditions upon which advances upon the security of a mortgage or hypothecation are to be made and repaid, and the conditions upon which a borrower shall be entitled to repay the amount owing by him before the expiry of the period for which the advance was made; and (h) the conditions upon which the society will accept and repay deposits; and (i) the fees, fines and charges that may be demanded from or imposed upon shareholders, depositors and borrowers; and (j) the manner of appointment of an auditor of the society ; and (k) the manner in which profits or losses are to be ascertained and dealt with or provided for; and (l) the manner of altering and rescinding the rules of the society , and of making additional rules; and (m) the manner of electing, appointing, removing and fixing the remuneration of directors, their qualifications, powers and duties, and the manner of appointment, removing and fixing the remuneration of members of local boards or committees and of officers of the society ; and (n) the manner of calling annual general meetings and special general meetings of members, the quorum necessary for the transaction of business at such meetings, and the manner of voting thereat; and (o) whether disputes between the society and any of its members or between the society and any persons claiming under the rules or whose claims are derived from members shall be settled by the court or by arbitration; and (p) such other matters as may be prescribed from time to time. (2) The registered rules and any registered amendments thereto as hereinafter provided shall be binding on the society and members and officers thereof and on all persons claiming under the rules or whose claim is derived from a member ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Alteration of rules",
+      "content": "9. Alteration of rules (1) Subject to subsection (2), a society may, in the manner directed by its rules, alter or rescind any rule or make any additional rule, but no such alteration, rescission or addition shall be valid if— (a) it purports to affect the rights of a creditor of a society who is not a member thereof; or (b) it is directed against any particular individual; or (c) it purports to alter the rights of members in a winding up; or (d) it is not registered in accordance with subsection (2). [paragraph as amended by section 4 of Act 22 of 2001 ] (2) Two copies of every resolution for the alteration or rescission of any rule or the making of any additional rule shall be signed by two directors and the chief executive officer of the society and shall be transmitted by the chief executive officer of the society to the Registrar who, if he is satisfied that such alteration, rescission or addition is in conformity with this Act and is not contrary to the interests of members or depositors shall register the resolution and return one of the copies to the chief executive officer of the society , with the date of registration endorsed thereon, and as from the date of registration the alteration, rescission or addition, as the case may be, shall take effect."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Rules open to public",
+      "content": "10. Rules open to public Every society shall make a copy of its rules available at every branch and agency of the society for inspection by members of the public during the normal business hours of the society ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Registrar may inspect books and accounts of any person",
+      "content": "11. Registrar may inspect books and accounts of any person The Registrar may at any time make an inspection or cause an inspection to be made of the books, accounts and records of any person for the purpose of determining whether that person is carrying on the business of a building society or not."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Effect of registration",
+      "content": "12. Effect of registration From the date of registration of a society under this Act such society shall be a body corporate which shall be capable of suing and of being sued in its registered name and, subject to its rules and of this Act, of doing all such acts as a body corporate may by law perform."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Conclusiveness of certificate of registration",
+      "content": "13. Conclusiveness of certificate of registration A certificate of registration of a society issued by the Registrar shall, upon its mere production, in the absence of proof of fraud, be conclusive evidence that all the requirements of this Act in respect of registration and of matters precedent and incidental thereto have been complied with and that the society is duly registered."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Cancellation or suspension of registration",
+      "content": "14. Cancellation or suspension of registration (1) Where the Registrar has reasonable grounds for believing— (a) that a certificate of registration has been obtained for a society by fraud or mistake; or (b) that a society exists for an illegal purpose; or (c) that a society has wilfully and after notice from the Registrar contravened provisions of this Act applicable to it; or (d) that a society has ceased to conduct business as a building society ; or (e) that a society or an employee thereof has been convicted of an offence in terms of section 5 of the Prevention of Discrimination Act [Chapter 8:16] , and an appeal against the conviction has not been brought or, if brought, has been abandoned or dismissed; [paragraph as amended by section 13 of Act 19 of 1998 ] the Registrar may notify the society concerned that he proposes to cancel its registration. (2) If, after notifying a society in terms of subsection (1)— (a) no appeal is lodged in terms of section sixty-eight, the Registrar shall cancel the registration of the society ; (b) an appeal is lodged in terms of section sixty-eight, the Minister may— (i) direct the Registrar to cancel the registration of the society or to suspend the registration of the society for such period and subject to such conditions as he thinks fit and the Registrar shall cancel or suspend the registration, as the case may be; or (ii) make such other order as in the circumstances he thinks fit. (3) The Registrar shall cancel the registration of a society if the society , by resolution passed at a special general meeting convened for the purpose, resolves that the registration of the society be cancelled. Such resolution shall be passed by a majority of the members voting in accordance with the rules of the society : Provided that where the members so voting in favour of such resolution do not hold more than one-half of the value of shares of the society , as shown in the books of the society , the resolution shall not become effective until the concurrence in writing is obtained of other members whose shares together with the shares of the members who voted in favour of the said resolution exceed in value one-half of the total value of shares of the society , as shown in the books of the society . (4) The Registrar shall, as soon as practicable after any cancellation or suspension under subsection (2) or (4), cause notice thereof to be published in the Gazette and in a newspaper circulating in the district in which the head office of the society is situate. (5) Any cancellation or suspension of registration shall be without prejudice to any right acquired by any person against the society before the publication in the Gazette of the notice referred to in subsection (4)."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Name of society",
+      "content": "15. Name of society (1) No society shall be registered by a name which is identical with that of another society or which so nearly resembles such name as to be calculated to deceive unless such other society is being wound up and consents to such registration. (2) The Registrar may refuse to register a society by a name which in his opinion is calculated to mislead the public or to cause offence to any person or class of persons."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Change of name of society",
+      "content": "16. Change of name of society (1) The rules of a society may provide for the way in which the name of a society may be changed. (2) Subject to section fifteen, upon receipt by the Registrar of notice of such change of name, the Registrar shall enter the new name in his records in place of the former name and shall issue a certificate of registration to the society under its new name. (3) The change of name shall not affect any right or obligation of the society or of any member thereof or other person concerned, or render defective any legal proceedings by or against the society and any legal proceedings that may have been commenced or continued by or against it under its former name may be commenced or continued under its new name. (4) The Registrar of Deeds, upon production to him by the society of any mortgage bond or of the title deeds of any immovable property belonging to the society and a certificate by the Registrar of the registration of the society under its new name and upon payment by the society of the fees that may be payable in terms of any law relating to the Deeds Registry, shall make such endorsements upon such bond or title deeds and such alterations in his registers as are necessary by reason of the change of name. (5) If the Registrar has certified in writing that in his opinion the new name of the society is so similar to its former name that both names obviously refer to the same society , any mortgage bond or title deeds registered in the former name of the society shall, unless and until it is sought to endorse such bond or title deeds regarding any transaction other than a cancellation, be deemed to have been registered in the name of the society as changed. Part III – Powers of societies, deposits, shares, advances and financial provisions"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Powers of societies",
+      "content": "17. Powers of societies Subject to this Act, a society shall have power— (a) to acquire or retain the ownership of land or the lease of land and to erect buildings thereon primarily required for the administration of the society ’s affairs, and with the approval of the Registrar , for the housing of its employees, and from time to time to alienate such land or terminate or cede such lease and acquire or hire other or further land for like purposes, and to let such portion of the buildings in which the business of the society is carried on as may not be required for the purposes of the society ; and (b) with the approval of the Registrar , to join with any person in acquiring the ownership of any land and to erect buildings thereon, a portion of which will be used by the society ; and (c) to acquire land for the purpose of erecting buildings thereon for sale to members or others: Provided that such buildings shall be erected and sold within five years from the date of the acquisition of such land or such other longer period as may be approved by the Registrar ; and (d) to buy in immovable property mortgaged to the society or acquire leases of land hypothecated to the society in security for debt and to hold such immovable property or lease for a period which shall not exceed five years without the authority of the Registrar ; and (e) to receive savings deposits; and (f) to receive fixed deposits; and (g) to borrow money at interest, other than in the form of deposit, from a registered commercial bank or, if the terms are approved by the Registrar , from any other person and to arrange overdraft facilities with a registered commercial bank and for this purpose to pledge its assets; and (h) from time to time to issue shares of such classes and denominations, with or without accumulating dividends, and with such preferential rights regarding dividends and capital and subject to such conditions of transfer and repayment as may be decided by the society in accordance with its rules; and (i) to hold cash and make deposits— (i) on terms and conditions which provide that the deposits shall be withdrawable on demand or fixed for periods not exceeding two years— (A) with a bank ; and (B) with a registered discount house; and (C) with a municipality as constituted in terms of the Urban Councils Act [Chapter 29:15] ; and (D) with the Corporation as defined in section 2 of the Agricultural Finance Act [Chapter 18:02] ; and [subparagraph as amended by section 29 of Act 14 of 1999 ] (ii) with the Post Office Savings Bank; and (iii) with the State; and (iv) in such other manner as the Minister may approve; and (j) to lend or advance money at interest to members and others on the security of mortgages or hypothecations, and to negotiate the purchase or sale and the hiring or letting by members or others of immovable property mortgaged or to be mortgaged to the society ; and (k) with the approval of the Minister , to lend money to— (i) any association of persons, local authority or other corporate body, on such security as the Minister may approve; (ii) any person other than one referred to in subparagraph (i), where the repayment of the whole or part of such loan is to be guaranteed by the Minister responsible for housing in terms of the Housing and Building Act [Chapter 22:07] : Provided that a society may lend money in terms of this paragraph only for the purpose of the construction of buildings or the purchase or lease of land or buildings by the borrowers; and (l) to lend money to members and depositors on the security of their deposits and to members on the security of their shares; and (m) to lend money to members or others for the purchase of plant or machinery or any other purpose; and (n) to invest in such bills, bonds, certificates, debentures, stock, shares or loans as may be approved by the Minister from time to time; and (o) to act as the agent of insurance companies in effecting insurances— (i) in respect of property mortgaged or to be mortgaged to the society ; (ii) in respect of movable assets in the mortgaged property; (iii) designed to secure debts to the society ; and to collect on behalf of such companies the premiums in respect of any insurance so effected and of the insurances pledged to the society ; and (p) to act as the agent of financial institutions registered in terms of the Banking Act [Chapter 24:01] in the hire-purchase, lease-hire and similar businesses; and (q) to provide such facilities for its employees as are approved by the directors and to pay pensions or gratuities to its employees or to adopt or to establish and maintain or to join with other building societies in adopting and maintaining pension, superannuation, benevolent or medical aid funds or schemes in respect of its employees: Provided that the assets of any such fund or scheme shall not be merged with the assets of the society ; and (r) to do all lawful things incidental or conducive to the powers conferred upon it in terms of this section; and (s) to undertake such other business as may be prescribed: Provided that the total value of— (a) land acquired and buildings erected in accordance with paragraph (a); and (b) the society ’s interest in land acquired and buildings erected in accordance with paragraph (b); and (c) advances made in accordance with paragraph (i) to a corporate body in which the society holds shares; and (d) loans made in accordance with paragraph (j) to a corporate body in which the society holds shares; and (e) share investment in accordance with paragraph (l) at the nominal value of the shares concerned; shall not, without the consent of the Registrar , exceed an amount equal to twenty per centum of the total of the permanent share capital of the society and the amount standing to the credit of its reserves ; and (t) to enter into joint ventures with the State, a local authority or any other person for the purpose of erecting buildings, roads, stormwater drains, water and sewerage systems and such facilities."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Minors and married women may be members of society",
+      "content": "18. Minors and married women may be members of society (1) Unless otherwise provided by the rules of the society , a minor over the age of sixteen years or a married woman, whether under marital power or not, may be a member of or a depositor with any society and may, without the consent or assistance of his guardian or her husband, as the case may be, execute all necessary documents, give all necessary acquittances, cede, pledge, borrow against and generally deal with his or her share or deposit as he or she thinks fit, and enjoy all the privileges and be liable to all the obligations attaching to members or depositors. (2) Save with her written consent, the husband of a married woman who has become a member of or depositor with a society in terms of subsection (1) shall not be entitled to demand from the society particulars concerning the shares she holds in or deposits she has with that society ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Conditions in regard to deposits",
+      "content": "19. Conditions in regard to deposits No society shall— (a) issue any form of application to make deposits which does not contain a printed reference to this section; or (b) accept a deposit from any person unless such person has signed a form of application to make deposits with such society or has instructed such society in writing to reinvest the deposit; or (c) accept any deposit except as a savings deposit or as a fixed deposit ; or (d) accept any deposit as a fixed deposit for a period which is less than twelve months or more than five years: Provided that the directors in their discretion may authorize the withdrawal of a fixed deposit before its due date; or (e) allow any savings deposit to be withdrawn except in the manner prescribed by the rules; or (f) allow any deposit to be withdrawn by cheque drawn on a society ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Issue of negotiable certificates of deposit",
+      "content": "20. Issue of negotiable certificates of deposit A society may issue negotiable certificates of deposit whose terms and conditions shall be as prescribed by the Minister ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Conditions relating to shares",
+      "content": "21. Conditions relating to shares (1) A society shall not— (a) issue any shares other than— (i) permanent shares; and (ii) fixed-period shares and subscription shares of which the shareholder shall not be entitled to demand redemption before the period of issue has expired or the share has matured, as the case may be, and which the society shall not be entitled to redeem before the period of issue has expired or the share has matured except where the periodical contributions have not been received; or (b) accept any person as a member unless he has signed a form of application for shares in the society which form shall contain a reference to this section; or (c) issue any permanent share or fixed-period share except to a member or a person who has signed an application or shares in the society ; (d) issue any paid-up share at a price other than its nominal or face value nor shall a society redeem any such share at an amount which exceeds the nominal or face value of such share excluding dividends accrued. (2) Whenever the period of issue of a fixed-period share expires, or whenever a subscription share matures, the society shall redeem that share. (3) Notwithstanding this section, a society may at any time redeem any share, if the member holding that share consents to the redemption thereof, and the member holding any share may at any time obtain the redemption of that share, if the society agrees to redeem it: Provided that in the event of the death, insolvency or other incapacity of the member , the executor, assignee or trustee, as the case may be, may consent to such redemption on behalf of such member . (4) Every society shall at all times maintain a permanent share capital of not less than two hundred thousand dollars. (5) The Minister may prescribe the terms and conditions subject to which a society may issue and persons may hold any class of permanent shares on which the dividends or interest are exempt from tax in terms of the Income Tax Act [Chapter 23:06] ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Advances must be reducible or fixed-term advances",
+      "content": "22. Advances must be reducible or fixed-term advances (1) No society shall, on the security of a mortgage or hypothecation , make any advance other than a reducible advance or a fixed-term advance . (2) The terms of a reducible advance shall provide for the annual reduction of the capital amount outstanding and for the repayment of the total capital amount within a period of not more than thirty-five years. If any portion of the capital amount advanced has been repaid to the society and the society has re-advanced an amount not more than the portion so repaid, the capital amount of the original advance still outstanding and the amount so readvanced shall be repaid within a period of not more than thirty-five years calculated from the date of the readvance. (3) A fixed-term advance on the security referred to in subsection (1) shall provide for the repayment of the capital amount advanced within a period of not more than five years: Provided that— (i) the period within which the capital amount is to be repaid may be extended from time to time in the discretion of the society for further periods not exceeding five years each; (ii) subsection (6) shall apply, mutatis mutandis , in respect of every such extension. (4) A reducible advance on the security referred to in subsection (1) may, subject to subsections (3) and (6), be converted at any time into a fixed-term advance on such security. (5) A fixed-term advance on the security referred to in subsection (1) may be converted into a reducible advance on such security: Provided that the terms of such reducible advance shall provide for the repayment of the capital amount advanced by a date not later than the latest date which could have been determined under subsection (2) if such amount had originally been advanced as a reducible advance . (6) A society shall not, in making a fixed-term advance on the security referred to in subsection (1), advance more than sixty-six and two-thirds per centum of the value reasonably determined of the property mortgaged or the lease hypothecated: Provided that if collateral security is furnished, it may advance an amount— (a) not exceeding the value so determined of the said property or lease; or (b) not exceeding the sum of sixty-six and two-thirds per centum of the value so determined of the said property or lease, plus the value of the collateral security calculated in the manner prescribed; whichever is the lower. (7) The aggregate amount of fixed-term advances shall at no time exceed ten per centum of the total amount of all advances made by a society on the security of mortgages and hypothecations. (8) For the purpose of assisting a borrower, a society may at its discretion vary the terms of any advances and may remit the repayment of all or any amounts due to the society for limited periods, and in the case of reducible advances, may remit for a defined and limited period or periods the payment of capital without such remission being regarded as a variation of a reducible advance to a fixed-term advance : Provided that in no case shall the aggregate time given to the borrower to repay any advance exceed the maximum permitted in terms of this Act."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Limit as to amount of advance",
+      "content": "23. Limit as to amount of advance (1) Subject to subsections (2) and (3), no society shall, on the security of a mortgage or hypothecation , make a reducible advance in excess of such amount as may from time to time be determined by the Minister : Provided that in respect of property which was mortgaged to a society and which has been purchased by the society owing to the default of the debtor or which has been sold in execution or upon insolvency or under the authority of the debtor under a registered mortgage bond, a society may make a reducible advance to a purchaser on the security of a mortgage in an amount not exceeding the amount due to the society by the previous owner at the time of sale and previously secured by the mortgage of such property, plus the aggregate amount of costs and preferent charges incurred by the society of such items as may be prescribed. (2) A society may, in conjunction with an advance made on the security of a mortgage or hypothecation , make an additional advance against collateral security on such terms and conditions as may be determined by the Minister . (3) A society may, with the approval of the Registrar , advance to any of its employees, on mortgage or hypothecation , an amount in excess of the amount determined by the Minister in terms of subsection (1) but no such amount shall exceed one hundred per centum of the value at the time of making the advance of the property mortgaged or lease hypothecated."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Advance on property already mortgaged prohibited",
+      "content": "24. Advance on property already mortgaged prohibited No society shall advance money on the security of immovable property which is subject to an existing mortgage bond unless such existing mortgage bond is in favour of the society or unless preference under such existing bond is waived in favour of the society ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Society may make further advances for certain purposes",
+      "content": "25. Society may make further advances for certain purposes Notwithstanding section twenty-three, a society may for the purpose of protecting immovable property mortgaged or a lease hypothecated to it or for the purpose of maintaining its security for the repayment of an advance , make a further advance in respect of such items as may be prescribed."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Minister to prescribe maximum amounts of advances",
+      "content": "26. Minister to prescribe maximum amounts of advances The total of all advances in property, other than residential property, shall not exceed an amount prescribed by the Minister ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Valuation of property for purposes of advance",
+      "content": "27. Valuation of property for purposes of advance (1) No society shall make any advance unless it is based upon a valuation made by a person, hereinafter called a valuator, appointed by the society for the purpose. (2) Every valuator shall record his valuation on the form prescribed. (3) In the case of immovable property which is acquired by purchase not more than six months before the date of valuation, the valuation shall not exceed the true purchase price of such property as declared by the parties concerned for stamp duty purposes by more than one hundred dollars unless the board of directors of the society resolves that in its opinion, on the information furnished to it, a stipulated valuation in excess of such purchase price is reasonably justified."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Valuator must have no pecuniary interest in advance",
+      "content": "28. Valuator must have no pecuniary interest in advance (1) No society shall appoint as a valuator, in terms of subsection (1) of section thirty-seven, any person who has any direct or indirect pecuniary interest, other than remuneration for professional services, in the granting of an advance . (2) No person shall make any valuation for the purposes of subsection (1) of section thirty-seven if he has any direct or indirect pecuniary interest, other than remuneration for professional services, in the granting of an advance . (3) Any society which or person who contravenes the provisions of this section shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Duty of director to disclose interest in advance",
+      "content": "29. Duty of director to disclose interest in advance (1) Every director , local director or member of a local committee of a society who has any direct or indirect pecuniary interest in the granting of an advance shall declare the nature and extent of such interest at any meeting of the directors, local directors or local committee of the society where the granting of such advance or the valuation of any property offered as security for such advance is considered. (2) No such director , local director or committee member shall take part in the discussion at such meeting or exercise his vote thereon. (3) Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Society may recover certain amounts not permitted by Cap. 14:14",
+      "content": "30. Society may recover certain amounts not permitted by Cap. 14:14 A society may obtain judgment for and recover, in addition to the amounts which under section 9 of the Money-lending and Rates of Interest Act [Chapter 14:14] it would be entitled to obtain judgment for and recover under a mortgage or hypothecation, such other items as may be prescribed."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Non-compliance with Act does not invalidate advance",
+      "content": "31. Non-compliance with Act does not invalidate advance No advance or loan made by or to a society nor any security relating thereto shall be invalidated by reason only of the fact that the society or any officer of the society has, in connection with such advance or loan, contravened any provision of this Act."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part III",
+      "section": "32",
+      "title": "Reserves",
+      "content": "32. Reserves (1) Every society shall establish and maintain reserves . (2) Subject to paragraph (c) of subsection (4) of section twenty-one, reserves shall be of such nature or kind and shall be not less than such amount as may be specified by the Minister by statutory instrument. (3) If and so long as the amount standing to the statutory reserve is equal to or more than ten per centum of the sum of the society ’s total liabilities— (a) to depositors; and (b) in respect of the loans and overdrafts; and (c) in respect of the paid-up share capital of the society ; the society shall not be obliged to make the appropriation referred to in subsection (2). (4) A society may charge against the statutory reserve any net loss remaining to the society in any year after applying to such loss any undistributed profits or general reserve brought forward from previous years. (5) No other charge shall be made against the statutory reserve except with the Minister ’s consent and on such terms and conditions as he may decide."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part III",
+      "section": "33",
+      "title": "Restriction on borrowings",
+      "content": "33. Restriction on borrowings A society shall not, save with the consent of the Minister , accept any money on deposit or borrow any money by way of loan or bank overdraft if the sum of its paid-up share capital and the amount of its reserves and unappropriated profits brought forward is or would by so doing be less than the prescribed percentage of the sum of its liability for deposits, loans and bank overdrafts."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part III",
+      "section": "34",
+      "title": "Society must maintain minimum holding of liquid assets",
+      "content": "34. Society must maintain minimum holding of liquid assets (1) Every society shall maintain a minimum holding of the liquid assets set out in subsection (3) which shall not be less than fifteen per centum of the liabilities listed in subsection (2): Provided that the Minister may, by statutory instrument, vary such percentage. (2) In computing the amount of the minimum holding of liquid assets referred to in subsection (1), the aggregate of the following liabilities shall be taken into account— (a) all deposits; and (b) paid-up value of all shares; and (c) loans and overdrafts, other than those secured by pledge or encumbrance of liquid assets; and (d) interest accrued but not paid on all loans and deposits; and (e) dividends accrued but not paid; and (f) advances which the society has undertaken to make but have not yet been made; and (g) any money received by the society for the payment of the balance of the purchase price of a property which is or is to be mortgaged to the society: Provided that the liabilities of the society calculated for the purpose of this section shall be reduced by the amount— (a) due to the society in respect of advances which are in the process of cancellation. For the purposes of this paragraph, an advance shall be deemed to be in the process of cancellation if it is due for repayment in full and a guarantee in respect thereof has been received from any bank or society or any such other guarantee as the Minister may approve; and (b) of loans, together with interest accrued thereon, made by the society to depositors or shareholders on the security of pledges of fixed deposits or shares; and (c) of loans, together with interest accrued thereon, raised by the society for the purpose of financing projects which the Minister considers to be in the public interest and has, by statutory instrument, specified for the purposes of this paragraph. (3) The liquid assets referred to in subsection (1) shall consist of all or any of the following— (a) notes and coin in the currency of Zimbabwe; and (b) balances at any registered commercial bank and registered accepting house in Zimbabwe; and (c) balances at any bank outside Zimbabwe approved by the Registrar; and (d) money at call with a registered accepting house or registered discount house; and (e) Treasury bills issued by the State; and (f) bills of exchange accepted and payable at any place in Zimbabwe maturing in not more than ninety days exclusive of days of grace and which have been accepted or endorsed by a registered commercial bank or by a registered accepting house; and (g) local registered securities which are issued or guaranteed by the State or a municipality which are quoted in the official list of a securities exchange registered under the Securities Act [Chapter 22:15] and which have a final maturity date of not more than six years; and [paragraph amended by section 120 of Act 17 of 2004 ] (h) interest accrued but not paid on assets referred to in this subsection; and (i) such other assets as the Registrar may approve for the purposes of this section. (4) In computing the amount of the minimum holding of liquid assets to be maintained in terms of subsection (1), the value of any security referred to in paragraph (g) of subsection (3) shall be taken at a price determined by the Reserve Bank of Zimbabwe. (5) Where a society has pledged or encumbered any authorized deposit or approved investment as security for a loan or overdraft— (a) such authorized deposit or approved investment shall not be taken into account for the purposes of subsection (3) to the extent of the amount outstanding on such loan or overdraft; and (b) the amount outstanding on such loan or overdraft shall be excluded from the requirements of paragraph (c) of subsection (2). (6) Every society which at the close of any business day fails to maintain the minimum holding of liquid assets in terms of subsection (1) shall incur a penalty of one-tenth of one per centum of the amount of the shortfall, which penalty shall constitute a debt due to the State by the society concerned and shall, at any time after it becomes due, be recoverable in a court of competent jurisdiction by proceedings in the name of the Registrar: Provided that the Registrar may waive the payment or refund the whole or any part of any penalty referred to in this subsection if he is satisfied that the failure of a society to maintain the minimum holding of liquid assets in terms of subsection (1) was not due to an intent to evade this Act or the want of reasonable care. (7) [subsection deleted by section 120 of Act 17 of 2004 ] Part IV – Management and administration"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "Head office of society",
+      "content": "35. Head office of society (1) Every society shall have its head office in Zimbabwe. (2) Notice in writing of the situation of the head office shall be lodged by the society with the Registrar when application for the registration of the society is made, and notice in writing of any change in such situation shall be given to the Registrar before such change is made."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Financial year of society",
+      "content": "36. Financial year of society The financial year of every society shall end on the 31st December. [section amended by section 15 of Act 5 of 2011 ]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Periodical statements as to financial position",
+      "content": "37. Periodical statements as to financial position (1) Every society shall, at such intervals and in such form as may be prescribed, transmit to the Registrar a statement signed by one director and the chief executive officer , setting out the financial position of the society in relation to the requirements of sections thirty-two, thirty-three and thirty-four. (2) Every society shall submit to the Registrar such additional information as he may require."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Annual accounts",
+      "content": "38. Annual accounts (1) Every society shall, at the end of every financial year, prepare— (a) an account of all the revenue and expenditure and appropriations of the society since the close of the period covered by the preceding account; and (b) a balance sheet; and (c) a report of the directors; and (d) such subsidiary statements and accounts as may be prescribed; which account, balance sheet and statements shall include such information and shall be prepared in such form as may be prescribed. (2) No such account, balance sheet and statements shall include as an asset any amount expended on organization or extension or the purchase of business or goodwill unless provision is made to write off the expenditure over a period not exceeding five years. (3) The accounts, balance sheet and statements signed by at least one director and the chief executive officer and the report shall be sent to the Registrar within not more than five months of the end of the financial year. (4) A copy of every account, balance sheet, statement and report submitted to the Registrar in terms of subsection (3) shall be— (a) published once in a newspaper circulating in every district in which the society carries on business; and (b) kept at the registered office of the society ; and (c) open to inspection by any member at all reasonable times at the registered office of the society ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Society must provide fidelity cover",
+      "content": "39. Society must provide fidelity cover Every society shall, either by insurance with an insurer registered in Zimbabwe or by the establishment of a fidelity reserve or fidelity fund for the purpose, furnish and maintain such security as the Registrar deems adequate to make good any loss resulting from the negligence or dishonesty of any of the society ’s officers."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Annual and special general meetings",
+      "content": "40. Annual and special general meetings (1) Every society shall hold a general meeting within six months after the close of every financial year. Such meeting shall be designated the annual general meeting and shall be held at the head office of the society or at such other convenient place and at such time as may be fixed by the directors from time to time. (2) The following matters shall be dealt with at the annual general meeting— (a) consideration of the accounts, balance sheet and statements referred to in section thirty-eight; and (b) the report of the directors; and (c) the report of the auditor; and (d) the election of directors; and (e) the appointment of auditors. (3) A special general meeting may be convened by three or more directors and shall be convened by the board of directors on the requisition of fifty members or not less than one-tenth of the whole body of members if the membership is less than five hundred, or of such smaller number or proportion of members as the rules of the society may provide. (4) If, within fourteen days after the receipt of such a requisition, a special general meeting of the society is not convened by the board of directors , it may be convened by the requisitionists or a majority of them. (5) At least twenty-one days’ notice of annual and special general meetings of a society shall be given to members, the Registrar and the auditor of the society in accordance with the rules, and shall specify the day, hour and place and the objects of the meeting, and if any alteration or rescission of or addition to the rules is intended to be proposed, the notice shall contain every such alteration, rescission or addition."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "Minutes of proceedings of meetings of society or directors",
+      "content": "41. Minutes of proceedings of meetings of society or directors (1) Every society shall cause minutes of all general meetings and all meetings of its directors to be entered in the English language in books kept for that purpose. (2) Any such minutes, if purporting to be signed by the chairman of such meeting or by the chairman of the next succeeding meeting, shall be evidence of the proceedings: Provided that, in the case of general meetings, the minutes may be signed by the chairman of a subsequent meeting of the board of directors ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Inspection of minute books",
+      "content": "42. Inspection of minute books (1) The books or copies of the books certified by a director or the chief executive officer containing the minutes of any general meeting of a society shall be kept at the head office of the society , and shall during business hours (subject to such reasonable restrictions as the society may by its rules or in general meeting impose, so that not less than two hours in each day be allowed for inspection) be open to the inspection of any member without charge. (2) Any member shall be entitled to be furnished, within fourteen days after he has made a request in that behalf to the society , with a copy of such minutes as aforesaid, certified by the chief executive officer or a director as correct, at a charge not exceeding twenty cents for every hundred words."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Keeping of books of account",
+      "content": "43. Keeping of books of account (1) Every society shall cause to be kept proper books of account which shall be preserved for such period as may be prescribed. (2) For the purposes of subsection (1), proper books of account shall not be deemed to be kept if there are not kept such books as are necessary to give a true and fair view of the state of the society ’s affairs and to explain transactions. (3) The books of account shall be kept at the head office of the society or at such other place within Zimbabwe as the directors think fit, and shall at all times be open to inspection by the directors."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IV",
+      "section": "44",
+      "title": "Appointment of auditors",
+      "content": "44. Appointment of auditors (1) Every society shall at each annual general meeting appoint an auditor to hold office from the conclusion of that meeting until the conclusion of the next annual general meeting. (2) The society shall notify the Registrar of the appointment within fourteen days of such meeting. (3) If a society fails or refuses to make such appointment at an annual general meeting, the Minister shall appoint an auditor of the society to hold office until the conclusion of the next annual general meeting, and fix the remuneration to be paid to him by the society for his services. (4) A retiring auditor shall be eligible for reappointment and no person other than a retiring auditor shall be appointed auditor at an annual general meeting unless notice of an intention to nominate that person to the office of auditor has been given by a member of the society not less than twenty-eight days before the annual general meeting and the society shall give its members notice of such intention at the same time and in the same manner as it gives notice of the meeting or, if that is not practicable, shall give them notice thereof, either by advertisement in a newspaper having an appropriate circulation or by any other method allowed by the rules, not less than twenty-one days before the meeting. (5) The first auditor of the society may be appointed by the directors and hold office until the first annual general meeting, unless previously removed by a resolution of the members in special general meeting, in which case the members at that meeting shall appoint an auditor. (6) If the office of auditor becomes vacant for any reason between two consecutive annual general meetings, the directors shall appoint an auditor to hold office until the next annual general meting. (7) No person shall be appointed as auditor of a society unless he is registered as a public auditor in terms of the Public Accountants and Auditors Act [Chapter 27:12] . (8) The remuneration of auditors of a society shall be fixed by the society in general meeting, but the remuneration of the first auditor or of an auditor appointed to fill any casual vacancy may be fixed by the directors."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IV",
+      "section": "45",
+      "title": "Disqualifications for appointment as auditor",
+      "content": "45. Disqualifications for appointment as auditor (1) None of the following persons shall be qualified for appointment as auditors of a society — (a) an officer or servant of the society ; (b) a person who is a partner of an officer or servant of the society ; (c) a person who is an employer or an employee of an officer or servant of the society ; (d) a body corporate; (e) a person who is an officer or servant of a body corporate which is an officer of the society ; (f) a person who by himself, or his partner or his employee, regularly performs the duties of secretary or bookkeeper to the society . (2) Any person who acts as auditor of a society when disqualified in terms of subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part IV",
+      "section": "46",
+      "title": "Contents of auditor’s report",
+      "content": "46. Contents of auditor’s report (1) The auditor shall make a report to the members on the accounts examined by him and on every account and balance sheet laid before the society in general meeting during his tenure of office, and the report shall contain statements as to whether, in his opinion, the accounts, balance sheet and statements are properly drawn up so as to give a true and fair view of the state of the society ’s affairs as at the end of its financial year. (2) The auditor shall include in his report statements which, in his opinion, are necessary if— (a) he has not obtained all the information and explanations which to the best of his knowledge and belief were necessary for the purposes of his audit; and (b) so far as appears from his examination, proper books of account have not been kept by the society ; and (c) proper returns adequate for the purpose of his audit have not been received from branches not visited by him; and (d) the society ’s accounts, balance sheet and statements are not in agreement with the books of account and returns from branches. (3) In the event of the auditor being unable to make such report, or to make it without further qualification, he shall inscribe upon or attach to the balance sheet a statement of that fact or of the nature of the qualification, as the case may be and he shall set forth therein the facts or circumstances which prevent him from making the report or from making it without qualification. (4) Where the auditor— (a) has included in his report any statement referred to in subsection (2); or (b) in terms of subsection (3) is unable to make his report or to make it without further qualification; he shall forthwith submit to the Registrar a copy of his report and any statement connected therewith referred to in subsection (2) or (3) or a statement that he is unable to make his report, as the case may be. (5) The auditor’s report or any statement under subsection (3) shall, unless all the members present agree to the contrary, be read before the society in general meeting, and shall, in any event, be open to inspection by any member ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part IV",
+      "section": "47",
+      "title": "Auditor’s right of access to books and to attend general meetings",
+      "content": "47. Auditor’s right of access to books and to attend general meetings (1) Every auditor of a society shall have a right of access at all times to the books, accounts, vouchers and securities of the society , and shall be entitled to require from the officers of the society such information and explanation as he thinks necessary. (2) Every auditor of a society shall be entitled to attend any general meeting of the society and to receive all notices of and other communications relating to any general meeting which any member of the society is entitled to receive and to be heard at any general meeting which he attends on any part of the business of the meeting which concerns him as auditor."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IV",
+      "section": "48",
+      "title": "Registrar may examine books of society",
+      "content": "48. Registrar may examine books of society (1) The Registrar may at any time call for any documents and any other information relating to advances made by a society and at any time, personally or through a person designated by him, examine any books or documents relating to the advances made by a society . (2) Section fifty-one shall apply, mutatis mutandis , in regard to any such examination."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IV",
+      "section": "49",
+      "title": "Investigation of society ’s affairs on application of members",
+      "content": "49. Investigation of society ’s affairs on application of members (1) The Minister may appoint one or more inspectors to investigate the affairs of a society and to report thereon in such manner as he may direct on the application of fifty members of the society or of one-tenth of all the members if the membership of the society is less than five hundred. (2) The application shall be supported by such evidence as the Minister may require for the purpose of showing that the applicants have good reason for requiring the investigation, and the Minister may, before appointing an inspector, require the applicants to give satisfactory security in an amount not exceeding one thousand dollars for payment of the costs of the investigation."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IV",
+      "section": "50",
+      "title": "Investigation of society ’s affairs in other cases",
+      "content": "50. Investigation of society ’s affairs in other cases The Minister may appoint one or more inspectors to investigate the affairs of a society and to report thereon in such manner as he directs if— (a) a society has for two months after notice given by the Registrar failed to make any return required by this Act; or (b) a society has for two months after notice given by the Registrar failed to correct or complete any such return; or (c) the Registrar is in possession of information which in the opinion of the Minister calls for an investigation into the affairs of the society ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IV",
+      "section": "51",
+      "title": "Production of documents and evidence on investigation",
+      "content": "51. Production of documents and evidence on investigation An inspector appointed by the Minister under this Act shall have the same powers, rights and privileges as are conferred upon a commissioner by the Commissions of Inquiry Act [Chapter 10:07] , other than the power to order a person to be detained in custody, and sections 9 to 13 and 15 to 19 of that Act shall apply, mutatis mutandis , in relation to an investigation made in terms of section forty-nine or fifty and to any persons summoned to give evidence or giving evidence at that investigation."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IV",
+      "section": "52",
+      "title": "Inspector’s reports",
+      "content": "52. Inspector’s reports (1) An inspector appointed by the Minister under this Act may, and where so required by the Minister in relation to any matter of a general or specific nature shall, make an interim report or interim reports to the Minister and on the conclusion of the inspection shall make a final report to the Minister . (2) The Minister shall— (a) send a copy of any report made by the inspector to the head office of the society ; (b) where the inspector is appointed under section forty-nine, furnish each applicant for the investigation, on request, with a copy of the report; and may cause the report to be printed and published."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IV",
+      "section": "53",
+      "title": "Proceedings on inspector’s report",
+      "content": "53. Proceedings on inspector’s report If from any report made under section fifty-two it appears to the Minister that any person has, in relation to the society whose affairs have been investigated, been guilty of an offence for which he is criminally liable, the Minister shall refer the matter to the Prosecutor-General."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IV",
+      "section": "54",
+      "title": "Expenses of investigation of society ’s affairs",
+      "content": "54. Expenses of investigation of society ’s affairs (1) The expenses of and incidental to an investigation by an inspector appointed by the Minister under this Act shall be defrayed in the first instance by the Minister , but the following persons shall, to the extent mentioned, be liable to repay the Minister — (a) any person who is convicted on a prosecution instituted as a result of the investigation may in the same proceedings be ordered to pay the said expenses to such extent as may be specified in the order; and (b) unless as a result of the investigation a prosecution is instituted, the applicants for the investigation, where the inspector was appointed under section forty-nine, shall be liable to such extent, if any, as the Minister may direct. (2) An inspector appointed in terms of section forty-nine may, if he thinks fit, and shall if the Minister so directs, include in his final report a recommendation as to the directions, if any, which, in the light of his investigation, he thinks should be given under paragraph (b) of subsection (1). (3) Any liability to repay the Minister imposed by paragraph (a) of subsection (1) shall, subject to satisfaction of the Minister ’s right to repayment, be a liability also to indemnify all persons against liability under paragraph (b) thereof, and any person liable under the said paragraph (a) or (b) shall be entitled to contribution from any other person liable under the same paragraph according to the amount of their respective liabilities thereunder. (4) The expenses to be defrayed by the Minister under this section shall, so far as not covered thereunder, be paid out of moneys appropriated for the purpose by Act of Parliament."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IV",
+      "section": "55",
+      "title": "Savings for legal practitioners and bankers",
+      "content": "55. Savings for legal practitioners and bankers Nothing in this Act shall require disclosure to the Minister or to an inspector appointed by him under this Act— (a) by a legal practitioner of any privileged communication made to him in that capacity, except as respects the name and address of his client; or (b) by a society ’s bankers as such of any information as to the affairs of any of their customers other than the society ."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IV",
+      "section": "56",
+      "title": "Inspector’s report to be evidence",
+      "content": "56. Inspector’s report to be evidence A copy of any report of an inspector appointed under this Act shall be admissible in any legal proceedings as evidence of the opinion of the inspector in relation to any matter contained in the report."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IV",
+      "section": "57",
+      "title": "Directors and chief executive officer",
+      "content": "57. Directors and chief executive officer (1) Every society shall have at least two directors and a chief executive officer. (2) The business of every registered society shall be managed by a board of directors. (3) A director shall be elected for a period not exceeding three years, but shall be eligible for re-election. (4) Whenever a casual vacancy occurs, a person may be appointed by the remaining directors to fill the vacancy until the next annual general meeting. (5) No person shall exercise any of the function of a director following his or her appointment or reappointment as a director, unless his or her appointment or re-appointment, as the case may be, has been approved by the Registrar: Provided that this subsection shall not apply to a person who was a director immediately before the date of commencement of the Money Laundering and Proceeds of Crime Act [Chapter 9:24] , until his or her current term as a director comes to an end. [subsection substituted by Act 4 of 2013 ] (6) An application for approval under subsection (5) shall be made in writing to the Registrar and shall provide such information as may be prescribed or as the Registrar may reasonably require. [subsection inserted by Act 4 of 2013 ] (7) The Registrar shall without delay consider every application made to him or her under subsection (5), and within two weeks after receiving it shall notify the applicant, in writing— (a) of his or decision on the application; and (b) if he or she refuses to approve the appointment of the person concerned, of his or her reasons for so refusing; unless the applicant consents to an extension of the two-week period. [subsection inserted by Act 4 of 2013 ] (8) The Registrar shall approve the appointment or re-appointment of a person as director unless the Registrar believes on reasonable grounds that the person— (a) is disqualified for appointment in terms of section fifty-nine or in terms of the rules of the society concerned; or (b) has knowingly been involved, whether in Zimbabwe or elsewhere, in money-laundering or financing terrorist activities as defined in the Bank Use Promotion Act [Chapter 24:24] ; or (c) is otherwise not a fit and proper person to be a director. [subsection inserted by Act 4 of 2013 ] (9) If the chief executive officer of a society becomes aware of— (a) any material change in the information that was provided to the Registrar in terms of subsection (6) in regard to a director; or (b) any fresh information concerning a director; which might reasonably be expected to cause the Registrar to reconsider his or her approval of the director concerned, the chief executive officer shall forthwith and in writing inform the Registrar of that change or provide the Registrar with that fresh information, as the case may be. [subsection inserted by Act 4 of 2013 ] (10) On receipt of information in terms of subsection (9), the Registrar may reconsider his or her approval of the director concerned, and subsections (7) and (8) shall apply accordingly, with any necessary changes. [subsection inserted by Act 4 of 2013 ] (11) Every society shall notify the Registrar of the name, and such other particulars as may be prescribed, of its chief executive officer. [subsection inserted by Act 4 of 2013 ] (12) Any person who knowingly contravenes subsection (5), (9) or (11) shall be guilty of an offence and liable to a fine not exceeding level ten or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection inserted by Act 4 of 2013 ]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IV",
+      "section": "58",
+      "title": "Validity of acts of director",
+      "content": "58. Validity of acts of director The acts of a director shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualification."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IV",
+      "section": "59",
+      "title": "Disqualification for appointment as director",
+      "content": "59. Disqualification for appointment as director (1) No person shall be appointed or remain a director of a society if such person— (a) is a body corporate; or (b) is a minor or any other person under legal disability; or (c) has, under any law of any country— (i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated or discharged; or (ii) made an assignment to or arrangement or composition with his creditors which has not been rescinded or set aside; or (d) has, under any law of any country and not having received a free pardon, been convicted of theft, fraud, forgery, uttering a forged document, perjury, money-laundering or financing terrorist activities or been sentenced to a term of imprisonment exceeding six months, otherwise than as an alternative to or in default of the payment of a fine. (2) If any person who is disqualified under subsection (1) from being or continuing to be a director of any society directly or indirectly takes part in or is concerned in the management of any society , he shall be guilty of an offence and liable to a fine not exceeding level ten or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [subsection as amended by section 4 of At 22 of 2001]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part IV",
+      "section": "60",
+      "title": "Amalgamation of two or more societies",
+      "content": "60. Amalgamation of two or more societies (1) Subject to this section— (a) two or more societies may amalgamate and become one society ; or (b) a society may transfer all its assets and liabilities to another society . (2) Notice of any proposed amalgamation or transfer referred to in subsection (1) and the terms thereof shall be sent to the Registrar not less than twenty-eight days before the date of the special general meeting referred to in subsection (2) and on considering such notice and such further information as he may require the Registrar shall inform the societies concerned whether or not he approves of the proposed amalgamation or transfer. (3) The proposal for an amalgamation or transfer in terms of subsection (1) and the terms and conditions of such amalgamation or transfer, including any change of name of the proposed amalgamated society or of the society to which the transfer of assets and liabilities is proposed to be made (hereinafter in this section referred to as the transferee society ), shall require the agreement to be passed by not less than three-fourths of those members who are personally present or represented by proxy and vote in accordance with the rules of the society at a special general meeting called for that purpose: Provided that the provisions of this subsection shall not apply to the transfer of assets and liabilities from a society which is being wound up in terms of section sixty-one to another society . (4) If the Registrar informs the societies in terms of subsection (2) that he does not approve of the proposed amalgamation or transfer and— (a) no appeal is lodged in terms of section sixty-eight, the societies shall not proceed with the proposed amalgamation or transfer; (b) an appeal is lodged in terms of section sixty-eight, the Minister may— (i) approve the proposed amalgamation or transfer either unconditionally or subject to such conditions as he thinks fit, in which case the proposed amalgamation or transfer shall not take place otherwise than in accordance with the terms and conditions so fixed; or (ii) refuse to approve of the proposed amalgamation or transfer in which case it shall not be proceeded with. (5) Upon the completion of the amalgamation in terms of this section the societies amalgamated shall be deemed to be dissolved, and their registration having been cancelled the Registrar shall register the new society in terms of this Act. (6) Upon completion of the transfer of the assets and liabilities of one society to another society the former society shall be deemed to be dissolved and its registration shall be cancelled and, if any change in the name of the transferee society has been agreed upon, the Registrar shall enter such new name in his records in place of the former name and shall issue a certificate of registration to the transferee society under its new name. (7) The judicial manager of a society in respect of which a judicial management order has been granted in terms of subsection (2) of section sixty-four may, subject to this section, transfer all the assets and liabilities of that society to another society . (8) Subject to subsection (10), on the— (a) amalgamation of two or more societies, all the assets and liabilities of the societies so amalgamated shall vest in and become binding upon the society registered in their stead; or (b) transfer of the assets and liabilities of one society to another society , all the assets and liabilities of the society transferring its assets and liabilities shall vest in and become binding upon the society to which they are transferred; without any formal delivery, cession or transfer of such assets, whether movable or immovable, corporeal or incorporeal, and the Registrar of Deeds shall make such endorsements in his records as may be necessary in consequence of such vesting. (9) Within sixty days of the completion of an amalgamation or transfer in terms of this section the new society or the society to which the assets and liabilities are transferred, as the case may be, shall forward to the Registrar — (a) certified copies of the resolutions passed by the societies concerned at the special general meetings held in terms of subsection (2); and (b) a certified copy of the agreement in terms of which the amalgamation or transfer was effected; and (c) audited statements of the assets and liabilities of the societies concerned. (10) The amalgamation of societies or the transfer of assets and liabilities in terms of this section shall not affect the rights of the creditors of either or any of the societies concerned."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part IV",
+      "section": "61",
+      "title": "Modes of winding up",
+      "content": "61. Modes of winding up (1) The winding up of a society may be— (a) by the court ; or (b) voluntary. (2) The law for the time being in force in regard to the winding up of a company shall apply, mutatis mutandis , to the winding up of a society , subject to such adaptations or modifications as may be prescribed."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part IV",
+      "section": "62",
+      "title": "Liability of members",
+      "content": "62. Liability of members In the event of a society being wound up— (a) the liability of any member in respect of any subscription share shall be limited by the amount of any periodical contributions which are in arrears on such share at the commencement of such winding up; and (b) no member shall be entitled to claim repayment of any amount actually paid on such share unless the claims of all creditors of the society have been paid in full; and (c) any member having received any advance on the security of shares from the society shall be liable to repay such advance ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part IV",
+      "section": "63",
+      "title": "Liability of borrowers",
+      "content": "63. Liability of borrowers Subject to section sixty-two, when a society is being wound up, no member or other person to whom an advance has been made under any mortgage or other security or under the rules of the society shall be liable to pay the amount payable under such mortgage , security or rules, except at the time or times and subject to the conditions under which the advance was made."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part IV",
+      "section": "64",
+      "title": "Judicial management of society",
+      "content": "64. Judicial management of society (1) Whenever application is made to the court for the winding up of any society on the grounds that such society is unable to pay its debts or that, by reason of its mismanagement or of its probable inability to meet its obligations or become a successful concern or for some other cause, it is just and equitable that the society shall be wound up, and the court , upon consideration of the facts, is of opinion that, notwithstanding any present inability of the society to meet its obligations or the existence of any other fact or circumstance alleged in the application, there is reasonable probability that if the society be placed under judicial management as provided in this section it will be enabled to meet such obligations and to remove the occasion for winding up or dissolution, and that it is otherwise just and equitable that the grant of an order of winding up should be postponed, the court may, instead of granting a winding up order, grant an order, hereinafter called a judicial management order, in terms of this section, to be of force either for a period stated in the order or for an indefinite period. (2) A judicial management order may also be granted by the court in respect of any society on the application of any member or creditor, if it appears to the court that, by reason of mismanagement or any other cause, it is desirable that the society should be placed under judicial management. (3) When a law is in force in Zimbabwe providing for the judicial management of a company, that law shall apply, mutatis mutandis , to the judicial management of a society subject to such adaptations or modifications as may be prescribed. Part V – General"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part V",
+      "section": "65",
+      "title": "Lost or destroyed share certificates",
+      "content": "65. Lost or destroyed share certificates If any share certificate, savings deposit pass book, subscription share pass book or fixed deposit receipt issued by a society is lost or destroyed, the society , upon such evidence including an affidavit setting out the circumstances and subject to such terms and conditions as the directors think fit, and after the loss of such certificate, pass book or receipt has been duly advertised once in the Gazette and once in a newspaper circulating in the town or district in which the member or depositor, as the case may be, resides, may issue a certified copy of such certificate, pass book or receipt: Provided that the directors may in their discretion authorize the issue of such a certified copy without requiring the loss to be advertised. Such certified copy shall thereafter for all purposes take the place of the certificate or receipt so lost or destroyed and be the sole evidence thereof."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part V",
+      "section": "66",
+      "title": "Inspection of documents by public",
+      "content": "66. Inspection of documents by public On payment of the prescribed fees, any person may inspect at the office of the Registrar the rules and annual accounts relating to any society or obtain from the Registrar a copy of the certificate of the registration of any society or a copy or extract or part of any such rules and annual accounts kept by the Registrar ."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part V",
+      "section": "67",
+      "title": "Registrar to submit annual report",
+      "content": "67. Registrar to submit annual report The Registrar shall, within six months from the 1st January in each year, submit to the Minister a report in regard to building society business in Zimbabwe during the twelve months ended on the preceding 31st December."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part V",
+      "section": "68",
+      "title": "Appeals against decision of Registrar",
+      "content": "68. Appeals against decision of Registrar Any applicant for registration or any society which is aggrieved by a decision of the Registrar under section seven, subsection (2) of section nine, subsection (1) of section fourteen, section 5897) or (10), subsection (2) of section sixty or section seventy-two may, within thirty days of being notified of that decision, lodge with the Minister an appeal in writing, setting out the grounds of his appeal, and the decision of the Minister on the appeal shall be final. [subsection amended by Act 4 of 2013 ]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part V",
+      "section": "69",
+      "title": "Default in rendering accounts and furnishing information",
+      "content": "69. Default in rendering accounts and furnishing information (1) Any society or any person referred to in section eleven which fails— (a) to render to the Registrar within the period fixed by or under this Act any account or statement or other document required by this Act to be rendered by it to the Registrar ; or (b) to amend or complete any document referred to in paragraph (a) when required by the Registrar to do so; or (c) to furnish to the Registrar upon demand by him any information required by him for the purposes of this Act; or (d) to afford the Registrar or any person deputed by the Registrar all facilities for the making of any investigation which the Registrar is by this Act authorized to make; shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ] (2) No prosecution shall be instituted for any contravention of paragraphs (a), (b) and (c) of subsection (1) unless the Registrar has in writing notified the society or person of the default and required the society or person to comply with the said provisions within a specified time, not being less than two weeks after the dispatch by the Registrar of such notification, and the society or person has failed within the time so specified to comply with the said provisions. (3) If any society or any person referred to in section eleven which contravenes paragraph (a) of subsection (1) shall, in addition to any other penalty which may be imposed, be liable to pay a civil penalty of two hundred dollars for every day during which the contravention continues, and the Registrar may, by action in any court of competent jurisdiction, recover from such society or person, as the case may be, such civil penalty or such portion thereof as he, in his discretion, considers the circumstances justify him in claiming. All penalties recovered under this subsection shall be paid into the Consolidated Revenue Fund."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part V",
+      "section": "70",
+      "title": "Acceptance of benefits prohibited",
+      "content": "70. Acceptance of benefits prohibited (1) No officer or auditor of a society shall receive any benefit whatever for or in connection with any advance or loan made by such society . (2) No person shall offer or give to any officer or auditor of a society any benefit whatever for or in connection with any advance or loan made by such society . (3) No officer or auditor of a society or firm, in which such officer or auditor has a direct interest, shall purchase, or be interested in the purchase of, any property owned by or mortgaged to the society and sold by or at the instance of the society , unless the property is purchased at a public sale, duly advertised, or the sale is approved by the Registrar . (4) For the purposes of this section— \" officer \" shall not include an agent of a society whose remuneration is paid only by way of commission. (5) Any person who contravenes of subsection (1), (2) or (3) shall be guilty of an offence and liable to a fine not exceeding level seven or to imprisonment for a period not exceeding two years and the court before which any such person is convicted may, in addition, order such convicted person to pay over to the society the amount or value of the benefit received, and any such order may be enforced as if it were an order of the court in civil proceedings. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part V",
+      "section": "71",
+      "title": "False statements",
+      "content": "71. False statements If any person makes any false statement or orders or allows any false statement to be made in any document which is required by this Act to be sent to the Registrar or which such person expects will be published, knowing such statement to be false, or by addition, alteration, erasure or omission, falsifies any such document, knowing that the addition, alteration, erasure or omission will cause a falsification of the document, he shall be guilty of an offence and liable to a fine not exceeding level ten or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [section as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part V",
+      "section": "72",
+      "title": "Misleading advertisements",
+      "content": "72. Misleading advertisements (1) No society shall publish any advertisement or circular which is likely to mislead the public in any way as to the affairs of the society including its assets and financial position. (2) The Registrar may by notice in writing draw the attention of any society to the terms of any advertisement or circular published by it which is likely to mislead the public within the meaning of subsection (1). (3) A society which receives a notice in terms of subsection (2) shall forthwith discontinue publication of the advertisement or circular to which the notice refers: Provided that, if an appeal is lodged in terms of section sixty-eight, the Minister may authorize the society to continue the publication of the advertisement or circular either unconditionally or subject to such terms and conditions as he thinks fit. (4) No society or agent of a society shall publish or cause to be published any advertisement or circular in connection with the affairs of such society , unless the name of such society is clearly stated in such advertisement or circular. (5) No person, other than a society or an agent of a society , shall publish an advertisement or circular which— (a) invites members of the public to invest funds; and (b) states or suggests in any manner whatsoever that the person is carrying on business as a building society or in association with a building society . [section as substituted by section 4 of Act 22 of 2001 ] (6) Any person who contravenes this section shall be guilty of an offence and liable to a fine not exceeding level ten or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. [section inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part V",
+      "section": "73",
+      "title": "Evidence",
+      "content": "73. Evidence Every document purporting to be certified by the Registrar to be a document deposited at his office under this Act shall, in the absence of proof to the contrary, be deemed to be such document and every document purporting to be similarly certified to be a copy of such document shall be deemed to be a true copy thereof, and shall be received in evidence as if it were the original document, unless some variation between it and the original document is proved."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part V",
+      "section": "74",
+      "title": "***",
+      "content": "74. *** [section repealed by section 4 of Act 22 of 2001 ] ."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part V",
+      "section": "75",
+      "title": "Regulations",
+      "content": "75. Regulations The Minister may make regulations prescribing all matters which by this Act are required to be prescribed or which are necessary or convenient to be prescribed for giving effect to or carrying out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part V",
+      "section": "76",
+      "title": "Variation of existing mortgages",
+      "content": "76. Variation of existing mortgages Whenever, in any mortgage bond registered before the 1st November, 1981, in favour of a society , provision is made for the society , on written notice to the mortgagor, to increase the rate of interest payable on amounts owing to or claimable by the society in terms of the mortgage bond, and— (a) provision is made in the mortgage bond for the capitalization of arrear interest and the payment of interest thereon, any stipulation in such capitalization provision limiting the total amount of interest payable thereunder in any one year by reference to a stated rate of interest on the capital sum or balance thereof owing under the mortgage bond shall be of no force and effect; (b) provision is made in the mortgage bond, in connection with any loan or portion thereof granted by the society on condition that work be done at the mortgaged property, for the society to charge interest on the full amount of the loan which it has agreed to make for the purpose of that work from the date duly fixed by the society for the completion of that work, whether or not it has been so completed, any provision limiting the amount of interest so chargeable in any one year by reference to a stated rate of interest on the capital sum or balance thereof owing under the mortgage bond shall be or no force and effect."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accredited agent",
+      "definition": "means a representative of a society with written authority from a society in regard to the acceptance of money in respect of deposits or shares or repayments of advances or loans or the receipt of applications in respect of advances or loans on behalf of that society",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advance",
+      "definition": "includes one or more advances on the security of a mortgage or a hypothecation of one property or of two or more properties jointly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved investment",
+      "definition": "means an investment approved in terms of paragraph (i) of section seventeen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorized deposit",
+      "definition": "means a deposit mentioned in paragraph (h) of section seventeen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank",
+      "definition": "means-a commercial bank or an accepting house",
+      "source_provision": "s2"
+    },
+    {
+      "term": "board of directors",
+      "definition": ", in relation to any society , means the managing body thereof by whatever name it may be called",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chief executive officer",
+      "definition": "means the person who is responsible to the board of directors for the general management of a society",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "means the High Court and, in relation to any offence under this Act, includes a magistrates court having jurisdiction in respect of that offence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "includes any person occupying the position of director of a society by whatever name he may be called",
+      "source_provision": "s2"
+    },
+    {
+      "term": "existing share",
+      "definition": "means a share issued by an existing society which had not been redeemed immediately prior to the 1st July, 1965",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fixed deposit",
+      "definition": "means a deposit for a period which is fixed in accordance with paragraph (d) of section nineteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fixed-period share",
+      "definition": "means a fully paid-up share issued for a period of not less than five years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fixed-term advance",
+      "definition": "means an advance on terms and conditions which provide for the repayment of the capital amount advanced within a fixed period",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hypothecation",
+      "definition": "means a hypothecation of a registered lease of urban immovable property the unexpired period of which, at the date of the hypothecation, exceeds the period of repayment of the advance made on the security of that hypothecation by not less than ten years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": ", in relation to a society , means a person who holds shares therein, whether fully or partly paid up, which participate in the profits thereof whether or not such shares are held by the society as security for an advance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mortgage",
+      "definition": "means a mortgage of urban immovable property or a registered cession of a mortgage bond over urban immovable property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": ", in relation to a society , means any director , local director , local committee member , manager, secretary, clerk, accredited agent or other employee of the society but does not include an auditor of the society",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanent share",
+      "definition": "means a fully paid up share of which the holder shall not be entitled to demand redemption but which the society may redeem after six months’ notice to the holder if its rules so provide",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reducible advance",
+      "definition": "means an advance on terms and conditions which provide for the reduction of the capital amount advanced by periodical payments",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered commercial bank",
+      "definition": ", \"registered accepting house\" and \"registered discount house\" mean, respectively, a commercial bank , an accepting house and a discount house registered as such under the Banking Act [Chapter 24:01]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "means the Registrar of Building Societies appointed in terms of section five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reserves",
+      "definition": "means the reserves established in terms of section thirty-two and built up out of profits and not set aside for any specific purpose",
+      "source_provision": "s2"
+    },
+    {
+      "term": "society",
+      "definition": "means a building society as defined in section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "savings deposit",
+      "definition": "means— (a) a deposit other than a fixed deposit ; and (b) a deposit for a fixed period not exceeding twelve months",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subscription share",
+      "definition": "means a share which— (a) is paid for by periodical contributions; and (b) is calculated to mature at the expiry of a period of not less than two years",
+      "source_provision": "s2"
+    }
+  ]
+}

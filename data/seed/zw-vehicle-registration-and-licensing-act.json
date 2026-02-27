@@ -1,0 +1,527 @@
+{
+  "id": "zw-vehicle-registration-and-licensing-act",
+  "type": "statute",
+  "title": "Vehicle Registration and Licensing Act",
+  "title_en": "Vehicle Registration and Licensing Act",
+  "short_name": "Vehicle Registration and Li...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1970/23/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Vehicle Registration and Licensing Act [Chapter 13:14] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation (1) In this Act— “ appropriate officer ” means a person designated by the Minister by notice in a statutory instrument; “ authorized officer ” means— (a) the Registrar , any registering officer or any inspecting officer; or (b) any person designated by a local authority to be an authorized officer for the purposes of this Act; “ dealer ” means any person who buys, holds for sale or sells vehicles under a licence issued under the Shop Licences Act [Chapter 14:17] ; “ Director of Customs and Excise ” means the Director of Customs and Excise appointed in terms of section 3 of the Customs and Excise Act [Chapter 23.02] ; [definition of “Director of Customs and Excise” inserted by section 60 of Act 18 of 2000 ] [definition of “customs clearance certificate” repealed by section 60 of Act 18 of 2000 ] “ exemption certificate ” means an exemption certificate issued in terms of section twenty-five; “ farmer ” means a person who is licensed in terms of the Farmers Licensing and Levy Act [Chapter 18:10] ; “ fee ” includes any surcharge imposed in terms of section thirty-five and any penalty payable in terms of section thirty-six; “ garage licence ” means a garage licence issued in terms of section forty-two; “ licence ” means a licence issued in terms of section twenty-five; “ local authority ” means— (a) a municipal council, town council, local board or rural district council; or (b) the Minister managing any rates fund established in terms of the Housing and Building Act [Chapter 22:07] ; “ miner ” means any person who is the holder of a registered mining location as defined in the Mines and Minerals Act [Chapter 21:05] ; “ Minister ” means the Minister of Transport and Energy or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ motor vehicle ” means any vehicle , including a motor cycle, propelled by mechanical or electrical power and intended or adapted for use or capable of being used on roads, but does not include such vehicles or classes of vehicles as are prescribed; “ permanently attached ” means detachable only by means of an operation involving the use of facilities which are normally found only in a workshop; “ registering officer ” means any person who is designated in terms of section four, and includes the Registrar ; “ registered vehicle ” means a vehicle which is registered in terms of section nine; “ Registrar ” means the officer referred to in section three; “ registration book ” means a registration book issued in terms of section nine; “ Road Administration ” means the Zimbabwe National Road Administration established in terms of the Roads Act [Chapter 13:18] ; [definition of “Road Administration” inserted by section 69 of Act 6 of 2001 ] “ Road Fund ” means the Road Fund established in terms of the Roads Act [Chapter 13:18] ; [definition of “Road Fund” inserted by section 69 of Act 6 of 2001 ] “ temporary licence ” means a temporary licence issued in terms of section twenty-eight; “ terminal day ” means the 31st January, the 31st May or the 30th September; “ vehicle ” means any motor vehicle or any trailer; “ vintage vehicle ” means any vehicle certified by an inspecting officer as being, in his opinion, a vehicle which— (a) was manufactured before the 1st January, 1931; or (b) is composed mainly of materials manufactured before the 1st January, 1931. (2) For the purposes of this Act— (a) if a trailer is permanently attached to the drawing portion of an articulated vehicle , such articulated vehicle shall be deemed to be a single motor vehicle ; (b) any public service vehicle which is owned by the National Railways of Zimbabwe shall be deemed to be ordinarily kept at night at the place which forms its base of operations on the day such vehicle is required to be licensed in terms of this Act; (c) any public service vehicle which operates principally at night shall be deemed to be ordinarily kept at night at the place which forms its base of operations. (3) Any expression not specifically defined in this section to which a meaning has been assigned in the Road Traffic Act [Chapter 13:11] , shall bear the same meaning when used in this Act."
+    },
+    {
+      "provision_ref": "s2A",
+      "chapter": "Part I",
+      "section": "2A",
+      "title": "Application of the Act to the State and local authorities",
+      "content": "2A. Application of the Act to the State and local authorities This Act shall apply to vehicles which are the property of the State or any local authority. [section inserted by section 69 of Act 6 of 2001 ] Part II – Administration"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Appointment and duties of Registrar of Vehicles",
+      "content": "3. Appointment and duties of Registrar of Vehicles (1) There shall be a Registrar of Vehicles whose office shall be a public office and shall form part of the Public Service. (2) The Registrar shall exercise such powers and perform such functions and duties as are conferred or imposed upon him by this Act and shall keep such records as are prescribed."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Designation and duties of registering officers",
+      "content": "4. Designation and duties of registering officers (1) The Minister may, by notice published in the Gazette , designate registering officers for the purposes of this Act other than for the purpose of registering new, imported or rebuilt vehicles, and shall, when so designating, specify the area for which such registering officers are designated: Provided that in respect of any area for which a registering officer has not been designated, any registering officer designated under this Act shall be deemed to be the registering officer for such area. [subsection amended by section 60 of Act 18 of 2000 ] (2) A registering officer shall exercise such powers and perform such functions as are conferred or imposed upon him by this Act and shall conform to the directions of the Registrar . (3) The Director of Customs and Excise shall be the registering officer for every vehicle which is to be registered for the first time in Zimbabwe, that is, for every new, imported or rebuilt vehicle . [subsection inserted by section 60 of Act 18 of 2000 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Assignment of registration marks and numbers",
+      "content": "5. Assignment of registration marks and numbers (1) Registration marks and numbers shall be assigned by the Registrar to registering officers for allocation to vehicles to be registered in terms of this Act. (2) The same combination of registration marks and numbers shall not be allocated to more than one registered vehicle . Part III – Registration of vehicles Registration of vehicles and vehicle particulars"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Vehicles to be used on roads to be registered",
+      "content": "6. Vehicles to be used on roads to be registered (1) Every vehicle which is to be used on any road shall be registered in terms of this Act. (2) If an owner of a vehicle referred to in subsection (1) fails to register it in terms of this Act, he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ] (3) For the purposes of this section, a vehicle shall not be regarded as being used on any road— (a) if it— (i) is owned by a farmer or miner ; and (ii) is used exclusively on roads which are within the boundary of the farm or mine of the owner or, in the case of a tractor or trailer, is used exclusively on roads within the area consisting of the farm or mine of the owner and the belt ten kilometres in width immediately outside the boundary of such farm or mine; and (iii) is used exclusively for the farming or mining purposes of the owner; or (b) in the case of a vehicle which is designed for use in a factory, warehouse or private premises, if it is used on a road within a radius of five kilometres from the factory, warehouse or private premises in passing from one part of the factory, warehouse or private premises to another part thereof."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Exemption of certain vehicles from registration",
+      "content": "7. Exemption of certain vehicles from registration Subsection (2) of section six shall not apply to the owner of any vehicle which— (a) is already registered in terms of this Act; or (b) is temporarily identified in terms of section nineteen; or (c) is kept by a dealer for the purposes of sale only; or (d) is brought into Zimbabwe by a bona fide visitor for use during a visit in terms of section forty; or (e) is covered by a garage licence ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Application for registration",
+      "content": "8. Application for registration (1) Application for the registration of a vehicle shall be made to a registering officer . (2) When making application for the registration of a vehicle the owner shall— (a) provide such details as may be required in the prescribed form; and (b) pay the prescribed fee for the benefit of the Consolidated Revenue Fund; and (c) produce a customs clearance certificate; and (d) produce such other certificate or document as may be prescribed: Provided that, where the registering officer is satisfied that the owner is unable to produce a customs clearance certificate, the owner shall be required to complete a customs notification in the prescribed form. (3) If any person, in an application for the registration of a vehicle , provides any details, information or document in terms of subsection (2) which he knows to be false in a material respect or which he does not know or believe to be materially correct, he shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Allocation of registration mark and number and issue of registration book",
+      "content": "9. Allocation of registration mark and number and issue of registration book The registering officer shall, if he is satisfied that the application for registration is in order, register the vehicle and— (a) allocate to it a registration mark and number; and (b) issue to the owner a registration book in respect thereof in the prescribed form. (c) [paragraph repealed by section 60 of Act 18 of 2000 ]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Display of registration mark and number",
+      "content": "10. Display of registration mark and number (1) The registration mark and number allocated to a vehicle in terms of paragraph (a) of section nine shall be displayed and maintained upon that vehicle in the prescribed manner (2) An owner of a vehicle who fails to display or maintain his vehicle 's registration mark or number in terms of subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three. [subsection inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Application for cancellation of registration",
+      "content": "11. Application for cancellation of registration (1) When any registered vehicle , other than a vehicle which is exported from Zimbabwe, permanently ceases to be used on any road, the owner shall, not later than fourteen days thereafter, remove or obliterate the registration mark and number of such vehicle and make written application to a registering officer for the cancellation of the registration of the vehicle . (2) In making the application referred to in subsection (1) the owner shall surrender the registration book to the registering officer . (3) An owner of a vehicle who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Power of Registrar to cancel registration",
+      "content": "12. Power of Registrar to cancel registration The Registrar — (a) shall, if satisfied that an application submitted in terms of section eleven is in order; or (b) shall, upon receipt of notice in writing that a registered vehicle has been permanently removed from Zimbabwe and if he is satisfied that such vehicle has been so removed; or (c) may, if according to his records a registered vehicle has not been licensed or exempted for a period exceeding two years; or (d) may, if he has reasonable grounds for believing that a registered vehicle is no longer required to be registered in terms of section six; cancel the registration of the vehicle concerned: Provided that the Registrar shall not cancel the registration of a vehicle in terms of paragraph (c) or (d) before the lapse of thirty days after he has published his intention to do so by notice published in the Gazette and in a newspaper circulating in the district where the vehicle is, according to his records, ordinarily kept."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Owner to notify disposal of registered vehicle",
+      "content": "13. Owner to notify disposal of registered vehicle (1) Upon the sale or other change of ownership of a registered vehicle the person selling or disposing of the vehicle shall deliver to the new owner the registration book and any current licence relating to the vehicle and shall, not later than fourteen days after such change of ownership, notify a registering officer thereof in the prescribed form. (2) A person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "New owner to register change of ownership",
+      "content": "14. New owner to register change of ownership (1) Subject to subsection (4), the new owner of a vehicle referred to in section thirteen shall, not later that fourteen days after the vehicle is acquired by him, apply to a registering officer for the change of ownership to be registered. (2) In making the application referred to in subsection (1) the new owner shall— (a) provide such details as may be required in the prescribed form; and (b) pay the prescribed fee for the benefit of the Consolidated Revenue Fund; and (c) deliver to the registering officer the registration book and such other documents as may be prescribed; and (d) in the case of a vehicle which is currently licensed, produce a certificate of insurance or a certificate of security which— (i) is in the name of the person whose name is to be recorded in the registration book as that of the new owner; and (ii) complies with the requirements of the Road Traffic Act [Chapter 13:11] ; and (iii) will be in force for the remainder of the period for which the licence has been issued. (3) The registering officer shall, if he is satisfied that the application is in order, register the change of ownership and issue a registration book for the vehicle in the name of the new owner. (4) Subsection (1) shall not apply in relation to any registered vehicle which— (a) is acquired by any dealer who purchases or otherwise acquires any registered vehicle , while such vehicle is kept by him for resale; or (b) has been repossessed under a hire-purchase or other agreement by virtue of which the property in such vehicle passes to the transferee only on the fulfilment of a suspensive condition; or (c) is acquired by an insurance company as a result of an insurance claim. (5) If any person— (a) contravenes subsection (1), he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment; (b) in an application referred to in subsection (1), provides any details, information or document in terms of subsection (2) which he knows to be false in a material respect or which he does not know or believe to be materially correct, he shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Information to be supplied to Registrar",
+      "content": "15. Information to be supplied to Registrar (1) Any person who acquires any registered vehicle in any of the circumstances referred to in paragraph (b) or (c) of subsection (4) of section fourteen shall— (a) not later than fourteen days after such acquisition, advise the Registrar thereof in the prescribed form; and (b) not later than fourteen days after he disposes of such vehicle , advise the Registrar of such disposal in the prescribed form. (2) Every person who carries on the business of dealing in second-hand vehicles shall, within fourteen days after the commencement of each month, furnish to the Registrar in the prescribed form a return indicating the registration mark and number of every registered vehicle kept by him for sale or other disposal and in his possession or custody on the first day of that month. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Owner to register change of address",
+      "content": "16. Owner to register change of address (1) When any permanent change occurs in the address at which a registered vehicle is ordinarily kept at night, the owner shall, not later than fourteen days after such change occurs, apply to a registering officer for the change of address to be registered. (2) In making the application referred to in subsection (1) the owner shall— (a) provide such details as may be required in the prescribed form; and (b) submit to the registering officer the registration book relating to the vehicle . (3) The registering officer shall, if he is satisfied that the application is in order, register the change of address and make such alterations as may be necessary to the registration book . (4) If any person— (a) contravenes subsection (1), he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment; (b) in an application referred to in subsection (1), provides any details, information or document in terms of subsection (2) which he knows to be false in a material respect or which he does not know or believe to be materially correct, he shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Owner to register change of particulars",
+      "content": "17. Owner to register change of particulars (1) Subject to subsection (1) of section thirty, when any change, other than one referred to in section sixteen, occurs in the registered particulars relating to a registered vehicle , the owner shall, not later than fourteen days after such change occurs, apply to a registering officer for the change to be registered. (2) In making the application referred to in subsection (1) the owner shall— (a) provide such details as may be required in the prescribed form; and (b) submit to the registering officer the registration book relating to the vehicle . (3) The registering officer shall, if he is satisfied that the application is in order, register the change of particulars and make such alterations as may be necessary in the registration book . (4) If any person— (a) contravenes subsection (1), he shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment; (b) in an application referred to in subsection (1), provides any details, information or document in terms of subsection (2) which he knows to be false in a material respect or which he does not know or believe to be materially correct, he shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ] Temporary identification of vehicles"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Temporary identification of vehicles",
+      "content": "18. Temporary identification of vehicles (1) Any person who wishes to use on a road for one specific journey, including a return journey, which will be completed within a period of not more than fourteen days, any vehicle which is not registered or licensed under this Act and which would otherwise require to be so registered or licensed, may apply to a registering officer or to an appropriate officer at a port of entry into Zimbabwe for the temporary identification of such vehicle . (2) In making the application referred to in subsection (1) the applicant shall— (a) provide such details as may be required in the prescribed form; and (b) produce proof that a policy of insurance which complies with the requirements of the Road Traffic Act [Chapter 13:11] will be in force in respect of the use of such vehicle for the period for which the temporary identification is required; and (c) pay any fee imposed by or under this Act."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Issue of temporary identification card",
+      "content": "19. Issue of temporary identification card The registering officer or appropriate officer , as the case may be, shall, if he is satisfied that an application referred to in section eighteen is in order, authorize the temporary identification of the vehicle and shall issue in respect thereof a temporary identification card in the prescribed form."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Display of temporary identification card and use of vehicle",
+      "content": "20. Display of temporary identification card and use of vehicle (1) A temporary identification card issued in terms of section nineteen shall be displayed and maintained in the prescribed manner upon the vehicle in respect of which it was issued. (1a) An owner of a vehicle who fails to display to maintain his vehicle 's temporary identification card in terms of subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three. [subsection substituted by section 4 of Act 22 of 2001 ] (2) No person shall use any vehicle for which a temporary identification card has been issued in terms of section nineteen for the carriage or haulage of passengers or goods or both for hire or reward. (3) Any person who contravenes subsection (2) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Vehicle bearing temporary identification card deemed to be registered and licensed",
+      "content": "21. Vehicle bearing temporary identification card deemed to be registered and licensed A vehicle shall be deemed to be licensed under this Act and a registration book shall be deemed to have been issued under this Act for a vehicle if— (a) a valid temporary identification card issued in respect of the vehicle is attached to it in the prescribed position; and (b) the vehicle is being used on the route specified on the temporary identification card. Part IV – Licensing of vehicles Licensing and exemptions"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Vehicles to be licensed",
+      "content": "22. Vehicles to be licensed (1) The owner of every registered vehicle shall keep such vehicle licensed in terms of this Act. (2) Subsection (1) shall not apply to the owner of any trailer which is not used on any road or to the owner of any other vehicle which— (a) [paragraph repealed by section 69 of Act 6 of 2001 ] (b) is kept by a dealer for the purposes of sale only and is not used on any road except under a garage licence ; or (c) is one in respect of which an exemption certificate or a temporary licence is in force; or (d) is deemed to be licensed or exempted from licensing under section twenty-one or forty; or (e) is prescribed. (3) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Duration of licence or exemption certificate",
+      "content": "23. Duration of licence or exemption certificate (1) An exemption certificate or a licence may be taken out for a period of four, eight or twelve months and, in the case of a vehicle which is being licensed for the first time in Zimbabwe, such licence may, subject to subsection (2), be issued for any period not exceeding fifteen months. (2) The period of every exemption certificate or licence shall end on a terminal day . (3) The fee for a licence taken out for any period other than twelve months shall be one-twelfth of the fee payable for an annual licence in respect of each calendar month or part of a calendar month in the period of the licence ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Application for licence or exemption certificate",
+      "content": "24. Application for licence or exemption certificate (1) An application for a licence or exemption certificate shall be made to the registering officer of the area where the vehicle is or is to be ordinarily kept at night. (2) When making application for a licence the applicant shall— (a) produce the registration book relating to the vehicle ; and (b) produce a certificate of insurance or certificate of security which— (i) is in the name of the owner as recorded in the registration book ; and (ii) complies with the requirements of the Road Traffic Act [Chapter 13:11] ; and (iii) will be in force in respect of the use of the vehicle concerned for the whole period for which the licence is to be issued; and (c) pay to the registering officer any fee imposed by or under this Act in respect thereof; and (d) produce and surrender such other documents as may be prescribed. (3) When making application for an exemption certificate the applicant shall— (a) provide such details as may be required in the prescribed form; and (b) produce the registration book relating to the vehicle ; and (c) pay to the registering officer any fee imposed by or under this Act in respect thereof. (4) An exemption certificate shall cease to be valid upon— (a) the subsequent issue of a licence ; or (b) the use of the vehicle on any road otherwise than— (i) by virtue of a temporary identification card or temporary or garage licence ; or (ii) by a farmer or miner in accordance with paragraph (a) of subsection (3) of section six; or (c) the change of ownership of the vehicle ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Issue of licence or exemption certificate",
+      "content": "25. Issue of licence or exemption certificate Subject to section twenty-six, the registering officer shall, if he is satisfied that an application referred to in section twenty-four is in order, issue to the applicant a licence or an exemption certificate , as the case may be, in the prescribed form."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Refusal of licence or exemption certificate where fees still owed",
+      "content": "26. Refusal of licence or exemption certificate where fees still owed (1) No registering officer shall issue any licence or exemption certificate in respect of a vehicle until any underpaid or unpaid fees required to be paid by or under this Act and due by the owner of such vehicle have been paid to him. (2) Notwithstanding anything in this Act, any underpaid or unpaid fees paid to a registering officer in accordance with subsection (1), other than an underpaid or unpaid surcharge imposed in terms of section thirty-five, shall be collected by the registering officer — (a) for the benefit of the local authority within the area under the control or administration of which the vehicle is ordinarily kept at night at the time of such payment; or (b) where no local authority exists for the area where the vehicle is ordinarily kept at night at the time of such payment, for the benefit of the Consolidated Revenue Fund; and any such surcharge shall be collected by the registering officer for the benefit of the Consolidated Revenue Fund. Temporary licensing and change of character of registered vehicles"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Temporary licence",
+      "content": "27. Temporary licence (1) Any person who wishes to use on any road any vehicle which is registered but not licensed under this Act and which would otherwise require to be so licensed may apply to a registering officer for a temporary licence . (2) When applying for a temporary licence the applicant shall— (a) produce the registration book relating to the vehicle ; and, (b) produce a certificate of insurance or certificate of security which complies with the requirements of the Road Traffic Act [Chapter 13:11] ; and which will be in force in respect of the use of such vehicle for the whole period for which the temporary licence is to be issued; and (c) pay to the registering officer any fee imposed by or under this Act in respect of a temporary licence for a vehicle ordinarily kept at night within the area for which that registering officer has been appointed."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Issue of temporary licence",
+      "content": "28. Issue of temporary licence The registering officer shall, if he is satisfied that an application referred to in section twenty-seven is in order, issue to the applicant a temporary licence in the prescribed form."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Display of licence or temporary licence",
+      "content": "29. Display of licence or temporary licence Any licence or temporary licence shall be displayed and maintained in the prescribed manner upon the vehicle to which it relates."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Change of character of vehicle",
+      "content": "30. Change of character of vehicle (1) If the particulars of a vehicle are altered so as to render payable in respect of such vehicle a fee at a higher rate than the fee paid prior to such alteration, the owner shall, at the same time as he complies with the requirements of section seventeen in relation thereto, pay to the registering officer of the area where the vehicle is ordinarily kept at night the additional fee referred to in subsection (2). (2) The additional fee payable in terms of subsection (1) shall be an amount equal to one-twelfth of the difference between the annual fee payable in respect of the vehicle after the particulars thereof were altered and the annual fee payable or paid in respect of the vehicle before such alteration, for each month or part of a month in the remaining period of validity of the existing licence . Fees"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Imposition of fees",
+      "content": "31. Imposition of fees (1) Notwithstanding anything in any law, but subject to section thirty-eight and subsections (3), (5) and (6), a local authority may, in consultation with the Road Administration and by notice published by the Minister in a statutory instrument in the prescribed form, fix a tariff of fees in respect of vehicles ordinarily kept at night within the area under the control or administration of a local authority to be paid for licences, temporary licences, temporary identification cards, garage licences, exemption certificates, the cancellation of licences and the issue of other documents by a local authority in respect of vehicles, and such fees shall be charged, levied and collected for the benefit of the Road Fund , and the local authority may by like notice amend or replace such tariff of fees. (2) The proceeds of fees charged, levied and collected in terms of subsection (1) shall, after deduction by the local authority of any administrative fee fixed by the Road Administration in terms of section fifty-four, be held by the local authority on behalf of the Road Fund and be used by the local authority in a manner approved by the Road Administration . (3) A tariff of fees fixed by notice in terms of subsection (1) shall have effect only from the day following the terminal day next after the publication of that notice: Provided that, where any licence , temporary licence , temporary identification card, garage licence , exemption certificate , document relating to the cancellation of any licence or other document in respect of vehicles is issued during the period between the publication of that notice and the next terminal day in respect of a period after that terminal day , the fee payable in respect thereof shall be the fee fixed in terms of that notice. (4) Where no local authority exists for any area or where a temporary identification card is issued by an appropriate officer in terms of section nineteen, the fees payable in respect of vehicles ordinarily kept at night within such area for licences, temporary licences, temporary identification cards, garage licences, exemption certificates, the cancellation of licences and the issue of other documents in respect of vehicles shall be as prescribed and shall be charged, levied and collected for the benefit of the Road Fund . (5) Before making a notice in terms of subsection (1) the local authority shall publish in two successive issues of a newspaper circulating in the area under the control or administration of the local authority in respect of which the tariff of fees is to be fixed, a notice in the prescribed form setting out the proposed tariff of fees or proposed amendment to the tariff of fees, as the case may be: Provided that, if the local authority , having published a notice in terms of this subsection, for any reason determines to alter the proposed tariff of fees or proposed amendment by reducing any fee specified in that notice, it shall not be necessary to publish a further notice in terms of this subsection before the making of the notice in terms of subsection (1) setting out the tariff of fees or amendment to the existing tariff of fees altered as aforesaid. (6) If, within fourteen days after the date of the last publication of the notice referred to in subsection (5), thirty or more owners of registered vehicles ordinarily kept at night within the area under the control or administration of the local authority concerned lodge objections in writing to the proposed tariff of fees or amendment to the existing tariff of fees, as the case may be, such objections shall be considered by the local authority and the Road Administration before the making of the notice in terms of subsection (1). [section substituted by section 69 of Act 6 of 2001 ]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Minister may undertake collection of fees on behalf of local authority",
+      "content": "32. Minister may undertake collection of fees on behalf of local authority (1) If, in the opinion of the Minister , a local authority fails or is unable to collect all or any part of the fees payable to it in terms of this Act, the Minister may undertake the collection of such fees on behalf of the local authority and recover from such local authority any costs incurred by him in that connection. (2) The amount of the costs referred to in subsection (1) shall be a debt due by the local authority to the State and, until discharged, the Minister may require interest to be paid thereon at the rate of six per centum per annum."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Validity of licences",
+      "content": "33. Validity of licences (1) A licence shall be valid for the period thereof throughout Zimbabwe. (2) During the period of any licence no additional sum shall be payable and no refund may be claimed in respect thereof by virtue of the removal of the vehicle in respect of which the licence was issued from any area in Zimbabwe to another area. (3) During the period of validity of any document whatsoever which has been issued under this Act, no additional sum shall be payable and no refund may be claimed in respect of such period by virtue of any subsequent increase or decrease of the fee applicable to the issue of any such document."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Licences to continue to be valid after incorporation of local authority area",
+      "content": "34. Licences to continue to be valid after incorporation of local authority area Where a local authority is incorporated into the area of another local authority , any licence , temporary licence , exemption certificate , temporary identification card, garage licence or other document issued under this Act by the local authority which is so incorporated shall continue to be valid for the period for which it was originally issued."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IV",
+      "section": "35",
+      "title": "Imposition of surcharge",
+      "content": "35. Imposition of surcharge In addition to the fees which may be imposed under section thirty-one, there shall be charged, levied and collected by registering officers for the benefit of the Road Fund a surcharge at such rate and upon such class or classes of vehicles as may be prescribed. [definition inserted by section 69 of Act 6 of 2001 ]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IV",
+      "section": "36",
+      "title": "Fixed penalty for late payment of fees",
+      "content": "36. Fixed penalty for late payment of fees (1) Any person who, in respect of any vehicle owned by him, fails to pay the appropriate fee in respect of a licence or exemption certificate relating to that vehicle on or before the last day of the month following that in which the previous licence or exemption certificate expired or pays an amount less than the correct amount payable shall pay to the registering officer for the benefit of the Road Fund , in addition to the appropriate fee , a prescribed penalty for every month or part of a month during which the fee is so unpaid or underpaid. [Proviso deleted by section 69 of Act 6 of 2001 ] (2) [subsection repealed by section 69 of Act 6 of 2001 ]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IV",
+      "section": "37",
+      "title": "Licence invalidated if fee paid by cheque which is dishonoured",
+      "content": "37. Licence invalidated if fee paid by cheque which is dishonoured Where any fee is paid by cheque and such cheque is not met on presentation to the bank, any licence , temporary licence , book, card or certificate issued in respect of such payment shall be invalid and the vehicle shall be deemed not to be licensed, registered, identified or exempted, as the case may be, and the registering officer may demand the surrender of any document so issued."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IV",
+      "section": "38",
+      "title": "Cases where no fee chargeable",
+      "content": "38. Cases where no fee chargeable No fee shall be chargeable for a licence , temporary licence , duplicate licence , temporary identification card or exemption certificate under this Act in respect of— (a) any vehicle which is owned by the government of another country and is— (i) not constructed primarily for the carriage of goods; and (ii) fitted with seating accommodation for not more than seven persons including the driver; (b) any vehicle which is licensed under subsection (3) of section forty-one; (c) any vintage vehicle ; (d) such other vehicles as may be prescribed."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Refund of fees",
+      "content": "39. Refund of fees (1) Except on account of the sale or other change of ownership of any vehicle , the owner of a registered vehicle in respect of which a licence has been issued may apply to the registering officer who issued the licence for the cancellation of the licence and for the refund of the appropriate portion of the fee paid for such licence . (2) When making an application referred to in subsection (1) the applicant shall— (a) provide such details as may be required in the prescribed form; and (b) submit to the registering officer the registration book relating to the vehicle ; and (c) surrender the licence to the registering officer . (3) Upon receipt of an application made in terms of subsection (1), the registering officer shall, if he is satisfied that— (a) the application is in order; and (b) the remaining period of validity of the licence is not less than four complete months; and (c) where necessary, an exemption certificate has been issued for the vehicle in respect of a period beginning on the date on which the application is made; cancel the licence and refund to the owner of the vehicle so much of the fee paid for the licence as is equal to an amount determined by— (i) multiplying one-twelfth of the annual fee exclusive of the surcharge, if any, payable for such licence by the number of complete months in the period between the date of surrender of the licence and the date of the termination of the validity of the licence ; and (ii) deducting therefrom any cancellation fee imposed by or under section thirty-one. Part V – Visitors and immigrants"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Exemption of certain visitors from liability to register and license vehicles",
+      "content": "40. Exemption of certain visitors from liability to register and license vehicles (1) On compliance with subsection (2), the owner of a vehicle who brings such vehicle into Zimbabwe for the purpose of using it during a visit may, if he is the holder of one of the following documents in respect of such vehicle , use such vehicle in Zimbabwe without registering or licensing it under this Act for the relevant period set out hereunder— (a) a registration certificate or registration book for such vehicle which conforms with the requirements of the Convention and which was issued in the territory where the vehicle was last licensed, the period of three hundred and sixty-five consecutive days; (b) a valid licence issued in the territory where the vehicle was last licensed, the period of validity of such licence . (2) Before the owner of a vehicle may avail himself of subsection (1) all the following conditions shall be complied with— (a) on entering Zimbabwe he must produce his registration certificate, registration book or licence , as the case may be, to the first available registering officer or appropriate officer at the port of entry; (b) the vehicle must bear the identification marks of the territory where it was last registered, together with such other distinguishing marks as may be prescribed under the Road Traffic Act [Chapter 13:11] ; (c) if Part IV of the Road Traffic Act [Chapter 13:11] is in operation in relation to such vehicle on entering Zimbabwe he shall— (i) submit to the first available registering officer or appropriate officer at the port of entry a certificate of insurance or a certificate of security which complies with the requirements of the Road Traffic Act [Chapter 13:11] and which will be in force in respect of the use of such vehicle and which will be valid for the whole period during which such vehicle is to be used in Zimbabwe; or (ii) take out, at the port of entry, a policy which complies with the requirements of subsection (1) of section 23 of the Road Traffic Act [Chapter 13:11] and will remain valid for the whole period during which such vehicle is to be used in Zimbabwe."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Registration of vehicles by immigrants",
+      "content": "41. Registration of vehicles by immigrants (1) The owner of any vehicle registered outside Zimbabwe who brings such vehicle into Zimbabwe and who becomes a permanent resident of Zimbabwe shall, within thirty days of becoming a permanent resident, register and license such vehicle in accordance with this Act: Provided that section forty shall apply during such period of thirty days. (2) When making an application under subsection (1) the owner may surrender to the registering officer any valid licence issued in respect of such vehicle by an authority outside Zimbabwe. (3) Subject to sections twenty-four and thirty-eight, the registering officer shall issue a licence to cover the period of validity of the surrendered licence and such further period up to the next succeeding terminal day if the validity of such surrendered licence does not end on a terminal day . (4) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection substituted by section 4 of Act 22 of 2001 ] Part VI – Garage licences"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Garage licences",
+      "content": "42. Garage licences (1) For the purposes of this section, a repairer includes a person who repairs his own vehicles in his own factory which is registered as such under the Factories and Works Act [Chapter 14:10] . (2) Any manufacturer or repairer of, or dealer in, vehicles conducting business under a licence issued under the Shop Licences Act [Chapter 14:17] may make application to a registering officer of the area in which his business premises are situated for the issue to him of a garage licence or licences in respect of vehicles— (a) kept by him for sale and used for the purposes of testing, trial or demonstration; or (b) used for such other purposes as may be prescribed. (3) A garage licence shall not cover any vehicle kept at any branch business of a manufacturer or repairer of, or dealer in, vehicles and a separate garage licence shall, subject to this section, be taken out in respect of each such branch business. (4) When making application for a garage licence the applicant shall— (a) complete and sign such forms as may be prescribed; and (b) produce a certificate of insurance or certificate of security which complies with the requirements of the Road Traffic Act [Chapter 13:11] and which will be in force in respect of the use of such licence for the whole period for which the licence is to be issued; and (c) pay to the registering officer the fee imposed by or under this Act. (5) The registering officer , if satisfied that the application is in order, shall issue a garage licence in the prescribed form and shall allocate a distinctive mark and number approved by the Registrar to be used in relation to such licence . (6) Garage licence plates in the prescribed form and bearing the distinctive mark and number assigned in terms of subsection (4) shall be displayed in the prescribed manner on any vehicle used for the purposes set out in subsection (1). (7) Every garage licence shall expire on the 31st December of the year or portion of the year for which it is issued. (8) The Minister may, in writing, authorize the issue of garage licences to any motoring organization and this Part shall apply, mutatis mutandis , to the use of garage licences by such organization for the purpose of the test or trial of a motor vehicle or trailer on behalf of a member of such organization. Part VII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "***",
+      "content": "43. *** [section repealed by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Forgery of licence , registration book , mark or number",
+      "content": "44. Forgery of licence , registration book , mark or number (1) For the purposes of this section— (a) the forgery of a document, mark or number is the making of a false document, mark or number, knowing it to be false, with the intention that it shall in any way be used or acted upon as genuine; and (b) making a false document, mark or number includes making any material alteration in a genuine document, mark or number, whether by addition, insertion, obliteration, erasure, removal or otherwise. (2) Any person who— (a) forges any licence , temporary licence , exemption certificate , temporary identification card, garage licence or registration book issued under this Act; or (b) forges any identification mark or number which is required to be affixed to a vehicle under this Act; or (c) knowing that a licence , temporary licence , exemption certificate , temporary identification card, garage licence or registration book has been forged, uses or has in his possession such licence , certificate, card or book or lends it to, or allows it to be used by, any other person; or (d) knowing that the identification mark or number affixed to a vehicle has been forged, uses that vehicle or lends it to, or allows it to used by, any other person; or (e) uses on any vehicle a licence , temporary licence or temporary identification card issued in respect of any other vehicle ; shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "***",
+      "content": "45. *** [section repealed by section 4 of Act 22 of 2001 ] Part VIII – Supplementary and miscellaneous"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Power to demand documents",
+      "content": "46. Power to demand documents (1) Any authorized officer or police officer may require the owner of any vehicle to produce to him any document issued under this Act. (2) If the owner of a vehicle is unable to produce a document referred to in subsection (1) on demand, he shall, within seven days of being required to do so, produce such document— (a) if such demand was made by a police officer or inspecting officer, at a police station; or (b) in any other case, to the registering officer for the area in which the vehicle is ordinarily kept at night; and explain to the police officer in charge or to the registering officer , as the case may be, that the document is produced in compliance with the demand of an authorized officer or police officer and shall name the place where, and the date and time when, the demand was made. (2a) Any person who contravenes subsection (2) shall be guilty of an offence and liable to a fine not exceeding level five. [subsection inserted by section 4 of Act 22 of 2001 ] (3) It shall be the duty of the police officer in charge of the police station or other person to whom the document is produced forthwith to notify the person who made the demand that it has been complied with and to issue to the owner a receipt in such form and containing such particulars as may be prescribed. (4) In any prosecution under subsection (2a), it shall be presumed, unless the contrary is proved, that the accused did not produce the document as aforesaid. [section amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Furnishing evidence as to mass of motor vehicle",
+      "content": "47. Furnishing evidence as to mass of motor vehicle (1) The owner of a motor vehicle or a dealer shall, if so required by an authorized officer or police officer, furnish such evidence as may be reasonably available to or obtained by him in regard to the mass of a motor vehicle . (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three. [subsection inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Furnishing evidence as to engine capacity of motor",
+      "content": "48. Furnishing evidence as to engine capacity of motor (1) The owner of a cycle which has a motor attached thereto or permanently forming part thereof shall, if so required by an authorized officer or police officer, furnish such evidence as may be reasonably available to or obtainable by him in regard to the engine capacity of such motor. (2) Any person who contravenes subsection (1) and liable to a fine not exceeding level three. [subsection inserted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Records to be accepted as evidence",
+      "content": "49. Records to be accepted as evidence (1) Any extract from a record or any written statement based on a record kept in terms of this Act shall, if it purports to be certified by the officer having custody or control of such record, to be a true extract or a correct statement, as the case may be, be admissible, on production by any person, as prima facie evidence of the facts therein stated. (2) Any document issued in terms of this Act shall be admissible in any court, on production by any person, as prima facie proof of the facts therein stated."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "***",
+      "content": "50. *** [section repealed by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Duplicate documents",
+      "content": "51. Duplicate documents (1) If any licence , temporary licence , exemption certificate , temporary identification card, garage licence or other document issued under this Act is lost or destroyed or any essential particulars thereon have been defaced or if the document is dilapidated, on application by the holder thereof to the registering officer who issued such document, together with any fee imposed by or under this Act in respect thereof, the registering officer shall issue the appropriate duplicate document. (2) If any registration book issued under this Act is lost or destroyed or any essential particulars thereon have been defaced or if the document is dilapidated or lacks space for essential particulars, on application by the holder thereof to a registering officer , together with the prescribed fee for the benefit of the Consolidated Revenue Fund, the registering officer shall issue a duplicate registration book : Provided that, when there is no space available in a registration book for further essential particulars, no fee shall be charged for the issue of a duplicate."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Regulations",
+      "content": "52. Regulations (1) The Minister may by regulation prescribe all matters which by this Act are required or permitted to be prescribed or which, in his opinion, are necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Regulations in terms of subsection (1) may provide for— (a) the fees for permitting or conducting a search of any register kept in terms of this Act, or for supplying an extract from any such register; (b) penalties for contravention of the regulations, but no such penalty shall exceed a fine of level three. [subsection substituted by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Designation of parking supervisor as authorized officer",
+      "content": "53. Designation of parking supervisor as authorized officer A municipal council may designate a parking supervisor appointed in terms of section 142 of the Urban Councils Act [Chapter 29:15] to be an authorized officer for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "Administrative fee for collection of fees",
+      "content": "54. Administrative fee for collection of fees Where any fees payable in terms of this Act for the benefit of the Road Fund are collected by a registering officer not employed by the Road Administration , there may be paid to such person as the Road Administration may determine in respect of such collection, such administrative fee as may be fixed by the Road Administration , and for that purpose the registering officer may, before paying the collected fees to the Road Fund , deduct therefrom the amount of the administrative fee and pay it to the person determined by the Road Administration . [section substituted by section 69 of Act 6 of 2001 ]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "***",
+      "content": "55. *** [section repealed by section 69 of Act 6 of 2001 ] Schedule [Schedule repealed by section 69 of Act 6 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appropriate officer",
+      "definition": "appropriate officer ” means a person designated by the Minister by notice in a statutory instrument",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dealer",
+      "definition": "dealer ” means any person who buys, holds for sale or sells vehicles under a licence issued under the Shop Licences Act [Chapter 14:17]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director of Customs and Excise",
+      "definition": "Director of Customs and Excise ” means the Director of Customs and Excise appointed in terms of section 3 of the Customs and Excise Act [Chapter 23.02]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exemption certificate",
+      "definition": "exemption certificate ” means an exemption certificate issued in terms of section twenty-five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "farmer",
+      "definition": "farmer ” means a person who is licensed in terms of the Farmers Licensing and Levy Act [Chapter 18:10]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fee",
+      "definition": "fee ” includes any surcharge imposed in terms of section thirty-five and any penalty payable in terms of section thirty-six",
+      "source_provision": "s2"
+    },
+    {
+      "term": "garage licence",
+      "definition": "garage licence ” means a garage licence issued in terms of section forty-two",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "licence ” means a licence issued in terms of section twenty-five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "miner",
+      "definition": "miner ” means any person who is the holder of a registered mining location as defined in the Mines and Minerals Act [Chapter 21:05]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Transport and Energy or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "motor vehicle",
+      "definition": "motor vehicle ” means any vehicle , including a motor cycle, propelled by mechanical or electrical power and intended or adapted for use or capable of being used on roads, but does not include such vehicles or classes of vehicles as are prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanently attached",
+      "definition": "permanently attached ” means detachable only by means of an operation involving the use of facilities which are normally found only in a workshop",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registering officer",
+      "definition": "registering officer ” means any person who is designated in terms of section four, and includes the Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered vehicle",
+      "definition": "registered vehicle ” means a vehicle which is registered in terms of section nine",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "Registrar ” means the officer referred to in section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration book",
+      "definition": "registration book ” means a registration book issued in terms of section nine",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Road Administration",
+      "definition": "Road Administration ” means the Zimbabwe National Road Administration established in terms of the Roads Act [Chapter 13:18]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Road Fund",
+      "definition": "Road Fund ” means the Road Fund established in terms of the Roads Act [Chapter 13:18]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "temporary licence",
+      "definition": "temporary licence ” means a temporary licence issued in terms of section twenty-eight",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terminal day",
+      "definition": "terminal day ” means the 31st January, the 31st May or the 30th September",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vehicle",
+      "definition": "vehicle ” means any motor vehicle or any trailer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorized officer",
+      "definition": "authorized officer ” means— (a) the Registrar , any registering officer or any inspecting officer; or (b) any person designated by a local authority to be an authorized officer for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "local authority ” means— (a) a municipal council, town council, local board or rural district council; or (b) the Minister managing any rates fund established in terms of the Housing and Building Act [Chapter 22:07]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vintage vehicle",
+      "definition": "vintage vehicle ” means any vehicle certified by an inspecting officer as being, in his opinion, a vehicle which— (a) was manufactured before the 1st January, 1931; or (b) is composed mainly of materials manufactured before the 1st January, 1931. (2) For the purposes of this Act— (a) if a trailer is permanently attached to the drawing portion of an articulated vehicle , such articulated vehicle shall be deemed to be a single motor vehicle ; (b) any public service vehicle which is owned by the National Railways of Zimbabwe shall be deemed to be ordinarily kept at night at the place which forms its base of operations on the day such vehicle is required to be licensed in terms of this Act; (c) any public service vehicle which operates principally at night shall be deemed to be ordinarily kept at night at the place which forms its base of operations. (3) Any expression not specifically defined in this section to which a meaning has been assigned in the Road Traffic Act [Chapter 13:11] , shall bear the same meaning when used in this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

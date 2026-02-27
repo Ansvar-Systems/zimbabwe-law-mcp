@@ -1,0 +1,44 @@
+{
+  "id": "zw-married-persons-property-act",
+  "type": "statute",
+  "title": "Married Persons Property Act",
+  "title_en": "Married Persons Property Act",
+  "short_name": "Married Persons Property Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1928/10/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Married Persons Property Act [Chapter 5:12] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Community of property excluded from marriages after 1st January, 1929, except where agreements made to the contrary",
+      "content": "2. Community of property excluded from marriages after 1st January, 1929, except where agreements made to the contrary (1) Community of property and of profit and loss and the marital power or any liabilities or privileges resulting therefrom shall not attach to any marriage solemnized between spouses whose matrimonial domicile is in Zimbabwe entered into after the 1st January, 1929, unless such spouses shall, by an instrument in writing, signed by each of them prior to the solemnization of their marriage and in the presence of two persons, one of whom shall be a magistrate, who shall subscribe thereto as witnesses, have expressed their wish to be exempt from this Act. (2) An instrument in terms of subsection (1)— (a) shall be as nearly as possible in the form set forth in the Schedule and shall comply with the Deeds Registries Act [Chapter 20:05] and the regulations made thereunder; and (b) shall be registered with the Registrar of Deeds within twenty-eight days after the execution thereof and shall not be valid unless so registered. (3) A fee of fifty cents shall be paid for the registration of an instrument in terms of subsection (2)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Exclusion of community of property from marriages entered into prior to 1st January 1929, by agreement",
+      "content": "3. Exclusion of community of property from marriages entered into prior to 1st January 1929, by agreement (1) Community of property and of profit and loss and the marital power or any liabilities or privileges resulting therefrom shall not attach to any marriage solemnized between spouses whose matrimonial domicile is in Zimbabwe entered into prior to the 1st January, 1929, whenever the parties thereto shall by notarial deed express their wish that this Act shall so apply. (2) Notice that a deed in terms of subsection (1) has been executed shall be published in the Gazette , and the deed shall, on proof of such publication, be registered with the Registrar of Deeds within twenty-eight days after the execution thereof, and shall not be valid unless so registered. (3) A fee of two dollars shall be paid for the registration of a deed in terms of subsection (2). (4) Nothing in this section shall derogate from or affect the rights of creditors existing between the date of any such marriage and the registration of any such instrument."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Agreement in terms of section 3 to specify allocation of property",
+      "content": "4. Agreement in terms of section 3 to specify allocation of property Every notarial deed executed in accordance with section three shall specify in detail the allocation to each spouse executing such instrument of his or her half share of the property held in community at the date of execution thereof, or such other division thereof as they may have agreed upon."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Registration of instrument or notarial deed",
+      "content": "5. Registration of instrument or notarial deed (1) Where an instrument executed in accordance with section two or a notarial deed executed in accordance with section three is presented for registration in the Deeds Registry, a signed original of such instrument or notarial deed, as the case may be, for filing in the registry as the registry duplicate, together with two further originals or grosses or copies certified by a notary public, shall be lodged. (2) The Registrar of Deeds who registers such instrument or notarial deed shall transmit to the registrar in charge of the other Deeds Registry one such original, grosse or copy thereof, for registration by him. Schedule (Section 2) Form of notice We, the undersigned A.B. and C.D., do hereby solemnly express our wish to be that our contemplated marriage with each other shall be in community of property and exempt from the provisions of the Married Persons Property Act [Chapter 5:12] . Witnesses: 1. (signed) A.B. C.D. 2."
+    }
+  ],
+  "definitions": []
+}

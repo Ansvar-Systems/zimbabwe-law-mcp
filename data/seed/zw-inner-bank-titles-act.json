@@ -1,0 +1,56 @@
+{
+  "id": "zw-inner-bank-titles-act",
+  "type": "statute",
+  "title": "Inner Bank Titles Act",
+  "title_en": "Inner Bank Titles Act",
+  "short_name": "Inner Bank Titles Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/ord/1914/2/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Inner Bank Titles Act [Chapter 20:09] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Original grants. Boundary to centre of stream",
+      "content": "2. Original grants. Boundary to centre of stream In all cases in which under grant from the British South Africa Company to any person a boundary of any land granted prior to the 24th July, 1914, is described in the grant or diagram attached thereto as being the “inner bank” of any river or stream, such land shall be deemed to have been granted up to the centre of the said river or stream, and shall be deemed to be bounded on that side by the centre of the said river or stream."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Subsequent undivided transfers",
+      "content": "3. Subsequent undivided transfers Any subsequent transfer of land the boundary of which is so described under one undivided transfer shall be deemed to have conveyed the land up to the centre of the river or stream mentioned as a boundary in the grant or diagram, and to have vested the ownership of the land as thus bounded in the holder of the title to the land."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Amendment of diagram",
+      "content": "4. Amendment of diagram Where any land to which section two applies is held by virtue of a grant or undivided transfer or continuous undivided transfers, the Surveyor-General may, free of charge, amend the diagram annexed to the grant or deed of transfer of such land so that the centre of the river or stream concerned is described as the boundary instead of the inner bank thereof."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Provisions to apply to subdivided land",
+      "content": "5. Provisions to apply to subdivided land If any land originally granted as bounded by the inner bank of any river or stream has been subdivided and transfer made of any subdivision or of all the subdivisions thereof, the above-mentioned provisions shall apply to such of the subdivisions as are described as bounded by the inner bank of the river or stream mentioned in the grant or diagram attached thereto, as well as to the remaining extent of such land if so described."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Application of sections 2 and 3 to certain other land",
+      "content": "6. Application of sections 2 and 3 to certain other land (1) The Minister of Lands and Water Resources may, by notice in writing to the Registrar of Deeds, declare that sections two and three shall apply to any land specified in that notice which— (a) was granted to any person on or after the 24th July, 1914, by the British South Africa Company or the State; and (b) is described in the grant or the diagram annexed thereto as being bounded by an inner-bank boundary; if the bed of the river or stream immediately adjacent to such inner-bank boundary is owned by the State. (2) Sections two and three shall apply to any land not referred to in subsection (1) which is— (a) a subdivision of land that was granted to any person by the British South Africa Company or the State; and (b) described in the deed of transfer or the diagram annexed thereto as being bounded by an inner-bank boundary; if the owner of the bed of the river or stream immediately adjacent to such inner-bank boundary consents in writing to sections two and three applying to such land and such consent is lodged with the Surveyor-General and the Registrar of Deeds. (3) In this section— “inner-bank boundary” means a boundary of land described as being the inner bank of a river or stream."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Future grants or transfers not affected",
+      "content": "7. Future grants or transfers not affected Nothing in this Act shall be taken to affect the right of the State or any other owner of land to grant or transfer the same or any portion thereof with such boundaries as may be deemed expedient."
+    }
+  ],
+  "definitions": []
+}

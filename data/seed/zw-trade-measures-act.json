@@ -1,0 +1,371 @@
+{
+  "id": "zw-trade-measures-act",
+  "type": "statute",
+  "title": "Trade Measures Act",
+  "title_en": "Trade Measures Act",
+  "short_name": "Trade Measures Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://zimlii.org/akn/zw/act/1973/51/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Trade Measures Act [Chapter 14:23] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ article ” includes any liquid, food, ware, merchandise, commodity and other goods of any description and any article and its package; “ assize ”, in relation to measuring equipment , means to examine and test in the prescribed manner and, if found correct , stamp with the stamp of assize and provide with the seal of assize , where prescribed, in accordance with this Act; “ authorized unit ” means a unit referred to in section four and “unauthorized unit” shall be construed accordingly; “ base unit ” means a unit referred to in section three; “ Board ” means the Trade Measures Board established in terms of section eleven; “ correct ”, in relation to measuring equipment , means correct within such limits of error and with such sensitiveness as may be prescribed; “ examiner ” means a person appointed as an examiner in terms of section ten; “ inspector ” means a person appointed as an inspector in terms of section ten and includes the Superintendent ; “ measure ” means a measuring instrument representing an authorized unit or a multiple or submultiple thereof; “ measuring equipment ” means equipment, including a measure , used for measuring length, area, volume, mass or number, and includes any mass measuring equipment which computes prices or numbers; “ Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ officer ” means a person appointed as an officer in terms of section ten; “ pre-packed ”, in relation to an article , means packed or made up in advance ready for sale in a wrapper or container; “ purchaser ” includes a person acting on behalf of a purchaser; “ re-assize ”, in relation to measuring equipment , means to examine and test in the prescribed manner and, if found correct , issue to the owner or user of measuring equipment a certificate indicating that the measuring equipment has been re-assized; “ rejected ”, in relation to measuring equipment , means stamped with a prescribed rejection mark; “repealed Act” means the Weights and Measures Act, 1959 ( No. 18 of 1959 ); “ sale by retail ” means a sale to a person buying otherwise than for the purpose of resale, but does not include a sale to a caterer or manufacturer for the purposes of his catering or manufacturing business, as the case may be; “ seal of assize ” means a prescribed seal of assize; “ sell ” includes— (a) to offer, advertise, expose, keep, possess or prepare for sale; (b) to exchange or dispose of for any consideration; “ stamp ” includes to cast, engrave, etch, print or otherwise mark in such manner as to be as far as possible indelible; “ stamp of assize ” means a prescribed stamp of assize; “ standard ” means a Zimbabwe, local or working standard measure , as the case may be, referred to in section five; “ Superintendent ” means the Superintendent of Trade Measures appointed in terms of section ten; “ trade ” includes any contract, bargain, sale or dealing and generally any transaction for any consideration in pursuance of which articles are measured or counted but does not include any contract or bargain for sale of or dealing in land or an interest in land; “ unassized ” means not assized or, in relation to measuring equipment which in terms of this Act should have been re-assized, not re-assized; “ use in trade ”, in relation to measuring equipment , means the use thereof for measuring or counting in trade . Part II – Units and standards"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Definitions of base units",
+      "content": "3. Definitions of base units (1) The base unit of length in Zimbabwe is the metre as defined and adopted by the Bureau International des Poids et Mesures, Sèvres, France. (2) The base unit of mass in Zimbabwe is the kilogram and is equal to the mass of the international prototype of the kilogram in the custody of the Bureau International des Poids et Mesures, Sèvres, France."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Authorized units of measurement",
+      "content": "4. Authorized units of measurement The authorized units in Zimbabwe shall be— (a) the metre for measurement of length; (b) the square metre for measurement of area; (c) the cubic metre for the measurement of volume; (d) the kilogram for the measurement of mass; (e) such multiples or submultiples of the units specified in paragraphs (a), (b), (c) and (d) as may be prescribed; (f) any other unit which may be prescribed in respect of articles generally or in respect of a particular article or class of articles."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Zimbabwe, local and working standards",
+      "content": "5. Zimbabwe, local and working standards (1) The Minister shall procure standards representing such units of length, volume and mass specified in section four and such multiples and submultiples thereof as he may deem necessary and shall direct which of the standards so procured shall be— (a) the Zimbabwe standards; (b) the local standards; (c) the working standards. (2) The Zimbabwe standards shall be deposited and kept in such place as the Minister shall determine and shall be used solely for the verification of local standards. (3) The local standards shall be kept in the custody of an inspector at such places as may be prescribed and— (a) shall be used for the verification of working standards; and (b) where no working standards are held, may, on the authority of the Superintendent , be used as working standards. (4) Working standards shall be used for the assizing or re-assizing of measuring equipment ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Replacement of standards",
+      "content": "6. Replacement of standards If at any time a standard is lost, destroyed, defaced, damaged or found by the Minister to be unsuitable, the Minister shall cause that standard to be replaced by a new standard ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Authentication of standards",
+      "content": "7. Authentication of standards (1) Every standard shall be authenticated in such manner as may be prescribed. (2) Judicial notice shall be taken of every standard authenticated in terms of subsection (1)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Verification of standards",
+      "content": "8. Verification of standards (1) The Minister shall cause— (a) all Zimbabwe standards to be verified in such manner as he thinks fit at intervals not exceeding fifteen years; (b) all local standards to be verified in comparison with Zimbabwe standards at intervals not exceeding— (i) three years in the case of standards of mass; (ii) five years in the case of standards of length and volume; (c) all working standards to be verified in such manner and at such intervals as may be prescribed. (2) Records of verifications referred to in subsection (1) shall be kept in such form as the Minister may direct."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Equipment for administration of this Act",
+      "content": "9. Equipment for administration of this Act The Minister shall procure such suitable measuring equipment , appliances and facilities as may be necessary for the purposes of this Act, and shall provide for such repair, adjustment, maintenance, verification and replacement of the measuring equipment , appliances and facilities as may be required. Part III – Administration"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Appointment of officers",
+      "content": "10. Appointment of officers (1) There shall be a Superintendent of Trade Measures whose office shall be a public office and form part of the Public Service. (2) The Superintendent shall, subject to the directions of the Minister , be responsible for carrying out the provisions of this Act. (3) Subject to the laws relating to the Public Service, the Minister shall appoint such persons to be inspectors, examiners and other officers as he may consider necessary for carrying out the provisions of this Act. (4) No person shall be appointed as an inspector unless he is the holder of an inspector ’s certificate issued to him by the Minister ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Trade Measures Board",
+      "content": "11. Trade Measures Board (1) The Minister may establish a board to be known as the Trade Measures Board . (2) The Board shall consist of not less than three and not more than five persons who shall be appointed by the Minister and at least one of whom shall be an inspector . (3) The Minister shall designate one of the members of the Board as the chairman thereof. (4) Subject to subsection (5), the members of the Board shall hold office for such period and on such terms and conditions and shall be paid such remuneration or allowances as may be prescribed. (5) The decision of the majority of the members present at any meeting of the Board shall constitute the decision of the Board . (6) The functions of the Board shall be, when required by the Minister to do so, to make recommendations on— (a) the examination of candidates for the inspector ’s certificate and the syllabus and conditions of and fees for such examinations; (b) the circumstances in which a person may be issued with an inspector ’s certificate; (c) the issue of certificates in regard to the suitability of design or pattern of measuring equipment for use in trade or the amendment of such certificates; (d) the limitations on the use in trade of any such design or pattern; (e) the exemption of any area or article or class of articles from all or any provisions of this Act; (f) any dispute or difference which may arise between an inspector and any person in regard to the assizing or re-assizing of any measuring equipment or the measuring, marking or packing of any article ; (g) any such other matter as may be referred to it by the Minister ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Certificates in respect of design or pattern of measuring equipment, etc.",
+      "content": "12. Certificates in respect of design or pattern of measuring equipment, etc. (1) Any person may, on payment of the prescribed fee, make a written application to the Minister— (a) for the issue of a certificate in regard to the suitability for use in trade of any measuring equipment of a design or pattern specified in the application; or (b) for the amendment of such certificate if that design or pattern is altered in a manner specified in the application without affecting the principle of the measuring equipment. (2) If the Minister is satisfied— (a) as to the suitability for use in trade of any measuring equipment of a design or pattern specified in the application, he shall issue a certificate to that effect; or (b) that the alteration of the design or pattern specified in the application does not affect the— (i) suitability for use in trade; and (ii) principle; of the measuring equipment, he shall amend the certificate accordingly: Provided that the Minister may, in such certificate, limit the purposes of trade for which any measuring equipment of that design or pattern may be used and restrict, or impose conditions upon, the use in trade of any such measuring equipment. (3) If the Minister at any time finds a design or pattern of measuring equipment in respect of which a certificate has been issued in terms of subsection (2) to have some quality which might render it unsuitable for all or any purposes of trade or which has become obsolete, he may— (a) cancel such certificate; or (b) cancel such certificate and, upon the payment of the prescribed fee, issue a fresh certificate in place thereof in which he may limit the purposes of trade for which the measuring equipment may be used or impose conditions upon the use in trade of such measuring equipment. Part IV – Assizing of measuring equipment and owners of officials"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Measuring equipment used in trade to be assized or re-assized",
+      "content": "13. Measuring equipment used in trade to be assized or re-assized (1) Subject to this Act, all measuring equipment used in trade shall be assized or re-assized in terms of this section. (2) Subject to subsection (5), any person who has unassized measuring equipment shall, before using it in trade , submit it to an inspector for assizing or re-assizing, as the case may be. (3) The Superintendent may, by notice in the Gazette , call upon all persons or any class of persons having measuring equipment in use in trade within an area specified in that notice, to produce the same to an inspector for the purpose of re-assizing the measuring equipment at such time and place within that area as may be specified in that notice: Provided that there shall be an interval of at least fourteen days between the date of publication of the notice in the Gazette and the first day on which the measuring equipment is to be produced in terms of the notice. (4) An inspector may, by notice in writing, call upon any person who has measuring equipment in use in trade to produce the same to an inspector at such time and place as may be specified in the notice for the purpose of re-assizing the measuring equipment concerned: Provided that there shall be an interval of at least fourteen days between the date on which the notice is served on the person concerned and the date on which the measuring equipment is to be produced in terms of the notice. (5) Any person who has measuring equipment which he intends to use in trade and which— (a) is fixed; or (b) has a measuring capacity exceeding two hundred and fifty kilograms; or (c) is of delicate construction; may, instead of complying with subsection (2), (3) or (4), forthwith notify an inspector in writing of the particulars of the measuring equipment and the place where it is ordinarily kept and request that the measuring equipment be assized or re-assized, as the case may be, at that place. (6) Pending the assizing or re-assizing, or rejection in terms of section fourteen, of any measuring equipment that is the subject of a request made in terms of subsection (5), the person who made the request shall not be liable to criminal proceedings for a contravention of paragraph (a) of subsection (1) of section twenty-four if he uses that measuring equipment in trade . (7) The Superintendent may, in writing, exempt any person from complying with subsection (2), (3) or (4). (8) An inspector to whom measuring equipment is submitted for assizing in terms of subsection (2), (3) or (4) or who receives a request in terms of subsection (5) shall, as soon as possible thereafter, subject to section fourteen, cause the measuring equipment to be assized or re-assized, as may be appropriate. (9) An inspector may assize or re-assize any measuring equipment in use in trade which he finds in or upon any place or vehicle and which, in his opinion, requires assizing or re-assizing, as the case may be. (10) An inspector may require any person producing or submitting any measuring equipment for assizing or re-assizing in terms of this section to— (a) cause it to be taken apart sufficiently to enable him to examine the working parts; (b) provide auxiliary material necessary for the assizing or re-assizing of the measuring equipment ; or (c) provide transport for the carriage of, and labour for the proper and expeditious handling of, the standards or any material or equipment that is to be used or has been used for the assizing or re-assizing of the measuring equipment ; or (d) cause it to be cleaned or moved; and, if any such requirement is not complied with, may refuse to assize or re-assize the measuring equipment . (11) An inspector shall charge such fees for the assizing or re-assizing of any measuring equipment as may be prescribed."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Inspectors to reject certain measuring equipment",
+      "content": "14. Inspectors to reject certain measuring equipment (1) An inspector shall reject in the prescribed manner any measuring equipment which he finds to be false or defective or not to be correct or not to comply with the requirements of this Act. (2) Where an inspector rejects measuring equipment in terms of subsection (1), he shall issue to the person in charge of such measuring equipment a written statement to the effect that it has been rejected ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Powers of entry and inspection",
+      "content": "15. Powers of entry and inspection (1) An inspector , examiner or police officer may at all reasonable times— (a) enter into or upon and search any place or vehicle if there are reasonable grounds for believing that the entry or search is necessary for the prevention, investigation or detection of an offence in terms of this Act in respect of any measuring equipment or article ; (b) inspect any measuring equipment which is found in or upon any place or vehicle and which he suspects on reasonable grounds to be used in trade and, in the case of a police officer , may cause such measuring equipment to be compared by an inspector or examiner with standards or any assized or re-assized measuring equipment at or near the place or vehicle where such measuring equipment is inspected; (c) seize and detain any measuring equipment or part of any measuring equipment which he has reasonable cause to believe is used contrary to this Act; (d) in the case of an inspector , assize or re-assize any measuring equipment which he finds in or upon any place or vehicle and which, in his opinion, requires assizing or re-assizing, as the case may be, in terms of this Act; (e) inspect and measure any article which is found in or upon any place or vehicle and which, in his opinion, is being sold or kept for delivery after sale; (f) order any person delivering any article to stop and may inspect and measure any such article ; (g) for the purposes of paragraph (e) or (f), use any assized or re-assized measuring equipment at or near the place or vehicle where such article is inspected; (h) order the seller of any article to produce for inspection and, if he thinks it necessary, seize and detain for inspection any invoice, delivery note or other record kept by such seller relating to the measuring of such article ; (i) seize and detain any article in respect of which he has reasonable cause to believe that an offence has been committed under this Act; (j) order any person mentioned in paragraph (f) or (h) or in charge of any place or vehicle mentioned in paragraph (e) to— (i) provide labour for the handling and measuring in terms of this section of any article ; (ii) give his name and address and the name and address of his employer, if any. (2) In the exercise of his powers in terms of subsection (1), an inspector , examiner or police officer may detain any measuring equipment or part thereof or article for as long as may be reasonable for the purpose of any examination or investigation. (3) Any person who fails to comply with an order made in terms of subsection (1) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (4) When exercising any powers conferred upon him in terms of subsection (1), an inspector or examiner shall, if so required, produce his letter of appointment. (5) For the purpose of exercising his powers in terms of subsection (1), an inspector , examiner or police officer may be accompanied by such assistants and may take with him such material and apparatus as he may require."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Powers to prohibit sale of articles",
+      "content": "16. Powers to prohibit sale of articles (1) An inspector , examiner or police officer who has inspected or examined any articles which are being sold and has reasonable grounds for believing the sale thereof to be prohibited in terms of this Act may issue and deliver to the person in whose custody the articles were found or, if there is no such person or he is absent for any reason, place on or by the articles in a conspicuous position a notice prohibiting the sale of such articles until they are rendered free from prohibition from sale in terms of this Act. (2) A notice referred to in subsection (1) shall specify in what respect the sale of the articles concerned is considered to be prohibited from sale in terms of this Act. (3) No person shall be liable to prosecution for a contravention of subsection (4) if the articles concerned are rendered free from prohibition from sale in the respect specified in the notice concerned. (4) Any person who contravenes or fails to comply with a notice referred to in subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] Part V – Sale of articles and use of measuring equipment"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Contracts to be made by reference to authorized unit",
+      "content": "17. Contracts to be made by reference to authorized unit (1) Subject to subsection (3), every contract made or effected in Zimbabwe for any work, article or thing, other than land or an interest in land, shall, when the same has been or is to be done, sold, delivered, carried or agreed for by length, area, volume or mass, be made or effected by reference to an authorized unit , and if not so made or effected any such contract shall be void. (2) Subject to subsection (3), any person who sells any article by length, area, volume or mass by reference to an unauthorized unit shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (3) Subsections (1) and (2) shall not apply to any contract made or effected— (a) with a view to the export from, or the import into, Zimbabwe of any article ; or (b) for any work, article or thing which has been or is to be done, sold, delivered or carried outside Zimbabwe."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Containers marked with unauthorized units",
+      "content": "18. Containers marked with unauthorized units (1) Subject to this Act, no person shall sell any article in a wrapper or container marked with an unauthorized unit of length, area, volume or mass unless its equivalent in terms of an authorized unit is also marked on that wrapper or container— (a) in the prescribed manner; or (b) where the manner of marking the wrapper or container in terms of an authorized unit has not been prescribed, not less conspicuously than the unauthorized unit. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Sale and delivery of articles",
+      "content": "19. Sale and delivery of articles (1) Subject to subsection (4), no person shall sell any article by mass unless by net mass. (2) Subject to subsections (3) and (4), no person who has sold an article by length, area, volume or mass shall deliver or have in his possession for delivering to the purchaser such article without an invoice or delivery note showing the measurement of such article . (3) Subsection (2) shall not apply to— (a) bread or milk sold by retail; or (b) any article measured in the sight and presence of the purchaser and delivered to him immediately thereafter; or (c) any article sold in a wrapper or container on the outside of which or on a label securely attached to which is clearly and legibly written or printed the length, area, volume or mass of such article or the measurement of such article at the time of packing; or (d) any article sold by sack, bag or pocket where— (i) a mass has been prescribed for such sack, bag or pocket of that article ; and (ii) the invoice or delivery note contains the number of such sacks, bags or pockets sold. (4) Subsections (1) and (2) shall not apply to any article for which mass is used for the purpose of designating grade or class only. (5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Sale of pre-packed articles",
+      "content": "20. Sale of pre-packed articles (1) Subject to subsection (3), no person shall sell any pre-packed article by length, area, volume or mass unless the measurement of that article is marked on the wrapper or container in the prescribed manner by reference to an authorized unit . (2) Subject to subsection (3), no person shall sell any pre-packed article by any measurement not referred to in subsection (1) or by number unless the measurement or number of the article so pre-packed is marked on the wrapper or container. (3) Subsections (1) and (2) shall not apply to any article — (a) measured in the sight and presence of the purchaser and delivered to him immediately thereafter; or (b) in respect of which a mass has been prescribed for a sack, bag or pocket of that article and the article is sold by such sack, bag or pocket; or (c) for which mass is used for designating grade or class only. (4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as substituted by section 4 of Act No. 22 of 2001 ] (5) A conviction for a contravention of subsection (1) of section 21 of the repealed Act shall, for the purposes of subsection (4), be treated as a previous conviction for a contravention of subsection (1)."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Provision and operation of equipment for measuring mass",
+      "content": "21. Provision and operation of equipment for measuring mass (1) Subject to this Act, where any person in a shop or store or in or from any vehicle sells by retail any article by mass, he shall provide a assized measuring equipment capable of measuring the mass of such article and shall keep and operate the same in such place and manner that the measuring and the mass indicated by the equipment are clearly visible to the purchaser at all times: Provided that this subsection shall not apply to any person— (a) selling bread from a vehicle; or (b) selling pre-packed articles only which are in unbroken original containers and are not goods which have been pre-packed by the seller. (2) Subject to this Act, any person responsible for the management of any mill, refinery, creamery, produce store or other place where agricultural or dairy produce is purchased shall provide assized measuring equipment capable of measuring the mass of such produce and shall keep and operate the same in such place and manner that the measuring and the mass indicated by the equipment are clearly visible to the person delivering such produce. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Price-lists",
+      "content": "22. Price-lists (1) Subject to subsection (2), no person shall print, publish, make or circulate any price-list, catalogue or other paper containing a statement of current prices of articles for sale by length, area, volume or mass in Zimbabwe in which measurements are expressed otherwise than by reference to an authorized unit or denote or imply a greater or lesser measurement than is denoted or implied by an authorized unit . (2) Subsection (1) shall not apply to any price-list, catalogue or other paper emanating from outside Zimbabwe which— (a) clearly shows that reference to units of length, area, volume or mass contained therein are not applicable to Zimbabwe; or (b) bears a statement showing the equivalent by reference to an authorized unit of measurement contained in that price-list, catalogue or other paper. (3) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "False statements as to measurements, etc.",
+      "content": "23. False statements as to measurements, etc. (1) Any person who, by any means whatsoever, whether directly or indirectly— (a) makes a false, incorrect or untrue declaration or statement as to the length, area, volume, mass or other measurement or number of any article in connection with its purchase, sale, measurement or count; or (b) sells any article by length, area, volume, mass or other measurement or number short of the quantity represented by the seller; or (c) sells any article by length, area, volume, mass or other measurement or number short of the quantity demanded or required of the seller; or (d) sells any article by length, area, volume, mass or other measurement or number in a lesser quantity than corresponds with the price charged; shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (2) A conviction for a contravention of section 24 of the repealed Act shall, for the purposes of subparagraph (ii) of subsection (1), be treated as a previous conviction for a contravention of subsection (1)."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Prohibition of use of certain measuring equipment",
+      "content": "24. Prohibition of use of certain measuring equipment (1) Subject to this Act any person who uses in trade or sells or causes to be sold for use in trade or has in his possession for such use— (a) any unassized measuring equipment ; or (b) any measuring equipment which does not comply with this Act or which is false, defective or not correct ; or (c) any measuring equipment for any purpose of trade — (i) for which, according to a certificate issued in terms of section twelve, it may not be used; or (ii) contrary to any restriction or condition imposed in such certificate; or (d) any rejected measuring equipment ; shall be guilty of an offence and liable— (i) for a contravention of paragraph (a), to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment; (ii) for a contravention of paragraph (b), (c) or (d), to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment; [subsection as amended by section 4 of Act No. 22 of 2001 ] (2) A conviction for a contravention of paragraph (a) or (c) or, in respect of a rejected instrument, weight or measure , of paragraph (b) of subsection (1) of section 25 of the repealed Act shall, for the purposes of subparagraph (ii) of subsection (1), be treated as a previous conviction for a contravention of paragraph (b), (c) or (d) of subsection (1)."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Lawful use of certain unassized measuring equipment , etc.",
+      "content": "25. Lawful use of certain unassized measuring equipment , etc. (1) Any person who has in his possession any unassized measuring equipment may apply to an inspector for a written authority to use it in trade and to possess it for such use. (2) An application in terms of subsection (1) shall be accompanied by a written statement signed by the applicant that the measuring equipment is, to the best of his knowledge, assizable. (3) An inspector to whom an application in terms of subsection (1) is made may, upon production by the applicant of the statement referred to in subsection (2) and upon payment of the prescribed fee, issue to the applicant a written authority to use in trade and to possess for such use the measuring equipment concerned for such period and subject to such conditions as may be specified in the authority. (4) A person who uses in trade or has in his possession for such use unassized measuring equipment — (a) in respect of which there is in force an authority issued in terms of subsection (3); and (b) in accordance with the conditions, if any, specified in that authority; shall not be liable to criminal proceedings in terms of this Act in respect of such use or possession of that measuring equipment ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Repairs to measuring equipment , etc.",
+      "content": "26. Repairs to measuring equipment , etc. (1) No person shall repair assized, re-assized or rejected measuring equipment for use in trade unless— (a) he has satisfied the Superintendent that he is competent to repair such measuring equipment and has been issued by the Superintendent with a certificate of registration as a mechanic competent to carry out such repairs; or (b) he is acting under the supervision of a person referred to in paragraph (a); and he first permanently obliterates the stamp of assize or the rejection mark thereon. (2) No person shall use in trade or possess for such use assized or rejected measuring equipment which has been repaired— (a) unless the measuring equipment has been re-assized; or (b) except in terms of, and in accordance with, the terms and conditions of a written authority issued in terms of subsection (5). (3) Any person who has in his possession measuring equipment which has been repaired may apply to an inspector for written authority to use it in trade and to possess it for such use. (4) An application in terms of subsection (3) shall be accompanied by a written statement signed by the person who repaired the measuring equipment concerned that, to the best of his knowledge, the measuring equipment is assizable. (5) An inspector to whom an application in terms of subsection (3) is made may, upon production of the statement referred to in subsection (4), upon payment of the prescribed fee and if he is satisfied that the person who repaired the measuring equipment concerned was sufficiently competent to do so, issue to the applicant a written authority to use it in trade and to possess it for such use for such period and subject to such conditions as may be specified in the authority. (6) A person who uses in trade or has in his possession for such use measuring equipment — (a) in respect of which there is in force an authority issued in terms of subsection (5); and (b) in accordance with the conditions, if any, specified in that authority; shall not be liable to criminal proceedings under this Act in respect of such use or possession of that measuring equipment . (7) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] Part VI – General"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VI",
+      "section": "27",
+      "title": "Safeguards to traders",
+      "content": "27. Safeguards to traders In any proceedings in terms of this Act in respect of an alleged deficiency of length, area, volume or mass of any pre-packed article or of bread, the court shall disregard any inconsiderable variation in the measurement of a single article and shall have regard to the average measurement of a reasonable number of other articles of the same kind, if any, sold by the accused or in his possession for the purpose of sale, on the same occasion, and generally to all the circumstances of the case."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Documents to be prima facie evidence",
+      "content": "28. Documents to be prima facie evidence (1) A document purporting to be signed by an inspector and certifying that the measuring equipment specified therein was inspected or examined and compared with standards by him on a specified date and the finding of his inspection or examination shall be received in any court on production by any person and without further proof as prima facie evidence of the facts therein stated. (2) A document purporting to be signed by an inspector , examiner or police officer and certifying that an article specified therein was measured or counted by him on a specified date and found to be of a quantity or number therein stated shall be received in any court on production by any person and without further proof as prima facie evidence of the facts therein stated. (3) A document purporting to be signed by an inspector and certifying that measuring equipment of the type known as an axleload scale and specified therein was examined, tested or verified by him in the manner prescribed on a specified date and the finding of his examination, test and verification shall be received in any court on production by any person and without further proof as prima facie evidence of the facts therein stated."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Burden of proof",
+      "content": "29. Burden of proof (1) In any prosecution for a contravention of any provision of this Act in which it is necessary in order to establish the charge against a person to prove that he did at any time use in trade or have in his possession for such use any measuring equipment , he shall, if it is proved that he carried on trade at that time and that such measuring equipment was then in his possession, be presumed, unless the contrary is proved, to have at that time used in trade or to have had in his possession for such use, as the case may be, the said measuring equipment . (2) In any prosecution for a contravention of any provision of this Act in which it is necessary in order to establish the charge against a person to prove that a notice made in terms of subsection (3) or (4) of section thirteen should, in respect of any measuring equipment , have been complied with, such measuring equipment shall be presumed, unless the contrary is proved, at all relevant times to have been used in trade by that person and, in the case of a notice issued in terms of subsection (3) of section thirteen, to have been so used in the area to which the notice in question relates. (3) Where an article is found in or on any place or vehicle which is used by any person for trade , that article shall, unless the contrary is proved, be deemed, for the purposes of this Act, to be in or on that place or vehicle for sale. (4) Where an article packed or made up in a wrapper or container is found in or on any place or vehicle which is used by any person for trade , that article shall, unless the contrary is proved, be deemed, for the purposes of this Act, to be a pre-packed article ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Forfeiture",
+      "content": "30. Forfeiture (1) Upon conviction of a person for a contravention of any provision of this Act, the court may, if it thinks fit, either in addition to or without imposing any other penalty, order that any article or measuring equipment in respect of or by means of which the offence was committed shall be forfeited to the State. (2) The provisions of subsection (1) shall be additional to, and not in substitution for, sections 61 and 62 of the Criminal Procedure and Evidence Act [Chapter 9:07] ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Act or omission by manager, agent or employee",
+      "content": "31. Act or omission by manager, agent or employee (1) Whenever a manager, agent or employee of a person (hereinafter called the employer) does or omits to do an act which it would be an offence under this Act for the employer to do or omit to do, then, unless it is proved that— (a) in doing or omitting to do that act the manager, agent or employee was acting without the connivance or the permission of the employer; and (b) all reasonable steps were taken by the employer to prevent an act or omission of the kind in question; and (c) it was not under any condition or in any circumstances within the scope of the authority or in the course of the employment of the manager, agent or employee to do or omit to do acts, whether lawful or unlawful, of the character of the act or omission charged; the employer shall be presumed himself to have done or omitted to do that act and shall be liable to be convicted and sentenced in respect thereof. (2) The fact that the employer issued instructions forbidding an act or omission of the kind in question shall not, of itself, be accepted as sufficient proof that he took all reasonable steps to prevent the act or omission. (3) Whenever a manager, agent or employee of such an employer does or omits to do an act which it would be an offence under this Act for the employer to do or omit to do, he shall be liable to be convicted and sentenced in respect thereof as if he were the employer. (4) Such a manager, agent or employee may be so convicted and sentenced in addition to the employer."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Regulatory powers of Minister",
+      "content": "32. Regulatory powers of Minister (1) Subject to subsections (3) and (4), the Minister may by regulation provide for all matters which by this Act are required or permitted to be prescribed or which, in his opinion, are necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Regulations made in terms of subsection (1) may provide for— (a) the manner in which the process of assizing or re-assizing shall be carried out; (b) the material, construction and marking of measuring equipment for use in trade and the manner in which the units of length, volume and mass and any multiples or submultiples thereof may be represented on or by such measuring equipment; (c) the placing, erection and protection of measuring equipment; (d) measuring equipment which, or circumstances in which, an inspector shall refuse to assize or re-assize; (e) prohibiting the use in trade of measuring equipment which is liable easily to become incorrect or generally unsuitable for use in trade; (f) limiting the purposes of trade for which certain measuring equipment may be used and restricting or imposing conditions upon the use in trade of measuring equipment; (g) defining the limits of error which may be allowed and the sensitiveness required in any measuring equipment and the limits of error which may be allowed in the measurement of any article; (h) particulars to be specified in an invoice or delivery note relating to any article or class of articles; (i) regulating and controlling the sale by length, area, volume, mass or other measurement or number of any article and requiring that the same shall be sold only in quantities or units of measurement which may be prescribed; (j) regulating the manner in which the Superintendent or an inspector, examiner or police officer shall carry out his duties under this Act; (k) the circumstances in which a person may be issued with an inspector’s certificate by the Minister; (l) the examination of candidates for inspectors’ certificates and the syllabus and conditions of and fees for such examinations; (m) the conditions upon which any fluids may be sold by mass only or volume only; (n) the manner in which the length, area, volume, mass or other measurement or number of an article shall be marked on packages or containers; (o) tables showing the equivalents which may be used in trade of one authorized unit in terms of another authorized unit; (p) the procedure of the Board and its quorum; (q) the forms to be used in connection with this Act; (r) the quality and tolerance and the conditions for the supply, custody, care and verification of standards and associated equipment; (s) exempting classes of measuring equipment from all or any provisions of this Act; (t) exempting, subject to such conditions as may be prescribed, any area or article or class of articles from all or any provisions of this Act; (u) fees in respect of the assizing, re-assizing and rejection of measuring equipment and for the loan of standards and for any other matter or thing done or service provided in terms of this Act; (v) the examination, testing, verification and stamping of any measuring equipment belonging to or in use by the State. (3) Regulations made in terms of subsection (1) may prescribe offences and provide for penalties therefor: Provided that such penalties shall not exceed a fine of level four or imprisonment for a period of three months or both such fine and such imprisonment. [proviso as amended by section 4 of Act No. 22 of 2001 ] (4) Before making any regulations relating to the imposition of fees, the Minister shall consult the Minister responsible for finance."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Offences",
+      "content": "33. Offences (1) Any person— (a) who makes use of any fraudulent art, device or contrivance for the purpose of evading this Act; or (b) who forges or counterfeits or utters or unlawfully has in his possession a forged or counterfeit stamp or die for the assizing or re-assizing of measuring equipment ; or (c) who, except as provided in section twenty-six— (i) tampers with any measuring equipment ; or (ii) increases or diminishes a measure used in trade ; or (d) other than an inspector , who places on any measuring equipment any stamp or mark purporting to indicate that such measuring equipment has been assized or re-assized; or (e) who wilfully commits any fraud or deception in the use of any measuring equipment ; shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (2) Any person— (a) who hinders or obstructs any inspector , examiner , officer or police officer in the exercise of his functions under this Act; or (b) who impersonates an inspector or examiner ; or (c) other than an inspector , and except as is provided in section twenty-six, who obliterates or removes from any measuring equipment any stamp or seal of assize or a part thereof; or (d) who in any way alters any measuring equipment in respect of the design or pattern of which a certificate in terms of section twelve is in force and who, by any means whatsoever, whether directly or indirectly, represents such altered measuring equipment to any person as measuring equipment in respect of the design or pattern of which such certificate is in force; shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "article",
+      "definition": "article ” includes any liquid, food, ware, merchandise, commodity and other goods of any description and any article and its package",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assize",
+      "definition": "assize ”, in relation to measuring equipment , means to examine and test in the prescribed manner and, if found correct , stamp with the stamp of assize and provide with the seal of assize , where prescribed, in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorized unit",
+      "definition": "authorized unit ” means a unit referred to in section four and “unauthorized unit” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "base unit",
+      "definition": "base unit ” means a unit referred to in section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "Board ” means the Trade Measures Board established in terms of section eleven",
+      "source_provision": "s2"
+    },
+    {
+      "term": "correct",
+      "definition": "correct ”, in relation to measuring equipment , means correct within such limits of error and with such sensitiveness as may be prescribed",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examiner",
+      "definition": "examiner ” means a person appointed as an examiner in terms of section ten",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "inspector ” means a person appointed as an inspector in terms of section ten and includes the Superintendent",
+      "source_provision": "s2"
+    },
+    {
+      "term": "measure",
+      "definition": "measure ” means a measuring instrument representing an authorized unit or a multiple or submultiple thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "measuring equipment",
+      "definition": "measuring equipment ” means equipment, including a measure , used for measuring length, area, volume, mass or number, and includes any mass measuring equipment which computes prices or numbers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "officer ” means a person appointed as an officer in terms of section ten",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pre-packed",
+      "definition": "pre-packed ”, in relation to an article , means packed or made up in advance ready for sale in a wrapper or container",
+      "source_provision": "s2"
+    },
+    {
+      "term": "purchaser",
+      "definition": "purchaser ” includes a person acting on behalf of a purchaser",
+      "source_provision": "s2"
+    },
+    {
+      "term": "re-assize",
+      "definition": "re-assize ”, in relation to measuring equipment , means to examine and test in the prescribed manner and, if found correct , issue to the owner or user of measuring equipment a certificate indicating that the measuring equipment has been re-assized",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rejected",
+      "definition": "rejected ”, in relation to measuring equipment , means stamped with a prescribed rejection mark; “repealed Act” means the Weights and Measures Act, 1959 ( No. 18 of 1959 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sale by retail",
+      "definition": "sale by retail ” means a sale to a person buying otherwise than for the purpose of resale, but does not include a sale to a caterer or manufacturer for the purposes of his catering or manufacturing business, as the case may be",
+      "source_provision": "s2"
+    },
+    {
+      "term": "seal of assize",
+      "definition": "seal of assize ” means a prescribed seal of assize",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stamp",
+      "definition": "stamp ” includes to cast, engrave, etch, print or otherwise mark in such manner as to be as far as possible indelible",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stamp of assize",
+      "definition": "stamp of assize ” means a prescribed stamp of assize",
+      "source_provision": "s2"
+    },
+    {
+      "term": "standard",
+      "definition": "standard ” means a Zimbabwe, local or working standard measure , as the case may be, referred to in section five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Superintendent",
+      "definition": "Superintendent ” means the Superintendent of Trade Measures appointed in terms of section ten",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade",
+      "definition": "trade ” includes any contract, bargain, sale or dealing and generally any transaction for any consideration in pursuance of which articles are measured or counted but does not include any contract or bargain for sale of or dealing in land or an interest in land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unassized",
+      "definition": "unassized ” means not assized or, in relation to measuring equipment which in terms of this Act should have been re-assized, not re-assized",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "sell ” includes— (a) to offer, advertise, expose, keep, possess or prepare for sale; (b) to exchange or dispose of for any consideration",
+      "source_provision": "s2"
+    }
+  ]
+}
