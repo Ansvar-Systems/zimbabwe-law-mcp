@@ -2,8 +2,6 @@ node_modules
 __tests__
 fixtures
 scripts
-src
 *.md
 !README.md
-tsconfig.json
 .github
