@@ -1,0 +1,62 @@
+{
+  "id": "zw-1965-11",
+  "type": "statute",
+  "title": "Tax Reserve Certificates Act",
+  "title_en": "Tax Reserve Certificates Act",
+  "short_name": "zw-1965-11",
+  "status": "in_force",
+  "issued_date": "1965-01-01",
+  "in_force_date": "1965-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1965/11/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Tax Reserve Certificates Act [Chapter 23:10] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Commissioner ” means— (a) the Commissioner in charge of the department of the Zimbabwe Revenue Authority which is declared in terms of the Revenue Authority Act [Chapter 23:11] to be responsible for assessing, collecting and enforcing the payment of the taxes leviable under the Income tax Act [Chapter 23:06] ; or (b) the Commissioner-General of the Zimbabwe Revenue Authority, in relation to any function which he has been authorised under the Revenue Authority Act [Chapter 23:11] to exercise; [definition substituted by section 36 of Act 17 of 1999 ] “ Minister ” means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of tax reserve certificates",
+      "content": "3. Issue of tax reserve certificates The Commissioner is hereby empowered to issue certificates called tax reserve certificates of such denominations and upon such conditions as may be prescribed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Acceptance of tax reserve certificates",
+      "content": "4. Acceptance of tax reserve certificates Tax reserve certificates issued in terms of section three shall be accepted by the Commissioner at their face value, plus any interest due thereon, in payment by the holder of any amount due in respect of tax payable in terms of the Income Tax Act [Chapter 23:06] ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Moneys to be paid to or from Consolidated Revenue Fund",
+      "content": "5. Moneys to be paid to or from Consolidated Revenue Fund (1) All moneys received for the purchase of tax reserve certificates issued under this Act shall be paid to the credit of the Consolidated Revenue Fund. (2) Any amount required for— (a) the redemption of a tax reserve certificate accepted under section four; or (b) the payment of any amount on the surrender of a tax reserve certificate in terms of the conditions subject to which such certificate was issued; shall be paid from the Consolidated Revenue Fund, which is hereby appropriated to the purpose."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Moneys received for tax reserve certificates not to be regarded as borrowings under Cap. 22:13",
+      "content": "6. Moneys received for tax reserve certificates not to be regarded as borrowings under Cap. 22:13 Moneys received for the purchase of tax reserve certificates issued under this Act shall not be regarded as borrowings for the purpose of the State Loans and Guarantees Act [Chapter 22:13] ."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Minister may make regulations",
+      "content": "7. Minister may make regulations The Minister may make regulations prescribing the denominations in which, and the conditions subject to which, tax reserve certificates may be issued and surrendered in terms of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner",
+      "definition": "Commissioner ” means— (a) the Commissioner in charge of the department of the Zimbabwe Revenue Authority which is declared in terms of the Revenue Authority Act [Chapter 23:11] to be responsible for assessing, collecting and enforcing the payment of the taxes leviable under the Income tax Act [Chapter 23:06] ; or (b) the Commissioner-General of the Zimbabwe Revenue Authority, in relation to any function which he has been authorised under the Revenue Authority Act [Chapter 23:11] to exercise; [definition substituted by section 36 of Act 17 of 1999 ]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "zw-1860-28",
+  "type": "statute",
+  "title": "Art Unions Act",
+  "title_en": "Art Unions Act",
+  "short_name": "zw-1860-28",
+  "status": "in_force",
+  "issued_date": "1860-01-01",
+  "in_force_date": "1860-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1860/28/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Art Unions Act [Chapter 25:01]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ art union ” means a voluntary association formed in Zimbabwe for the purpose of encouraging the arts, and for the purchase of paintings, drawings or other works of art, to be afterwards allotted and distributed, by chance or otherwise, among the several members, subscribers or contributors forming part of such association, or for raising sums of money by subscription or contribution, to be allotted or distributed, by chance or otherwise, as prizes amongst the members, subscribers or contributors forming part of such association on the condition that such sums of money so allotted or distributed are expended solely and entirely in the purchase of paintings, drawings or other works of art."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Deed constituting art union to be submitted to President for approval, and President’s power to revoke and annul",
+      "content": "3. Deed constituting art union to be submitted to President for approval, and President’s power to revoke and annul (1) The deed of partnership or other instrument constituting any art union and the rules and regulations relative to the proceedings of such art union shall first be submitted to the consideration of and be approved by the President and a copy thereof deposited with the Ministry responsible for culture. (2) It shall be expressed in every such deed or instrument that it shall be lawful for the President, whenever it appears to him that any such art union is perverted from the purposes of this Act, to revoke or annul the deed or instrument under which the art union so offending may have been constituted."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Art unions formed for the encouragement of the fine arts exempt from the operation of laws against lotteries",
+      "content": "4. Art unions formed for the encouragement of the fine arts exempt from the operation of laws against lotteries All art unions which may be constituted according to section three shall be deemed to be lawful associations, and the members of and subscribers and contributors to such art unions, and all persons acting under their authority or on their behalf, for the lawful purposes of such art unions, shall be free and discharged from all pains and penalties, suits, prosecutions and liabilities to which by law they would be liable but for this Act, as being concerned in illegal lotteries, or unlawful games, by reason of anything which may be done by them, or any of them, in furtherance of the allotment or distribution, by chance or otherwise, of paintings, drawings or other works of art, or of the allotment or distribution of sums of money, as prizes to be expended for their purchase."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Act does not apply to art union revoked or annulled",
+      "content": "5. Act does not apply to art union revoked or annulled Nothing in section four shall be deemed to apply to any art union whose deed of partnership or other instrument constituting the same has been revoked or annulled in terms of subsection (2) of section three or to any member, subscriber or contributor thereto or to any person acting under his authority or on his behalf."
+    }
+  ],
+  "definitions": []
+}

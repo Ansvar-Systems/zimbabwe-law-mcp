@@ -1,0 +1,44 @@
+{
+  "id": "zw-1963-66",
+  "type": "statute",
+  "title": "International Bank Loans Assumption Act",
+  "title_en": "International Bank Loans Assumption Act",
+  "short_name": "zw-1963-66",
+  "status": "in_force",
+  "issued_date": "1963-01-01",
+  "in_force_date": "1963-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1963/66/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the International Bank Loans Assumption Act [Chapter 22:08] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Assumption of obligations of Federal Government",
+      "content": "2. Assumption of obligations of Federal Government The Minister of Finance may undertake on behalf of the State and on such terms and conditions as he thinks fit— (a) to assume responsibility for the discharge of— (i) one-half of the obligations of the Government of the former Federation, as at the date of the dissolution of the Federation, under the loan No. 197 R.N. made by the International Bank for Reconstruction and Development for the development of the Rhodesia Railways; and (ii) all the obligations of the Government of the former Federation, as at such date, under the loan No. 253 R.N. made by that Bank for the development of African Agriculture in Rhodesia; and (b) such other obligations as he may deem expedient in relation to or pursuant to any such loan; and may give written authority to any person to sign and execute any such undertaking as his representative."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Implementation of undertakings",
+      "content": "3. Implementation of undertakings Notwithstanding anything contained in any enactment, the President may exercise all such powers and authorities and do or cause to be done all such things, including the issue of bonds or stock, as appear to him to be necessary for giving full and complete effect to any undertaking made by the Minister in terms of section two."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application of Act No. 41 of 1963",
+      "content": "4. Application of Act No. 41 of 1963 The General Loans Act, 1963 ( No. 41 of 1963 ) shall apply, mutatis mutandis , in respect of any loan assumed in terms of paragraph (a) of section two as if such loan were a loan raised by the President in terms of that Act: Provided that nothing in this section shall be construed so as to limit the amount of such loan which may be so assumed."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "No stamp or other duty payable",
+      "content": "5. No stamp or other duty payable No stamp or other duty and no fees or other charges shall be payable in respect of anything done under this Act."
+    }
+  ],
+  "definitions": []
+}

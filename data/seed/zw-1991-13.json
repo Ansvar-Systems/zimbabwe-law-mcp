@@ -1,0 +1,59 @@
+{
+  "id": "zw-1991-13",
+  "type": "statute",
+  "title": "Variation of Racial Trusts Act",
+  "title_en": "Variation of Racial Trusts Act",
+  "short_name": "zw-1991-13",
+  "status": "in_force",
+  "issued_date": "1991-01-01",
+  "in_force_date": "1991-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1991/13/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Variation of Racial Trusts Act [Chapter 8:15] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation (1) In this Act— “ administrator ”, in relation to a trust , means a person who has responsibility for administering the trust ; “ application ” means an application in terms of subsection (1) of section three; “ deed of trust ” means the instrument whereby the trust was created; “ founder ” in relation to a trust , means a person who created the trust ; “ trust ” includes a trust created by deed, will, contract of settlement or other disposition, whether verbal or in writing. (2) For the purpose of this Act, and without derogation from any other ground for determining the issue, a trust shall be regarded as conferring benefits in a manner which discriminates between persons on account of race if it provides for the conferring of benefits on persons of a particular race or colour to the exclusion of any other race or colour."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Trustee may apply for variation",
+      "content": "3. Trustee may apply for variation (1) Without derogation from any other remedy which may be available in terms of any other law, any trustee of a trust may, subject to this Act, apply to the High Court for a variation of the trust where it provides for the conferring of benefits in a manner which discriminates between persons on account of race. (2) Notice of intention to make an application shall be published in the Gazette at least six weeks before the application is made and shall specify, as far as possible— (a) the name or description of the trust ; and (b) the name of the founder of the trust ; and (c) whether the founder of the trust consents to the application or, if such be the case, is dead or cannot be located; and (d) the name of the trustee, or each trustee, as the case may be; and (e) the provision which it is alleged is discriminatory on a racial basis; and (f) the person or persons in whose favour the benefits are or may be conferred under the trust ; and (g) an address where the trust document may be examined; and (h) the date of the proposed application . (3) A notice referred to in subsection (2) shall call upon any interested person who wishes to oppose the application concerned or to make any representations in regard thereto to lodge his objections or representations, in writing and in duplicate, with the Registrar of the High Court at least one week before the date of the proposed application , and shall advise interested persons of their right to appear and be heard at the hearing of the application . (4) In addition to the giving of notice in terms of subsection (2) the applicant shall give at least six weeks’ notice of the application in writing to— (a) the founder of the trust , unless he has died or his whereabouts are unknown; and (b) each other trustee, if any; and (c) each administrator of the trust , if any; and such notice shall call upon them, if they wish to oppose the application concerned or to make any representations, in regard thereto, to lodge their objections or representations, in writing and in duplicate, with the Registrar of the High Court at least one week before the date of the proposed application , and shall advise them of their right to appear and be heard at the hearing of the application . (5) In addition to lodging objections or representations with the Registrar of the High Court in terms of subsection (3) or (4), any interested person shall be entitled to appear before the High Court at the hearing of the application and to be heard in support of his objections or representations, as the case may be. (6) Any trustee of a trust who is not himself making the application in terms of this section and any administrator of the trust shall be regarded as an interested person for the purpose of this section. (7) Where any objections or representations are lodged in terms of subsection (3) or (4), the Registrar of the High Court shall submit a copy thereof to the person or persons making the application ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Determination of application",
+      "content": "4. Determination of application (1) Upon an application being made to it, the High Court, if it is satisfied that subsection (2) of section three has been complied with, shall— (a) hear the applicant and any person who appears to object to or make representations in regard to the application ; and (b) take into account any objections or representations lodged with the Registrar in terms of section three. (2) Subject to this section, if the High Court is satisfied that— (a) the trust does provide for the conferring of benefits in a manner which discriminates between persons on account of race; and (b) it would be in the public interest to do so; it may grant the application and order that the provision in the trust concerned be deleted or varied so that in future benefits under the trust will not be conferred in a manner which discriminates between persons on account of race. (3) The High Court shall not grant any application if the founder of the trust objects thereto, but in such event the High Court may direct that the trustees be relieved of their appointments and that the trust be set aside and its assets be restored to the founder . (4) For the purposes of determining an application under this Act, the High Court shall have power— (a) to adjourn the hearing from time to time; (b) to direct that the wishes of any person or class of persons, who appear to have an interest in the application and who may not be aware of the application , be ascertained and to this end may specify the method in which notice, inviting them to submit their wishes, shall be given; (c) to give such other direction or order as it considers fit; and the specification of such powers shall not derogate from any other powers that the High Court may have in regard to the determination of applications made to it."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administrator",
+      "definition": "administrator ”, in relation to a trust , means a person who has responsibility for administering the trust",
+      "source_provision": "s2"
+    },
+    {
+      "term": "application",
+      "definition": "application ” means an application in terms of subsection (1) of section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deed of trust",
+      "definition": "deed of trust ” means the instrument whereby the trust was created",
+      "source_provision": "s2"
+    },
+    {
+      "term": "founder",
+      "definition": "founder ” in relation to a trust , means a person who created the trust",
+      "source_provision": "s2"
+    }
+  ]
+}

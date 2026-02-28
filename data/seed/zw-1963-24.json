@@ -1,0 +1,61 @@
+{
+  "id": "zw-1963-24",
+  "type": "statute",
+  "title": "Foreign Representatives Parking Privileges Act",
+  "title_en": "Foreign Representatives Parking Privileges Act",
+  "short_name": "zw-1963-24",
+  "status": "in_force",
+  "issued_date": "1963-01-01",
+  "in_force_date": "1963-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1963/24/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may he cited as the Foreign Representatives Parking Privileges Act [Chapter 3:02] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Minister ” means the Minister of Local Government, Rural and Urban Development or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ representative ” means the chief representative for the time being in Zimbabwe of any— (a) country; or (b) international or regional organization or agency; which is prescribed; “ reserved area ” means an area reserved in terms of section three."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Reserved parking areas",
+      "content": "3. Reserved parking areas Notwithstanding anything to the contrary contained in any enactment, every municipal council shall reserve such areas as may be prescribed for the parking, free of charge, of motor vehicles used by representatives or persons authorized by such representatives."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Unauthorized parking",
+      "content": "4. Unauthorized parking (1) Any person who, at such times and upon such days of the week as may be prescribed, parks any vehicle in any reserved area without the authority of the representative in respect of whom such area was reserved, shall be guilty of an offence and liable to a fine not exceeding level two. (2) Any police officer or any person employed as a parking supervisor by the municipal council concerned may remove such vehicle from such area. [subsection as amended by Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Evidence",
+      "content": "5. Evidence In any proceedings a certificate that a person has not been authorized to park a motor vehicle in a reserved area shall, if it purports to be signed by the representative in respect of whom such area was reserved, be sufficient evidence of the facts stated, unless the contrary is proved."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Regulations",
+      "content": "6. Regulations The Minister may, after consultation with the municipal council concerned, make regulations— (a) prescribing the matters which in terms of this Act may be prescribed; (b) prescribing the manner in which reserved areas shall be demarcated; (c) providing for the removal and safe custody of vehicles unlawfully parked in reserved areas, and for the recovery of any costs reasonably incurred in carrying out such removal or safe custody; and generally for the better carrying out of the purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Local Government, Rural and Urban Development or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "representative",
+      "definition": "representative ” means the chief representative for the time being in Zimbabwe of any— (a) country; or (b) international or regional organization or agency; which is prescribed",
+      "source_provision": "s2"
+    }
+  ]
+}

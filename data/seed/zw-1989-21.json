@@ -1,0 +1,61 @@
+{
+  "id": "zw-1989-21",
+  "type": "statute",
+  "title": "Protection of Wild Life (Indemnity) Act",
+  "title_en": "Protection of Wild Life (Indemnity) Act",
+  "short_name": "zw-1989-21",
+  "status": "in_force",
+  "issued_date": "1989-01-01",
+  "in_force_date": "1989-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1989/21/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Protection of Wild Life (Indemnity) Act [Chapter 20:15] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation In this Act—",
+      "content": "2. Interpretation In this Act— “ hunt ” means— (a) to kill, injure, shoot at or capture; or (b) with intent to kill, injure, shoot at or capture— (i) wilfully to disturb or molest by any method; or (ii) to lie in wait for, follow, pursue, drive or search for; “ indemnified person ” means— (a) the Director of National Parks and Wild Life Management appointed in terms of section 107 of the Parks and Wild Life Act [Chapter 20:14] ; or (b) any person designated an officer, inspector or employee in terms of section 109 of the Parks and Wild Life Act [Chapter 20:14] ; or (c) any person appointed an honorary officer in terms of section 111 of the Parks and Wild Life Act [Chapter 20:14] ; or (d) any police officer; or (e) any member of the Defence Forces; or (f) any person declared to be an indemnified person by the President by notice in a statutory instrument; or (g) any person assisting and acting under the direction of a person referred to in paragraphs (a) to (f); “ wild life ” means all kinds of vertebrate animals and the young thereof, other than domestic animals."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Indemnity",
+      "content": "3. Indemnity No criminal liability shall attach to any person who, at the relevant time, was an indemnified person , in respect of any act or thing whatsoever advised, commanded, directed or done or omitted to be done by him, whether before, on or after the date of commencement of this Act, in good faith for the purposes of or in connection with the suppression of the unlawful hunting of wild life ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restriction on arrests and institution of criminal proceedings",
+      "content": "4. Restriction on arrests and institution of criminal proceedings Except with the authority of the Prosecutor-General— (a) no indemnified person shall be arrested; and (b) no criminal proceedings shall be instituted against an indemnified person ; in consequence of his having advised, commanded, ordered, directed or done or omitted to do any act or thing for the purposes of or in connection with the suppression of the unlawful hunting of wild life ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Act not to apply in respect of previous convictions",
+      "content": "5. Act not to apply in respect of previous convictions This Act shall not apply so as to relieve any person of criminal liability in respect of any act or thing which constituted an offence and in respect of which he was convicted before the 8th September, 1989."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Termination of indemnity",
+      "content": "6. Termination of indemnity (1) The President— (a) may at any time; and (b) shall, if called upon to do so by a resolution passed by Parliament; by notice in a statutory instrument declare that this Act shall cease to have effect. (2) Where a notice has been published in terms of subsection (1), this Act shall cease to apply in respect of acts or things advised, commanded, ordered, directed or done or omitted to be done by indemnified persons after the date of commencement of the notice: Provided that this Act shall continue to apply in respect of acts or things so advised, commanded, ordered, directed or done or omitted to be done before that date."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "hunt",
+      "definition": "hunt ” means— (a) to kill, injure, shoot at or capture; or (b) with intent to kill, injure, shoot at or capture— (i) wilfully to disturb or molest by any method; or (ii) to lie in wait for, follow, pursue, drive or search for",
+      "source_provision": "s2"
+    },
+    {
+      "term": "indemnified person",
+      "definition": "indemnified person ” means— (a) the Director of National Parks and Wild Life Management appointed in terms of section 107 of the Parks and Wild Life Act [Chapter 20:14] ; or (b) any person designated an officer, inspector or employee in terms of section 109 of the Parks and Wild Life Act [Chapter 20:14] ; or (c) any person appointed an honorary officer in terms of section 111 of the Parks and Wild Life Act [Chapter 20:14] ; or (d) any police officer; or (e) any member of the Defence Forces; or (f) any person declared to be an indemnified person by the President by notice in a statutory instrument; or (g) any person assisting and acting under the direction of a person referred to in paragraphs (a) to (f)",
+      "source_provision": "s2"
+    }
+  ]
+}

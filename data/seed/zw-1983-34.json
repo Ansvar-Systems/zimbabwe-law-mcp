@@ -1,0 +1,79 @@
+{
+  "id": "zw-1983-34",
+  "type": "statute",
+  "title": "African Development Fund (Zimbabwe) Act",
+  "title_en": "African Development Fund (Zimbabwe) Act",
+  "short_name": "zw-1983-34",
+  "status": "in_force",
+  "issued_date": "1983-01-01",
+  "in_force_date": "1983-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1983/34/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the African Development Fund (Zimbabwe) Act [Chapter 22:02]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Agreement ” means the agreement signed at Abidjan on the 29th November, 1972, providing for the establishment and operation of a body to be known as the African Development Fund ; “ Fund ” means the African Development Fund established in terms of the Agreement ; “ Minister ” means the Minister of Finance or any other Minister to whom the President may, from time to time, assign the administration of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Legal capacity of the Fund",
+      "content": "3. Legal capacity of the Fund The fund shall have full juridical personality within Zimbabwe and, in particular, full capacity— (a) to contract; (b) to acquire and dispose of movable and immovable property; and (c) to institute legal proceedings."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Immunity from legal process",
+      "content": "4. Immunity from legal process (1) The Fund shall enjoy immunity from any form of legal process, except in cases arising out of, or in connection with the exercise of its powers to receive loans in accordance with Article 8 of the Agreement, in which case actions may be brought against the Fund in any competent court in whose area of jurisdiction the Fund has its office or has appointed an agent for the purpose of accepting service or notice of process or has otherwise agreed to be sued: Provided that no action shall be brought against the Fund by the State or by any agency or instrumentality of the State or by any entity or person directly or indirectly acting for or deriving claims from the State or from any agency or instrumentality of the State. (2) Notwithstanding subsection (1), the Fund and its property and assets wherever located and by whomsoever held, shall be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Fund."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Immunity of assets, archives and freedom of assets from restriction",
+      "content": "5. Immunity of assets, archives and freedom of assets from restriction (1) The property and assets of the Fund , wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of taking or foreclosure by executive or legislative action. (2) The archives of the Fund and in general all documents belonging to it or held by it, shall be inviolable, wherever located. (3) To the extent necessary to carry out the purpose and functions of the Fund , and subject to the provisions of the Agreement , all property, currencies and other assets of the Fund shall be free from exchange or other restrictions by financial controls, regulations or moratoria of any kind."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Privileges of communications",
+      "content": "6. Privileges of communications Official communications of the Fund shall be accorded the same treatment as is accorded to the official communications of other international financial institutions of which Zimbabwe is a member."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Immunities and privileges of officials and personnel",
+      "content": "7. Immunities and privileges of officials and personnel All governors and directors and their alternates and the President and personnel of the Fund including experts performing missions for the Fund — (a) shall be immune from legal process with respect to acts performed by them in their official capacity; (b) when they are not local nationals, shall be accorded no less favourable immunities from immigration restrictions, alien registration requirements and national service obligations, and no less favourable facilities as regards exchange regulations, than are accorded by the State to the representatives, officials and employees of comparable rank of any other international financial institution of which Zimbabwe is a member; and (c) shall be granted no less favourable treatment in respect of travelling facilities than is accorded to representatives, officials and employees of comparable rank of any other international financial institution of which Zimbabwe is a member."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Exemption from taxation",
+      "content": "8. Exemption from taxation (1) The Fund , its assets, property, income, operations and transactions, shall be exempt from all direct taxation and from all custom duties or taxes having equivalent effect on goods imported and exported for its official use and the Fund shall also be exempt from any obligation for the payment, withholding or collection of any tax or duty: Provided that— (a) the Fund shall not claim exemption from taxes which are no more than charges for services rendered; and (b) articles imported under an exemption provided for in this paragraph shall not be sold in Zimbabwe except under conditions agreed with the State. (2) No tax shall be levied on or in respect of salaries and emoluments paid by the Fund to the President and personnel of the Fund including experts performing missions for it."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Minister ’s powers",
+      "content": "9. Minister ’s powers The Minister may make such regulations and give such directions as he may deem necessary or convenient for the carrying out of the objects and purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "Agreement ” means the agreement signed at Abidjan on the 29th November, 1972, providing for the establishment and operation of a body to be known as the African Development Fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "Fund ” means the African Development Fund established in terms of the Agreement",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "zw-1983-42",
+  "type": "statute",
+  "title": "Commercial Premises (Lease Control) Act",
+  "title_en": "Commercial Premises (Lease Control) Act",
+  "short_name": "zw-1983-42",
+  "status": "in_force",
+  "issued_date": "1983-01-01",
+  "in_force_date": "1983-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1983/42/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Commercial Premises (Lease Control) Act [Chapter 14:04] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ commercial premises ” means— (a) any premises used for or in connection with the carrying on of any industry, business, trade or occupation; and (b) any ground, parking space, garage, outbuilding, workers quarters and other improvement in, on or let or used with such premises or part thereof; “ Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may from time to time assign the administration of this Act; “ rent board ” means a commercial and industrial rent board constituted in terms of section three."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Rent boards",
+      "content": "3. Rent boards (1) The Minister may, by statutory instrument, constitute boards to be known as commercial and industrial rent boards with such areas of jurisdiction as he may specify. (2) Every rent board shall consist of a chairman and such other members as the Minister deems necessary. (3) The members of a rent board shall be appointed on such terms and conditions as the Minister may fix for members or classes of members generally. A member shall be paid such remuneration and allowances, if any, out of moneys appropriated for the purpose by Parliament as the Minister , with the approval of the Minister responsible for finance, may fix."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Appeals from decisions of rent boards",
+      "content": "4. Appeals from decisions of rent boards (1) An appeal shall lie from the decision of a rent board to the Administrative Court. (2) Where an appeal has been lodged in terms of subsection (1) to the Administrative Court, the lodging of the appeal shall not suspend the decision of the rent board concerned unless such board has made a direction to the contrary."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Leasing control",
+      "content": "5. Leasing control (1) The Minister may make such regulations as he may deem necessary for the purpose of— (a) prescribing the functions, powers and procedure of rent boards and providing for appeals and, more particularly— (i) giving every rent board power, whether on behalf of the parties to the proceedings or of its own motion, to summon witnesses and call for the production of documents and to hear evidence under oath; (ii) giving every rent board the power to inspect premises; (iii) prescribing penalties for contempt of a rent board and for the giving of false evidence in any proceedings thereof; (b) notwithstanding anything in the common law, controlling the letting and hiring of any commercial premises and the rents charged therefor, and regulating and restricting the powers of the courts to make orders of ejectment against lessees of commercial premises and, more particularly— (i) prescribing fees for any application made to a rent board or any authority appointed to carry out any function under such regulations; (ii) prescribing charges for acts done or services performed under such regulations; (iii) restricting or suspending the rights under the common law of lessors of commercial premises , including rights relating to leases entered into before the coming into operation of such regulations; (iv) specifying the maximum rent that may be charged for any commercial premises in respect of any period, and providing for the refunding, reclaiming or setting off of any rent paid in excess of such maximum; (v) prescribing penalties for contraventions of such regulations. (2) In making regulations under subsection (1) the Minister shall have regard to the interests of both lessors and lessees. (3) No penalty prescribed by regulations made under subsection (1) shall exceed a fine of level five or imprisonment for a period of six months or both such fine and imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ] (4) For the purposes of subsection (1), “letting” and “lease” include sub-letting and sub-lease, respectively."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may from time to time assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commercial premises",
+      "definition": "commercial premises ” means— (a) any premises used for or in connection with the carrying on of any industry, business, trade or occupation; and (b) any ground, parking space, garage, outbuilding, workers quarters and other improvement in, on or let or used with such premises or part thereof",
+      "source_provision": "s2"
+    }
+  ]
+}

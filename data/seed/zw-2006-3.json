@@ -1,0 +1,615 @@
+{
+  "id": "zw-2006-3",
+  "type": "statute",
+  "title": "National Biotechnology Authority Act",
+  "title_en": "National Biotechnology Authority Act",
+  "short_name": "zw-2006-3",
+  "status": "in_force",
+  "issued_date": "2006-01-01",
+  "in_force_date": "2006-01-01",
+  "url": "https://zimlii.org/akn/zw/act/2006/3/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and date of commencement",
+      "content": "1. Short title and date of commencement (1) This Act may be cited as the National Biotechnology Authority Act [Chapter 14:31] . (2) [subsection repealed by section 8 of Act 5 of 2011 ] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ accident ” means any incident involving an unintended release of biotechnology products into the environment which may have an immediate or delayed adverse impact on the environment ; “ Authority ” means the National Biotechnology Authority established in terms of section 4 ; “ biosafety committee ”, “ biosafety officer ”, biotechnology research institute ”, “ project ” and “ project supervisor ” have the meanings assigned to those terms by section 29 ; “ biotechnology ” means any technique that uses living organisms or parts of organisms to make or modify products, to improve plants or animals, or to develop micro-organisms for specific purposes; “ Board ” means the National Biotechnology Board established in terms of section 6 ; “ contained use ” means any activity in which products of biotechnology processes are cultured, stored, used, transported, destroyed or disposed of, and for which physical barriers or a combination of physical barriers together with chemical or biological barriers or both are used to limit contact thereof with the environment ; “ Chief Executive Officer ” means the Chief Executive Officer of the Authority appointed in terms of section 18 ; “ control ” means to examine, regulate, manage or direct any activity within a person’s jurisdiction; “ DNA ” means deoxyribonucleic acid; “ environment ” means the aggregate of surrounding objects, conditions and influences that affect the life and habits of human beings or any other organism or collection of organisms; “ Environmental Management Agency ”, “Health Professions Council” and “Medicines and Allied Substances Control Authority of Zimbabwe” means the agency, council and authority established respectively by the Environmental Management Act [Chapter 20:27] (No. 13 of 2002), the Health Professions Act [Chapter 27:19] (No. 6 of 2000) and the Medicines and Allied Substances Control Act [Chapter 15:03] ; “ Fund ” means the Biotechnology Fund established by section 43 ; “ general release ”, in relation to a product of biotechnology , means the introduction of a product of biotechnology into the environment by whatever means, where the product is no longer contained by any system of barriers and is no longer under any person’s control ; “ gene therapy ” means any technique for delivering functional genes to replace aberrant ones into living cells by means of a genetically modified vector or by physical means in order to genetically alter the living cell; “ genetically modified organism ” means an organism the genes or genetic material of which have been modified in a way that does not occur naturally through mating or natural recombination or both, and “genetic modification” shall have a corresponding meaning; “ hazard ” means an intrinsic biological, chemical or physical characteristic of a product of biotechnology which could lead to an adverse impact on human beings, plants, animals, micro-organisms and the environment ; “ inspector ” means a person appointed as an inspector in terms of section 32 ; “ member ” means a member of the Board ; “ Minister ” means the Minister responsible for Science and Technology Development or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ monitor ” means maintain regular surveillance over, check, warn about or record a situation or process; “ organism ” means any biological entity, whether microscopic or not, capable of replication; “ permit ” means a permit granted in terms of section 25 ; “ potentially harmful research or undertaking ” means any activity involving the processes or techniques referred to in section 3 (2)(a) or (c) which the Authority has, in terms of section 22 (5)(b), declared to be potentially harmful research or a potentially harmful undertaking; “ product of biotechnology ” means any organism or part of any organism resulting from the application of any biotechnology technique, and includes a genetically modified organism ; “ recombinant DNA ” means genetic material produced by the combining of DNA molecules from different organisms; “ register ” means the register established in terms of section 23 ; “ registered user ”, in relation to products of biotechnology , means a user of such product whose premises are registered or who is granted a permit in terms of section 25 ; “ release ”, in relation to a product of biotechnology , means a general release or a trial release ; “ Research Council ” means the Research Council of Zimbabwe established in terms of the Research Act [Chapter 10:22] . “ risk ” means the combination of the magnitude of the consequences of a hazard , if it occurs, and the likelihood that the consequences will occur; “ trial release ” means the deliberate release of a product of biotechnology into the environment in the open under conditions where the degree of dissemination of the product of biotechnology is limited by chemical or physical barriers or by built-in barriers which prevent the survival of such products in the environment ; “ user ”, in relation to a product of biotechnology , means a person who— (a) owns or controls any facility utilised or to be utilised for any potentially harmful research or undertaking , or generally for the development, production, use or application of products of biotechnology , including any facility utilised or to be utilised in connection with the contained use or trial release of such product; or (b) carries on any potentially harmful research or undertaking or undertakes the contained use or trial release of products of biotechnology ; or (c) sells or markets products of modern biotechnology or utilises such product, and is required by the terms of any biotechnology guidelines or standards to be authorised to do so by the Authority ; “ waste ” means any matter, whether gaseous, liquid or solid or any combination thereof, which, in the opinion of the person controlling or possessing it, is an undesirable or superfluous by-product, emission, resolve or remainder of any process or activity in connection with products of biotechnology ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of Act",
+      "content": "3. Application of Act (1) Except where it is expressly provided to the contrary, this Act shall be construed as being in addition to and not in substitution for any other law which is not in conflict or inconsistent with this Act. (2) This Act shall apply to— (a) all activities aimed at research into and the development, importation, exportation and use of biotechnological processes; (b) the import export, contained use , release or placing on the market of any product of biotechnology that is likely to have adverse effect on human health, the environment , the economy, national security or social norms and values; (c) any activity involving biological and molecular engineering technologies such as metabolic engineering, proteomics, metabolomics, nanotechnology, genetic modifications, cloning, DNA -chip technology, bioinformatics and such other technologies as may be declared by the Authority to constitute potentially harmful research or undertakings; (d) all measures aimed at minimising the impact of biotechnological processes on national security, human health, animals, plants and the environment . Part II – National Biotechnology Authority"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of Authority",
+      "content": "4. Establishment of Authority There is hereby established an authority, to be known as the National Biotechnology Authority , which shall be a body corporate capable of suing and being sued in its own name and, subject to this Act, of performing all acts that bodies corporate may by law perform."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions and powers of Authority",
+      "content": "5. Functions and powers of Authority (1) The general function of the Authority shall be to advise the Minister on all aspects concerning the development, production, use, application and release of products of biotechnology , and ensure that all activities with regard to such development, production, use, application and release are performed in accordance with this Act. (2) The Authority shall have the following specific functions— (a) to evolve a long-term policy for safety in biotechnology in Zimbabwe; (b) to actively promote biotechnology research, development and application in Zimbabwe; (c) to review project proposals concerning high risk category organisms and controlled experimental trials involving them, and make decisions on whether to approve, prohibit or restrict such trials; (d) to review reports of all ongoing approved projects and controlled experimental trials involving high risk category organisms; (e) to approve deliberate releases of properly evaluated products of biotechnology ; (f) to approve the large-scale use of products of biotechnology in industrial production and application; (g) to assist in the clearance of applications for setting up industries based on the use of products of biotechnology ; (h) to monitor and approve the discharge of biological waste from laboratories and hospitals into the environment ; (i) to ensure that biotechnology guidelines and standards are adhered to generally and in the execution of projects or controlled experimental trials involving high risk category organisms; (j) to recommend training programmes for biosafety officers; (k) to identify, prioritise and propose areas for standardisation of products of biotechnology to the Standards Association of Zimbabwe, the Medicines Control Authority of Zimbabwe, the Environmental Management Agency and other relevant bodies; (l) to approve the safety aspects of the import, export, manufacture, processing and selling of any products of biotechnology , including substances, foodstuffs and additives containing products of biotechnology ; (m) to advise the customs authorities on the import and export of biologically active material and products of biotechnology ; (n) to collect and disseminate information pertaining to safety procedures associated with work on or research into modern biotechnology ; (o) to establish contact and maintain liaison with bodies in other countries and international organisations concerned with monitoring work on or research into biotechnology ; (p) to perform such other functions as are provided for in this Act. (2) For the better exercise of its functions, the Authority shall have the power, subject to this Act, to do or cause to be done, either by itself or through its agents, all or any of the things specified in the Schedule either absolutely or conditionally, and either solely or jointly with others. (3) The Research Council shall maintain the overall responsibility for the promotion, direction, supervision and coordination of research in Zimbabwe, and the Authority shall, at the request of the Research Council , report to it from time to time in relation to matters related to biotechnology research, development and application. [Please note: numbering as in original]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Board of Authority",
+      "content": "6. Board of Authority (1) Subject to this Act, the operations of the Authority shall be directed and controlled by the National Biotechnology Board consisting of— (a) a chairperson, deputy chairperson and not fewer than four or more than nine other members appointed by the Minister after consultation with the President and in accordance with any directions the President may give him or her; and (b) the Chief Executive Officer . (2) Of the persons appointed in terms of subsection (1)(a)— (a) one shall be a member of the Health Professions Council employed by the Ministry responsible for health; and (b) the remainder, as well as the chairperson, shall be appointed for their expertise and experience in biotechnology research and development, environmental management, agriculture, business or administration and law."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Disqualifications for appointment as member",
+      "content": "7. Disqualifications for appointment as member (1) Subject to this Act, a person shall not be qualified for appointment as a member if— (a) he or she is not a citizen of Zimbabwe or ordinarily resident in Zimbabwe; or (b) he or she has, in terms of a law in force in any country— (i) been adjudged or otherwise declared insolvent or bankrupt and has not been rehabilitated; or (ii) made an assignment to or composition with his or her creditors which has not been rescinded to or set aside; or (c) he or she has been convicted in Zimbabwe or in any other country of any offence involving dishonesty or any other offence for which a term of imprisonment was imposed without the option of a fine, whether or not any portion of that sentence was suspended; or (d) he or she is a member of Parliament. (2) A person shall not be qualified for appointment as a member , nor shall he or she hold office as a member , if he or she is a member of two or more other statutory bodies. (3) For the purposes of subsection (2)— (a) a person who is appointed to a council, board or other authority which is a statutory body or which is responsible for the administration of the affairs of a statutory body shall be regarded as a member of that statutory body; (b) “statutory body” means— (i) any commission established by the Constitution; or (ii) any body corporate established directly by or under an Act for special purposes specified in that Act, the membership of which consists wholly or mainly of persons appointed by the President, Vice-President, a Minister or any other statutory body or by a Commission established by the Constitution."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Terms and conditions of office of members",
+      "content": "8. Terms and conditions of office of members (1) An appointed member of the Board shall hold office for such period, not exceeding three years, as the Minister may fix at the time of his or her appointment. (2) On the expiry of the period for which an appointed member of the Board has been appointed, he or she shall continue to hold office until he or she has been re-appointed or his or her successor has been appointed: Provided that a member shall not continue to hold office in terms of this subsection for more than six months. (3) A person who ceases to be a member of the Board shall be eligible for re-appointment. (4) Members of the Board shall hold office on such terms and conditions as the Minister may fix."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Vacation of office by appointed members",
+      "content": "9. Vacation of office by appointed members (1) An appointed member of the Board shall vacate his or her office and the office shall become vacant— (a) one month after the date he or she gives notice in writing to the Minister of his or her intention to resign his or her office or after the expiry of such other period of notice as he or she and the Minister may agree; or (b) on the date he or she begins to serve a sentence of imprisonment, whether or not any portion has been suspended, imposed without the option of a fine— (i) in Zimbabwe, in respect of an offence; or (ii) outside Zimbabwe, in respect of conduct which, if committed in Zimbabwe, would have constituted an offence; or (c) if he or she becomes disqualified in terms of section 7 (1) (a), (b) or (c) or in terms of subsection (2) of that section, to hold office as a member; or (d) if he or she is required in terms of subsection (2) or (3) to vacate his or her office as a member . (2) The Minister may require an appointed member of the Board to vacate his or her office if the member — (a) has been guilty of conduct which renders him or her unsuitable to continue to hold office as a member ; or (b) has failed to comply with any condition of his or her office fixed in terms of section 8 ; or (c) has ceased to possess any qualification by reason of which he or she was appointed; or (d) is mentally or physically incapable of efficiently performing his or her duties as a member . (3) The Minister , on the recommendation of the Board , may require an appointed member of the Board to vacate his or her office if the Minister is satisfied that the member has been absent without the consent of the chairperson of the Board from three consecutive meetings of the Board , of which he or she has been given at least seven days’ notice, and that there was no just cause for the member ’s absence."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Suspension of appointed members of Board",
+      "content": "10. Suspension of appointed members of Board The Minister may suspend from office an appointed member of the Board against whom criminal proceedings are instituted for an offence involving dishonesty and, whilst that member is so suspended, he or she shall not carry out any duties or be entitled to any remuneration or allowances as a member ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Filling of vacancies on Board",
+      "content": "11. Filling of vacancies on Board On the death of, or the vacation of office by, an appointed member , his or her office shall be filled within three months in accordance with section 6 ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Meetings and procedure of Board",
+      "content": "12. Meetings and procedure of Board (1) The Board shall hold its first meeting on a date and at a place fixed by the Minister , and thereafter shall meet for the dispatch of business and adjourn, close and otherwise regulate its meetings and procedure as it thinks fit: Provided that the Board shall meet at least four times in each financial year. (2) The chairperson of the Board — (a) may convene a special meeting of the Board at any time; and (b) shall convene a special meeting of the Board on the written request of the Minister or not fewer than two members, which meeting shall be convened for a date not sooner than seven days and not later than thirty days after the chairperson’s receipt of the request. (3) Written notice of a special meeting convened in terms of subsection (2) shall be sent to each member not later than forty-eight hours before the meeting and shall specify the business for which the meeting has been convened. (4) No business shall be discussed at a special meeting convened in terms of subsection (2) other than— (a) such business as may be determined by the chairperson of the Board , where he or she convened the meeting in terms of subsection (2)(a); or (b) the business specified in the request for the meeting, where the chairperson of the Board convened the meeting in terms of subsection (2)(b). (5) The chairperson of the Board or, in his or her absence, the deputy chairperson shall preside at all meetings of the Board : Provided that, if the chairperson and deputy chairperson are both absent from any meeting of the Board , the members present may elect one of their number to preside at that meeting as chairperson. (6) Five members shall form a quorum at any meeting of the Board . (7) Subject to subsection (12), anything authorized or required to be done by the Board may be decided by a majority vote at any meeting of the Board at which a quorum is present. (8) With the Board ’s approval, the chairperson of the Board may invite any person to attend a meeting of the Board or a committee, where the chairperson considers that the person has special knowledge or experience in any matter to be considered by the Board or the committee, as the case may be, at that meeting. (9) A person invited to attend a meeting of the Board or of a committee in terms of subsection (8) may take part in the proceedings of the Board or the committee as if he or she were a member thereof, but shall not have a vote on any question before the Board or committee, as the case may be. (10) Subject to subsection (11) and section 15 , at all meetings of the Board each member present shall have one vote on any question before the Board and, in the event of an equality of votes, the person presiding at the meeting shall have a casting vote in addition to a deliberative vote. (11) The Chief Executive Officer shall not take part in the discussion of, and shall not vote on, any question before the Board which involves his or her tenure of office or conditions of service. (12) Any proposal circulated among all members and agreed to in writing by a majority of them shall have the same effect as a resolution passed by a duly constituted meeting of the Board and shall be incorporated into the minutes of the next succeeding meeting of the Board : Provided that if a member requires that such a proposal be placed before a meeting of the Board , this subsection shall not apply to the proposal."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Committees of Board",
+      "content": "13. Committees of Board (1) For the better exercise of its functions, the Board may establish one or more committees in which the Board may vest such of its functions as it considers appropriate: Provided that the vesting of any function in a committee shall not divest the Board of that function, and the Board may amend or rescind any decision of the committee in the exercise of that function. (2) On the establishment of a committee in terms of subsection (1), the Board — (a) shall appoint at least one member of the Board as a member of the committee, and that member or one of those members, as the case may be, shall be chairperson of the committee; and (b) may appoint as members of the committee, on such terms and conditions as the Board may fix, persons who are not members of the Board . (3) Meetings of a committee may be convened at any time and at any place by the chairperson of the Board or the chairperson of the committee. (4) Subject to sections 16 and 17 , the procedure to be followed at any meeting of a committee and the quorum at any such meeting shall be as fixed by the Board."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Remuneration and allowances of members of Board and committees",
+      "content": "14. Remuneration and allowances of members of Board and committees Every member of the Board or of a committee or co-opted persons shall be paid— (a) such remuneration, if any; and (b) such allowances to meet his or her reasonable expenses incurred in connection with the business of the Board or the committee, as the case may be; as the Board may fix with the approval of the Minister ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Disclosure of interests by members of Board and committees",
+      "content": "15. Disclosure of interests by members of Board and committees (1) In this section— \"associate\", in relation to a member , means— (a) a person who is relative of the member ; or (b) a partner, employee or employer of the member ; or (c) any body of persons, whether corporate or unincorporated, of which the member is a director or in which the member holds any office or position other than that of an auditor or in which the member holds a controlling interest; “first cousin” in relation to a member , means the child or any descendant of the child of the uncle or aunt of such member ; “relative”, in relation to a member means the member ’s spouse, child, parent, brother, sister, first cousin, nephew or niece. (2) The Chief Executive Officer and every member shall, upon appointment, and annually thereafter, declare to the Board in full any significant commercial or financial interest held directly or indirectly by him or her or his or her associate in accordance with such guidelines as the Board , in consultation with the Minister , may fix. (3) A member shall take no part in the consideration or discussion of, or vote on, any question before the Board which relates to any matter in which he or she or his or her associate has an interest. (4) Nothing in this section shall be taken to prevent members of the Board or of a committee of the Board from taking part in the consideration of, or voting on, any matter that affects members generally in their capacity as persons liable to pay revenue. (5) Any person who contravenes subsection (2) or (3) shall be guilty of an offence and liable to a fine not exceeding level eight or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Minutes of proceedings of Board and committees",
+      "content": "16. Minutes of proceedings of Board and committees (1) The Board shall cause minutes of all proceedings of and decisions taken at every meeting of the Board and of every committee to be entered in books kept for the purpose. (2) Any minutes referred to in subsection (1) which purport to be signed by the person presiding at the meeting to which the minute relate or by the person presiding at the next following meeting of the Board or the committee concerned, as the case may be, shall be accepted for all purposes as prima facie evidence of the proceedings and decisions taken at the meeting concerned."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Validity of decisions and acts of Board and committees",
+      "content": "17. Validity of decisions and acts of Board and committees No decision or act of the Board or a committee or act that is authorized by the Board or a committee shall be invalid solely because there was a vacancy in the membership of the Board or the committee or because a disqualified person purported to act as a member of the Board or the committee, as the case may be, at the time the decision was taken or the act was done or authorized."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Appointment and functions of Chief Executive Officer of Authority",
+      "content": "18. Appointment and functions of Chief Executive Officer of Authority (1) Subject to this Act, the Board shall appoint, on such terms and conditions as the Board may fix, a person to be the Chief Executive Officer of the Authority . (2) Without the authority of the Minister , no person shall be appointed as Chief Executive Officer and no person shall be qualified to hold office as Chief Executive Officer if he or she would be disqualified in terms of section 7 had that section applied to him or her. (3) The appointment of the Chief Executive Officer shall terminate if he or she would be required in terms of section 9 to vacate his or her office had that section applied to him or her: Provided that his or her appointment shall not terminate on the ground that he or she has ceased to be a citizen of Zimbabwe or ordinarily resident in Zimbabwe, if the Minister has granted authority under subsection (2). (4) The Chief Executive Officer shall, subject to the Board ’s directions, supervise and manage the Authority ’s staff, activities, funds and property and perform such other functions on behalf of the Board as the Board may assign to him or her. (5) Any assignment of functions in terms of subsection (4)— (a) may be made generally or specially and subject to such conditions, restrictions, reservations and exceptions as the Board may determine; (b) may be revoked by the Board at any time; (c) shall not preclude the Board itself from exercising the functions. (6) The Chief Executive Officer shall serve as the Secretary of the Board and registrar of facilities and permits under Part III."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Execution of contracts and instruments by Authority .",
+      "content": "19. Execution of contracts and instruments by Authority . An agreement, contract or instrument approved by the Board may be entered into or executed on the Authority ’s behalf by any person generally or specially authorized by the Board for that purpose."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Reports of Authority",
+      "content": "20. Reports of Authority (1) In addition to any annual report which the Authority may be required to submit to the Minister in terms of the Audit and Exchequer Act [Chapter 22:03] , the Board— (a) shall submit to the Minister such other reports as the Minister may require; and (b) may submit to the Minister such other reports as the Authority considers desirable; in regard to the operations, undertakings and activities of the Authority . (2) The Board shall give the Minister all information relating to the operations, undertakings and activities of the Authority that the Minister may at any time require."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Minister may give Board directions on matters of policy",
+      "content": "21. Minister may give Board directions on matters of policy (1) Subject to subsection (2), the Minister may give the Board such directions of a general character relating to the policy which the Authority is to observe in the exercise of its functions, as the Minister considers to be requisite in the national interest. (2) Before giving the Board a direction in terms of subsection (1), the Minister shall inform the Board , in writing, of the proposed direction and the Board shall, within thirty days or such further period as the Minister may allow, submit to the Minister , in writing, its views on the proposal and the possible effects which the proposal may have on the development and marketing of biotechnology in particular and on research and the national economy as a whole. (3) After receipt of the views of the Board submitted in terms of subsection (2), the Minister may confirm, alter or withdraw any proposed direction to the Board and, where the Minister has confirmed a direction, whether altered or not, the Board shall forthwith comply with the direction. (4) When any direction has been received by the Board in terms of this section, the Board shall set out in the Authority ’s annual report the direction received by it, the views expressed by it in terms of subsection (2), and the final direction, if any, given to it in terms of subsection (3). Part III – Control and monitoring of biotechnology"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Power of Board to regulate biotechnology practices",
+      "content": "22. Power of Board to regulate biotechnology practices (1) The Board may issue to persons owning or controlling facilities registered in terms of this Part, or carrying on any research, undertaking or activity that is permitted in terms of this Part, biotechnology guidelines and standards of practice and procedure that shall be binding on them and all users of products of biotechnology , and may revise these guidelines and standards from time to time. (2) The matters in respect of which the Board may issue biotechnology guidelines and standards include but are not restricted to— (a) the contents of risk assessments and environmental impact assessments referred to in section 25 (1)(c) and (d); (b) the classification or categorisation of organisms on the basis of the level of risk or degree of hazard , if any, attaching to each class or type of such organism , and the procedures for biotechnology research for each class or type of such organism ; (c) the level of risk at which the prior approval by the Board for project proposals involving research into specified classes or types of products of biotechnology shall be required; (d) the requirements for the contained use of products of biotechnology and the types of containment facility appropriate to specified classes or types of such organisms; (e) the requirements for the laboratory development of biotechnology ; (f) the standards to which facilities utilised for the development, production, use or application of biotechnology should conform; (g) the requirements for the general release and trial release of products of biotechnology ; (h) the requirements for the effective management of biotechnology waste ; (i) the procedures to be followed and control measures to be taken in the event of accidents, and the information required to be disclosed to the Authority on notification of any release or accident ; (j) the requirements for the marketing of products of biotechnology ; (k) the requirements and procedures for the importation and exportation of products of biotechnology that are likely to have an adverse effect on human health, the environment , the economy, national security and social norms and values; (l) the identities or classes of products of biotechnology exempted from control for the purposes of this Act; (m) generally, the control measures to be complied with by users of products of biotechnology ; (n) the authorisation of persons by the Board for the purpose of enabling such persons to sell, market or utilise any class or type of product of biotechnology . (3) The Authority may cause a statutory instrument to be published setting out any biotechnology guidelines and standards: Provided that the publication in a statutory instrument of such biotechnology guidelines and standards shall be for public information only and their validity shall not depend on such publication. (4) Any person may inspect a copy of any biotechnology guidelines and standards issued in terms of subsection (1) free of charge at all reasonable times at the premises of the Authority or such other place as the Authority may direct. (5) The Authority may, by notice in the Gazette — (a) prohibit any activity involving genetically modified organisms or its products; or (b) declare that any activities involving certain organisms shall constitute potentially harmful research or undertakings for the purposes of this Act. (6) Any person who contravenes any biotechnology guidelines or standards issued in terms of subsection (1) that are binding on him or her, or any prohibition referred to in subsection (5)(a), shall be guilty of an offence and liable to a fine not exceeding level nine or imprisonment for a period not exceeding three years or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Register of facilities and permits",
+      "content": "23. Register of facilities and permits (1) The Authority shall establish a register for the purpose of— (a) registering facilities utilised for the development, production, use or application of biotechnology ; and (b) recording permits issued for the utilisation of such facilities. (2) The Chief Executive Officer of the Authority shall be responsible, subject to any directions given to him or her by the Board , for maintaining the register and ensuring that entries are made in the register recording— (a) the name, identity or description and such other particulars as required by the Authority of each facility which the Authority has directed shall be registered; and (b) the fact that a permit has been issued to any person to utilise the registered facility for the development, production, use or application of any product of biotechnology , or to release such product into the environment , or that any such permit has ceased to be valid, and the name and address of the person concerned; and (c) the particulars of the cancellation or suspension of any registration or permit , and of the restoration of any such cancelled registration or permit , or the termination of any such suspension; and (d) any necessary corrections or alterations to any particulars or facts referred to in paragraph (a), (b) or (c); and (e) any other particulars that may be required by the Authority to be recorded.. (3) Any person may inspect the register free of charge at all reasonable times at the premises of the Authority or such other place as the Authority may direct."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Certain facilities and research to be registered or permitted",
+      "content": "24. Certain facilities and research to be registered or permitted (1) No person shall— (a) own or control any facility utilised or to be utilised for any potentially harmful research or undertaking , or generally for the development, production, use or application of products of biotechnology , including any facility utilised or to be utilised in connection with the contained use or trial release of such products, unless such facility is registered; or (b) carry on potentially harmful research, or undertake the contained use or trial release of any products of biotechnology , without a permit ; or (c) carry on research or undertake any activity referred to in paragraph (b) otherwise than in a registered facility, except in circumstances approved in a permit or in writing by the Authority ; or (d) enter into an agreement with any person so as to transfer any microbial or biological agents or toxins. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level fourteen or imprisonment for a period not exceeding ten years or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Application for and grant or refusal of registration or permission",
+      "content": "25. Application for and grant or refusal of registration or permission (1) A person who wishes to— (a) own or control any facility utilised or to be utilised for any potentially harmful research, or generally for the development, production, use or application of any product of biotechnology, including any facility utilised or to be utilised in connection with the contained use or trial release of such product; or (b) carry on any potentially harmful research, or undertake the contained use or trial release of any product of biotechnology; shall apply to the Chief Executive Officer in the form provided by the Authority and shall, in the case of an application for a permit, submit with his or her application— (i) an assessment of the risk; and (ii) an assessment of the impact on the environment; involved in carrying on the research or activity in question. (2) On receipt of an application made in terms of subsection (1) the Chief Executive Officer shall submit the application to the Board for consideration at its next meeting after the application was received. (3) Within four months of receiving an application the Board may, after— (a) examining the conformity of the application to any applicable biotechnology guidelines and standards; and (b) considering the assessments of risk and of the impact on the environment, if any, submitted in terms of subsection (1); and (c) conducting such inspections as it thinks necessary; grant or refuse to grant the application or grant it subject to such conditions as it may impose. (4) Any person who is aggrieved by a refusal of the Board to grant an application or by any condition imposed by the Board may, within thirty days, appeal to the Minister against such refusal or condition in the form provided by the Authority, and the Minister on appeal may grant or refuse to grant the application or grant it subject to such conditions as he or she may impose, or cancel or re-affirm the conditions appealed against, as the case may be. (5) Where an application is granted or granted subject to conditions, the Chief Executive Officer shall, at the direction of the Board, make the appropriate entries in the register and confirm the registration in writing or issue the permit to the applicant or both, as the case may be. (6) The Authority may register any facility or issue any permit for a fixed or indefinite period."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "General duty of care to be observed by users of products of biotechnology",
+      "content": "26. General duty of care to be observed by users of products of biotechnology (1) Every user of products of biotechnology shall, in addition to the requirements of this Act and any biotechnology guidelines or standards, ensure that appropriate measures are taken to prevent or minimise any foreseeable danger to persons, animals or plants or to the environment generally that may arise from the use of such products. (2) Any user of a product of biotechnology who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Notification of releases and accidents",
+      "content": "27. Notification of releases and accidents (1) Subject to the terms of any permit , a user of a product of biotechnology shall notify the Authority both orally and in writing in advance of any general or trial release of such product, and shall not release such product until the Authority has approved the same in writing. (2) A user of a product of biotechnology shall immediately notify the Authority both orally and in writing of any accident involving the product of biotechnology , and shall supply to the Authority with information on the circumstances of the accident , the identity and quantity of the product released, and any information necessary to assess the impact of the accident on the environment , including the emergency measures taken or needed to be taken to avoid or mitigate any adverse impact of such accident on the environment . (3) Any user of a product of biotechnology who contravenes subsection (1) or (2) shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Returns to be furnished by registered users",
+      "content": "28. Returns to be furnished by registered users (1) Every registered user of a product of biotechnology shall, in the form and manner and within the time required by the Authority , furnish the Authority with such returns or other information in connection with his or her use of the product as the Authority considers will assist it in discharging its functions. (2) Any registered user of a product of biotechnology who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or both such fine and such imprisonment. Part IV – Biosafety Committees"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Interpretation in Part IV",
+      "content": "29. Interpretation in Part IV In this Part— “ biosafety committee ” means a biosafety committee established in terms of section 30 ; “ biosafety officer ” means a person referred to in section 30 (1)(a); “ biotechnology research institute ” means a facility or associated group of facilities engaged in biotechnology research; “ project ” means any project involving biotechnology research; “ project supervisor ” means a person so designated in section 31 (1); “ specified level of risk ” means a level of risk specified by the Board for a purpose referred to in section 22 (2)(c)."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Biosafety Committees",
+      "content": "30. Biosafety Committees (1) At every biotechnology research institute there shall be established a committee, to be called an “biosafety committee” which shall consist of— (a) a person familiar with the biosafety requirements of work involving biotechnology, to be called a “biosafety officer”; (b) not less than three scientists with expertise in biotechnology: Provided that the Authority may, in the absence of a sufficient number of scientists having relevant expertise at the biotechnology research institute, authorise the appointment of at least one scientist with expertise in biotechnology and two other scientists. (2) The biosafety officer shall be the chairperson of the biosafety committee. (3) The general function of a committee shall be to ensure that this Act, any biotechnology guidelines or standards, and the terms or conditions of any registration or permit are being complied with by all persons engaged in the work of the biotechnology research institute. (4) A committee shall have the following specific functions— (a) to consider project proposals by the biotechnology research institute; (b) to approve project proposals that are below a specified level of risk; (c) to refer to the Authority project proposals that are above a specified level of risk; (d) to devise an operating manual for the purpose of standardising safety and emergency procedures to be observed in connection with projects undertaken at the biotechnology research institute; (e) to keep a list of the project supervisors responsible for, and the records and files of, every project; (f) to ensure that there are provided suitable safe storage facilities of donor, vector, recipient and other materials involved in experimental work, and from time to time to inspect such facilities; (g) to provide annual reports to the Authority on the progress of ongoing projects; (h) to ensure that all personnel at the biotechnology research institute involved in project have adequate training in biosafety in accordance with such guidelines or standards as the Authority may establish; (i) to monitor the health and safety of the personnel referred to in paragraph (h)."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Project supervisors",
+      "content": "31. Project supervisors (1) For each project there shall be designated by the biotechnology research institute a project supervisor approved by the biosafety committee as having the requisite competence, experience or qualifications for supervising the project participants and all aspects of the project . (2) The project supervisor shall be responsible for describing the project proposal verbally and in writing to the committee. (3) The project supervisor shall ensure that project participants are suitably trained for the tasks they will perform and that any operating manual referred to in section 30 (4)(d) is complied with. Part V – Inspectors of Authority"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Appointment and functions of inspectors",
+      "content": "32. Appointment and functions of inspectors (1) The Authority may employ, upon such terms and conditions as may be determined by it and approved by the Minister , any person having suitable qualifications and experience to be an inspector for the purposes of this Part. (2) Upon appointment an inspector shall be provided with a certificate signed by the Chief Executive Officer stating that he or she is an inspector , and shall, on request, exhibit such certificate to any person affected by the performance of the his or her functions in terms of this Act."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Inspections",
+      "content": "33. Inspections (1) Subject to subsection (3), an inspector may, at fixed intervals agreed with the registered user of a product of biotechnology or at any time without giving prior notice, enter upon and inspect the premises of any registered user to determine whether the provisions of this Act, any biotechnology guidelines or standards and the terms or conditions of any registration or permit are being complied with, and, for that purpose, the inspector may— (a) inspect any activity or process carried out in or upon such premises in connection with the use of products of biotechnology ; (b) request any information regarding any activity or process referred to in paragraph (a) from the registered user or any person carrying out or supervising such activity or process; (c) where it is suspected on reasonable grounds that any offence against this Act is being committed— (i) seize any appliance, book, statement, shipping bill, bill of lading or other document and take samples of materials or substances which may afford proof of such offence; or (ii) require the registered user to produce any appliance, book, statement, shipping bill, bill of lading or other document, or any sample of any material or substance within a specified time and at a specified place. (2) Subject to subsection (3), the inspector may, at any time, without giving prior notice, exercise the powers specified in subsection (1) in relation to any premises or place owned or controlled by a person other than a registered user where it is known or suspected on reasonable grounds that any potentially harmful research or undertaking is being or will be carried on. (3) The powers of entry, inspection and seizure conferred by this section shall not be exercised— (a) in relation to the premises of any registered user except with his or her consent, unless there are reasonable grounds for believing that it is necessary to exercise them for the prevention, investigation or detection of an offence against this Act, or for the obtaining of evidence relating to such an offence; (b) in relation to any premises or place referred to in subsection (2) except in accordance with a search warrant issued in terms of section 50 of the Criminal Procedure and Evidence Act [Chapter 9:07] . (4) Any person who hinders or obstructs an inspector in the exercise of the powers conferred by this section, or refuses to furnish any information, document or article required pursuant to the exercise of such powers, or furnishes information which he or she knows to be false or misleading or has no reason to believe to be true, shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or both such fine and such imprisonment. Part VI – Financial provisions relating to Authority"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Funds of Authority",
+      "content": "34. Funds of Authority The funds of the Authority shall consist of— (a) such moneys as may be payable to the Authority from moneys appropriated for the purpose by Act of Parliament; and (b) any loans, donations and grants made to the Authority with the approval of the Minister and (c) such moneys as may, with the approval of the Minister responsible for finance, be obtained by the Authority as loans or by way of other financial assistance; and (e) any fees or charges in respect of any services rendered by the Authority ; and (f) any other moneys or assets as may accrue to the Authority , whether in the course of its operations or otherwise. [Please note: numbering as in original]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Investment of moneys not immediately required by Authority",
+      "content": "35. Investment of moneys not immediately required by Authority Moneys not immediately required by the Authority may be invested in such manner as the Board , in consultation with the Minister , may approve."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Financial year of Authority",
+      "content": "36. Financial year of Authority The financial year of the Authority shall be a period of twelve months ending on the 31st December in each year."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Accounts of Authority",
+      "content": "37. Accounts of Authority (1) The Board shall ensure that proper accounts and other records relating to such accounts are kept in respect of all the Authority ’s activities, funds and property, including such particular accounts and records as the Minister may direct. (2) As soon as possible after the end of each financial year, the Board shall prepare and submit to the Minister a statement of audited accounts in respect of that financial year or in respect of such other period as the Minister may direct."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Audit of Authority ’s accounts",
+      "content": "38. Audit of Authority ’s accounts (1) The Authority shall appoint as auditors one or more persons approved by the Minister who are registered as public accountants in terms of the Public Accountants and Auditors Act [Chapter 27:12] to audit the accounts of the Authority. (2) The auditors appointed in terms of subsection (1) shall make a report to the Board and the Minister on the statement of accounts prepared in terms of section 37 and such report shall state whether or not in their opinion the statement of accounts gives a true and fair view of the financial affairs of the Authority. (3) In addition to subsection (2), the Minister may require the Board to obtain from the auditors appointed in terms of subsection (1) such other reports, statements or explanations in connection with the funds, operations, investments and property of the Authority as the Minister may consider expedient. (4) If in the opinion of the auditors appointed in terms of subsection (1)— (a) they have not obtained the information and explanations they require; or (b) any accounts and records relating thereto have not been properly kept; or (c) the Authority has not complied with any provision of this Part; the auditors shall include in the report made in terms of subsection (2) or (3), as the case may be, statements to that effect. (5) If in terms of the Audit and Exchequer Act [Chapter 22:03] the Authority’s accounts are required to be audited by the Comptroller and Auditor-General, any reference in this section to auditors appointed in terms of subsection (1) shall be construed as a reference to the Comptroller and Auditor-General."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Powers of auditors",
+      "content": "39. Powers of auditors (1) The auditors appointed in terms of section 38 (1) shall be entitled at all reasonable times to require to be produced to them all accounts and other records relating thereto kept by the Authority and to require from the Chief Executive Officer or any member or agent or employee of the Authority such information and explanations as in the auditors’ opinion are necessary for the purpose of their audit. (2) If the Chief Executive Officer or any member or agent or employee of the Authority fails without reasonable cause to comply with the requirement of an auditor in terms of subsection (1), he or she shall be guilty of an offence and liable to a fine not exceeding level four or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Authority to make certain charges to revenue account",
+      "content": "40. Authority to make certain charges to revenue account (1) The Authority shall charge to its revenue account all proceeds which, in the normal conduct of business, are regarded as proper to be charged to the revenue account and, in so doing, shall make proper provision in each financial year for— (a) the depreciation or diminution in value of its assets; and (b) the payment of interest on and all other charges and expenses incurred in connection with its activities. (2) In charging to its revenue account all charges which in the normal conduct of business are regarded as proper to be charged to revenue account as provided in subsection (1), the Authority may, in each financial year, make provision for— (a) meeting in whole or in part increases in the cost of replacing assets to an extent approved by the Minister ; and (b) making payments to an insurance fund established by the Authority to meet, wholly or in part, such of the Authority ’s liabilities as the Minister may approve; and (c) making payments to a pension fund to meet, wholly or in part, superannuation liabilities of the Authority ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Establishment and operation of general reserve",
+      "content": "41. Establishment and operation of general reserve (1) The Authority shall establish a general reserve to which, subject to this Part, may be appropriated from a surplus of income over expenditure at the end of its financial year such sums as the Board , in consultation with the Minister , may approve. (2) Subject to this Part, moneys in the general reserve established in terms of subsection (1) may be used for such purposes as the Board , after consultation with the Minister , may consider expedient for the proper exercise by the Authority of its functions, including the development of its assets and subsidiaries. (3) Moneys in the general reserve established in terms of subsection (1) shall not be reduced below such an amount as the Minister may fix, otherwise than for the purpose of meeting a deficiency as is provided in section 42 (1)."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Meeting of deficiencies",
+      "content": "42. Meeting of deficiencies (1) If in any financial year the income of the Authority , together with any surplus income brought forward from a previous financial year, is insufficient to enable the Authority to meet the charges and to make the provision required by section 40 , the deficiency shall be met from the general reserve established in terms of section 41 . (2) If the moneys in the general reserve are insufficient for the purpose of meeting the deficiency referred to in subsection (1), the Minister may, out of moneys appropriated for the purpose by Act of Parliament, meet the whole or any portion of the amount of the deficiency outstanding after the application of the moneys in the general reserve to that purpose either at the end of the financial year or at such time thereafter as he or she considers expedient. (3) Any payment made in terms of subsection (2) shall be regarded as a loan made by the State to the Authority and shall be repayable by the Authority on such terms and conditions as the Minister may fix. Part VII – Biotechnology Fund"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Establishment and object of Fund",
+      "content": "43. Establishment and object of Fund (1) There is hereby established a fund, to be known as Biotechnology Fund , the management and control of which shall, subject to this Act, be vested in the Minister as trustee of the Fund . (2) Subject to section 46 , the object of the Fund shall be to make grants to any person for the purpose of— (a) promoting research in biotechnology ; and (b) fostering or stimulating demand for any product of biotechnology ; and (c) research into the improvement of the production, manufacture, processing, storing or marketing of any product of biotechnology ; and (d) the training of persons to be skilled, competent and efficient in the field of biotechnology ; and (e) the provision of technical, consultancy and advisory services to persons engaged in the marketing of products of biotechnology ; and (f) any undertaking which in the opinion of the Minister , is calculated to promote biotechnology ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Composition of Fund",
+      "content": "44. Composition of Fund The Fund shall consist of— (a) levies, together with any interest or surcharge payable thereon in terms of Part VIII; and (b) any moneys that may be payable to the Fund from moneys appropriated for the purpose by Act of Parliament; and (c) any moneys that the Fund may obtain, with the approval of the Minister and the Minister responsible for finance, by way of donations, loans or other financial assistance; and (d) any moneys that may vest in or accrue to the Fund , whether in terms of this Act or otherwise."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Administration of Fund",
+      "content": "45. Administration of Fund (1) Subject to this Act, the Fund shall be administered by the Authority on behalf of and in accordance with any instructions of the Minister . (2) With the approval of the Minister , the Authority shall open one or more banking accounts into which all moneys received on behalf of the Fund shall be paid."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Application of Fund",
+      "content": "46. Application of Fund Moneys in the Fund shall be applied to the following purposes— (a) payment of a grant to the Authority of such amount as the Minister considers the Authority will require for the purpose of meeting the expenditure incurred or to be incurred by the Authority in that financial year in performing its functions in terms of this Act; (b) payment for any of the purposes of the Fund specified in section 43 (2); (c) meeting the cost of administering the Fund ; (d) any other purpose which the Minister , after consultation with the Authority , considers necessary: Provided that no moneys shall be applied towards any expense that is not provided for in a budget approved by the Minister for the purposes of this section."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Financial year of Fund",
+      "content": "47. Financial year of Fund The financial year of the Fund shall be a period of twelve months ending on the 31st December each year."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Books of account and audit of Fund",
+      "content": "48. Books of account and audit of Fund (1) The Authority shall ensure that— (a) proper accounts and other records relating thereto are kept in relation to all the financial transactions of the Fund ; and (b) in respect of each financial year— (i) a balance-sheet; and (ii) a statement of the transactions referred to in paragraph (a); are prepared without undue delay. (2) The accounts of the Fund shall be audited by the Comptroller and Auditor-General, who shall have all the powers conferred upon him or her by section 9 of the Audit and Exchequer Act [Chapter 22:03] as though the assets of the Fund were public moneys or State property and persons employed by the Authority to administer the Fund were employees of the State. Part VIII – Levies"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Imposition of levies",
+      "content": "49. Imposition of levies (1) The Minister may, with the approval of Minister responsible for finance and subject to subsection (3), by statutory instrument, impose one or more levies on producers, processors and additionally, or alternatively, buyers of any product of biotechnology that is produced in Zimbabwe. (2) Subject to this Part, in regard to a levy imposed in terms of subsection (1), the Minister may, by statutory instrument, prescribe— (a) the persons who shall be responsible for the payment of the levy; and (b) the persons who shall be responsible for the collection and remittal of the levy; and (c) the manner in which and times at which the levy shall be paid, collected and remitted; and (d) the period for which the levy shall be imposed; and (e) the imposition of interest and additionally, or alternatively, a surcharge if the levy is not paid within the time prescribed; and (f) the registration of producers, processors and buyers for the purpose of the levy; and (g) the books and records to be kept and the returns and information to be furnished to the Minister and the Authority or any other person for the purpose of the levy. (3) A statutory instrument may not be made in terms of subsection (1) or (2) unless a draft has been laid before and approved by resolution of Parliament. (4) All levy payments shall be remitted to the Fund ."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Withdrawal, suspension or increase of levies",
+      "content": "50. Withdrawal, suspension or increase of levies Without derogation from section 21 of the Interpretation Act [Chapter 1:01] , the Minister, in consultation with the Authority, may, by statutory instrument— (a) withdraw any levy; or (b) suspend any levy in whole or in part; or (c) increase the rate or incidence of any levy; and section 49 (3) shall apply to a statutory instrument increasing the rate or incidence of any levy."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VIII",
+      "section": "51",
+      "title": "Consultation required for imposition, withdrawal, suspension or increase of levies",
+      "content": "51. Consultation required for imposition, withdrawal, suspension or increase of levies Before publishing a statutory instrument in terms of section 49 or 50 , the Minister shall cause the Authority to consult any organisations of producers, processors and buyers of product of biotechnology who will be affected by it."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Failure to pay, collect or remit levies",
+      "content": "52. Failure to pay, collect or remit levies (1) Any person who, being under an obligation to do so, without lawful excuse, fails or refuses to pay, collect or remit any levy or any interest or surcharge connected therewith shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. (2) The court convicting a person of an offence in terms of subsection (1) may, on the application of the prosecutor, and in addition to any penalty it may impose, give summary judgment against the convicted person in favour of the Minister , in his or her capacity as trustee of the Fund , for the amount of any levy, interest or surcharge which the person concerned has been convicted of failing or refusing to pay, collect or remit."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Recovery of unpaid levies",
+      "content": "53. Recovery of unpaid levies A levy and any interest or surcharge connected therewith shall be a debt due to the Fund , and any amount of levy or of such interest or surcharge that is not paid, collected or remitted may be recovered by the Minister , in his or her capacity as trustee of the Fund , by proceedings in a court of competent jurisdiction."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "Minister ’s powers in respect of levies in case of emergency",
+      "content": "54. Minister ’s powers in respect of levies in case of emergency (1) If the Minister , with the approval of the Minister responsible for finance, considers it necessary to do so in order to deal with any emergency that has arisen in relation to national biotechnology , the Minister may without prior consultation in terms of section 51 , by statutory instrument— (a) impose a levy or increase the rate or incidence of a levy upon any producers, processors and additionally, or alternatively, buyers of any product of biotechnology produced in Zimbabwe; or (b) suspend any levy in whole or in part or reduce its rate or incidence. (2) A statutory instrument made in terms of subsection (1) shall have effect for six months or for such shorter period as the Minister may fix in the instrument. (3) A statutory instrument may not be made in terms of subsection (1) or (2) unless a draft has been laid before and approved by resolution of Parliament. (4) Sections 50 , 52 and 53 shall apply, with such changes as may be necessary, in relation to any levy imposed or increased in terms of subsection (1). Part IX – General"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "Conflicts of interest",
+      "content": "55. Conflicts of interest (1) In this section— “relative” in relation to a member or project supervisor , means the member ’s or supervisor’s spouse, child, parent, brother, sister, first cousin, nephew or niece; “first cousin” in relation to a member , means the child or any descendant of the child of the uncle or aunt of such member . (2) No member shall participate in the Board ’s deliberations upon, or have a vote on any question involving, any project or matter in which he or she or his or her relative has an interest, unless he or she declares such interest and is permitted by the Board to so participate and vote. (3) Where a project supervisor is a member of the biosafety committee considering a project proposal which he or she or his or her relative has originated, he or she shall have no vote on the decision of the committee to approve the project or recommend it to the biotechnology research institute concerned. (4) Any person who contravenes subsection (2) or (3) shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Confidentiality",
+      "content": "56. Confidentiality (1) Subject to subsection (2), no person shall disclose any information acquired by him or her through the exercise of his or her functions in terms of this Act except— (a) for the purpose of legal proceedings under this Act or any other law; (b) to the extent that it may be necessary to do so for the purpose of this Act or any other law, to a member of the Board or employee of the Authority ; (c) to the extent authorised by the Authority . (2) The following information provided to the Authority for the purposes of an application made in terms of section 25 shall not be regarded as confidential and may or, where necessary, shall, be disclosed to the public— (a) the name and address of the applicant, the description of any products of biotechnology mentioned in the application, the purpose of the contained use or release of any such product and the location of its use; (b) the measures to be undertaken for monitoring the use of any products of biotechnology and the emergency measures to be implemented in the case of any accident ; (c) the evaluation of foreseeable impacts of the use of any products of biotechnology on persons, animals or plants or to the environment generally, and in particular the disclosure of any pathogenic or ecologically disruptive impacts: Provided that where the applicant is in the process of registering any intellectual property right in relation to any product of biotechnology , the Authority may, at the request of the applicant, withhold any information that may compromise such registration, until the registration has been effected. (3) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level five or imprisonment for a period not exceeding one year or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Fees for registration or permission",
+      "content": "57. Fees for registration or permission (1) The Board may, fix the fees for— (a) the registration of any facility that is to be owned or controlled by a person under this Act; and (b) the issue of a permit that is to be held by a person referred to in paragraph (a). (2) Where a fee is fixed terms of subsection (1)— (a) the fee shall be tendered with the appropriate application made in terms of section 25 ; (b) half the fee shall be refunded to the applicant if his or her application is unsuccessful."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part IX",
+      "section": "58",
+      "title": "Appeals",
+      "content": "58. Appeals (1) If any person is aggrieved by any decision or action of the Board or the Chief Executive Officer in the performance of the functions of the Authority , he or she may, within twenty-eight days after being notified of the decision or of the action being taken, appeal in writing to the Minister . (2) For the purpose of determining an appeal noted in terms of subsection (1), the Minister may require the Board , the Chief Executive Officer or any employee of the Authority , to furnish him or her with the reasons for the decision that is the subject of the appeal. (3) The Minister , after due and expeditious inquiry and, except where the Board ’s decision is the subject of the appeal, after consultation with the Board , may make such order on any appeal noted in terms of subsection (1) as he or she considers just. (4) An appeal shall lie to the Administrative Court against any order of the Minister in terms of subsection (3). (5) The noting of an appeal in terms of this section shall not, pending the determination of the appeal, suspend the decision appealed against unless the Minister or the Administrative Court, as the case may be, directs otherwise."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part IX",
+      "section": "59",
+      "title": "Regulations",
+      "content": "59. Regulations (1) Subject to subsection (4), the Minister may by regulation prescribe anything which by this Act is required or permitted to be prescribed or which, in his or her opinion, is necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Regulations made in terms of subsection (1) may provide for— (a) standards of quality, classification and grading of any product of biotechnology ; (b) the prohibition of the production, sale, import or export of any product of biotechnology that does not comply with standards referred to in paragraph (a); (c) the assignment, to any person or authority specified or described in the regulations, of functions relating to— (i) the fixing and enforcement of standards referred in paragraph (a) in relation to any particular product of biotechnology or class thereof; (ii) the carrying out of inspections to enforce any prohibition referred to in paragraph (b) for the purpose of ensuring that any particular product of biotechnology or class thereof complies with standards referred to in paragraph (a) and otherwise complies with the regulations; (d) the destruction, after such date in each year as may be specified in the regulations, of any product of biotechnology ; (e) the registration of producers, processors and buyers of products of biotechnology ; (f) the books and records to be kept and the estimates, returns and information to be furnished by producers, processors and buyers of products of biotechnology to the Authority or any other person; (g) the powers of inspectors and persons authorized to carry out inspections. (h) the following in connection with any international biotechnology instrument to which the State is a party— (i) the co-ordination of the implementation of the instrument ; (ii) the allocation of responsibilities in terms of the instrument, including those of other organs of State; (iii) the gathering of information, including for the purposes of compiling and updating reports required in terms of the instrument and for submission to Parliament; (iv) the dissemination of information related to the instrument and reports from international meetings held in connection with any instrument; (v) initiatives and steps regarding research, education, training, raising awareness and capacity building required in connection with any instrument; (vi) ensuring public participation in any aspect of an instrument in which public participation is necessary or desirable; (vii) implementation of and compliance with the provisions of the instrument, including the creation of offences and the prescription of penalties where applicable; and (viii) any other matter necessary to give effect to the instrument. (3) Regulations made in terms of subsection (1) may provide penalties for contraventions thereof: Provided that no such penalty shall exceed a fine of level twelve or imprisonment for a period of five years or both such fine and such imprisonment. (4) The Minister shall consult the Research Council and Authority before making regulations in terms of this section."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part IX",
+      "section": "60",
+      "title": "Repeal of Regulations made under Part VA of Cap. 10:22",
+      "content": "60. Repeal of Regulations made under Part VA of Cap. 10:22 (1) The Research (Biosafety) Regulations, 2000, published in Statutory Instrument 20 of 2000 , are repealed. (2) Notwithstanding subsection (1), anything done under the repealed Regulations shall be deemed to have been done under this Act. Schedule (Section 5(2)) Powers of Authority 1. To appoint upon such terms and conditions as the Authority, with the approval of the Minister, thinks fit such persons as may be necessary for conducting the affairs of the Authority and suspend or discharge any such persons. 2. Subject to paragraph 2, to pay to any person in the employ of the Authority such remuneration and allowances and grant such leave of absence as the Board thinks fit. 3. Subject to the approval of the Minister, to provide for persons in the employ of the Authority or their dependants, by means of insurance with an insurer registered in terms of the Insurance Act [Chapter 24:07] or a pension or provident fund or otherwise, pecuniary benefits upon leave, retirement, death or termination of service or in the event of distress, sickness or injury and to insure the members of the Authority against injury or death. 4. To purchase, take on lease or in exchange or otherwise acquire dwelling-houses for occupation by persons in the employ of the Authority. 5. To purchase land and construct thereon dwelling-houses for occupation by persons in the employ of the Authority. 6. To guarantee loans made to the employees of the Authority for the purchase of dwellings or for the purchase of land for the construction of dwellings or for the construction of dwellings on land which is the property of the employees of the Authority or their spouses, subject to such terms and conditions as the Authority, with the approval of the Minister responsible for finance, may determine. 7. To do any thing for the purpose of improving— (a) the skill, knowledge or usefulness of persons in the employ of the Authority; or (b) the efficiency of the equipment of the Authority or the manner in which the equipment is operated; and in that connection to provide or assist other persons in providing facilities for training, education and research. 8. To enter into such contracts as the Authority considers necessary for the performance of its functions or the discharge of its duties. 9. To enter into agreements with any organization connected with the control, purchase or sale of any product of biotechnology. 10. To insure with an insurer registered under the Insurance Act [Chapter 24:07] against any losses, damage, risks or liabilities which the Authority may incur. 11. To purchase, take on lease or in exchange or otherwise acquire and hold property and interests in or rights over land, water rights and any other rights which may be necessary or convenient for the exercise of the functions or the performance of the duties of the Authority. 12. To draw, make, accept, endorse, discount, execute and issue for the purpose of the business of the Authority promissory notes, bills of exchange, bills of lading and other negotiable or transferable instruments. 13. To promote the export or sales of any product of biotechnology by any means, including advertising, market research and the establishment or operation of premises, installations, plant, equipment or machinery at any place, whether inside or outside Zimbabwe. 14. To promote or embark upon research in connection with and to investigate problems affecting the handling, marketing or processing of or the methods of storing any product of biotechnology. 15. Generally, to do all such things as are incidental or conducive to the exercise of the functions or the performance of the duties of the Authority or are incidental to the powers specified in this Schedule or which are calculated, directly or indirectly, to enhance the value of or to develop the operations, undertakings and property of the Authority."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "accident ” means any incident involving an unintended release of biotechnology products into the environment which may have an immediate or delayed adverse impact on the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "Authority ” means the National Biotechnology Authority established in terms of section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "biosafety committee",
+      "definition": "biosafety committee ”, “ biosafety officer ”, biotechnology research institute ”, “ project ” and “ project supervisor ” have the meanings assigned to those terms by section 29",
+      "source_provision": "s2"
+    },
+    {
+      "term": "biotechnology",
+      "definition": "biotechnology ” means any technique that uses living organisms or parts of organisms to make or modify products, to improve plants or animals, or to develop micro-organisms for specific purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "Board ” means the National Biotechnology Board established in terms of section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contained use",
+      "definition": "contained use ” means any activity in which products of biotechnology processes are cultured, stored, used, transported, destroyed or disposed of, and for which physical barriers or a combination of physical barriers together with chemical or biological barriers or both are used to limit contact thereof with the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive Officer",
+      "definition": "Chief Executive Officer ” means the Chief Executive Officer of the Authority appointed in terms of section 18",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control",
+      "definition": "control ” means to examine, regulate, manage or direct any activity within a person’s jurisdiction",
+      "source_provision": "s2"
+    },
+    {
+      "term": "DNA",
+      "definition": "DNA ” means deoxyribonucleic acid",
+      "source_provision": "s2"
+    },
+    {
+      "term": "environment",
+      "definition": "environment ” means the aggregate of surrounding objects, conditions and influences that affect the life and habits of human beings or any other organism or collection of organisms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Environmental Management Agency",
+      "definition": "Environmental Management Agency ”, “Health Professions Council” and “Medicines and Allied Substances Control Authority of Zimbabwe” means the agency, council and authority established respectively by the Environmental Management Act [Chapter 20:27] (No. 13 of 2002), the Health Professions Act [Chapter 27:19] (No. 6 of 2000) and the Medicines and Allied Substances Control Act [Chapter 15:03]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Fund",
+      "definition": "Fund ” means the Biotechnology Fund established by section 43",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general release",
+      "definition": "general release ”, in relation to a product of biotechnology , means the introduction of a product of biotechnology into the environment by whatever means, where the product is no longer contained by any system of barriers and is no longer under any person’s control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "gene therapy",
+      "definition": "gene therapy ” means any technique for delivering functional genes to replace aberrant ones into living cells by means of a genetically modified vector or by physical means in order to genetically alter the living cell",
+      "source_provision": "s2"
+    },
+    {
+      "term": "genetically modified organism",
+      "definition": "genetically modified organism ” means an organism the genes or genetic material of which have been modified in a way that does not occur naturally through mating or natural recombination or both, and “genetic modification” shall have a corresponding meaning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazard",
+      "definition": "hazard ” means an intrinsic biological, chemical or physical characteristic of a product of biotechnology which could lead to an adverse impact on human beings, plants, animals, micro-organisms and the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "inspector ” means a person appointed as an inspector in terms of section 32",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "member ” means a member of the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister responsible for Science and Technology Development or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "monitor",
+      "definition": "monitor ” means maintain regular surveillance over, check, warn about or record a situation or process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organism",
+      "definition": "organism ” means any biological entity, whether microscopic or not, capable of replication",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "permit ” means a permit granted in terms of section 25",
+      "source_provision": "s2"
+    },
+    {
+      "term": "potentially harmful research or undertaking",
+      "definition": "potentially harmful research or undertaking ” means any activity involving the processes or techniques referred to in section 3 (2)(a) or (c) which the Authority has, in terms of section 22 (5)(b), declared to be potentially harmful research or a potentially harmful undertaking",
+      "source_provision": "s2"
+    },
+    {
+      "term": "product of biotechnology",
+      "definition": "product of biotechnology ” means any organism or part of any organism resulting from the application of any biotechnology technique, and includes a genetically modified organism",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recombinant DNA",
+      "definition": "recombinant DNA ” means genetic material produced by the combining of DNA molecules from different organisms",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "register ” means the register established in terms of section 23",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered user",
+      "definition": "registered user ”, in relation to products of biotechnology , means a user of such product whose premises are registered or who is granted a permit in terms of section 25",
+      "source_provision": "s2"
+    },
+    {
+      "term": "release",
+      "definition": "release ”, in relation to a product of biotechnology , means a general release or a trial release",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Research Council",
+      "definition": "Research Council ” means the Research Council of Zimbabwe established in terms of the Research Act [Chapter 10:22]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "risk",
+      "definition": "risk ” means the combination of the magnitude of the consequences of a hazard , if it occurs, and the likelihood that the consequences will occur",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trial release",
+      "definition": "trial release ” means the deliberate release of a product of biotechnology into the environment in the open under conditions where the degree of dissemination of the product of biotechnology is limited by chemical or physical barriers or by built-in barriers which prevent the survival of such products in the environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "user",
+      "definition": "user ”, in relation to a product of biotechnology , means a person who— (a) owns or controls any facility utilised or to be utilised for any potentially harmful research or undertaking , or generally for the development, production, use or application of products of biotechnology , including any facility utilised or to be utilised in connection with the contained use or trial release of such product; or (b) carries on any potentially harmful research or undertaking or undertakes the contained use or trial release of products of biotechnology ; or (c) sells or markets products of modern biotechnology or utilises such product, and is required by the terms of any biotechnology guidelines or standards to be authorised to do so by the Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "biosafety officer",
+      "definition": "biosafety officer ” means a person referred to in section 30 (1)(a)",
+      "source_provision": "s29"
+    },
+    {
+      "term": "biotechnology research institute",
+      "definition": "biotechnology research institute ” means a facility or associated group of facilities engaged in biotechnology research",
+      "source_provision": "s29"
+    },
+    {
+      "term": "project",
+      "definition": "project ” means any project involving biotechnology research",
+      "source_provision": "s29"
+    },
+    {
+      "term": "project supervisor",
+      "definition": "project supervisor ” means a person so designated in section 31 (1)",
+      "source_provision": "s29"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "zw-1964-19",
+  "type": "statute",
+  "title": "Trade Coupons Act",
+  "title_en": "Trade Coupons Act",
+  "short_name": "zw-1964-19",
+  "status": "in_force",
+  "issued_date": "1964-01-01",
+  "in_force_date": "1964-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1964/19/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Trade Coupons Act [Chapter 14:21] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ article ” means any thing whatsoever but does not include a trade coupon ; “ benefit ” means any goods, money, service, concession, admittance free or at a reduced charge to any place of entertainment, free insurance or insurance at a reduced rate, or any other benefit or advantage of any kind whatsoever; “ trade coupon ” means any thing whatsoever which, either by itself or together with any other thing or act, entitles or purports to entitle the holder thereof to receive, or to participate in any competition for, any benefit ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Prohibition of the exchange of benefits for trade coupons in connection with the sale of an article",
+      "content": "3. Prohibition of the exchange of benefits for trade coupons in connection with the sale of an article (1) Subject to section four, no person— (a) who sells, supplies or gives to any person engaged in the sale of an article or a service any trade coupon to be issued in connection with the sale of such article or service shall exchange any benefit for such trade coupon ; (b) shall exchange any benefit for a trade coupon sold, supplied or given in connection with the sale of any article or any service unless such trade coupon was issued by him. (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable— (a) on a first conviction, to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment; (b) on a second or subsequent conviction, to a fine not exceeding level six or to imprisonment for a period not exceeding twelve months or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Manufacturer may exchange benefits for trade coupons in certain circumstances",
+      "content": "4. Manufacturer may exchange benefits for trade coupons in certain circumstances Nothing in this Act contained shall be deemed to prohibit the exchange of a benefit for a trade coupon by a manufacturer or a person authorized thereto by such manufacturer, where such trade coupon has been issued by such manufacturer in connection with the sale of any article manufactured by him."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "***",
+      "content": "5. *** [section repealed by section 4 of Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "article",
+      "definition": "article ” means any thing whatsoever but does not include a trade coupon",
+      "source_provision": "s2"
+    },
+    {
+      "term": "benefit",
+      "definition": "benefit ” means any goods, money, service, concession, admittance free or at a reduced charge to any place of entertainment, free insurance or insurance at a reduced rate, or any other benefit or advantage of any kind whatsoever",
+      "source_provision": "s2"
+    }
+  ]
+}

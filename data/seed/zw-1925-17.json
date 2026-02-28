@@ -1,0 +1,60 @@
+{
+  "id": "zw-1925-17",
+  "type": "statute",
+  "title": "Alienated Land (Information) Act",
+  "title_en": "Alienated Land (Information) Act",
+  "short_name": "zw-1925-17",
+  "status": "in_force",
+  "issued_date": "1925-01-01",
+  "in_force_date": "1925-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1925/17/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Alienated Land (Information) Act [Chapter 20:02]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ alienated land ” means any land other than State land; “ Minister ” means the Minister of Lands and Water Resources or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ occupier ”, in relation to any alienated land , includes— (a) a lessee or any other person in control of such land; and (b) any person who resides on or uses such land."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Obtaining of information relating to alienated land",
+      "content": "3. Obtaining of information relating to alienated land (1) Whenever the President considers it necessary or expedient to do so, he may make regulations for the purpose of ascertaining the nature and extent of the occupation or use of any alienated land . (2) Regulations made in terms of subsection (1) may provide for— (a) owners and occupiers of alienated land , or their agents, to supply particulars relating to any or all of the following— (i) the extent, situation and nature of the land concerned; (ii) any buildings, fencing, irrigation works and other improvements on the land concerned; (iii) the nature and extent of any cultivation and plantations on the land concerned; (iv) the number and kind of any livestock that are or have been maintained on the land concerned; (v) the value of the land concerned and of any improvements, cultivation, plantations and livestock thereon; (vi) any other matter relating to the nature and extent of the past, present and future occupation or use of the land concerned; (b) the form and manner in which particulars are to be supplied for the purposes of the regulations; (c) the powers and duties of officers appointed in terms of section four; (d) generally, any matter which, in the opinion of the President, it is necessary or convenient to prescribe for the purpose of ascertaining the nature and extent of the occupation or use of any alienated land ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Entry on and inspection of land",
+      "content": "4. Entry on and inspection of land The Minister may appoint officers who may at all reasonable times enter upon and inspect any alienated land for the purpose of ascertaining the nature and extent of occupation or use thereon, and any person who hinders, obstructs or delays any such officer in the execution of the powers hereby conferred shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences",
+      "content": "5. Offences Any person who, in response to a request for information required in terms of regulations under this Act or in answer to any question asked him by an officer appointed under section four, fails or neglects to supply such information or answer such question, or makes any statement which is false in any material particular, knowing the same to be false, shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "alienated land",
+      "definition": "alienated land ” means any land other than State land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Lands and Water Resources or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "occupier ”, in relation to any alienated land , includes— (a) a lessee or any other person in control of such land; and (b) any person who resides on or uses such land",
+      "source_provision": "s2"
+    }
+  ]
+}

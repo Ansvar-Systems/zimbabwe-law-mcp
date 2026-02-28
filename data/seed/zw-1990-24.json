@@ -1,0 +1,66 @@
+{
+  "id": "zw-1990-24",
+  "type": "statute",
+  "title": "Reserved Parking Areas Act",
+  "title_en": "Reserved Parking Areas Act",
+  "short_name": "zw-1990-24",
+  "status": "in_force",
+  "issued_date": "1990-01-01",
+  "in_force_date": "1990-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1990/24/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Reserved Parking Areas Act [Chapter 10:23] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ authorized person ”, in relation to— (a) Parliament, means— (i) the Speaker; (ii) a member of Parliament; (iii) a person required to be in attendance at or to perform duties in connection with any business of Parliament or a committee thereof who is designated by the Secretary to Parliament as an authorized person for purposes of this Act; (b) a Ministry , means— (i) a Vice-President, Minister or Deputy Minister ; or (ii) any person in the full-time employment of the State, of such grade as may be prescribed by the Minister , who is designated by the Secretary of the Ministry as an authorized person for the purposes of this Act; “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ Ministry ” includes the office of the President and Cabinet and the Office of a Vice-President; “ reserved parking area ” means an area reserved in terms of section three."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Reserved parking areas",
+      "content": "3. Reserved parking areas (1) The City Council of Harare shall, at the request of and in consultation with the Secretary to Parliament, reserve such area in the immediate vicinity of the Parliament building as the Secretary may specify for the parking, free of charge, of vehicles used by authorized persons. (2) A city, municipality or town council shall, at the request of and in consultation with the Secretary of a Ministry , acting with the approval of the Minister , reserve such area as the Secretary may specify, immediately adjacent to any building used for official business by his Ministry , for the parking, free of charge, of vehicles used by authorized persons. (3) The approval of the Minister referred to in subsection (2) shall be given in consultation with the Minister responsible for local government. (4) The city, municipal or town council concerned shall, in terms of the Road Traffic Act [Chapter 13:11] , appropriately demarcate or indicate, by displaying appropriate traffic signs, an area reserved in terms of subsection (1) or (2)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Removal of unauthorized vehicles",
+      "content": "4. Removal of unauthorized vehicles A police officer may remove from a reserved parking area any vehicle parked therein which is not a vehicle used by an authorized person ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences and penalties",
+      "content": "5. Offences and penalties A person who— (a) interferes with a traffic sign displayed in terms of subsection (4) of section three; or (b) parks in a reserved parking area a vehicle which is not a vehicle used by an authorized person; shall be guilty of an offence and liable to a fine not exceeding level two. [section as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Savings",
+      "content": "6. Savings (1) Any area set aside in terms of section 3 of the Parliamentary and Ministerial Parking Areas Act [Chapter 8 of 1974] shall be deemed to have been reserved in terms of subsection (1) of section 3 of this Act; (2) Any area reserved in terms of section 4A of the Parliamentary and Ministerial Parking Areas Act [Chapter 8 of 1974] shall be deemed to have been reserved in terms of subsection (2) of section 3 of this Act; (3) Any traffic sign prescribed for the purposes of the Parliamentary and Ministerial Parking Areas Act [Chapter 8 of 1974] in terms of the Road Traffic Act [Chapter 13:11] shall be deemed to have been prescribed for the purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ministry",
+      "definition": "Ministry ” includes the office of the President and Cabinet and the Office of a Vice-President",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorized person",
+      "definition": "authorized person ”, in relation to— (a) Parliament, means— (i) the Speaker; (ii) a member of Parliament; (iii) a person required to be in attendance at or to perform duties in connection with any business of Parliament or a committee thereof who is designated by the Secretary to Parliament as an authorized person for purposes of this Act; (b) a Ministry , means— (i) a Vice-President, Minister or Deputy Minister ; or (ii) any person in the full-time employment of the State, of such grade as may be prescribed by the Minister , who is designated by the Secretary of the Ministry as an authorized person for the purposes of this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

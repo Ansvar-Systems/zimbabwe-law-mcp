@@ -1,0 +1,484 @@
+{
+  "id": "zw-2001-18",
+  "type": "statute",
+  "title": "Integrated Circuit Layout-Designs Act",
+  "title_en": "Integrated Circuit Layout-Designs Act",
+  "short_name": "zw-2001-18",
+  "status": "in_force",
+  "issued_date": "2001-01-01",
+  "in_force_date": "2001-01-01",
+  "url": "https://zimlii.org/akn/zw/act/2001/18/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Integrated Circuit Layout-Designs Act [Chapter 26:07] ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ assignee ”, in relation to a layout-design, means— (a) a person who has derived his title to the design for Zimbabwe directly or indirectly from its proprietor or from the proprietor ’s assignee; or (b) the legal representative of a person referred to in paragraph (a); “ certificate of registration ” means a certificate of registration issued in terms of section fourteen; “ Controller ” means the Controller of Patents, Trade Marks and Industrial Designs appointed in terms of paragraph (a) of subsection (2) of section 3 of the Patents Act ; “ department of the State ” means any— (a) department of the State; or (b) statutory corporation or authority which is prescribed for the purposes of this definition; “ Designs Office ” means the Industrial Designs Office referred to in subsection (1) of section three; “ exclusive licence ” means a licence from the proprietor of a registered layout-design which confers on the licensee, or on the licensee and persons authorised by him, to the exclusion of all other persons, including the registered proprietor , any right in respect of the design; “ infringement ”, in relation to a registered layout-design, means conduct that infringes any the proprietor ’s rights conferred by subsection (1) of section fifteen; “ integrated circuit ” means a product, in final or intermediate form, containing electrical, electromagnetic or optical elements and circuitry, which is capable of performing an electrical or an optical function and in which at least a part of the electrical, electromagnetic or optical elements and circuitry are integrally formed, in accordance with a predetermined topography, in or on a semiconductor or other material; “ Journal ” means the Patent and Trade Marks Journal published in terms of section 95 of the Patents Act ; “layout-design” means a functional design which consists of the pattern, shape or configuration, however expressed, of the three-dimensional disposition of all or some of the electrical, electromagnetic or optical elements and circuitry of an integrated circuit , and includes such a design of an integrated circuit that is intended for manufacture; “ legal representative ” means— (a) the liquidator or receiver of a company; or (b) a person who is recognised by law as the representative of any person who has died, become insolvent or bankrupt or assigned his estate, is a minor, is of unsound mind or is otherwise under a disability; “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ Patents Act ” means the Patents Act [Chapter 26:03] ; “ proprietor ”, in relation to a layout-design, means the design’s proprietor as provided in section eight; “Register” means the Register of Integrated Circuit Layout-Designs kept at the Designs Office in terms of section five; “ registered ” means registered in the Register in terms of this Act; “Registrar” means— (a) the Controller ; or (b) a registrar referred to in subsection (3) of section three; or (c) an officer who is exercising a function which the Controller has directed, in terms of subsection (4) of section three, should be exercised by that officer; “ Tribunal ” means the Intellectual Property Tribunal established by section 3 of the Intellectual Property Tribunal Act [Chapter 26:06] . Part II – Designs Office , officers and register"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Designs Office , Controller , registrars and other officers",
+      "content": "3. Designs Office , Controller , registrars and other officers (1) The Industrial Designs Office established by subsection (1) of section 3 of the Industrial Designs Act [Chapter 26:02] shall be responsible for registering layout-designs and for exercising all the other functions of the Designs Office in terms of this Act. (2) The Controller shall exercise general supervision and direction of the Designs Office in the exercise of its functions under this Act. (3) Every registrar of industrial designs referred to in paragraph (a) of subsection (3) of section 3 of the Industrial Designs Act [Chapter 26:02] shall have power, subject to the Controller’s general supervision and direction, to exercise the functions of the Registrar under this Act or any other enactment. (4) If the Controller so directs, an officer referred to in paragraph (b) of subsection (3) of section 3 of the Industrial Designs Act [Chapter 26:02] shall have power, subject to the Controller’s general supervision and direction, to exercise any function of the Registrar under this Act or any other enactment."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Seal",
+      "content": "4. Seal The seal of the Patent Office kept in terms of the Patents Act shall also be the seal of the Designs Office for the purposes of this Act, and impressions thereof made for the purposes of this Act shall be judicially noticed."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Register of Integrated Circuit Layout-Designs",
+      "content": "5. Register of Integrated Circuit Layout-Designs There shall be kept at the Designs Office for the purposes of this Act a Register of Integrated Circuit Layout-Designs, in which shall be entered— (a) particulars of all registered layout-designs in force, including— (i) the names and addresses of their proprietors; and (ii) the effective date of their registration; and (iii) the date of their first commercial exploitation, where that date was specified when application was made for their registration; and (b) particulars of assignments and transmissions of registered layout-designs; and (c) everything which is required by or under this Act to be entered in the Register; and (d) such other things relating to registered layout-designs as the Registrar thinks necessary or desirable to enter in the Register."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Inspection of Register and right to obtain copies of entries therein",
+      "content": "6. Inspection of Register and right to obtain copies of entries therein The Register shall be open to inspection by the public at all convenient times, and a certified copy, sealed with the seal of the Patent Office, of any entry in the Register shall be given on payment of the prescribed fee to any person who requires it. Part III – Registrable layout-designs, proprietorship and proceedings for registration"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Layout-designs that may be registered",
+      "content": "7. Layout-designs that may be registered (1) Subject to this Act, a layout-design shall be capable of registration only if— (a) it is original within the meaning of subsection (2); and (b) it has not yet been exploited commercially anywhere in the world, or has not been exploited commercially anywhere in the world for more than two years prior to the application for its registration, anywhere in the world. (2) A layout-design shall be considered to be original if it is the result of its creator’s own intellectual effort and is not commonplace among creators of layout-designs and manufacturers of integrated circuits at the time of its creation. (3) A layout-design consisting of a combination of elements and interconnections that are commonplace shall be capable of registration only if the combination, taken as a whole, is original within the meaning of subsection (2). (4) For the avoidance of doubt, it is declared that paragraph (b) of subsection (1) shall apply whether the commercial exploitation referred to therein occurred before, on or after the date of commencement of this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Proprietorship of layout-designs",
+      "content": "8. Proprietorship of layout-designs (1) Subject to this section, the creator of a layout-design shall be treated for the purposes of this Act as the proprietor of the design. (2) Where a layout-design has been created in execution of a commission or an employment contract, the person who commissioned the work or the employer, as the case may be, shall be treated for the purposes of this Act as the proprietor . (3) Where a layout-design becomes vested, whether by assignment, transmission or operation of law, in any person other than the original proprietor , whether alone or jointly with the original proprietor , that other person or, as the case may be, the original proprietor and that other person shall be treated for the purposes of this Act as the proprietor of the design."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Persons entitled to apply for registration",
+      "content": "9. Persons entitled to apply for registration An application for the registration of a layout-design may be made by or on behalf of any of the following— (a) a person claiming to be the proprietor of the design; or (b) a person claiming to be the proprietor ’s assignee ; or (c) the legal representative of a person referred to in paragraph (a) or (b); and may be made by that person either alone or jointly with anyone else."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Application for registration",
+      "content": "10. Application for registration (1) An application for the registration of a layout-design shall— (a) specify the applicant’s name, address and nationality; and (b) contain a brief and precise designation of the layout-design; and (c) be accompanied by a copy or drawing of the layout-design together with information defining the electronic function which the integrated circuit concerned is intended to perform: Provided that the copy or drawing may omit matters relating to the way in which the layout-design is manufactured, if the copy or drawing is sufficient to permit the identification of the layout-design; and (d) specify the date on which the layout-design was first exploited commercially anywhere in the world or, as the case may be, state that such exploitation has not commenced; and (e) contain sufficient particulars to establish prima facie that the layout-design is capable of registration; and (f) contain such other particulars and information as may be prescribed; and (g) be accompanied by the prescribed fee. (2) An application for the registration of a layout-design shall be lodged at the Designs Office in the prescribed manner. (3) If an application does not comply substantially with any one or more of the requirements of subsection (1), the Registrar shall invite the applicant to correct it within two months and, if the applicant fails to do so, the application shall be deemed not to have been lodged in terms of this section. (4) On receipt of an application which complies with the requirements of subsection (1), the Registrar shall accept the application without investigating the originality of the layout-design concerned or the correctness of the facts stated in the application. (5) At any time before or after acceptance of an application under subsection (4), the Registrar may— (a) correct any error in or in connection with the application; or (b) permit the applicant to amend his application upon such terms as the Registrar thinks fit: Provided that the Registrar shall not permit an amendment which substantially affects the identity of the layout-design. (6) An appeal shall lie against— (a) a decision by the Registrar under subsection (3) that an application does not comply substantially with any requirement of subsection (1); or (b) a refusal by the Registrar to permit an amendment of an application under subsection (5)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Publication of application and opposition thereto",
+      "content": "11. Publication of application and opposition thereto (1) As soon as practicable after an application for the registration of a layout-design has been accepted, the applicant shall advertise in the prescribed manner the application as accepted, and the advertisement shall set forth any conditions and limitations subject to which the application has been accepted: Provided that in exceptional circumstances the Registrar may direct that an application shall be advertised before acceptance and, where an application has been so advertised, the Registrar may direct that it shall be advertised again when it has been accepted. (2) Any person may, within two months from the date on which an application was advertised, give the Registrar notice of opposition to the registration, which notice shall— (a) be given in writing in the prescribed manner; and (b) include a statement of the grounds of opposition. (3) The Registrar shall send a copy of any notice in terms of subsection (2) to the applicant and, within the prescribed time after its receipt, the applicant may send the Registrar in the prescribed manner a counter-statement of the grounds on which he relies for his application. (4) If an applicant— (a) does not send the Registrar a counter-statement in terms of subsection (3) after being sent a copy of a notice in terms of that subsection, he shall be deemed to have abandoned his application; (b) sends the Registrar a counter-statement in terms of subsection (3), the Registrar— (i) shall furnish a copy of it to every person who gave notice of opposition; and (ii) after considering the evidence and hearing any representations or argument the parties may wish to make, shall decide whether registration is to be permitted and, if it is, with what amendments, modifications, conditions or limitations it is to be permitted. (5) An appeal shall lie from any decision of the Registrar under this section. (6) At the hearing of an appeal under this section, any party may, either in the manner prescribed or by special leave of the Tribunal , bring forward further material for the Tribunal ’s consideration. (7) In an appeal under this section, no further grounds of objection to the registration of the layout -design concerned shall be allowed to be taken by the opponent or the Registrar, other than those stated in terms of this section by the opponent, except by leave of the Tribunal and, where any further grounds of objection are taken, the applicant shall be entitled to withdraw his application on giving the prescribed notice, without payment of the opponent’s costs."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Registration",
+      "content": "12. Registration (1) If— (a) no notice of opposition is lodged in terms of subsection (2) of section eleven in respect of an application for registration of a layout-design; or (b) the Registrar has decided, in terms of subparagraph (ii) of paragraph (b) of subsection (4) of section eleven, that registration of a layout-design is to be permitted, and no appeal has been lodged against that decision; or (c) the Tribunal , on an appeal against a decision of the Registrar in terms of section eleven, directs that a layout-design should be registered ; the Registrar shall register the design concerned. (2) The Registrar shall cause notification of the registration of a layout-design to be published in the Journal ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Effective date of registration",
+      "content": "13. Effective date of registration (1) Subject to subsection (2), the effective date of registration of a layout-design shall be the date on which the application for its registration was lodged with the Designs Office in terms of section ten. (2) If an application for the registration of a layout-design, when initially lodged at the Designs Office — (a) does not contain sufficient particulars to identify the applicant; or (b) is not accompanied by a copy or drawing of the layout-design, together with information defining the electronic function which the integrated circuit concerned is intended to perform; and those defects are corrected within the two-month period specified in subsection (3) of section ten, the effective date of registration of the layout-design shall be the date on which the corrections were lodged with the Designs Office ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Certificate of registration",
+      "content": "14. Certificate of registration (1) The Registrar shall issue a certificate of registration in the prescribed form to the registered proprietor of a layout-design when the design is registered . (2) The Registrar may— (a) where he is satisfied that the certificate of registration has been lost or destroyed; or (b) in any other case in which he thinks it expedient; furnish one or more copies of any certificate of registration . Part IV – Effect of registration"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Extent of protection of registered layout-designs",
+      "content": "15. Extent of protection of registered layout-designs (1) Subject to this Act, the registration of a layout-design shall render the following acts unlawful if performed without the proprietor ’s authorisation— (a) reproducing the whole or any part of the layout-design, whether by incorporating it in an integrated circuit or otherwise; (b) for commercial purposes, importing, selling or distributing— (i) the layout-design; or (ii) an integrated circuit that incorporates the layout-design; or (iii) an article that incorporates an integrated circuit referred to in subparagraph (ii). (2) The registration of a layout-design shall not prevent the following acts being performed without the proprietor ’s authorisation— (a) reproducing the layout-design for private purposes or for the sole purpose of evaluation, analysis, research or teaching; or (b) creating, on the basis of the evaluation, analysis or research referred to in paragraph (a), a layout-design which is itself original within the meaning of subsection (2) of section seven, and— (i) incorporating that layout-design in an integrated circuit ; and (ii) performing any of the acts referred to in subsection (1) in respect of that layout-design; or (c) performing any of the acts referred to in paragraph (b) of subsection (1) in respect of an identical layout-design which is original and has been created independently by a third party. (3) A person may perform any of the acts referred to in paragraph (b) of subsection (1) in respect of a registered layout-design or an integrated circuit incorporating a registered layout-design, where the design or the circuit, as the case may be, has been put on the market by the proprietor or with the proprietor ’s authorisation. (4) Where a person performs any of the acts referred to in paragraph (b) of subsection (1) in respect of— (a) a layout-design which is an unlawful reproduction of a registered layout-design; or (b) an integrated circuit incorporating an unlawfully reproduced layout-design referred to in paragraph (a); or (c) an article incorporating an integrated circuit referred to in paragraph (b); the act shall be lawful if, when the person acquired the layout-design, integrated circuit or article concerned, he did not know and had no reasonable grounds to know that the layout-design was an unlawful reproduction: Provided that, after he has received due notice that the layout-design concerned is an unlawful reproduction, he may perform any of those acts only in respect of stock which he had on hand when he received the notice or which he ordered before he received the notice and, if he does perform any of those acts in respect of that stock, he shall be liable to pay the proprietor of the registered layout-design a sum equivalent to a reasonable royalty such as would be payable under a freely negotiated licence in respect of such a layout-design. (5) Subject to this Act, the registration of a layout-design shall have the same effect against the State as it has against a subject."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Period of protection of registered layout-designs",
+      "content": "16. Period of protection of registered layout-designs (1) The protection accorded to any registered layout-design by section fifteen shall commence— (a) on the date on which the design was first exploited commercially anywhere in the world by or with the authorisation of its proprietor ; or (b) where the design has not been exploited commercially before its registration, on the effective date of its registration, as provided in section thirteen. (2) The protection accorded to any registered layout-design by section fifteen shall terminate at the end of the tenth calendar after the commencement of the protection in terms of subsection (1). Part V – Correction and rectification of register and cancellation of registration"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Power of Registrar to authorise corrections",
+      "content": "17. Power of Registrar to authorise corrections (1) The Registrar may authorise the correction of any clerical or similar error in the Register. (2) The Registrar may authorise a correction in terms of subsection (1) either on his own initiative or upon a request in writing made by any interested person and accompanied by the prescribed fee. (3) Where it is proposed to make a correction otherwise than upon a request in writing, the Registrar shall give notice of the proposal to the registered proprietor of the layout-design and to any other person who appears to him to be concerned, and shall give any such person an opportunity to be heard before the correction is made."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Rectification of Register",
+      "content": "18. Rectification of Register (1) On the application of any aggrieved person, the Tribunal may order the Register to be rectified by the making or alteration of any entry in it or the deletion of any entry from it. (2) The Tribunal may determine any question which it may be necessary or expedient to decide in connection with the rectification of the Register. (3) Notice of any application to the Tribunal in terms of subsection (1) shall be given in the prescribed manner to the Registrar and to any other person appearing from the Register to be interested in the layout-design concerned, and the Registrar and any such person shall be entitled to appear and be heard in the application. (4) A notice of any order made by the Tribunal under this section shall be served on the Registrar and, on receipt of the notice, the Registrar shall rectify the Register accordingly."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Cancellation of registration",
+      "content": "19. Cancellation of registration (1) Upon a request being made in the prescribed manner by the registered proprietor of a registered layout-design, the Registrar may cancel the registration of the whole or any part of the design. (2) At any time after a layout-design has been registered , any interested person may apply to the Tribunal for the registration of the whole or any part of the design to be cancelled on the ground that— (a) on the effective date of its registration, the layout-design or the part concerned, as the case may be, was not capable of being registered by virtue of section seven; or (b) the registered proprietor of the layout-design or the part concerned, as the case may be, is not its proprietor as provided in section eight. and the Tribunal may make such order on the application as it thinks appropriate. (3) Notice of any application to the Tribunal in terms of subsection (2) shall be given in the prescribed manner to the Registrar and to any other person appearing from the Register to be interested in the layout-design concerned, and the Registrar and any such person shall be entitled to appear and be heard in the application. (4) Notice of any order made by the Tribunal under this section shall be served on the Registrar and, on receipt of the notice, the Registrar shall amend the Register accordingly. (5) Where the registration of the whole or any part of a layout-design is cancelled by virtue of an order under subsection (2) the design or the part concerned, as the case may be, shall be regarded as never having been registered . Part VI – Assignments, licences and transfer of interests in registered layout-designs"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part VI",
+      "section": "20",
+      "title": "Right of proprietor to assign and transfer rights in registered layout-design",
+      "content": "20. Right of proprietor to assign and transfer rights in registered layout-design Subject to this Part and to any rights of which notice has been entered in the Register, the proprietor of a registered layout-design may assign his title to the design, wholly or in part, or grant licences in respect of or otherwise deal with the design."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Assignments, etc., to be in writing",
+      "content": "21. Assignments, etc., to be in writing Any assignment of title to a registered layout-design, and any other contract whereby the proprietorship of a registered layout-design is transferred or shared, shall have no effect unless it is in writing."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Registration of assignments, licences, etc.",
+      "content": "22. Registration of assignments, licences, etc. (1) Where a person becomes entitled to a registered design or to a share in a registered layout-design, whether by assignment, transmission or operation of law, he may apply to the Registrar for the registration of his title as proprietor or co- proprietor of the design. (2) Where a person becomes entitled to an interest in a registered layout-design, whether through mortgage, licence or otherwise, which does not entitle him to the proprietorship or co-proprietorship of the design, he may apply to the Registrar for his interest to be noted in the Register. (3) If, in an application under subsection (1) or (2), the Registrar is satisfied as to the title of the person concerned, he shall— (a) in the case of an application under subsection (1), register the person as proprietor or co- proprietor of the layout-design concerned and enter in the Register particulars of the instrument or event by which the person derives his title; (b) in the case of an application under subsection (2), enter in the Register notice of the person’s interest, with particulars of the instrument, if any, that created it. (4) Except for the purposes of an application to rectify the Register, a document in respect of which no entry has been made in the Register under subsection (3) shall not be admitted in any legal proceedings as evidence of the title of any person to a registered layout-design or to a share of, or interest in, a registered layout-design, unless the Tribunal or the court concerned otherwise directs. Part VII – Compulsory licences and use of registered layout-designs by state"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VII",
+      "section": "23",
+      "title": "Compulsory licence in respect of registered design",
+      "content": "23. Compulsory licence in respect of registered design (1) In this section— “anti-competitive practice” means any practice, conduct or situation which— (a) is an unfair trade practice for the purposes of the Competition Act, 1996 ( No. 7 of 1996 ); or (b) is the subject of an order by the Industry and Trade Competition Commission under section 31 of the Competition Act, 1996 ( No. 7 of 1996 ), the Commission having been satisfied that the practice, conduct or situation is contrary to the public interest; “compulsory licence” means a licence granted in terms of subsection (7). (2) If a person can show that— (a) he requires a compulsory licence to exploit a registered layout-design for public non-commercial use or in order to remedy an anti-competitive practice; and (b) he has tried to obtain a licence on reasonable commercial terms and conditions from the proprietor of the design concerned; and (c) his efforts to obtain a licence have been unsuccessful within a reasonable period of time; he may apply to the Registrar in the prescribed manner for a compulsory licence: Provided that no such application shall be made until— (a) three years has elapsed since the effective date of registration of the layout-design; or (b) four years has elapsed since the date on which the application for its registration was lodged; whichever is the later. (3) An application under subsection (2) shall— (a) set out fully the facts on which the applicant bases his case and the relief he seeks; and (b) be accompanied by an affidavit verifying the facts set out in the application. (4) If the Registrar is satisfied that an applicant under subsection (2) has made out a prima facie case for relief, he shall direct the applicant— (a) to serve copies of the application and of the relevant affidavit upon the registered proprietor of the layout-design concerned and upon any other person appearing from the Register to be interested in the design; and (b) to advertise the application in the Journal . (5) If the proprietor or any other person wishes to oppose the grant of a compulsory licence, he may, within the prescribed period or within such further period as the Registrar may on application allow, deliver to the Registrar a counter-statement, verified by affidavit, setting out fully the grounds on which the application is opposed, and at the same time shall serve copies of the counter-statement and the verifying affidavit upon the applicant. (6) When the requirements of subsections (2) to (5) have been complied with in regard to any application under this section, the Registrar shall hand all relevant papers to the registrar of the Tribunal , who shall arrange for the matter to be heard by the Tribunal . (7) Subject to this section, in an application referred to it under subsection (6) the Tribunal - (a) may grant the applicant a compulsory licence to exploit the registered layout-design concerned if the Tribunal is satisfied that the applicant— (i) requires a compulsory licence to exploit the design for public non-commercial use or in order to remedy an anti-competitive practice; and (ii) has made reasonable efforts to obtain a licence or authorisation from the proprietor on reasonable commercial terms and conditions but his efforts have not been successful within a reasonable period of time; or (b) may make such other order in regard to the application as the Tribunal considers just. (8) Subject to this section, a compulsory licence may be granted on such terms and conditions as the Tribunal thinks expedient, including a term precluding the licensee from importing into Zimbabwe any goods whose importation, by persons other than the proprietor or persons claiming under him, would be an infringement of the proprietor ’s rights. (9) The terms of a compulsory licence— (a) shall not authorise the commercial exploitation of the registered layout-design concerned unless the licence has been issued to remedy an anti-competitive practice; and (b) where commercial exploitation is authorised, shall authorise the exploitation of the registered layout-design concerned primarily to satisfy the market in Zimbabwe; and (c) shall secure to the proprietor the maximum royalty compatible with the successful exploitation within Zimbabwe of the registered layout-design on a commercial scale and at a reasonable profit; and (d) shall guarantee to the proprietor a minimum yearly sum by way of royalty, if and so far as it is reasonable to do so. (10) In addition to any other terms of a compulsory licence, the licence shall be revocable at the discretion of the Tribunal if— (a) the circumstances that led to its grant cease to exist; or (b) the licensee fails— (i) to exploit the registered layout-design concerned within the time specified in the order; or (ii) to pay the proprietor the royalties payable in terms of the licence. (11) Unless good reason is shown to the contrary, in deciding to whom a compulsory licence is to be granted, the Tribunal shall prefer an existing licensee to a person who, according to the Register, has no interest in the registered layout-design concerned. (12) Subject to this section, a licensee under a compulsory licence shall have the same rights as any other licensee in respect of the registered layout-design concerned. (13) An order for the grant of a compulsory licence shall, without prejudice to any other method of enforcement, have effect as if it were an agreement executed by the proprietor concerned and all other necessary parties granting a licence in accordance with the order. (14) A licensee under a compulsory licence may call upon the proprietor concerned to institute any proceedings that may be necessary to prevent infringement of the proprietor ’s rights, where the infringement prejudices the licensee’s rights under his compulsory licence, and if the proprietor fails to institute such proceedings within two months after being called upon to do so or within such further period as the Tribunal may allow, the licensee may himself institute the proceedings as if he were the proprietor , making the proprietor a defendant: Provided that the proprietor shall not be liable for any costs in connection with the proceedings unless he enters an appearance and takes part in the proceedings. (15) The holder of a compulsory licence under this section shall not be entitled to transfer the licence or grant a sub-licence thereunder except to a person to whom he has transferred his business or that part of his business concerned with the exercise of rights under the licence. (16) An appeal shall lie from any refusal of the Registrar to issue directions in terms of subsection (4)."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VII",
+      "section": "24",
+      "title": "Use of registered layout-design for service of the State",
+      "content": "24. Use of registered layout-design for service of the State (1) Notwithstanding anything in this Act, any department of the State or any person authorised in writing by the Minister may exploit any registered layout-design for the service of the State in accordance with this section. (2) Any exploitation of a registered layout-design by virtue of subsection (1) shall be done upon such terms and conditions as may be agreed upon between the Minister and the registered proprietor concerned with the approval of the Minister responsible for finance or, in default of agreement, as may be determined by the Tribunal on a reference under subsection (1) of section twenty-six. (3) The Minister ’s authority under subsection (1) may be given— (a) either before or after the acts in respect of which the authority is given are done; and (b) to any person, whether or not he is authorised directly or indirectly by the proprietor concerned to exploit the layout-design concerned. (4) As soon as possible after a registered layout-design has been exploited with the authority of the Minister under subsection (1), the Minister shall notify the proprietor concerned and furnish him with such information as to the extent of the exploitation as the proprietor may require from time to time. (5) A purchaser of any articles sold in the exercise of powers conferred by this section, and any person claiming through such a purchaser, shall be entitled to deal with them in the same way as if the President were the proprietor of the registered layout-design concerned."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VII",
+      "section": "25",
+      "title": "Special provisions as to State use during emergency",
+      "content": "25. Special provisions as to State use during emergency (1) During any period of emergency the powers exercisable in relation to a registered layout-design by a department of the State or a person authorised by the Minister under section twenty-four shall include power to exploit the design for any purpose which appears to the Minister necessary or expedient— (a) for the efficient prosecution of any war in which Zimbabwe may be engaged; or (b) for the maintenance of supplies and services essential to the life of the community; or (c) for securing a sufficiency of supplies and services essential to the well-being of the community; or (d) for promoting the productivity of industry, commerce or agriculture; or (e) generally, for ensuring that the whole resources of the community are available for use, and are used, in a manner best calculated to serve the interests of the community; or (f) for assisting the relief of suffering and the restoration and distribution of essential supplies and services in any part of Zimbabwe or any foreign country that is in grave distress as the result of war; and any reference in that section or in section twenty-six to the service of the State shall be construed as including a reference to any of the purposes referred to in paragraphs (a) to (f). (2) In subsection (1)— “period of emergency” means— (a) any period when Zimbabwe is engaged in any war and the period immediately following thereon until such date as may be declared by the President, by proclamation in the Gazette , as the end of the period of emergency caused by that war; or (b) any period when a declaration under subsection (1) of section 31J of the Constitution is in effect; or (c) any period when an emergency or disaster threatens the life or well-being of the community."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VII",
+      "section": "26",
+      "title": "Reference of disputes as to State use",
+      "content": "26. Reference of disputes as to State use (1) Any dispute as to— (a) the exercise by a department of the State or a person authorised by the Minister of the powers conferred by section twenty-four; or (b) the terms for the use of a registered layout-design for the service of the State under section twenty-four; or (c) the right of any person to receive any payment determined in terms of paragraph (b); may be referred to the Tribunal by any party to the dispute. (2) In any proceedings under this section to which a department of the State is a party, the Minister may— (a) if the proprietor of the registered design concerned is a party to the proceedings, apply for cancellation of the registration of the design upon any ground upon which its registration may be cancelled under section nineteen; (b) in any case, put in issue the validity of the registration of the design concerned without applying for its revocation. (3) In determining any dispute between a department of the State and any person as to terms for the exploitation of a registered layout-design for the service of the State, the Tribunal shall have regard to any benefit or compensation which that person or any person from whom he derives title may have received or may be entitled to receive, directly or indirectly, from any department of the State in respect of the design in question. Part VIII – Powers of Registrar"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VIII",
+      "section": "27",
+      "title": "Exercise of discretionary powers of Registrar",
+      "content": "27. Exercise of discretionary powers of Registrar Without prejudice to any provision of this Act requiring the Registrar to hear any party to any proceedings or to give any such party an opportunity to be heard, the Registrar shall not exercise any discretionary power given to him under this Act in a manner which adversely affects the rights of any person unless he has given that person a reasonable opportunity to make representations in the matter, either personally or by his agent."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VIII",
+      "section": "28",
+      "title": "Proceedings before Registrar",
+      "content": "28. Proceedings before Registrar (1) Evidence in any proceedings before the Registrar under this Act shall be given by affidavit: Provided that the Registrar may take oral evidence on oath in lieu of or in addition to evidence by affidavit and may allow any witness to be cross-examined on his affidavit or oral evidence. (2) For the purposes of any proceedings before the Registrar under this Act, the Registrar shall have the same powers, rights and privileges as are conferred upon a commissioner by the Commissions of Inquiry Act [Chapter 10:07] , other than the power to order a person to be detained in custody, and sections 9 to 13 and 15 to 19 of that Act shall apply, mutatis mutandis , in relation to the hearing and determination of any matter before the Registrar under this Act and to any person summoned to give evidence or giving evidence before him."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VIII",
+      "section": "29",
+      "title": "Registrar may award costs",
+      "content": "29. Registrar may award costs (1) In any proceedings before the Registrar under this Act, the Registrar may award any party such costs as he considers reasonable and may direct how and by what parties they are to be paid. (2) Any costs awarded by the Registrar in terms of subsection (1) shall be taxed by the registrar of the Tribunal , and payment thereof may be enforced in the same way as if they were costs allowed by the Tribunal ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VIII",
+      "section": "30",
+      "title": "Power of Registrar to fix time and place of sitting and to adjourn proceedings",
+      "content": "30. Power of Registrar to fix time and place of sitting and to adjourn proceedings In any proceedings before him under this Act, the Registrar may decide the hours, times and places at which he will sit and may adjourn the proceedings for such time and to such place as he may think fit."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VIII",
+      "section": "31",
+      "title": "Power of Registrar to extend time-limits",
+      "content": "31. Power of Registrar to extend time-limits (1) The Registrar may extend the time for doing anything under this Act, upon due notice to the parties concerned and on such terms and conditions as he may think fit to impose: Provided that the Registrar shall not have power extend the two-year period referred to in paragraph (b) of subsection (1) of section seven. (2) The Registrar may grant an extension under subsection (1) even though the time for doing the thing concerned has already expired. Part IX – Appeals and references"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IX",
+      "section": "32",
+      "title": "Appeals from decisions of Registrar",
+      "content": "32. Appeals from decisions of Registrar Where this Act provides for an appeal against a decision of the Registrar, the appeal shall be made to the Tribunal in accordance with this Part and the Intellectual Property Tribunal Act [Chapter 26:06] ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IX",
+      "section": "33",
+      "title": "Time for appeals",
+      "content": "33. Time for appeals An appeal referred to in section thirty-two shall be lodged with the Tribunal within two months after the appellant was notified of the decision or order against which the appeal is brought or within such further time as the Tribunal may for good cause allow."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IX",
+      "section": "34",
+      "title": "Powers of Tribunal on appeal",
+      "content": "34. Powers of Tribunal on appeal Without derogation from section 8 of the Intellectual Property Tribunal Act [Chapter 26:06] , in any appeal under this Act the Tribunal may— (a) confirm, set aside or vary the order or decision against which the appeal is brought; (b) exercise any of the powers which could have been exercised by the Registrar in the proceedings in connection with which the appeal is brought."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IX",
+      "section": "35",
+      "title": "References to Tribunal by Registrar",
+      "content": "35. References to Tribunal by Registrar (1) If it appears to the Registrar that any matter to be decided by him under this Act involves a point of law or is unusually important or complex, he may, after giving notice to the parties, refer the matter to the Tribunal for decision, and thereafter in relation to that matter he shall act in accordance with the decision of the Tribunal or any decision substituted therefor on appeal to the Supreme Court. (2) Where a matter has been referred to the Tribunal in terms of subsection (1), the Registrar and the parties shall be entitled to be heard by and appear before the Tribunal before any decision is made in the matter."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IX",
+      "section": "36",
+      "title": "Costs of Registrar",
+      "content": "36. Costs of Registrar In any proceedings before the Tribunal under this Act, the costs of the Registrar shall be in the discretion of the Tribunal , but the Registrar shall not be ordered to pay the costs of any of the other parties."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IX",
+      "section": "37",
+      "title": "Certification of validity of registration",
+      "content": "37. Certification of validity of registration (1) If the validity of the registration of a layout-design is contested in any legal proceedings and the proceedings are decided in favour of the registered proprietor of the design, the Tribunal or the court concerned may issue a certificate to that effect. (2) Where a registered proprietor or his predecessor in title has been issued with a certificate in terms of subsection (1) and he obtains a final judgment or order in any subsequent legal proceedings in which the validity of the registration of the same layout-design is contested, he shall be entitled to his full costs and expenses as between legal practitioner and client, unless in those subsequent proceedings the Tribunal or court concerned directs that he ought not to have them. Part X – Infringements"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part X",
+      "section": "38",
+      "title": "Tribunal or court that may hear proceedings for infringement of registered layout-design",
+      "content": "38. Tribunal or court that may hear proceedings for infringement of registered layout-design Proceedings for infringement of a registered layout-design may be instituted— (a) in the Tribunal ; or (b) in the High Court; or (c) subject to the jurisdictional limits provided for in the Magistrates Court Act [Chapter 7:10] , in a magistrates court."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part X",
+      "section": "39",
+      "title": "Provisions applicable to proceedings for infringement of registered layout-design",
+      "content": "39. Provisions applicable to proceedings for infringement of registered layout-design (1) Subject to any rules of court, the following provisions shall apply in connection with proceedings for infringement of a registered layout-design— (a) any ground upon which the registration of a layout-design may be cancelled in terms of section nineteen may be relied upon by way of defence; (b) the defendant or respondent may, by way of counterclaim in the proceedings, apply for the cancellation of the registration of the layout-design; (c) the plaintiff or applicant shall, with the documents instituting the proceedings or subsequently on the order of the Tribunal or the court concerned, deliver full particulars of the infringement complained of; (d) the defendant or respondent shall, with his statement of defence or plea or replying affidavit or subsequently on the order of the Tribunal or the court concerned, deliver particulars of any objections on which he relies; (e) except with the leave of the Tribunal or the court concerned, at the hearing no evidence shall be admitted of any infringement or on any objection of which particulars have not been delivered in terms of paragraph (c) or (d). (2) In any proceedings brought under this section by an exclusive licensee, the registered proprietor shall be added as defendant or respondent, as the case may be, unless he is joined as plaintiff or applicant: Provided that a registered proprietor so added as defendant or respondent shall not be liable for any costs unless he takes part in the proceedings. (3) If the registered proprietor is the plaintiff or applicant in any proceedings under this section, he shall give notice of the proceedings to any exclusive licensee of the layout-design in question, and the licensee shall be entitled to intervene as a co-plaintiff or co-applicant, as the case may be, and to recover any damages he may have suffered as a result of the infringement . (4) No proceedings shall be brought under this section in respect of an infringement which took place before the registration of the layout-design concerned."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part X",
+      "section": "40",
+      "title": "Remedies available in proceedings for infringement",
+      "content": "40. Remedies available in proceedings for infringement (1) Subject to this Act, in proceedings for infringement of a registered layout-design the plaintiff or applicant shall be entitled to any appropriate remedy, whether damages, interdict, attachment, the rendering of account, the delivery of infringing copies or articles used or intended to be used for making infringing copies or otherwise, that is available in respect of the infringement of any other proprietary right. (2) Damages for infringement of a registered layout-design may, at the option of the person seeking them, be calculated on the basis of the amount that an exclusive licensee would reasonably have been expected to pay under the circumstances for his use of the design concerned: Provided that, if the person seeking damages intends to exercise this option, he shall give notice of his intention, in writing, to any exclusive licensee of the registered design concerned. (3) In determining the amount of damages in an action for infringement of a registered layout-design, the Tribunal or the court, as the case may be, shall take the following factors into account, in addition to all other material considerations— (a) the extent and nature of the infringement ; and (b) the market value of the layout-design concerned; and (c) the amount which could be payable to the proprietor in respect of the use of the layout-design by some other person; and (d) any dilatory conduct on the part of the proprietor of the layout-design or the plaintiff in making the infringer aware that the design was registered . (4) If it is established, in proceedings for infringement of a registered layout-design, that an infringement was committed and the Tribunal or the court, having regard to— (a) the flagrancy of the infringement ; and (b) the market value of the layout-design concerned; and (c) any benefit shown to have accrued to the person responsible for the infringement as a result of it; and (d) the need to deter persons from committing further infringements; is satisfied that effective relief would not otherwise be available to the plaintiff or applicant, the Tribunal or the court, as the case may be, shall have power to award such additional damages as it thinks fit. (5) If it is established, in proceedings for an infringement of a registered layout-design, that an infringement was committed but that at the time of the infringement the person responsible for it was not aware and had no reasonable grounds for suspecting that he was not entitled to engage in the infringing activity, the plaintiff or applicant shall not be entitled under this section to any damages against that person in respect of the infringement . (6) Where— (a) there has been a change in the proprietorship of a registered layout-design, whether through assignment, transmission, operation of law or otherwise; or (b) an exclusive licence has been granted in respect of a registered layout-design; the new proprietor or co- proprietor or the exclusive licensee, as the case may be, shall not be entitled to recover damages for any infringement of that design which occurred during the period from the change in the proprietorship or the grant of the exclusive licence , as the case may be, until the change or the grant was registered in terms of section twenty-two, unless the registration was effected within six months of the change or the grant."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part X",
+      "section": "41",
+      "title": "Anton Piller orders",
+      "content": "41. Anton Piller orders (1) If a person who has instituted or intends instituting proceedings for an infringement of a registered layout-design satisfies the Tribunal or a court that, prima facie — (a) he has a cause of action against another person which he intends to pursue; and (b) the other person has in his possession documents or other things of whatsoever nature which constitute evidence of great importance in substantiation of that cause of action; and (c) there is a real and well-founded apprehension that the documents or other things may be hidden, destroyed or rendered inaccessible before discovery can be made in the usual way; the Tribunal or court, as the case may be, may make such order as it considers necessary or appropriate to secure the preservation of the documents or things as evidence. (2) An order in terms of subsection (1) may be granted without notice to the person who is allegedly in possession of the documents or other things to which the order relates, and the Tribunal or court may sit in camera for the purpose of hearing an application for such an order: Provided that the Tribunal or Court shall not grant an order without such notice unless it is satisfied that there is a real possibility that the documents or things will be hidden, destroyed or rendered inaccessible if notice is given. (3) An order in terms of subsection (1) may be granted on such conditions, including the giving of security by the applicant, as the Tribunal or court may fix. (4) This section shall not be taken to limit any power a court may have under its ordinary jurisdiction to grant orders such as are referred to in this section."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part X",
+      "section": "42",
+      "title": "Remedy for groundless threats of infringement proceedings",
+      "content": "42. Remedy for groundless threats of infringement proceedings (1) Where any person, whether or not he is entitled to or interested in a registered layout-design or an application for the registration of a layout-design, threatens another person with proceedings for infringement of a registered layout-design, anyone who is aggrieved by the threat may bring proceedings against him in a court of competent jurisdiction for the relief referred to in subsection (2). (2) In proceedings brought by virtue of subsection (1), the plaintiff or applicant shall be entitled to any one or more of the following remedies— (a) a declaration to the effect that the threats are unjustifiable; (b) an interdict against any continuation of the threats; (c) such damages, if any, as he has sustained in consequence of the threats; unless the defendant or respondent proves that the acts in respect of which he threatened proceedings constitute or, if done, would constitute, an infringement of a registered layout-design, the registration of which is not shown by the plaintiff or applicant to be invalid. (3) The defendant or respondent in any proceedings brought in terms of subsection (1) may counter-claim for any relief to which he would be entitled in separate proceedings in respect of any infringement by the plaintiff or applicant of the layout-design to which the threats relate. (4) For the avoidance of doubt, it is declared that a mere notification that a layout-design is registered does not constitute a threat of proceedings within the meaning of subsection (1). Part XI – Offences and penalties"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part XI",
+      "section": "43",
+      "title": "Falsification of certain documents",
+      "content": "43. Falsification of certain documents Any person who— (a) makes or causes to be made a false entry in the Register, knowing the entry to be false; or (b) makes or causes to be made or produces or tenders or causes to be produced or tendered in evidence, any writing falsely purporting to be a copy of an entry in the Register, knowing the writing to be false; shall be guilty of an offence and liable to a fine not exceeding twenty thousand dollars or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part XI",
+      "section": "44",
+      "title": "Deceiving or influencing Registrar or officer",
+      "content": "44. Deceiving or influencing Registrar or officer (1) Any person who, for the purpose of— (a) deceiving the Registrar or an examiner or any other officer of the Designs Office in the execution of his functions under this Act; or (b) procuring or influencing the doing or omission of anything in relation to this Act; makes or submits a false statement or representation, whether orally or in writing, knowing the statement or representation to be false, shall be guilty of an offence and liable to a fine not exceeding twenty thousand dollars or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment. (2) Any person who, having innocently made a false statement or representation, whether orally or in writing, for the purpose of procuring or influencing the doing or omission of anything in relation to this Act and who, on becoming aware that the statement or representation was false, fails to advise the Registrar forthwith of its falsity, shall be guilty of an offence and liable to a fine not exceeding two thousand dollars or to imprisonment for a period not exceeding three months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part XI",
+      "section": "45",
+      "title": "Witness giving false evidence before Registrar",
+      "content": "45. Witness giving false evidence before Registrar Any person who, after having been sworn, wilfully gives false evidence before the Registrar concerning the subject-matter of the proceedings in question, knowing his evidence to be false or not knowing or believing it to be true, shall be guilty of an offence and liable to a fine not exceeding twenty thousand dollars or to imprisonment for a period not exceeding two years or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part XI",
+      "section": "46",
+      "title": "False representation that layout-design is registered",
+      "content": "46. False representation that layout-design is registered Any person who falsely represents that a layout-design of an integrated circuit sold by him is registered shall be guilty of an offence and liable to a fine not exceeding fifty thousand dollars or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. Part XII – Evidence"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part XII",
+      "section": "47",
+      "title": "Register to be evidence of entries therein",
+      "content": "47. Register to be evidence of entries therein The Register shall be prima facie evidence of anything that is required or permitted by or under this Act to be entered in it."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part XII",
+      "section": "48",
+      "title": "Evidence of certain entries and documents",
+      "content": "48. Evidence of certain entries and documents (1) In any proceedings before the Tribunal or any court, a document purporting to be a copy of an entry in the Register provided in terms of section six shall be admissible on its production by any person as prima facie evidence of the entry having been made and of its contents. (2) In any proceedings before the Tribunal or any court, a document purporting to be a statement by the Registrar, certified with the seal of the Patent Office and giving particulars of— (a) any proceedings before him in terms of this Act; or (b) the grounds for any decision or order given or made by him in terms of this Act; or (c) the practice of the Designs Office ; or (d) any representation, specimen or document kept in the Designs Office ; or (e) any other matter which is within his knowledge as Registrar; shall be admissible on its production by any person as prima facie evidence of the facts stated in the document. Part XIII – General"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part XIII",
+      "section": "49",
+      "title": "Inspection of registered layout-design",
+      "content": "49. Inspection of registered layout-design (1) Subject to this section, any copy or drawing of a registered layout-design which accompanied the application for its registration shall be open to public inspection at the Designs Office on and after the certificate of registration is issued in respect of the design. (2) Where a registered layout-design is of a class prescribed for the purposes of this subsection, no copy or drawing which accompanied the application for its registration shall be open to inspection in terms of subsection (1) until such period as may be prescribed has elapsed after the certificate of registration was issued: Provided that the following persons shall have a right to inspect any such copy or drawing— (a) the registered proprietor of the design or a person authorised in writing by the registered proprietor ; or (b) a person authorised by the Registrar, the Tribunal or a court; but they may do so only in the presence of the Registrar or an officer acting under him and shall not be entitled to take a copy of the copy or drawing concerned or any part thereof. (3) Where an application for the registration of a layout-design has been abandoned or refused, neither the application for registration nor any copy or drawing that accompanied it shall be open at any time to public inspection at the Designs Office or be published by the Registrar."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part XIII",
+      "section": "50",
+      "title": "Recognition of agents",
+      "content": "50. Recognition of agents Where by this Act anything is to be done by or to any person in connection with a layout-design, it may be done by or to that person’s duly authorised agent, where the agent is— (a) a legal practitioner; or (b) registered as a patent agent in the Register of Patent Agents kept in terms of the Patents Act ; or (c) registered as a trade mark agent in the Register of Trade Mark Agents kept in terms of the Trade Marks Act [Chapter 26:04] ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part XIII",
+      "section": "51",
+      "title": "Lodging and authentication of documents",
+      "content": "51. Lodging and authentication of documents (1) Any application, notice or document which, under this Act is required or permitted to be lodged, made or given at the Designs Office or to the Registrar or to any other person, may be delivered by hand or sent by registered post. (2) No authentication shall be required in respect of any document lodged in the Designs Office under this Act or used in proceedings before the Registrar or the Tribunal ."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part XIII",
+      "section": "52",
+      "title": "Notice of trusts not to be entered in Register",
+      "content": "52. Notice of trusts not to be entered in Register No notice of any trust, whether express, implied or constructive, shall be entered in the Register, and the Registrar shall not be affected by any such notice."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part XIII",
+      "section": "53",
+      "title": "Provisions as to fees",
+      "content": "53. Provisions as to fees (1) Where, under this Act, a fee is payable in respect of— (a) the doing of anything by the Registrar, the Registrar shall not do that thing until the fee has been paid; (b) the doing of anything by any person other than the Registrar, the thing shall be deemed not to have been done until the fee has been paid; (c) the lodging of a document, the document shall be deemed not to have been lodged until the fee has been paid. (2) All fees shall be paid at the Designs Office in such manner as the Registrar, with the approval of the Minister , may accept."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part XIII",
+      "section": "54",
+      "title": "Publication of matters in Journal",
+      "content": "54. Publication of matters in Journal The Minister may direct the Registrar to publish in the Journal any reports of cases on layout-designs and other relevant matters that the Minister thinks desirable."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part XIII",
+      "section": "55",
+      "title": "Saving of rights in respect of articles forfeited to the State",
+      "content": "55. Saving of rights in respect of articles forfeited to the State Nothing in this Act shall affect the right of the State or of any person deriving title directly or indirectly from the State to sell or use articles forfeited to the President under any enactment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part XIII",
+      "section": "56",
+      "title": "Regulations",
+      "content": "56. Regulations (1) The Minister may make regulations prescribing anything which under this Act is required or permitted to be prescribed or which, in his opinion, is necessary or convenient to be prescribed for carrying out or giving effect to this Act or for its better administration. (2) Regulations made in terms of subsection (1) may provide for— (a) the form of applications for the registration of layout-designs and the form of any copies and drawings and other documents that may be lodged at the Designs Office ; (b) the number of copies of any article or document to be lodged at the Designs Office ; (c) the procedure to be followed in connection with any application or request to the Registrar and in any proceedings before him, including the condoning of procedural irregularities; (d) the service of notices and other documents in connection with proceedings under this Act; (e) a tariff of the fees payable in respect of any application, registration or other matter under this Act; (f) the conduct of the business of the Designs Office ; (g) the provision of services by the Designs Office , including the provision of information regarding layout-designs, and the fees and charges payable for such services; (h) authorising the publication and the sale of copies of representations of layout-designs and other documents in the Designs Office ; (i) the rights of third parties in relation to the exploitation, by or in the service of the State, of a registered layout-design, or a layout-design in respect of which an application for registration is pending, for the service of the State in terms of section twenty-four or twenty-five; (j) giving effect to any international treaty or agreement which relates to layout-designs and to which Zimbabwe is a party."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part XIII",
+      "section": "57",
+      "title": "Transitional provisions",
+      "content": "57. Transitional provisions Any regulations or rules which, on the 1st January, 2000, are in force under the Industrial Designs Act [Chapter 26:02] shall apply, mutatis mutandis , in respect of applications, references, appeals, proceedings and other matters in terms of this Act, until regulations dealing with those matters are published in terms of section fifty-six."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "certificate of registration",
+      "definition": "certificate of registration ” means a certificate of registration issued in terms of section fourteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Controller",
+      "definition": "Controller ” means the Controller of Patents, Trade Marks and Industrial Designs appointed in terms of paragraph (a) of subsection (2) of section 3 of the Patents Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Designs Office",
+      "definition": "Designs Office ” means the Industrial Designs Office referred to in subsection (1) of section three",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exclusive licence",
+      "definition": "exclusive licence ” means a licence from the proprietor of a registered layout-design which confers on the licensee, or on the licensee and persons authorised by him, to the exclusion of all other persons, including the registered proprietor , any right in respect of the design",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infringement",
+      "definition": "infringement ”, in relation to a registered layout-design, means conduct that infringes any the proprietor ’s rights conferred by subsection (1) of section fifteen",
+      "source_provision": "s2"
+    },
+    {
+      "term": "integrated circuit",
+      "definition": "integrated circuit ” means a product, in final or intermediate form, containing electrical, electromagnetic or optical elements and circuitry, which is capable of performing an electrical or an optical function and in which at least a part of the electrical, electromagnetic or optical elements and circuitry are integrally formed, in accordance with a predetermined topography, in or on a semiconductor or other material",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Journal",
+      "definition": "Journal ” means the Patent and Trade Marks Journal published in terms of section 95 of the Patents Act ; “layout-design” means a functional design which consists of the pattern, shape or configuration, however expressed, of the three-dimensional disposition of all or some of the electrical, electromagnetic or optical elements and circuitry of an integrated circuit , and includes such a design of an integrated circuit that is intended for manufacture",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Patents Act",
+      "definition": "Patents Act ” means the Patents Act [Chapter 26:03]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proprietor",
+      "definition": "proprietor ”, in relation to a layout-design, means the design’s proprietor as provided in section eight; “Register” means the Register of Integrated Circuit Layout-Designs kept at the Designs Office in terms of section five",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assignee",
+      "definition": "assignee ”, in relation to a layout-design, means— (a) a person who has derived his title to the design for Zimbabwe directly or indirectly from its proprietor or from the proprietor ’s assignee; or (b) the legal representative of a person referred to in paragraph (a)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "department of the State",
+      "definition": "department of the State ” means any— (a) department of the State; or (b) statutory corporation or authority which is prescribed for the purposes of this definition",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal representative",
+      "definition": "legal representative ” means— (a) the liquidator or receiver of a company; or (b) a person who is recognised by law as the representative of any person who has died, become insolvent or bankrupt or assigned his estate, is a minor, is of unsound mind or is otherwise under a disability",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered",
+      "definition": "registered ” means registered in the Register in terms of this Act; “Registrar” means— (a) the Controller ; or (b) a registrar referred to in subsection (3) of section three; or (c) an officer who is exercising a function which the Controller has directed, in terms of subsection (4) of section three, should be exercised by that officer",
+      "source_provision": "s2"
+    }
+  ]
+}

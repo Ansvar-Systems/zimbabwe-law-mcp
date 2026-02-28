@@ -1,0 +1,79 @@
+{
+  "id": "zw-1985-30",
+  "type": "statute",
+  "title": "Prescribed Rate of Interest Act",
+  "title_en": "Prescribed Rate of Interest Act",
+  "short_name": "zw-1985-30",
+  "status": "in_force",
+  "issued_date": "1985-01-01",
+  "in_force_date": "1985-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1985/30/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Prescribed Rate of Interest Act [Chapter 8:10] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ judgment debt ” means any sum of money or part thereof due in terms of any judgment or order of a court of law, including an order as to costs, but does not include any interest that does not form part of the principal sum of a judgment debt; “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ prescribed rate ” means the rate of interest prescribed in terms of section seven."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Act to State",
+      "content": "3. Application of Act to State This Act shall bind the State."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Interest on certain debts to be calculated at prescribed rate",
+      "content": "4. Interest on certain debts to be calculated at prescribed rate If a debt bears interest and the rate at which the interest is to be calculated is not governed by any other law or by an agreement or trade custom or in any other manner, such interest shall be calculated at the prescribed rate as at the date on which such interest begins to run, unless a court of law, on the ground of special circumstances relating to that debt, orders otherwise."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Interest on judgment debt",
+      "content": "5. Interest on judgment debt (1) Every judgment debt which would not otherwise bear any interest after the date of the judgment or order by virtue of which it is due shall, from the day on which such judgment debt is payable, bear interest at the prescribed rate , unless that judgment or order provides otherwise. (2) Any interest payable in terms of subsection (1) may be recovered as if it formed part of the judgment debt on which it is due."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Interest on illiquid claims",
+      "content": "6. Interest on illiquid claims (1) Subject to this section and unless otherwise agreed, every debt arising out of an unliquidated claim shall bear interest calculated at the prescribed rate on the amount of the debt from the date when the cause of action arose, whether or not the amount of the debt is fixed by agreement between the parties or by the judgment of a court. [subsection as amended by section 7 of Act 6 of 1996 ] (2) Where a court considers it fair and just in the circumstances of the case to do so, it may direct, in relation to a claim referred to in subsection (1), that— (a) no interest shall be payable on the amount of the debt; or (b) interest shall be payable on only part of the amount of the debt; or (c) interest shall be payable in respect of only a part of the period since the cause of action arose, or shall be calculated to run from a specified date; or (d) interest shall be payable at a rate lower than the prescribed rate ; or may give any two or more of such directions. (3) Where proceedings have been instituted before a court in respect of a claim referred to in subsection (1) and no claim for interest has been made, the court may, on its own motion, after hearing the parties and subject to this section, include an award for interest in its judgment on the claim. (4) Where, as a result of a notice in terms of section seven, the prescribed rate of interest is altered during the period in respect of which interest is payable on a claim referred to in subsection (1), the rate of interest in respect of each part of that period shall, subject to any direction in terms of subsection (2), be the prescribed rate then prevailing."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Minister to prescribe rate of interest",
+      "content": "7. Minister to prescribe rate of interest The Minister may, by statutory instrument and with the approval of the Minister responsible for finance, prescribe a rate of interest for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Transitional provisions",
+      "content": "8. Transitional provisions Where as a result of a notice in terms of section seven, the prescribed rate of interest is fixed, increased or reduced, such increase or reduction shall, in relation to debts or judgment debts that became payable before the date of commencement of the notice, apply only to interest accruing after that date."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "In duplum rule not to apply to judgment debts",
+      "content": "9. In duplum rule not to apply to judgment debts The rule of the common law known as the in duplum rule, that prohibits the payment of outstanding interest in excess of the amount representing the capital or principal sum of a debt, does not apply to judgment debts. [section inserted by section 26 of Act 16 of 2007 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "judgment debt",
+      "definition": "judgment debt ” means any sum of money or part thereof due in terms of any judgment or order of a court of law, including an order as to costs, but does not include any interest that does not form part of the principal sum of a judgment debt",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

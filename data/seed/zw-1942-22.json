@@ -1,0 +1,38 @@
+{
+  "id": "zw-1942-22",
+  "type": "statute",
+  "title": "Inebriates Act",
+  "title_en": "Inebriates Act",
+  "short_name": "zw-1942-22",
+  "status": "in_force",
+  "issued_date": "1942-01-01",
+  "in_force_date": "1942-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1942/22/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Inebriates Act [Chapter 9:12] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Detention in inebriate reformatory made competent sentence in certain cases",
+      "content": "2. Detention in inebriate reformatory made competent sentence in certain cases (1) On conviction of any person of an offence punishable by either a fine or imprisonment, if the court is satisfied from the evidence that the offence was committed under the influence of drink or that drunkenness was a contributory cause of the offence, and if further the offender admits that he is, or if he is found by the court to be, an habitual drunkard, the court may, in addition to or in substitution for any other sentence, order that he be detained for a period not exceeding three years at an inebriate reformatory and to perform thereat such labour or work as may be prescribed by or under the enactment governing such a reformatory. (2) When any person is convicted before any court with the offence of drunkenness in terms of paragraph (j) or (k) of subsection (2) of section 116 of the Liquor Act [Chapter 14:12] and if he admits that he is, or if he is declared by the court to be, an habitual drunkard, the court may, in lieu of the sentence prescribed by that section, sentence the offender to be detained for a period not exceeding three years at an inebriate reformatory and to perform thereat such labour or work as may be prescribed by or under the enactment governing such a reformatory."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Jurisdiction in respect of inebriates conferred on magistrates courts",
+      "content": "3. Jurisdiction in respect of inebriates conferred on magistrates courts (1) A magistrates court shall have jurisdiction to impose the sentences prescribed by section two. (2) When a magistrates court sentences any person to detention in an inebriate reformatory, such court shall forward the proceedings to the registrar of the High Court for review by a judge, and section 57 of the Magistrates Court Act [Chapter 7:10] and section 29 of the High Court of Zimbabwe Act [Chapter 7:06] shall apply, mutatis mutandis , to any such review."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Warrant of conviction",
+      "content": "4. Warrant of conviction (1) When any court orders a person to be detained in an inebriate reformatory, a warrant shall be issued by the court for that purpose setting forth the offence of which he has been convicted and the period for which he is to be detained, and the said warrant shall be transmitted to such officer as the President may direct and shall be the authority for the conveyance of that person to an inebriate reformatory and his detention therein. (2) There shall be transmitted with a warrant referred to in subsection (1) by the court to the officer referred to in that subsection an account, in such form as the President may prescribe, of the history and antecedents of the person concerned so far as may be ascertainable by the court."
+    }
+  ],
+  "definitions": []
+}

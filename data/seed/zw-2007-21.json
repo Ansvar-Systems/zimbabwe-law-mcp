@@ -1,0 +1,102 @@
+{
+  "id": "zw-2007-21",
+  "type": "statute",
+  "title": "One-Stop Border Posts Control Act",
+  "title_en": "One-Stop Border Posts Control Act",
+  "short_name": "zw-2007-21",
+  "status": "in_force",
+  "issued_date": "2007-01-01",
+  "in_force_date": "2007-01-01",
+  "url": "https://zimlii.org/akn/zw/act/2007/21/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the One-Stop Border Posts Control Act [Chapter 3:04] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ agreement ” means an agreement concluded in terms of section 3 ; “ adjoining State ” means the Republic of Botswana, the Republic of Mozambique, the Republic of Namibia, the Republic of South Africa and the Republic of Zambia; “ control zone ” means that part of the territory of one of the parties within which officials of either party are empowered to effect border controls, and includes the exclusive use area ; “ exclusive use area ” means that area of the control zone dedicated for the exclusive use of one of the parties; “ Minister ” means the Minister of Industry and International Trade or any other Minister to whom the President may from time to time assign the administration of this Act; “ official ” means a person responsible for exercising border controls on behalf of any party , and includes a police officer; “ one-stop border post ” means a border post established under an agreement , and includes the control zone ; “ party ” means a party to an agreement ; “ relevant legislation ”, in relation to— (a) Zimbabwe, means the laws listed in the Schedule; (b) any party to an agreement other than Zimbabwe, means the laws listed in the agreement or in terms of any law of that party which corresponds to this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Agreements with one or more adjoining Sates",
+      "content": "3. Agreements with one or more adjoining Sates (1) The President may conclude one or more agreements with one or more adjoining States establishing one or more one-stop border posts, that is to say, agreements allowing— (a) border controls to be undertaken on behalf of Zimbabwe and on behalf of one or more adjoining States at a place located— (i) in the territory of Zimbabwe; or (ii) within the territory of one or more adjoining States; and (b) officials of Zimbabwe and officials of one or more adjoining States to exercise border controls in accordance with the relevant legislation of Zimbabwe and of the other adjoining State or States at that border post, including, for the avoidance of doubt, the exercise of any powers of arrest, search, seizure and detention of persons and things. (2) Every agreement shall come into effect on the date— (a) the President publishes a statutory instrument in the Gazette incorporating the agreement ; or (b) the other party or parties to the agreement , as the case may be, domesticate the agreement in accordance with their laws; whichever is the later date."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Extra-territorial application of relevant legislation",
+      "content": "4. Extra-territorial application of relevant legislation (1) For the purpose of enabling officials of Zimbabwe and those of any adjoining State which is a party to an agreement to carry out border controls at a one-stop border post , the relevant legislation of Zimbabwe and that of the adjoining State or States shall apply extra-territorially. (2) For the avoidance of doubt it is declared that a citizen or resident of Zimbabwe may be arrested and detained in the control zone of an adjoining State which is a party to an agreement for any violations of the relevant legislation of Zimbabwe, for the purpose of transferring him or her to Zimbabwe."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application of criminal law",
+      "content": "5. Application of criminal law (1) Any act or omission— (a) by a citizen or resident of Zimbabwe which occurs at a one-stop border post in an adjoining State ; and (b) that is an act or omission which, if it had occurred within the territory of Zimbabwe, would have constituted an offence against the laws of Zimbabwe; shall be regarded as if it had occurred in Zimbabwe. (2) For the purpose of determining which court has jurisdiction to try an offence referred to in subsection (1), the offence shall be deemed to have been committed within the area of jurisdiction of the court nearest to the place where the act or omission constituting the offence occurred."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Regulations",
+      "content": "6. Regulations The Minister may make regulations providing for any matter which by this Act is required to be prescribed or which he or she considers necessary or desirable to be prescribed for giving effect to the purposes of this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Amendment of Schedule",
+      "content": "7. Amendment of Schedule The Minister may by regulations add or remove a law from the Schedule. Schedule (Sections 2 and 7) Relevant legislation 1. Animal Health Act [Chapter 19.01] . 2. Bees Act [Chapter 19:02] . 3. Control of Goods Act [Chapter 14:05] . 4. Customs and Excise Act [Chapter 23:02] . 5. Dangerous Drugs Act [Chapter 15:02] . 6. Immigration Act [Chapter 4:02] . 7. Inland Waters Shipping Act [Chapter 13:06] . 8. Medicines and Allied Substances Control Act [Chapter 15:03] . 9. Parks and Wild Life Act [Chapter 20:14] . 10. Public Health Act [Chapter 15:09] . 11. The provisions of the Criminal Procedure and Evidence Act [Chapter 9:07] regarding the exercise of any powers of arrest, search, seizure and detention of persons and things."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agreement",
+      "definition": "agreement ” means an agreement concluded in terms of section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "adjoining State",
+      "definition": "adjoining State ” means the Republic of Botswana, the Republic of Mozambique, the Republic of Namibia, the Republic of South Africa and the Republic of Zambia",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control zone",
+      "definition": "control zone ” means that part of the territory of one of the parties within which officials of either party are empowered to effect border controls, and includes the exclusive use area",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exclusive use area",
+      "definition": "exclusive use area ” means that area of the control zone dedicated for the exclusive use of one of the parties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Industry and International Trade or any other Minister to whom the President may from time to time assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official",
+      "definition": "official ” means a person responsible for exercising border controls on behalf of any party , and includes a police officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "one-stop border post",
+      "definition": "one-stop border post ” means a border post established under an agreement , and includes the control zone",
+      "source_provision": "s2"
+    },
+    {
+      "term": "party",
+      "definition": "party ” means a party to an agreement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant legislation",
+      "definition": "relevant legislation ”, in relation to— (a) Zimbabwe, means the laws listed in the Schedule; (b) any party to an agreement other than Zimbabwe, means the laws listed in the agreement or in terms of any law of that party which corresponds to this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "zw-1971-37",
+  "type": "statute",
+  "title": "City of Mutare (Private) Act",
+  "title_en": "City of Mutare (Private) Act",
+  "short_name": "zw-1971-37",
+  "status": "in_force",
+  "issued_date": "1971-01-01",
+  "in_force_date": "1971-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1971/37/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the City of Mutare (Private) Act [Chapter 29:05]."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Alteration of status and title of City of Umtali",
+      "content": "2. Alteration of status and title of City of Umtali The status of Mutare shall be and is hereby altered from that of a Municipality to that of a City and its name or designation from that of the Municipality of Umtali to that of the City of Mutare."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Title of City Council",
+      "content": "3. Title of City Council The title of the Council of the City of Umtali shall be and is hereby altered from the Municipal Council of Umtali to the City Council of Mutare."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "References to include references to City Council of Umtali",
+      "content": "4. References to include references to City Council of Umtali Wherever in any enactment or in any deed, memorandum, agreement or other document, reference is made to— (a) the Town of Umtali, the Municipality of Umtali or the City of Umtali, such reference shall, where appropriate, be deemed to be a reference to the City of Mutare; (b) the Town Council of Umtali, the Municipal Council of Umtali or the City Council of Umtali, such reference shall, where appropriate, be deemed to be a reference to the City Council of Mutare."
+    }
+  ],
+  "definitions": []
+}

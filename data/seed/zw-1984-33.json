@@ -1,0 +1,77 @@
+{
+  "id": "zw-1984-33",
+  "type": "statute",
+  "title": "War Marriages Validation Act",
+  "title_en": "War Marriages Validation Act",
+  "short_name": "zw-1984-33",
+  "status": "in_force",
+  "issued_date": "1984-01-01",
+  "in_force_date": "1984-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1984/33/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the War Marriages Validation Act [Chapter 5:15] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ Registrar ” means the Registrar of Marriages referred to in section 30 of the Marriage Act [Chapter 5:11] or an officer in the Public Service authorized by him to perform his functions in terms of this Act; “ war ” means the armed conflict that occurred in Zimbabwe and in neighbouring countries between the 11th November, 1965, and the 29th February, 1980, in connection with the bringing about of, or resistance to, political and social change in Zimbabwe ; “ war marriage ” means a marriage, form of marriage or intended marriage which was entered into during the war , either inside or outside Zimbabwe , by a man and a woman who were prevented by circumstances arising as a result of the war from having their marriage, form of marriage or intended marriage regis- tered or recorded by any government or religious authority the country in which it was entered into; “ Zimbabwe ”, in relation to any circumstances existing, event occurring or thing done before the 18th April, 1980, means the area which on that date was included in the boundaries of Zimbabwe."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Registration of war marriages",
+      "content": "3. Registration of war marriages (1) Subject to this section, the parties to any war marriage may apply to the Registrar at his office in Harare or Bulawayo for the registration of their war marriage as a marriage. (2) An application in terms of subsection (1) shall be made in the prescribed form and manner and shall be accompanied by the prescribed fee, if any. (3) The Registrar may require any person who has made an application in terms of subsection (1) to furnish such proof as to the nature and circumstances of the war marriage concerned as the Registrar may specify. (4) If, in respect of any application received by him in terms of subsection (1), the Registrar is satisfied, on the appearance of both parties before him, that— (a) the applicants entered into a war marriage during the war; and (b) when the applicants entered into their war marriage, the male party was a citizen of or domiciled in Zimbabwe; and (c) the applicants regard themselves as husband and wife and have continuously done so since their war marriage; and (d) there is no present impediment to a marriage between the applicants; the Registrar shall register the war marriage— (i) where it appears to him that the parties intended their marriage to have the effect of a marriage solem- nized in terms of the Marriage Act [Chapter 5:11] , by entering the relevant particulars of the war mar- riage in the Marriage Registration Book kept by him in terms of section 32 of that Act and providing the parties with a duplicate original of such entry; or (ii) where it appears to him that the parties intended their war marriage to have the effect of a marriage solemnized in terms of the Customary Marriages Act [Chapter 5:06] , by entering the relevant particulars of the war marriage in a marriage register which is in the form set out in the Schedule to that Act and which is kept by him for the purpose and providing the parties with a duplicate original of that entry. (5) If there is any doubt as to the precise date at which or place where any war marriage was entered into, the Registrar shall, when entering the relevant particulars of the war marriage in a register in terms of subsection (4), enter the date or place which, on all the evidence before him, seems to him the most likely to be correct. (6) For the purpose of entering the relevant particulars of a war marriage in a register in terms of subsection (4), the Registrar may make such modifications to the form of the register as he considers necessary or expedient."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Validity of registered war marriages",
+      "content": "4. Validity of registered war marriages A war marriage that has been registered in accordance with— (a) subparagraph (i) of subsection (4) of section three, shall for all purposes be valid as if it had been a marriage solemnized and registered within Zimbabwe in terms of the Marriage Act [Chapter 5:11] ; (b) subparagraph (ii) of subsection (4) of section three, shall for all purposes be valid as if it had been a marriage solemnized and registered within Zimbabwe in terms of the Customary Marriage Act [Chapter 5:06] ; with effect from the date that is entered in the register concerned as the date on which the war marriage was entered into."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Appeals against decisions of Registrar",
+      "content": "5. Appeals against decisions of Registrar Any person who is aggrieved by any decision of the Registrar in terms of section three may appeal against such decision to the Minister , who may confirm the decision of the Registrar or direct him to take such other action in the matter as the Minister considers he ought to have taken, and the Registrar shall comply with such direction and the decision of the Minister shall be final."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Regulations",
+      "content": "6. Regulations The Minister may by regulation prescribe anything which in terms of this Act is to be prescribed or which in his opinion is necessary or convenient to be prescribed for carrying out or giving effect to this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Saving of right",
+      "content": "7. Saving of right Nothing contained in this Act shall affect the validity and consequences, if any, of any war marriage that has not been registered in terms of section three, or the right, if any, of the parties to any such war marriage — (a) to marry or remarry; or (b) to have their war marriage registered, recorded or solemnized in terms of any other law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "Registrar ” means the Registrar of Marriages referred to in section 30 of the Marriage Act [Chapter 5:11] or an officer in the Public Service authorized by him to perform his functions in terms of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "war",
+      "definition": "war ” means the armed conflict that occurred in Zimbabwe and in neighbouring countries between the 11th November, 1965, and the 29th February, 1980, in connection with the bringing about of, or resistance to, political and social change in Zimbabwe",
+      "source_provision": "s2"
+    },
+    {
+      "term": "war marriage",
+      "definition": "war marriage ” means a marriage, form of marriage or intended marriage which was entered into during the war , either inside or outside Zimbabwe , by a man and a woman who were prevented by circumstances arising as a result of the war from having their marriage, form of marriage or intended marriage regis- tered or recorded by any government or religious authority the country in which it was entered into",
+      "source_provision": "s2"
+    }
+  ]
+}

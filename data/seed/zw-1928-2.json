@@ -1,0 +1,62 @@
+{
+  "id": "zw-1928-2",
+  "type": "statute",
+  "title": "Boy Scouts Association Act",
+  "title_en": "Boy Scouts Association Act",
+  "short_name": "zw-1928-2",
+  "status": "in_force",
+  "issued_date": "1928-01-01",
+  "in_force_date": "1928-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1928/2/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Boy Scouts Association Act [Chapter 25:03] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Association ” means the Boy Scouts Association incorporated under the Royal Charter granted on the 4th January, 1912; “ boy scout ” means a boy scout recognized as such under the constitution, by-laws or rules of the Association and includes also all officers of the Association ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restriction on the sale of badges of the Association",
+      "content": "3. Restriction on the sale of badges of the Association (1) No person, other than the Association , shall sell or expose for sale any badge, token or emblem specifically adopted for use by boy scouts under the by-laws or rules of the Association . (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restriction on the use of badges of the Association",
+      "content": "4. Restriction on the use of badges of the Association (1) No person, not being a boy scout , shall publicly wear, carry or bear, in such a manner as to convey the impression that such person is a boy scout , any badge, token or emblem specifically on adopted for use by boy scouts under the by-laws or rules of the Association . (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Wrongful exercise of authority by boy scouts",
+      "content": "5. Wrongful exercise of authority by boy scouts (1) No boy scout shall seek or attempt, by virtue of his wearing, carrying or bearing any badge, token or emblem of the Association , or badge, token or emblem purporting or appearing to be such, to enforce or exercise authority otherwise than in accordance with and as authorized by the by-laws or rules of the Association . (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "No person falsely to claim connection with Association",
+      "content": "6. No person falsely to claim connection with Association (1) No person shall form, organize or work in connection with, or be concerned in forming, organizing or working in connection with, any corps or body which without due authority granted under the Royal Charter of the Association claims or purports to be boy scouts or otherwise to be connected with the Association . (2) Any person who contravenes subsection (1) shall be guilty of an offence and liable to a fine not exceeding level three or to imprisonment for a period not exceeding one month or to both such fine and such imprisonment. [subsection as inserted by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "***",
+      "content": "7. *** [section repealed by section 4 of Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Association",
+      "definition": "Association ” means the Boy Scouts Association incorporated under the Royal Charter granted on the 4th January, 1912",
+      "source_provision": "s2"
+    }
+  ]
+}

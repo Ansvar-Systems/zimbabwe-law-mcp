@@ -1,0 +1,751 @@
+{
+  "id": "zw-2017-9",
+  "type": "statute",
+  "title": "Movable Property Security Interests Act",
+  "title_en": "Movable Property Security Interests Act",
+  "short_name": "zw-2017-9",
+  "status": "in_force",
+  "issued_date": "2017-01-01",
+  "in_force_date": "2017-01-01",
+  "url": "https://zimlii.org/akn/zw/act/2017/9/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and date of commencement",
+      "content": "1. Short title and date of commencement (1) This Act may be cited as the Movable Property Security Interests Act [Chapter 14:35] . (2) This Act shall come into operation on a date to be fixed by the President by statutory instrument."
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "Schedule 1, Part 1",
+      "section": "1",
+      "title": "Interpretation in First Schedule",
+      "content": "1. Interpretation in First Schedule In this Schedule— “ designated field ” means the space on the prescribed registry notice form designated for entering the specified type of information; “ intellectual property ” means— (a) a copyright as defined in section 2(1) of the Copyright and Neighbouring Rights Act [Chapter 26:05] ; (b) industrial property rights as defined in section 2(1) of the Industrial Designs Act [Chapter 26-02] ; (c) a trade mark as defined in section 2(1) of the Trade Marks Act [Chapter 26:04] ; and (d) any other rights related to the rights set out in paragraph (a), (b) or (c); “ inventory ” means tangible assets held by the debtor for sale or lease in the ordinary course of his or her business, including raw and semi-processed materials; “ negotiable document ” means a document, such as a warehouse receipt or a bill of lading, that embodies a right to delivery of tangible assets and satisfies the requirements for negotiability; “ negotiable instrument ” means a bill of exchange, cheque and promissory note as defined in the Bills of Exchange Act [Chapter 14:02] and a negotiable certificate of deposit as prescribed in section 20 of the Building Societies Act [Chapter 24:02] ; “ perfected security interest ” means a security interest created by a security agreement and perfected in accordance with paragraph 2; “ registrant ” means the person who submits the prescribed registry notice form to the Collateral Registry. Part II – Creation of security agreement"
+    },
+    {
+      "provision_ref": "s1",
+      "chapter": "Schedule 2, Part I",
+      "section": "1",
+      "title": "Interpretation in Second Schedule",
+      "content": "1. Interpretation in Second Schedule In this schedule— “ acquisition security interest ” means a security interest in a tangible asset or intellectual property, which secures the obligation to pay any unpaid portion of the purchase price of the asset or other credit extended to enable a debtor to acquire it to the extent the credit is used for that purpose; “ attachment to immovable property ” means a tangible asset that, despite being physically affixed to immovable property, is treated as movable property by virtue of not having lost its separate identity, including an installation defined in section 19(2) of the Hire Purchase Act [Chapter 14:09] ; “ certificated securities ” means securities evidenced by a certificate that— (a) provides that the person entitled to the securities is the person in possession of the certificate; or (b) identifies the person entitled to the securities; “ competing claimant ” means a creditor of a debtor or other person with rights in the collateral that may be in competition with the rights of a secured creditor in the same collateral, including— (a) another secured creditor of the debtor who has a security interest in the same collateral; (b) another creditor of the debtor who has a right in the same collateral; (c) the insolvency representative in insolvency proceedings in respect of the debtor; or (d) a buyer or other transferee, lessee or licensee of the collateral; “ consumer goods ” means goods primarily used or intended to be used by the debtor for personal, family or household purposes; “ equipment ” means a tangible asset that is primarily used or intended to be used by the debtor in the operation of his or her business, other than inventory or consumer goods; “ notification of a security interest in a receivable ” means a notice by the debtor or the secured creditor informing the obligor of the receivable that a security interest has been created in the receivable; “ obligor of the receivable ” means a person that owes payment of a receivable, including a guarantor or other person secondarily liable for payment of the receivable; “ uncertificated securities ” means securities not evidenced by a certificate. Part II – Special provisions as to creation and transfer of security interests"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ amendment ” in relation to a notice of a security interest , means an amendment of, or correction of an error with respect to, information contained in a previously registered notice; “ collateral ” means— (a) a movable asset that is subject to a security interest ; or (b) a receivable that is the subject of an outright transfer; “ Collateral Registry ” or “ Registry ” means the system established in terms of section 4 to facilitate registration of notices of security interests in movable property and realisation of such interests in the event of a default; “ debtor ” means— (a) a person who creates a security interest to secure either the person’s own obligation or that of another person; or (b) a buyer or other transferee of the collateral who acquires his or her rights subject to a security interest ; and (c) a transferor under an outright transfer of a receivable ; “ deposit account ” means an account maintained by a financial institution authorised to receive deposits from the public (excluding investment accounts to which securities may be credited); “ financial lease ” means a lease agreement, including a hire-purchase agreement, even if not nominally referred to as a lease, under which, at the end of the lease— (a) the lessee automatically becomes the owner of the asset that is the object of the lease; or (b) the lessee may acquire ownership of the asset by paying no more than a nominal price; or (c) the asset has no more than a nominal residual value; “ fixed date ” means the date fixed in terms of section 1 (2) as the date of commencement of this Act; “ future asset ” means a movable asset which does riot exist or which the debtor does not have rights in or the power to encumber at the time the security agreement is concluded; “ intangible asset ” means any type of movable asset other than a tangible asset; “ Minister ” means the Minister of Finance and Economic Development or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ money ” means bank notes and coins issued by the Reserve Bank of Zimbabwe under the Reserve Bank of Zimbabwe Act [Chapter 22:15] or notes and coins authorised as legal tender by any country; “ movable property ” or “movable asset” means any tangible or intangible property including assets that maybe or are affixed to immovable property; “ notice of security interest ” or “ registered notice” means a notice of a security interest registered in the Registry , and includes an electronic communication to the Registry of information in an initial registered notice, an amendment notice or a cancellation notice; “ proceeds ” means whatever is received in respect of the collateral , including what is received as a result of sale or other disposition or collection, lease or licence of the collateral , civil and natural fruits, insurance proceeds, claims arising from defects in, damage to or loss of the collateral , and proceeds of proceeds; “ receivable ” means a right to payment of a monetary obligation, excluding a right to payment evidenced by a negotiable instrument , a right to payment of funds credited to a deposit account and a right to payment under security; “ registered ” in relation to a security interest , means registered in the Registry ; “ Registrar ” means the Registrar of the Collateral Registry appointed in terms of section 4 (3); “ Registry ” means the Collateral Registry established in terms of section 4 (1); “ Reserve Bank ” means the Reserve Bank of Zimbabwe referred to in section 4 of the Reserve Bank of Zimbabwe Act [Chapter 22:15] (No. 5 of 1999); “ secured creditor ” means— (a) a person that has a security interest ; or (b) a transferee in an outright transfer of a receivable ; “ security interest ” means— (a) a property right in a movable asset that is created by an agreement to secure payment or other performance of an obligation, regardless of whether the parties have denominated it as a security interest, and regardless of the type of asset, the status of the debtor or secured creditor , or the nature of the secured obligation; or (b) the right of the transferee in an outright transfer of a receivable ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Schedule 1, Part II",
+      "section": "2",
+      "title": "Creation and registration of security agreement",
+      "content": "2. Creation and registration of security agreement (1) A debtor may create a security interest by entering into a security agreement with a secured creditor. (2) A debtor must have rights in the asset to be encumbered or the power to encumber it. (3) A security agreement may provide for the creation of a security interest in a future asset. (4) A security agreement must— (a) be in writing, and signed by the secured creditor and the debtor; and (b) identify the secured creditor and the debtor; and (c) except in the case of an agreement that provides for the outright transfer of a receivable or other liquid document, describe the secured obligation, whether by a reference to all obligations or generically or specifically; and (d) describe the collateral as provided in paragraph 4. (5) Subject to paragraph 8, either party to a security agreement may register an initial notice in the Collateral Registry by completing the prescribed form and submitting it to the Registrar. (6) A security agreement entered into and registered in accordance with this paragraph creates a security interest and is enforceable, despite not complying with formalities imposed by other laws."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Schedule 2, Part II",
+      "section": "2",
+      "title": "Right to proceeds",
+      "content": "2. Right to proceeds (1) Subject to paragraph 6 (“Special provisions to secure rights to proceeds”) of the First Schedule, a security interest in an asset includes its identifiable proceeds. (2) Where proceeds in the form of funds credited to a deposit account or money are commingled with other assets of the same kind— (a) the security interest includes the commingled assets, despite the proceeds ceasing to be identifiable; and (b) the security interest in the commingled assets is limited to the value of the proceeds immediately before they were commingled; and (c) if at any time after the commingling, the amount of the balance credited to the deposit account or of the commingled money is less than the amount of the proceeds immediately before they were commingled, the obligation secured by the security interest that is enforceable against the commingled assets is limited to the lowest amount between the time when the proceeds were commingled and the time the security interest in the proceeds is claimed."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. Application (1) Subject to subsection (3), this Act applies to security interests in movable property with a view to registering notices relating to security interests in the Collateral Registry . (2) The kind of security interest that may be created in movable property for the purpose of this Act includes any security interest that may be evidenced or created by means of a chattel mortgage, notarial bond, hypothec, note of hand, charge, secured debenture, pledge, trust indenture, trust receipt, financial lease and any other transaction that secures payment or performance of an obligation. (3) A security interest — (a) in a future asset ; or (b) in an undivided interest in a movable asset or movable property ; or (c) in a part of a movable asset or movable property ; may also be perfected by way of registration of a notice of security interest . (4) Subject to paragraph 7 of the Second Schedule, security interests may be perfected by any formal or informal mode recognised by the common law: Provided that from the fixed date no security interests may be registered by way of a notarial bond in a deeds registry. (5) This Act does not apply to— (a) security interests in book-entry securities held through the Central Securities Depository under the Securities and Exchange Act [Chapter 24:25] ; (b) the creation and transfer of an interest in land, excluding a right to payment that arises in connection with an interest in or a lease of land; (c) a security interest , including a mortgage in a vessel, subject to the Inland Waters Shipping Act [Chapter 13:06] ; (d) a security interest in an aircraft subject to the Civil Aviation Act [Chapter 13:16] (No. 7 of 1998); (e) except as otherwise provided in this Act, a lien, charge or other interest given by statute or rule of law; (f) security interests in proceeds of collateral if the proceeds are a type of asset lying outside the scope of this Act or to the extent that other laws apply to security interests in those types of assets. (6) Nothing in this Act affects the rights and obligations of the debtor and the secured creditor under any law relating to consumer protection. (7) Nothing in this Act overrides a provision of any other law that limits the creation or enforcement of a security interest in, or the transferability of, specific types of asset."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Schedule 1, Part II",
+      "section": "3",
+      "title": "Obligations that may be secured and assets that may be encumbered",
+      "content": "3. Obligations that may be secured and assets that may be encumbered (1) A security interest may secure any type of obligation, present or future, determined or determinable, conditional or unconditional, fixed or fluctuating. (2) A security interest may encumber a movable asset conforming to any one of the following descriptions, or a combination of them— (a) any specific movable asset, or quantity of specific assets, or an asset described by a computational formula; (b) any part of a movable asset or an undivided right in a movable asset; (c) any class, category or type of movable assets; (d) all of a debtor’s movable assets of whatever description, whether the assets are existing or future assets."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Schedule 2, Part II",
+      "section": "3",
+      "title": "Security interests infungibles",
+      "content": "3. Security interests infungibles (1) A security interest in a fungible asset continues after it is commingled with other fungibles of the same kind, and is limited to the value of the collateral immediately before commingling. (2) Where fungibles are commingled with other fungibles of the same kind, and two or more secured creditors had separate security interests in those fungibles before commingling, the secured creditors are entitled to share in the commingled fungibles according to the ratio that the obligation secured by each security interest bears to the sum of the obligations secured by all security interests."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Establishment of Collateral Registry",
+      "content": "4. Establishment of Collateral Registry (1) There is hereby established a Collateral Registry within the Reserve Bank for the purpose of this Act. (2) The Registry consists of the officers, inspectors and employees of the Reserve Bank referred to in section 46 of the Banking Act [Chapter 24:20] . (3) There shall be a Registrar of the Collateral Registry who shall be appointed by the Governor of the Reserve Bank . (4) The Registrar may, with approval of the Governor of the Reserve Bank , delegate to any person referred to in subsection (2) any functions conferred upon him or her by this Act, other than such power of delegation."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Schedule 1, Part II",
+      "section": "4",
+      "title": "Description of collateral",
+      "content": "4. Description of collateral (1) The collateral must be described in the security agreement in a manner that will enable it to be identified with reasonable certainty. (2) A description that indicates that the collateral consists of all of the debtor’s movable assets, or of all of the debtor’s movable assets of a specific description, satisfies the standard of subparagraph (1). (3) Serial-numbered collateral must be described by a serial number, and the make and the name of manufacturer, unless it is held as an inventory. (4) A description reasonably identifies the collateral if it identifies the collateral by describing it in any of the ways referred to in paragraph 3(2)."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Schedule 2, Part II",
+      "section": "4",
+      "title": "Contractual limitations on creation of a security interest",
+      "content": "4. Contractual limitations on creation of a security interest (1) A security interest in a receivable is effective as between the debtor and the secured creditor and as against the obligor of the receivable despite an agreement limiting in any way the debtor’s right to create a security interest entered into between the debtor and the obligor of the receivable or any subsequent secured creditor. (2) Nothing in this paragraph affects any obligation or liability of the debtor for breach of the agreement referred to in subparagraph (1), but the other party to the agreement may not avoid the contract giving rise to the receivable or the security agreement on the sole ground of the breach of that agreement, or raise against the secured creditor any claim it may have as a result of such a breach against the debtor. (3) Any person who is not a party to the agreement referred to in subparagraph (1) shall not be liable for the debtor’s breach of the agreement on the sole ground that he or she had knowledge of the agreement. (4) This paragraph applies only to receivables arising from a contract— (a) that is a contract for the supply or lease of goods or services other than financial services; (b) that is a construction contract or a contract for the sale or lease of immovable property; or (c) for the sale, lease or licensing of industrial or other intellectual property or of proprietary information. (5) A security interest in a right to payment of funds credited to a deposit account is effective despite an agreement between the debtor and the financial institution limiting in any way the debtor’s right to create a security interest."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Purpose and functions of Registry",
+      "content": "5. Purpose and functions of Registry (1) The purpose of the Registry is to facilitate commerce, industry and other socio-economic activities by enabling individuals and businesses to utilise their movable property as collateral for credit. (2) Accordingly the functions of the Registry are— (a) to enable security interests over movable property to be perfected by receiving and storing registered notices with respect to security interests; and (b) to amend or cancel the registered notices of security interests in movable property ; and (c) to make accessible to the public information in registered notices with respect to security interests; and (d) to maintain a database of— (i) relevant information on debtors and secured creditors identified in registered notices; and (ii) relevant information on any movable property subject to registered notices of security interests."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Schedule 1, Part II",
+      "section": "5",
+      "title": "Tangible assets covered by negotiable documents or used in connection with intellectual property rights",
+      "content": "5. Tangible assets covered by negotiable documents or used in connection with intellectual property rights (1) A security interest in a negotiable document includes the tangible asset covered by the document: Provided that the issuer of the document is in possession of the asset at the time the security interest in the document is created. (2) For the avoidance of doubt it is declared that a security interest in a tangible asset in connection with which an intellectual property right is used does not extend to the intellectual property, and a security interest in intellectual property does not extend to a tangible asset in connection with which that intellectual property is used."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Schedule 2, Part II",
+      "section": "5",
+      "title": "Personal or property rights securing or supporting payment or other performance",
+      "content": "5. Personal or property rights securing or supporting payment or other performance (1) A secured creditor with a security interest in a receivable or other intangible asset, or a negotiable instrument, has the benefit of any personal or property right that secures or supports payment or other performance of the collateral without a new act of transfer. (2) If the right referred to in subparagraph (1) is transferable only with a new act of transfer, the debtor must create a security interest in it in favour of the secured creditor."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Registration of notices with respect to movable property security interests",
+      "content": "6. Registration of notices with respect to movable property security interests Conditions for the registration of a notice of a security interest in the Registry shall be as specified in the First Schedule."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Schedule 1, Part II",
+      "section": "6",
+      "title": "Special provisions to secure rights to proceeds",
+      "content": "6. Special provisions to secure rights to proceeds (1) If a security interest in an asset is perfected, a security interest in any proceeds of that asset is perfected without any further action by the debtor or the secured creditor if the proceeds are in the form of money, receivables, negotiable instruments or rights to payment of funds credited to a deposit account. (2) If a security interest in an asset is perfected, a security interest in any type of proceeds of that asset other than the types of proceeds referred to in subparagraph (1) is perfected for ten working days after the proceeds arise or thereafter if, before the expiry of the ten working days, the security interest in the proceeds is perfected by registration in the Collateral Registry. Part III – Registration requirements"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Schedule 2, Part II",
+      "section": "6",
+      "title": "Post-registration transfer of collateral",
+      "content": "6. Post-registration transfer of collateral (1) If a security interest has been perfected and the collateral is transferred to a transferee who acquires its rights subject to the security interest, the security interest remains perfected and retains whatever priority it had over the rights of competing claimants before the transfer: Provided that the secured creditor must register an amendment notice adding the transferee’s identifier and address as a new debtor within ten working days after the secured creditor acquires knowledge of the transfer and the transferee’s identifier. (2) If the secured creditor registers an amendment notice after the expiration of the period indicated in subparagraph (1) or does not register an amendment notice at all— (a) a security interest created by the transferee of such collateral has priority over the security interest to which the amendment notice relates; and (b) a person who buys, leases or licenses the collateral after its transfer but before the registration of the amendment notice acquires its rights free of the security interest to which the amendment notice relates. (3) In the case of successive transfers of the collateral, subparagraphs (1) and (2) apply to the last transfer. Part III – Priorities"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Legal regime pertaining to perfected movable property security interests",
+      "content": "7. Legal regime pertaining to perfected movable property security interests The Second Schedule applies to the legal regime pertaining to registered notices of security interests."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Schedule 1, Part III",
+      "section": "7",
+      "title": "Debtor authorisation for registration",
+      "content": "7. Debtor authorisation for registration (1) Registration of an initial notice is ineffective unless authorised by the debtor in writing. (2) Registration of an amendment notice that adds collateral not included in the security agreement is ineffective unless authorised by the debtor in writing. (3) Registration of an amendment notice that adds a debtor is ineffective unless authorised by the additional debtor in writing. (4) Authorisation may be given before or after registration of a notice. (5) A notice may be registered before the creation of a security interest or the conclusion of a security agreement to which the notice relates. (6) A written security agreement is sufficient to constitute authorisation by the debtor for the registration of a notice."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Schedule 2, Part III",
+      "section": "7",
+      "title": "Competing security interests created by same debtor",
+      "content": "7. Competing security interests created by same debtor (1) Subject to this Part, priority among competing security interests created by the same debtor in the same collateral is determined according to the time of registration of a notice in the Collateral Registry. (2) The priority of a security interest with respect to which a notice has been registered in the Collateral Registry before the conclusion of a security agreement or, in the case of a security interest in a future asset, before the debtor acquires rights in the asset or the power to encumber it, is determined according to the time of registration. (3) A security interest created by the a debtor in a collateral and perfected by registration of a notice in the Collateral Registry has priority over any other security interest created by the same debtor in the same collateral and perfected by any formal or informal mode recognised by common law, regardless of the time of the latter perfection. (4) Priority among competing security interests created by the same debtor in the same collateral and perfected by any formal or informal mode recognised by common law is determined by order of time, with the time of the first perfection having priority over subsequent perfections."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Enforcement of registered notices relating to security interests",
+      "content": "8. Enforcement of registered notices relating to security interests (1) Every registered notice of a security interest is deemed to be a liquid document enforceable by way of provisional sentence proceedings. (2) If the terms of a security agreement creating a security interest so allow, the secured creditor may seize and take custody of the movable asset subjected to the security agreement pending the grant of provisional sentence in relation thereto. (3) Additional provisions on the enforcement of security interests are set forth in Part V of the Second Schedule."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Schedule 1, Part III",
+      "section": "8",
+      "title": "One notice sufficient for security interests under multiple security agreements",
+      "content": "8. One notice sufficient for security interests under multiple security agreements The registration of a single notice may relate to security interests created by the debtor under one or more security agreements with the same secured creditor."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Schedule 2, Part III",
+      "section": "8",
+      "title": "Competing security interests created by different debtors",
+      "content": "8. Competing security interests created by different debtors A security interest created by a debtor is subordinate to a security interest in the same collateral created by another person if, before the debtor acquired the collateral, it was subject to the security interest created and perfected by the other person."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Registered notices and other entries in collateral register to be conclusive proof of rights and obligations",
+      "content": "9. Registered notices and other entries in collateral register to be conclusive proof of rights and obligations (1) Every registered notice or amendment or cancellation thereof and other entry in the Collateral Registry shall be deemed to be the definitive record of any right or obligation recorded therein, and in the event of any inconsistency between such registered notice or entry and any other record of such right kept in terms of any other law, the entry in the Collateral Registry shall prevail as proof of the right or obligation concerned and of any particular thereof. (2) A document purporting to be a certificate issued by the Registrar of the contents of any registered notice or amendment or cancellation thereof and other entry in the Collateral Registry shall be admissible in any proceedings on its production by any person as prima facie evidence of such contents."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Schedule 1, Part III",
+      "section": "9",
+      "title": "Public access",
+      "content": "9. Public access (1) Any person may submit a notice to the Collateral Registry, if such person— (a) has established a user account with the Collateral Registry; and (b) has paid the prescribed fee. (2) An amendment or cancellation notice may only be submitted through the user account and by the person that is authorised to submit such notice under this Act. (3) Any person may submit a search request to the Collateral Registry using the prescribed search request form. (4) If access is refused, the Collateral Registry must communicate the reason to the registrant or searcher promptly."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Schedule 2, Part III",
+      "section": "9",
+      "title": "Irrelevance of knowledge of existence of security interest",
+      "content": "9. Irrelevance of knowledge of existence of security interest The knowledge or lack of knowledge of the existence of a security interest on the part of a secured creditor does not affect its priority under this act."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Exemption from liability of Registrar , Registry and Reserve Bank",
+      "content": "10. Exemption from liability of Registrar , Registry and Reserve Bank No liability shall attach to the Collateral Registry , the Registrar , the Reserve Bank or any other person acting with the authority or under the direction of the Registrar or the Reserve Bank for any loss or damage sustained as a result of the bona fide exercise or performance of any function, power or duty conferred or imposed on the person concerned by this Act: Provided that this section shall not be construed as preventing anyone from recovering damages or compensation in any competent court for loss or damage that was caused by negligence."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Schedule 1, Part III",
+      "section": "10",
+      "title": "Rejection of registration of notice or search request",
+      "content": "10. Rejection of registration of notice or search request (1) The Collateral Registry must reject the registration of a notice if no information is entered in one or more of the required designated fields. (2) The Collateral Registry must reject a search request if no information is entered in one of the fields designated for entering a search criterion. (3) Except as provided in subparagraph (1) or (2), the Collateral Registry may not reject the registration of a notice or a search request. (4) If the registration of a notice or a search request is rejected, the Collateral Registry must communicate the reason to the registrant or searcher without delay."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Schedule 2, Part III",
+      "section": "10",
+      "title": "Future advances and future assets",
+      "content": "10. Future advances and future assets (1) Subject to the rights of non-consensual creditors under paragraph 14, the priority of a security interest applies to all secured obligations, including obligations incurred after the security interest was perfected. (2) The priority of a security interest applies to all collateral described in a notice registered in the Collateral Registry, irrespective of whether it is acquired by the debtor or comes into existence before or after the time of registration."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Regulations",
+      "content": "11. Regulations (1) The Minister may make regulations for, or with respect to, any matter under this Act that is necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act. (2) Without limiting subsection (1), regulations may provide for any of the following matters— (a) the conduct of the business of the Collateral Registry ; or (b) the format of notices to be registered in the Collateral Registry ; or (c) the payment of fees in respect of any matter under Part Ill of the First Schedule; or (d) the provision of copies of any notices registered in the Collateral Registry and the certification of such copies; or (e) penalties for contraventions of the regulations: Provided that no such penalty shall exceed a fine of level fourteen or imprisonment for a period of five years or both such fine and such imprisonment; or (f) any matter in relation to the Collateral Registry ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Schedule 1, Part III",
+      "section": "11",
+      "title": "Information required in initial notice",
+      "content": "11. Information required in initial notice (1) An initial notice must contain the following information in the relevant designated field— (a) the identifier and address of the debtor in accordance with paragraph 13; and (b) the identifier and address of the secured creditor or his or her representative in accordance with paragraph 13; and (c) a description of the collateral in accordance with paragraph 4; and (d) the period of effectiveness of the registration; and (e) any other information as may be prescribed in regulations for statistical purposes only. (2) If there is more than one debtor or secured creditor, the required information must be entered separately for each debtor or secured creditor."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Schedule 2, Part III",
+      "section": "11",
+      "title": "Priority of security interest in proceeds and fungibles",
+      "content": "11. Priority of security interest in proceeds and fungibles (1) If a security interest in proceeds of the collateral is perfected as provided in paragraph 6 of the First Schedule, the priority of the security interest in the proceeds is the same as the priority of the security interest in that asset. (2) Where fungibles are commingled with other fungibles of the same kind, then if there are two or more security interests in the fungibles before they were commingled those interests shall retain the same priority as against each other as they had immediately before the commingling."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Amendment of various Acts",
+      "content": "12. Amendment of various Acts (1) The Insolvency Act [Chapter 6:04] is amended in— (a) section 2 (“Interpretation”) by the insertion of the following subsection after subsection (2) “(3) A reference in this Act to a “notarial bond” shall be construed after the date of commencement of the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017), as a reference to a security interest registered in the Collateral Registry established under that Act.”; (b) section 108 “(Notarial bonds)” by the repeal of paragraph (b) and the substitution of— “(b) any claims proved against the estate which were secured by— (i) a special notarial bond over movables; or (ii) after the date of commencement of the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017), a security interest registered in the Collateral Registry established under that Act;”. (2) The Bills of Exchange Act [Chapter 14:02] is amended in section 76 “(Rights of bankers collecting cheques, not endorsed by holders) by the insertion of the words “security interest or “before “lien”. (3) The Hire Purchase Act [Chapter 14:09] is amended in— (a) section 7 “(Provisions to be included m agreement)” by the repeal of subsections (1)(c) and (3)(a)(i); (b) section 8 “(Invalidity of certain provisions)” by the repeal of subsection (1)(a); (c) section 10 “(Removal of goods)” by the deletion— (i) in subsection (1)(b) of “that, if before the ownership of the goods has passed to the purchaser” and the substitution of “that as long as the security interest remains effective between the parties”; (ii) in subsection (3) of “if the seller of goods under a hire-purchase agreement has given written notice of his ownership thereof to the landlord of the premises where such goods are kept, such” and the substitution of “if the seller of goods under a security agreement has registered a notice in the Collateral Registry established under the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017)”. (4) The Agricultural Finance Corporation Act [Chapter 18:02] is amended in— (a) section 35 “(Notes of hand)” by the insertion after subsection (5) of the following subsection— “(6) This section shall not apply to movable property .”; (b) section 36 “(Security for advance where borrower holds land in terms of agreement with State)” by the insertion after subsection (4) of the following subsection— “(5) This section shall not apply to a security interest in a lease of immovable property.”; (c) section 41 “(Designated property purchased by borrower may become corporation property)” by the insertion after subsection (4) of the following subsection— “(5) The Corporation shall exercise its rights in terms of this section subject to the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017).”. (5) The Grain Marketing Act [Chapter 18:14] is amended in paragraph 22 of the Schedule by the deletion of “To pledge as security for any loan” and the substitution of “To pledge as security for any loan or to create a security interest in”. (6) The Tobacco Industry and Marketing Act [Chapter 18:20] is amended in section 61 (“Establishment of pools”) by the deletion of “pledge as security” and the substitution of “pledge as security or create a security interest in”. (7) The Deeds Registries Act [Chapter 20:05] is amended— (a) in section 5 (“Duties of registrars”) by the repeal of paragraphs (j), (k) and(1); (b) in section 12 (“Registration of land or real right in favour of trustee”) by the deletion of “or a notarial bond” and “or the rights under such notarial bond”; (c) in section 47 (“Exclusion of general clause in mortgage bonds”) by the deletion of”, and shall not register any notarial bond which purports to bind immovable property”; (d) in section 48 (“Passing of bonds in favour of agents”)— (i) in subsection (1) by the deletion of “or notarial bond”; (ii) in subsection (7), in the definition of “participation bond”, by the deletion of “or notarial bond”; (e) by the repeal of section 55; (f) by the repeal of section 69 and the substitution of— “69 No hypothecation of leases and sub-leases No hypothecation of a lease or sub-lease that is immovable property shall be registered in a deeds registry unless such hypothecation is effected by means of a mortgage bond.”; (g) in section 73 (“Transfer of immovable property by executor”) by the insertion of the following subsection, the existing section becoming subsection (1)— “(2) For the avoidance of doubt it is declared that, in relation to cessions of notarial bonds by executors, subsection (1) applies only to such bonds registered with a deeds registry before the date of commencement of the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017).”. (8) The Companies Act [Chapter 24:03] is amended in— (a) section 106 (“Creation and registration of debentures”)— (i) by the deletion from subsection (1) of “movable or”; (ii) by the repeal of subsections (2) and (4); (iii) by the repeal of subsection (5) and the substitution of the following— “(5) Registration of such mortgage bonds and cancellation or cession thereof in whole or in part shall be effected in accordance with the regulations and practice of the Deeds Registry relating to mortgage bonds and when so registered such mortgage bonds shall, as from the date of registration, subject to any prior rights arising out of any bond or debenture previously registered or out of any legal hypothec or right of retention, operate as a first preferential charge in respect of so much of the immovable property of the company as is mentioned and described therein as bound by way of security for the fulfilment of the obligation undertaken by the company thereunder.”; (iv) by the insertion after subsection (7) of the following subsection— “(8) For the avoidance of doubt, any bond registered for purposes of binding movable property in terms of this section shall be effected in terms of the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017).”; (b) section 107 “(Register of mortgages and debentures and register of debenture holder)” by the insertion after subsection (8) of the following subsection— “(9) For the avoidance of doubt, any bond registered for purposes of binding movable property in terms of this section shall be effected in terms of the Movable Property Security Interests Act [Chapter 14:35] (No. 9 of 2017).”. (9) The Co-operative Societies Act [Chapter 24:05] is amended by the repeal of section 30 “Creation of securities in favour of registered societies”) and the substitution of the following— “30 Creation of securities in favour of registered societies Subject to any prior mortgage registered over immovable property, any debt payable to a registered society by any member, past member or deceased member shall be a first charge on all produce of labour and things used in connection with production raised, purchased or produced in whole or in part from any loan, whether in money or in goods, given to him or her by the society: Provided that nothing in this section shall affect the claim of any bona fide purchaser or transferee without notice.”. (10) The Infrastructural Development Bank of Zimbabwe [Chapter 24:14] is amended in— (a) section 17 (“Powers of Bank”) in subsection (1)(a2) by the insertion after “mortgage” of “ security interest ”; (b) in the Schedule— (i) in paragraph 4 by the insertion of “create a security interest in” before “mortgage”; (ii) in paragraph 5 by the insertion of “a security interest ” before “mortgage”. (11) The Banking Act [Chapter 24:20] is amended in section 56 (“Freezing of deposits and investments of banking institutions under curatorship”) in subsection (5) (c) by the deletion of “pledge” and the substitution of “pledge or security interest”."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Schedule 1, Part III",
+      "section": "12",
+      "title": "Debtor identifier and name",
+      "content": "12. Debtor identifier and name (1) Where the debtor is a natural person, the debtor identifier is the unique identification number as may be prescribed in regulations. (2) Where the debtor is a juristic person, the debtor identifier is the unique identification number as may be prescribed in regulations. (3) Where the debtor is a natural person, the debtor name is the name as it appears in the relevant identity document. (4) Where the debtor is a juristic person, the debtor name is the name that appears in the most recent document or law that constitutes that juristic person."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Schedule 2, Part III",
+      "section": "12",
+      "title": "Rights of buyers or other transferees, lessees or licensees of collateral",
+      "content": "12. Rights of buyers or other transferees, lessees or licensees of collateral (1) If the collateral is sold or otherwise transferred, leased or licensed and a security interest in that collateral is perfected at the time of the sale or other transfer, lease or license, a buyer or other transferee, lessee or licensee acquires its rights subject to the security interest except as provided in this paragraph. (2) A buyer or other transferee of the collateral acquires its rights free of the security interest, if the secured creditor authorises the sale or other transfer of the asset free of the security interest. (3) The rights of a lessee or licensee of the collateral are not affected by a security interest if the secured creditor authorises the lease or licence as if unaffected by the security interest. (4) Subject to paragraph 6(1), a buyer in good faith of tangible collateral sold in the ordinary course of the seller’s business acquires his or her rights free of the security interest. (5) The rights of a lessee of tangible collateral leased in good faith in the ordinary course of the lessor’s business are not affected by the security interest. (6) The rights of a non-exclusive licensee of intangible collateral licensed in good faith in the ordinary course of the licensor’s business are not affected by the security interest. (7) If a buyer or other transferee of tangible collateral acquires its rights free of a security interest, any subsequent buyer or other transferee also acquires its rights free of that security interest. (8) If the rights of a lessee of a tangible collateral or licensee of intangible collateral are not affected by the security interest, the rights of any sub-lessee or sub-licensee are also unaffected by that security interest."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Transitional provisions",
+      "content": "13. Transitional provisions (1) In this section— “prior security interest ” means a right covered by a security agreement entered into before the fixed date that is a security interest within the meaning of this Act and to which this Act would have applied if it had been in force at the time when the security interest was created. (2) For the avoidance of doubt it is declared that every prior security interest perfected by a formal or informal mode recognized by common law continues to be legally valid and enforceable. (3) For the avoidance of doubt it is declared that every prior security interest , perfected otherwise than by a formal or informal method recognized by common law, continues to be perfected and retains its priority if a notice in relation thereto is registered in the Collateral Registry within nine months after the fixed date . First Schedule (Section 6) Registration of notices with respect to movable property security interests Part 1 – Preliminary"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Schedule 1, Part III",
+      "section": "13",
+      "title": "Secured creditor identifier",
+      "content": "13. Secured creditor identifier (1) Where the secured creditor is a natural person, the secured creditor identifier is the name of the secured creditor or his or her representative as it appears in any relevant identity document as may be prescribed in regulations. (2) Where the secured creditor is a juristic person, the secured creditor identifier is the name of the secured creditor or its representative that appears in the most recent document or law that constitutes that juristic person."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Schedule 2, Part III",
+      "section": "13",
+      "title": "Impact of debtor’s insolvency or liquidation on priority of a security interest",
+      "content": "13. Impact of debtor’s insolvency or liquidation on priority of a security interest (1) A security interest that is perfected under this Act at the time of the commencement of insolvency or liquidation proceedings with respect to the debtor remains perfected and retains the priority it had before the commencement of the insolvency proceedings, unless another claim has priority pursuant to the insolvency law. (2) For the purpose of insolvency or liquidation proceedings, a security interest perfected by registration shall be deemed to be a special notarial bond over movables, and if the insolvent estate or company under liquidation consists of security interests in the nature of a notarial bond registered in a deeds registry and another or others are perfected by registration in the Collateral Registry; the latter shall have priority over the former."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Schedule 1, Part III",
+      "section": "14",
+      "title": "Description of collateral",
+      "content": "14. Description of collateral (1) The description of the collateral in a registered notice must conform to the requirements of paragraph 4. (2) If the registered notice describes the collateral in a manner that exceeds the description of that collateral in the security agreement, the security interest in the referenced assets is deemed not to have been perfected. (3) Reference to an asset in a registered notice does not imply or represent that the debtor presently has or in the future will have rights in the asset."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Schedule 2, Part III",
+      "section": "14",
+      "title": "Rights of non-consensual creditors",
+      "content": "14. Rights of non-consensual creditors (1) The right of a non-consensual creditor has priority over a security interest if, before the security interest is perfected, the non-consensual creditor has registered a notice in the Collateral Registry. (2) If a security interest is perfected before the non-consensual creditor registers a notice in the Collateral Registry, the security interest has priority but that priority is limited to credit extended by the secured creditor— (a) within thirty working days from the time the secured creditor received a notification from the non-consensual creditor that the non-consensual creditor has registered a notice in the Collateral Registry; or (b) pursuant to an irrevocable commitment in a fixed amount or an amount to be fixed pursuant to a specified formula of the secured creditor to extend credit, if the commitment was made before the secured creditor received a notification from the non-consensual creditor that the non-consensual creditor had registered a notice. (3) A possessory lien on goods which secures payment or performance of an obligation for services or materials furnished with respect to goods by a person in the ordinary course of the person’s business has priority over a security interest in the goods as long as the holder of the possessory lien remains in possession of the goods."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Schedule 1, Part III",
+      "section": "15",
+      "title": "Language of information in notice",
+      "content": "15. Language of information in notice With the exception of the names and addresses of the debtor and the secured creditor or his or her representative, the information contained in a registered notice must be in english or other language as may be prescribed in regulations or any other law."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Schedule 2, Part III",
+      "section": "15",
+      "title": "Non-acquisition security interests competing with acquisition security interests",
+      "content": "15. Non-acquisition security interests competing with acquisition security interests An acquisition security interest in consumer goods, equipment, inventory, or intellectual property has priority over a competing non-acquisition security interest created by the debtor: Provided that a notice with respect to the acquisition security interest is registered in the Collateral Registry before the debtor obtains possession of the asset or acquires a right in intellectual property."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Schedule 1, Part III",
+      "section": "16",
+      "title": "Time of effectiveness of registration of notice",
+      "content": "16. Time of effectiveness of registration of notice (1) The Collateral Registry must assign a unique registration number to a registered initial notice. (2) The registration of an initial, amendment or cancellation notice is effective from the date and time when the information in the notice is entered into the records of the Collateral Registry so as to be accessible to searchers. (3) The Collateral Registry must enter information in a notice into its records without delay after the notice is submitted and in the order in which each notice was submitted. (4) The Collateral Registry must record the date and time when the information in a notice is entered into its records so as to be accessible to searchers."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Schedule 2, Part III",
+      "section": "16",
+      "title": "Competing acquisition security interests",
+      "content": "16. Competing acquisition security interests (1) Subject to subparagraph (2), the priority between competing acquisition security interests is determined in accordance with paragraph 7. (2) An acquisition security interest of a seller or financial lessor has priority over a competing acquisition security interest of a secured creditor other than a seller or financial lessor."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Schedule 1, Part III",
+      "section": "17",
+      "title": "Period of effectiveness of registration of notice",
+      "content": "17. Period of effectiveness of registration of notice (1) The registration of an initial notice is effective for the period of time indicated by the registrant in the designated field of the notice. (2) The period of effectiveness of the registration of an initial notice may be extended only within six months before its expiry by the registration of an amendment notice that indicates in the designated field a new period. (3) The period of effectiveness of the registration of an initial notice may be extended more than once. (4) The registration of an amendment notice extends the period of effectiveness for the period indicated in the amendment notice beginning from the time the current period would have expired if the amendment notice had not been registered."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Schedule 2, Part III",
+      "section": "17",
+      "title": "Acquisition security interests in proceeds",
+      "content": "17. Acquisition security interests in proceeds (1) In the case of an acquisition security interest in equipment, a security interest in proceeds has the same priority as the acquisition security interest. (2) In the case of an acquisition security interest in inventory or intellectual property a security interest in proceeds has the same priority as the acquisition security interest, except where the proceeds take the form of receivables, negotiable instruments, or rights to payment of funds credited to a deposit account. (3) The priority of a security interest in proceeds referred to in subparagraph (2) is conditional on the acquisition secured creditor notifying non-acquisition secured creditors with a security interest in the same kind of asset as the proceeds that, before the proceeds arose, the acquisition secured creditor registered a notice in the Collateral Registry."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Schedule 1, Part III",
+      "section": "18",
+      "title": "Obligation to send copy of registered notice",
+      "content": "18. Obligation to send copy of registered notice Not later than five working days after the registration of a notice, the collateral registry must send to the registrant a copy of the information in a registered notice, indicating— (a) the date and time when the registration became effective; and (b) the registration number."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Schedule 2, Part III",
+      "section": "18",
+      "title": "Acquisition security interests infungibles",
+      "content": "18. Acquisition security interests infungibles An acquisition security interest in an asset extends to the fungible, and has priority over a non-acquisition security interest granted by the same debtor in the fungibles with which the first-mentioned asset is commingled."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Schedule 1, Part III",
+      "section": "19",
+      "title": "Amendment and cancellation notices",
+      "content": "19. Amendment and cancellation notices (1) Subject to subparagraph (2), the person identified in a registered initial notice as the secured creditor may register an amendment or cancellation notice relating to that notice. (2) Upon registration of an amendment notice changing the person identified in a registered initial notice as the secured creditor, only the person identified in the amendment notice as the secured creditor may register an amendment or cancellation notice. (3) The registration of an amendment or cancellation notice is ineffective unless authorised by the person identified in the registered initial or amendment notice as the secured creditor. (4) An amendment notice must contain in the relevant designated field— (a) the registration number; and (b) the information to be added or otherwise modified. (5) An amendment notice may relate to one or more than one item of information in a registered notice. (6) A cancellation notice must contain in the designated field the registration number to which the cancellation relates. (7) When a notice of any security interest is or has been registered in favour of a trustee in his or her capacity as such, such registration shall be sufficient to vest successors in office of that trustee with the rights attaching to such security interest, and it shall not be necessary to register an amendment to the registered notice of the security interest."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Schedule 2, Part III",
+      "section": "19",
+      "title": "Subordination",
+      "content": "19. Subordination (1) A person may at any time subordinate the priority of his or her rights under this Act in favour of any existing or future competing claimant without the need for the beneficiary to be a party to the subordination. (2) Subordination does not affect the rights of competing claimants other than the person subordinating his or her priority and the beneficiary of the subordination."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Schedule 1, Part III",
+      "section": "20",
+      "title": "Compulsory registration of amendment or cancellation notice",
+      "content": "20. Compulsory registration of amendment or cancellation notice (1) A secured creditor must register an amendment notice if— (a) the registered notice to which it relates contains information that exceeds the scope of the debtor’s authorisation; or (b) the security agreement to which the registered notice relates has been revised to delete some collateral and the debtor has not otherwise authorised the registration. (2) A secured creditor must register a cancellation notice if— (a) the registration of an initial notice was not authorised by the debtor; or (b) the registration of an initial notice was authorised by the debtor but the authorisation has been withdrawn and no security agreement has been concluded; or (c) the security interest to which the notice relates has been terminated and the secured creditor has no further commitment to provide value to the debtor. (3) A secured creditor may not charge or accept any fee or expense for complying with his or her obligation under subparagraph (1)(a) or (2)(a). (4) If any of the conditions set out in subparagraphs (1) and (2) are met, the debtor is entitled to request the secured creditor in writing to register an amendment or cancellation notice and the secured creditor may not charge or accept any fee or expense therefor. (5) If the secured creditor does not comply with the debtor’s written request referred to in subparagraph (4) within ten working days after its receipt, the debtor is entitled to seek the registration of an amendment or cancellation notice through a summary judicial or administrative procedure."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Schedule 2, Part III",
+      "section": "20",
+      "title": "Transferees of negotiable instruments, funds, money, negotiable documents and securities",
+      "content": "20. Transferees of negotiable instruments, funds, money, negotiable documents and securities (1) A consensual transferee of a negotiable instrument acquires its rights free of the security interest that is perfected by registration of a notice in the Collateral Registry if the consensual transferee— (a) qualifies as a holder in due course under the Bills of Exchange Act [Chapter 14:02] ; or (b) takes possession of the negotiable instrument and gives value without knowledge that the sale or other transfer is in violation of the rights of the secured creditor under the security agreement. (2) A depositary institution’s right to set off obligations owed to it by the debtor has priority as against a security interest in the right to payment of funds credited to the deposit account. (3) A transferee of funds from a deposit account pursuant to a transfer initiated or authorised by the debtor acquires his or her rights free of a security interest in the right to payment of funds credited to the deposit account, unless the transferee has knowledge that the transfer violates the rights of the secured creditor under the security agreement. (4) A transferee that obtains possession of money that is subject to a security interest acquires his or her rights free of the security interest, unless that transferee has knowledge that the transfer violates the rights of the secured creditor under the security agreement. (5) A transferee of a negotiable document who takes possession of the negotiable document and gives value without knowledge that the sale or other transfer is in violation of the rights of the secured creditor under the security agreement, acquires his or her rights free of a security interest in the negotiable document and the tangible assets covered thereby that is perfected under this Act. (6) A transferee of securities who takes possession of the certificated security or acquires rights in an uncertificated security and gives value without knowledge that the sale or other transfer is in violation of the rights of the secured creditor under the security agreement acquires his or her tights free of a security interest. Part IV – Rights and obligations of parties and third-party obligers"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Schedule 1, Part III",
+      "section": "21",
+      "title": "Search results",
+      "content": "21. Search results (1) Upon submission of a search request that satisfies the requirements of this Part, the Registrar must, without delay, provide a search result that indicates the date and time when the search was performed and— (a) set forth all information in each registered notice that contains information matching the search criterion exactly; or (b) indicate that no registered notice contains information matching the search criterion exactly. (2) Upon request by a searcher, the Registrar must issue an official search certificate indicating the search result. (3) A written search result issued by the Registrar is proof of its contents in the absence of evidence to the contrary."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Schedule 2, Part IV",
+      "section": "21",
+      "title": "Obligations of debtors and secured creditors in relation to collateral",
+      "content": "21. Obligations of debtors and secured creditors in relation to collateral (1) A debtor or secured creditor in possession of the collateral must exercise reasonable care to preserve the asset. (2) Upon termination of a security interest in the collateral— (a) the secured creditor in possession of such collateral must return it to the debtor; and (b) the secured creditor not in possession of such collateral must register an amendment or cancellation notice as provided in paragraph 20 of the First Schedule."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Schedule 1, Part III",
+      "section": "22",
+      "title": "Errors in required information entered in notice",
+      "content": "22. Errors in required information entered in notice (1) An error in the debtor identifier renders the registration of the notice ineffective. (2) An error in the debtor identifier does not render the registration of the notice ineffective with respect to other debtors correctly identified in the registered notice. (3) An error in required information other than the debtor’s identifier does not render the registration of the notice ineffective unless the error would seriously mislead a reasonable searcher. (4) Any error in the statistical information that may be prescribed by regulations does not affect the effectiveness of the registration of the notice. (5) An error in the description of the collateral does not render the registration of the notice ineffective with respect to other collateral sufficiently described. (6) An error in the serial number of the serial-numbered collateral renders the registration ineffective as against a buyer or lessee of that asset."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Schedule 2, Part IV",
+      "section": "22",
+      "title": "Rights of debtors and secured creditors in relation to collateral and secured obligations",
+      "content": "22. Rights of debtors and secured creditors in relation to collateral and secured obligations (1) A secured creditor in possession of the collateral has the right— (a) to be reimbursed and add to the secured obligation any reasonable expenses he or she incurs for the preservation of the asset, including the cost of insurance, payment of taxes and other charges; (b) to make reasonable use of the asset and apply the revenues it generates to the payment of the secured obligation. (2) A secured creditor has the right to inspect the collateral in the possession of the debtor or another person. (3) A debtor is entitled to request the secured creditor to provide information with regard to the secured obligation or the collateral. (4) Within five working days after receipt of a written request for information, a secured creditor must provide to the debtor— (a) a statement of account that provides an accounting of the unpaid obligations secured by the collateral; (b) a statement indicating the collateral in which the secured creditor claims a security interest; or (c) a statement that both provides an accounting of the unpaid obligations secured by the collateral and identifies the collateral subject to a security interest. (5) A debtor is entitled without charge to one response to a request during any three-month period. (6) The secured creditor may require payment of a charge not exceeding the amount as may be prescribed in regulations for each additional response."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Schedule 1, Part III",
+      "section": "23",
+      "title": "Transfer of security interest",
+      "content": "23. Transfer of security interest (1) If the secured creditor transfers a security interest or a part thereof, the secured creditor may register an amendment notice to reflect the transfer. (2) A transfer of a security interest is effective whether or not an amendment notice has been registered."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Schedule 2, Part IV",
+      "section": "23",
+      "title": "Protection of obligor of receivable",
+      "content": "23. Protection of obligor of receivable Except as otherwise provided in this act, the creation of a security interest in a receivable does not affect the rights and obligations of the obligor of the receivable, including the payment terms contained in the contract giving rise to the receivable."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Schedule 1, Part III",
+      "section": "24",
+      "title": "Integrity of information in the Collateral Registry",
+      "content": "24. Integrity of information in the Collateral Registry (1) The Registrar may not amend or delete information contained in any registered notice, and the registration of an amendment or cancellation notice must be effected in such a manner as to preserve the information contained in the initial notice. (2) The Registrar must preserve all the information contained in the records of the Collateral Registry and reconstruct it in the event of loss or damage. (3) The Collateral Registry may remove information in a registered notice from the Register only upon the expiry of the period of effectiveness of the registration of the notice. (4) The Registrar must archive information removed from the Registry records for ten years in a manner that enables the information to be retrieved in accordance with paragraph 21."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Schedule 2, Part IV",
+      "section": "24",
+      "title": "Notification of security interest and payment of receivable",
+      "content": "24. Notification of security interest and payment of receivable (1) Notification of a security interest in a receivable is effective when received by the obligor of the receivable if it reasonably identifies the encumbered receivable and the secured creditor. (2) Notification of a security interest in a receivable may relate to receivables arising after notification. (3) Until the obligor of the receivable receives notification of a security interest in a receivable, it is discharged by paying it in accordance with the original contract; whereafter if the obligor of the receivable receives notification of a security interest in a receivable, it is discharged only by paying the secured creditor; unless otherwise instructed in the notification or subsequently by the secured creditor in writing received by the obligor of the receivable. (4) If the obligor of the receivable receives notification of more than one security interest in the same receivable created by the same debtor, it is discharged by paying it in accordance with the first notification received. (5) The obligor of the receivable is entitled to request the secured creditor to provide him or her, within a reasonable period of time, adequate proof that the security interest in a receivable has been created. (6) Until the secured creditor complies with subparagraph (5), the obligor of the receivable may discharge his or her obligation by paying the debtor, even if the obligor of the receivable has received a notification of a security interest."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Schedule 1, Part III",
+      "section": "25",
+      "title": "Collateral Registry fees",
+      "content": "25. Collateral Registry fees The collateral registry may charge the prescribed fees for the registration, amendment or cancellation of any notice. Second Schedule (Section 7) Legal regime pertaining to perfected movable property security interests Part I – Preliminary"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Schedule 2, Part IV",
+      "section": "25",
+      "title": "Defences and rights of set-off of obligor of receivable",
+      "content": "25. Defences and rights of set-off of obligor of receivable (1) In a claim by the secured creditor against the obligor of the receivable for payment of the encum- bered receivable, the obligor of the receivable may raise against the secured creditor— (a) all defences and rights of set-off arising from the contract giving rise to the receivable, or any other contract that was part of the same transaction, of which the obligor of the receivable could avail himself or herself as if the security interest had not been created and the claim were made by the debtor; and (b) any other right of set-off that was available to the obligor of the receivable at the time it received notification of the security interest. (2) Notwithstanding subparagraph (1), the obligor of the receivable may not raise a defence or right of set-off based upon the debtor’s breach of an agreement referred to in paragraph 4 limiting in any way the debtor’s right to create the security interest. (3) The obligor of the receivable may agree with the debtor in a signed agreement not to raise against the secured creditor the defences and rights of set-off referred to in subparagraph (1). (4) The obligor of the receivable may not waive defences arising from fraudulent acts on the part of the secured creditor or based on his or her own incapacity."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Schedule 2, Part IV",
+      "section": "26",
+      "title": "Modification of original agreement",
+      "content": "26. Modification of original agreement An agreement concluded before notification of a security interest in a receivable created by a security agreement between the debtor and the obligor of the receivable that affects the secured creditor’s rights is effective as against the secured creditor, and the secured creditor acquires corresponding rights."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Schedule 2, Part IV",
+      "section": "27",
+      "title": "Entitlement to damages for breach of obligation",
+      "content": "27. Entitlement to damages for breach of obligation (1) If a person fails to discharge any duty or obligation imposed by this Act, the person to whom the duty or obligation is owed or any other person who can reasonably be expected to rely on performance of the duty or obligation shall have a right to recover damages for any loss or damage that was reasonably foreseeable as likely to result from the failure. (2) Nothing in subparagraph (1) shall limit or affect any liability that a person may incur under any law other than this Act. (3) In addition to the damages payable under subparagraphs (1) and (2), any person who registers a notice without authorisation of the debtor shall be responsible to pay to the debtor the statutory damages as may be prescribed."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Schedule 2, Part IV",
+      "section": "28",
+      "title": "Recovery of payments made by obligor of receivable",
+      "content": "28. Recovery of payments made by obligor of receivable The failure of— (a) the debtor; or (b) the transferor of the receivable in the case of an outright transfer of a contractual receivable; to perform the contract giving rise to a receivable does not entitle the obligor of the receivable to recover from the secured creditor a sum paid by the obligor of the receivable to the debtor or the secured creditor."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Schedule 2, Part IV",
+      "section": "29",
+      "title": "Rights as against financial institution that maintains deposit account",
+      "content": "29. Rights as against financial institution that maintains deposit account (1) The creation of a security interest in a right to payment of funds credited to a deposit account does not affect the rights and obligations of the financial institution at which that deposit account is maintained without its consent, nor does it obligate the financial institution to provide any information about that deposit account to third parties. (2) Any rights of set-off that the financial institution may have are not affected by any security interest that the financial institution may have in a right to payment of funds credited to a deposit account maintained with the financial institution. Part V – Enforcement of security interest"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Schedule 2, Part V",
+      "section": "30",
+      "title": "Post-default rights",
+      "content": "30. Post-default rights (1) After the failure to pay or otherwise perform the secured obligation, the debtor and the secured creditor are entitled to exercise— (a) any right under the provisions of this Part; or (b) any right provided in the security agreement; or (c) any right provided under any other law, except to the extent it is inconsistent with the provisions of this Act. (2) The exercise of a post-default right with respect to the collateral does not prevent the exercise of a post-default right with respect to the secured obligation, and vice versa. (3) The debtor and borrower may not waive unilaterally or vary by agreement any of his or her rights under the provisions of this Part before default."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Schedule 2, Part V",
+      "section": "31",
+      "title": "Enforcement against attachments to immovable property",
+      "content": "31. Enforcement against attachments to immovable property If an obligation is secured by both a movable and immovable property of a debtor, the secured creditor may elect to enforce— (a) the security interest in the movable asset under the provisions on enforcement of a security interest in a movable asset and the encumbrance on the immovable property under the law governing enforcement of encumbrances on immovable property; or (b) both rights under the law governing enforcement of encumbrances on immovable property."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Schedule 2, Part V",
+      "section": "32",
+      "title": "Right of redemption",
+      "content": "32. Right of redemption (1) Any person whose rights are affected by the enforcement process in accordance with the provisions of this Part is entitled to redeem the collateral by paying or otherwise performing the secured obligation in full, including the reasonable cost of enforcement. (2) The right of redemption may be exercised until the asset is sold or otherwise disposed of, acquired or collected by the secured creditor or until the conclusion of an agreement by the secured creditor for that purpose."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Schedule 2, Part V",
+      "section": "33",
+      "title": "Right of higher-ranking secured creditor to take over enforcement",
+      "content": "33. Right of higher-ranking secured creditor to take over enforcement (1) Notwithstanding commencement of enforcement by another secured creditor or a nonconsensual creditor, a secured creditor whose security interest has priority over that of the enforcing secured creditor or non-consensual creditor is entitled to take over the enforcement process at any time before the asset is sold or otherwise disposed of, or acquired by the secured creditor or until the conclusion of an agreement by the secured creditor for that purpose. (2) The right of the higher-ranking secured creditor to take over the enforcement process includes the right to enforce by any method available to a secured creditor under this Act. (3) Before commencement of enforcement, a non-consensual creditor must notify any secured creditor that registered a notice against the debtor with respect to the collateral against which enforcement is sought. (4) The secured creditor may within five working days after receiving the notification inform the non-consensual creditor of his or her intention to take over enforcement. (5) The non-consensual creditor may not take any enforcement action before the expiration of the time period referred to in subparagraph (4)."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Schedule 2, Part V",
+      "section": "34",
+      "title": "Acquisition of collateral in total or partial satisfaction of secured obligation",
+      "content": "34. Acquisition of collateral in total or partial satisfaction of secured obligation (1) The secured creditor may propose in writing to acquire one or more of the collaterals in total or partial satisfaction of the secured obligation. (2) The secured creditor must send the proposal to— (a) the debtor; (b) the borrower but only in the case of a proposal to accept the collateral in partial satisfaction of the secured obligation; (c) any person with rights in the collateral that has notified in writing the secured creditor of those rights, at least five working days before the proposal is sent to the debtor or the debtor waived the right to receive the proposal; and (d) any other secured creditor that registered a notice with respect to the collateral, at least five working days before the proposal is sent to the debtor or the debtor waived the right to receive the proposal. (3) The proposal must— (a) identify the secured creditor and debtor; (b) specify the amount owed as of the date the proposal is sent, including interest and the cost of enforcement, and the amount of the obligation that is proposed to be satisfied by acquiring the collateral, whether the secured creditor proposes to acquire the collateral in total or partial satisfaction of the secured obligation; (c) describe the collateral, refer to the right to redeem the collateral as provided in paragraph 32; (d) state the date after which the collateral will be acquired by the secured creditor. (4) The secured creditor acquires the collateral— (a) in the case of a proposal for the acquisition of the collateral in full satisfaction of the secured obligation, unless the secured creditor receives an objection in writing from any person entitled to receive such a proposal within fifteen working days after the proposal is sent to that person; and (b) in the case of a proposal for the acquisition of the collateral in partial satisfaction of the secured obligation, only if the secured creditor receives the affirmative consent of each addressee of the proposal in writing within fifteen working days after the proposal is sent to that person. (5) The debtor may make a proposal in accordance with subparagraph (1) and if the secured creditor accepts it, the secured creditor must proceed as provided in subparagraphs (2), (3) and (4) but is not obliged to send a proposal to the debtor."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Schedule 2, Part V",
+      "section": "35",
+      "title": "Collection of payment under receivable, negotiable instrument, right to payment of funds credited to deposit account or security",
+      "content": "35. Collection of payment under receivable, negotiable instrument, right to payment of funds credited to deposit account or security (1) After default, a secured creditor with a security interest in a receivable, negotiable instrument, right to payment of funds credited to a deposit account or security is entitled to collect payment from the obligor of the receivable, obligor under the negotiable instrument, financial institution or issuer of the security. (2) The secured creditor may exercise the right to collect under subparagraph (1) even before default with the consent of the debtor. (3) A secured creditor exercising the right to collect under subparagraph (1) or (2) is also entitled to enforce any personal or property right that secures or supports payment of the collateral. (4) The right of the secured creditor to collect under subparagraphs (1), (2) and (3) is subject to paragraphs 23 to 26."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Schedule 2, Part V",
+      "section": "36",
+      "title": "Collection of payment under receivable by outright transferee",
+      "content": "36. Collection of payment under receivable by outright transferee In the case of an outright transfer of a receivable, the transferee is entitled to collect the receivable before or after default of the transferor. Part VI – Applicable law"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Schedule 2, Part VI",
+      "section": "37",
+      "title": "Law applicable to mutual rights and obligations",
+      "content": "37. Law applicable to mutual rights and obligations The law applicable to the mutual rights and obligations of the debtor and the secured creditor arising from their security agreement is the law chosen by them and, in the absence of a choice of law, the law governing the security agreement."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Schedule 2, Part VI",
+      "section": "38",
+      "title": "Law applicable to security interest in tangible asset",
+      "content": "38. Law applicable to security interest in tangible asset (1) Except as otherwise provided in this paragraph, the law applicable to the creation, perfection and priority of a security interest in a tangible asset is the law of the country in which the asset is located. (2) The law applicable to the creation, perfection and priority of a security interest in a tangible asset of a type ordinarily used in more than one country is the law of the country in which the debtor is located."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Schedule 2, Part VI",
+      "section": "39",
+      "title": "Law applicable to security interest in intangible asset",
+      "content": "39. Law applicable to security interest in intangible asset (1) The law applicable to the creation, perfection and priority of a security interest in an intangible asset is the law of the country in which the debtor is located. (2) The law applicable to the creation, perfection, priority and enforcement of a security interest in a right to payment of funds credited to a deposit account, as well as to the rights and obligations between the financial institution and the secured creditor— (a) is the law of the country in which the financial institution with which the account is maintained has its place of business; (b) where the financial institution has places of business in more than one country, the law applicable is the law of the country in which the branch maintaining the account is located. (3) The law applicable to the creation, perfection and priority of a security interest in an equity security is the law of the country in which the issuer is located and the law applicable to the creation, perfection and priority of a security interest in a debt security is the law of the country governing the securities. (4) The law applicable to the creation, perfection and priority of a security interest in intellectual property is the law of the country in which the intellectual property is protected."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Schedule 2, Part VI",
+      "section": "40",
+      "title": "Law applicable to enforcement of security interest",
+      "content": "40. Law applicable to enforcement of security interest The law applicable to issues relating to the enforcement of a security interest— (a) in a tangible asset is the law of the country where the relevant act of enforcement takes place; and (b) in an intangible asset is the law of the country where the debtor is located."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Schedule 2, Part VI",
+      "section": "41",
+      "title": "Law applicable to security interest in proceeds of collateral",
+      "content": "41. Law applicable to security interest in proceeds of collateral (1) The law applicable to the creation of a security interest in proceeds is the law applicable to the creation of the security interest in the original collateral from which the proceeds arose. (2) The law applicable to perfection and priority of a security interest in proceeds is the law applicable to perfection and priority of a security interest in the original collateral of the same kind as the proceeds."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Schedule 2, Part VI",
+      "section": "42",
+      "title": "Meaning of location of debtor",
+      "content": "42. Meaning of location of debtor For the purposes of this part, the debtor is located— (a) in the case of a natural person, if the debtor does not have a place of business, in the country in which the debtor is ordinarily resident; (b) in the case of a juristic person— (i) in the country in which it has its place of business, if any: or (ii) if the debtor has a place of business in more than one country, in the country in which the central administration of the debtor is exercised."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Schedule 2, Part VI",
+      "section": "43",
+      "title": "Relevant time for determining location",
+      "content": "43. Relevant time for determining location (1) Except as provided in subparagraph (2), references to the location of the collateral or of the debtor in this Part— (a) refer to the location at the time the security interest is created, if the creation of the security interest is in issue; or (b) refer to the location at the time the security interest is perfected or the priority over it is determined, if the perfection of the security interest or the priority over it among competing secured creditors is in issue. (2) If the rights of all competing secured creditors in the collateral are created and perfected and the rights of all other competing claimants are established before a change in the location of the collateral or the debtor, references in this Part to the location of the collateral or of the debtor with respect to the perfection of the security interest or the priority over it among competing secured creditors and other claimants, refer to the location prior to the change in location."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Schedule 2, Part VI",
+      "section": "44",
+      "title": "Law applicable to relationship of third parties and secured creditors",
+      "content": "44. Law applicable to relationship of third parties and secured creditors The law applicable to the relationship between the debtor of a security interest in a receivable, negotiable instrument or negotiable document and the obligor of the receivable, the obligor under the negotiable instrument or the issuer of the negotiable document is the law applicable to— (a) the relationship between the obligor of the receivable, the obligor under the instrument or the issuer of the document and the holder of a security interest in the receivable, instrument or document; and (b) the conditions under which a security interest in the receivable, instrument or document may be invoked against the obligor of the receivable, the obligor under the instrument or the issuer of the document, including whether an agreement limiting the debtor’s right to create a security interest may be asserted by the obligor of the receivable, the obligor under the instrument or the issuer of the document; and (c) whether the obligations of the obligor of the receivable, the obligor under the instrument or the issuer of the document have been discharged."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "amendment",
+      "definition": "amendment ” in relation to a notice of a security interest , means an amendment of, or correction of an error with respect to, information contained in a previously registered notice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Collateral Registry",
+      "definition": "Collateral Registry ” or “ Registry ” means the system established in terms of section 4 to facilitate registration of notices of security interests in movable property and realisation of such interests in the event of a default",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deposit account",
+      "definition": "deposit account ” means an account maintained by a financial institution authorised to receive deposits from the public (excluding investment accounts to which securities may be credited)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fixed date",
+      "definition": "fixed date ” means the date fixed in terms of section 1 (2) as the date of commencement of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "future asset",
+      "definition": "future asset ” means a movable asset which does riot exist or which the debtor does not have rights in or the power to encumber at the time the security agreement is concluded",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intangible asset",
+      "definition": "intangible asset ” means any type of movable asset other than a tangible asset",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Finance and Economic Development or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "money",
+      "definition": "money ” means bank notes and coins issued by the Reserve Bank of Zimbabwe under the Reserve Bank of Zimbabwe Act [Chapter 22:15] or notes and coins authorised as legal tender by any country",
+      "source_provision": "s2"
+    },
+    {
+      "term": "movable property",
+      "definition": "movable property ” or “movable asset” means any tangible or intangible property including assets that maybe or are affixed to immovable property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "notice of security interest",
+      "definition": "notice of security interest ” or “ registered notice” means a notice of a security interest registered in the Registry , and includes an electronic communication to the Registry of information in an initial registered notice, an amendment notice or a cancellation notice",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proceeds",
+      "definition": "proceeds ” means whatever is received in respect of the collateral , including what is received as a result of sale or other disposition or collection, lease or licence of the collateral , civil and natural fruits, insurance proceeds, claims arising from defects in, damage to or loss of the collateral , and proceeds of proceeds",
+      "source_provision": "s2"
+    },
+    {
+      "term": "receivable",
+      "definition": "receivable ” means a right to payment of a monetary obligation, excluding a right to payment evidenced by a negotiable instrument , a right to payment of funds credited to a deposit account and a right to payment under security",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered",
+      "definition": "registered ” in relation to a security interest , means registered in the Registry",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "Registrar ” means the Registrar of the Collateral Registry appointed in terms of section 4 (3)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registry",
+      "definition": "Registry ” means the Collateral Registry established in terms of section 4 (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Reserve Bank",
+      "definition": "Reserve Bank ” means the Reserve Bank of Zimbabwe referred to in section 4 of the Reserve Bank of Zimbabwe Act [Chapter 22:15] (No. 5 of 1999)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "collateral",
+      "definition": "collateral ” means— (a) a movable asset that is subject to a security interest ; or (b) a receivable that is the subject of an outright transfer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "debtor",
+      "definition": "debtor ” means— (a) a person who creates a security interest to secure either the person’s own obligation or that of another person; or (b) a buyer or other transferee of the collateral who acquires his or her rights subject to a security interest ; and (c) a transferor under an outright transfer of a receivable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial lease",
+      "definition": "financial lease ” means a lease agreement, including a hire-purchase agreement, even if not nominally referred to as a lease, under which, at the end of the lease— (a) the lessee automatically becomes the owner of the asset that is the object of the lease; or (b) the lessee may acquire ownership of the asset by paying no more than a nominal price; or (c) the asset has no more than a nominal residual value",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secured creditor",
+      "definition": "secured creditor ” means— (a) a person that has a security interest ; or (b) a transferee in an outright transfer of a receivable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security interest",
+      "definition": "security interest ” means— (a) a property right in a movable asset that is created by an agreement to secure payment or other performance of an obligation, regardless of whether the parties have denominated it as a security interest, and regardless of the type of asset, the status of the debtor or secured creditor , or the nature of the secured obligation; or (b) the right of the transferee in an outright transfer of a receivable",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated field",
+      "definition": "designated field ” means the space on the prescribed registry notice form designated for entering the specified type of information",
+      "source_provision": "s1"
+    },
+    {
+      "term": "inventory",
+      "definition": "inventory ” means tangible assets held by the debtor for sale or lease in the ordinary course of his or her business, including raw and semi-processed materials",
+      "source_provision": "s1"
+    },
+    {
+      "term": "negotiable document",
+      "definition": "negotiable document ” means a document, such as a warehouse receipt or a bill of lading, that embodies a right to delivery of tangible assets and satisfies the requirements for negotiability",
+      "source_provision": "s1"
+    },
+    {
+      "term": "negotiable instrument",
+      "definition": "negotiable instrument ” means a bill of exchange, cheque and promissory note as defined in the Bills of Exchange Act [Chapter 14:02] and a negotiable certificate of deposit as prescribed in section 20 of the Building Societies Act [Chapter 24:02]",
+      "source_provision": "s1"
+    },
+    {
+      "term": "perfected security interest",
+      "definition": "perfected security interest ” means a security interest created by a security agreement and perfected in accordance with paragraph 2",
+      "source_provision": "s1"
+    },
+    {
+      "term": "intellectual property",
+      "definition": "intellectual property ” means— (a) a copyright as defined in section 2(1) of the Copyright and Neighbouring Rights Act [Chapter 26:05] ; (b) industrial property rights as defined in section 2(1) of the Industrial Designs Act [Chapter 26-02] ; (c) a trade mark as defined in section 2(1) of the Trade Marks Act [Chapter 26:04] ; and (d) any other rights related to the rights set out in paragraph (a), (b) or (c)",
+      "source_provision": "s1"
+    },
+    {
+      "term": "acquisition security interest",
+      "definition": "acquisition security interest ” means a security interest in a tangible asset or intellectual property, which secures the obligation to pay any unpaid portion of the purchase price of the asset or other credit extended to enable a debtor to acquire it to the extent the credit is used for that purpose",
+      "source_provision": "s1"
+    },
+    {
+      "term": "attachment to immovable property",
+      "definition": "attachment to immovable property ” means a tangible asset that, despite being physically affixed to immovable property, is treated as movable property by virtue of not having lost its separate identity, including an installation defined in section 19(2) of the Hire Purchase Act [Chapter 14:09]",
+      "source_provision": "s1"
+    },
+    {
+      "term": "consumer goods",
+      "definition": "consumer goods ” means goods primarily used or intended to be used by the debtor for personal, family or household purposes",
+      "source_provision": "s1"
+    },
+    {
+      "term": "equipment",
+      "definition": "equipment ” means a tangible asset that is primarily used or intended to be used by the debtor in the operation of his or her business, other than inventory or consumer goods",
+      "source_provision": "s1"
+    },
+    {
+      "term": "notification of a security interest in a receivable",
+      "definition": "notification of a security interest in a receivable ” means a notice by the debtor or the secured creditor informing the obligor of the receivable that a security interest has been created in the receivable",
+      "source_provision": "s1"
+    },
+    {
+      "term": "obligor of the receivable",
+      "definition": "obligor of the receivable ” means a person that owes payment of a receivable, including a guarantor or other person secondarily liable for payment of the receivable",
+      "source_provision": "s1"
+    },
+    {
+      "term": "certificated securities",
+      "definition": "certificated securities ” means securities evidenced by a certificate that— (a) provides that the person entitled to the securities is the person in possession of the certificate; or (b) identifies the person entitled to the securities",
+      "source_provision": "s1"
+    },
+    {
+      "term": "competing claimant",
+      "definition": "competing claimant ” means a creditor of a debtor or other person with rights in the collateral that may be in competition with the rights of a secured creditor in the same collateral, including— (a) another secured creditor of the debtor who has a security interest in the same collateral; (b) another creditor of the debtor who has a right in the same collateral; (c) the insolvency representative in insolvency proceedings in respect of the debtor; or (d) a buyer or other transferee, lessee or licensee of the collateral",
+      "source_provision": "s1"
+    }
+  ]
+}

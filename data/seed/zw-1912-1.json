@@ -1,0 +1,32 @@
+{
+  "id": "zw-1912-1",
+  "type": "statute",
+  "title": "White Phosphorus Matches Act",
+  "title_en": "White Phosphorus Matches Act",
+  "short_name": "zw-1912-1",
+  "status": "in_force",
+  "issued_date": "1912-01-01",
+  "in_force_date": "1912-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1912/1/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the White Phosphorus Matches Act [Chapter 14:25] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Prohibitions",
+      "content": "2. Prohibitions The manufacture, importation or sale of matches containing white phosphorus is prohibited."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penalties",
+      "content": "3. Penalties Any person who contravenes section two shall be guilty of an offence and liable to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [section as amended by Act No. 22 of 2001 ]"
+    }
+  ],
+  "definitions": []
+}

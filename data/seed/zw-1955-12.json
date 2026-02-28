@@ -1,0 +1,68 @@
+{
+  "id": "zw-1955-12",
+  "type": "statute",
+  "title": "South African National Life Assurance Company (Private) Act",
+  "title_en": "South African National Life Assurance Company (Private) Act",
+  "short_name": "zw-1955-12",
+  "status": "in_force",
+  "issued_date": "1955-01-01",
+  "in_force_date": "1955-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1955/12/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the South African National Life Assurance Company (Private) Act [Chapter 24:13] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ old Company ” means The South African National Life Assurance Company Limited; “ new Company ” means the South African National Life Assurance Company."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Rights, assets and liabilities",
+      "content": "3. Rights, assets and liabilities All present, future or contingent rights and obligations and all property, assets and liabilities of the old Company shall become rights, obligations, property, assets and liabilities of the new Company and shall be deemed for all purposes to have so become on the 19th March, 1954, and policyholders of the old Company shall become policyholders of the new Company and shall be deemed to have so become on the said date."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Legal proceedings",
+      "content": "4. Legal proceedings All legal proceedings by or against the old company pending on the 19th March, 1954, shall for all purposes be deemed to be legal proceedings by or against the new Company ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Amendment of deeds by Registrar of Deeds",
+      "content": "5. Amendment of deeds by Registrar of Deeds The Registrar of Deeds is hereby ordered to make in all relative deeds and in his registers without payment of any transfer duty, registration fee, stamp or any other charge all the amendments necessary for substituting the name of the new Company for the name of the old Company ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Amendment of documents",
+      "content": "6. Amendment of documents The Secretary to the Treasury and any other official, whether of a Governmental or other body, entrusted with the keeping of official documents is hereby ordered to substitute the name of the new Company for the name of the old Company on all documents in his charge without payment of fee or other charge."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Public officer and other officials",
+      "content": "7. Public officer and other officials Every appointment by the old Company of any person as public officer, principal officer or person authorized to accept service of process and notices, which had effect upon the 19th March, 1954, shall be deemed to have had effect from and after that date as an appointment by the new Company ."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Application of other laws",
+      "content": "8. Application of other laws Except as is otherwise herein expressly provided, this Act shall not derogate from the application to the new Company of the Insurance Act [Chapter 24:07] or of any other law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "old Company",
+      "definition": "old Company ” means The South African National Life Assurance Company Limited",
+      "source_provision": "s2"
+    }
+  ]
+}

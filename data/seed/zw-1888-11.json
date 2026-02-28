@@ -1,0 +1,32 @@
+{
+  "id": "zw-1888-11",
+  "type": "statute",
+  "title": "Bonus Prohibition Act",
+  "title_en": "Bonus Prohibition Act",
+  "short_name": "zw-1888-11",
+  "status": "in_force",
+  "issued_date": "1888-01-01",
+  "in_force_date": "1888-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1888/11/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Bonus Prohibition Act [Chapter 14:03] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Offer or agreement to give bonus at sales by public auction illegal and void, but contracts of sale not invalidated by offer of bonus",
+      "content": "2. Offer or agreement to give bonus at sales by public auction illegal and void, but contracts of sale not invalidated by offer of bonus Every offer or agreement to give any bonus, or strijkgeld , or other valuable consideration for or in respect of any bid at any sale by public auction, shall be deemed to be illegal and void, and not enforceable at law, but nothing herein contained shall be deemed to invalidate or render illegal or void any contract of sale completed by public auction, merely by reason that in the course of bidding at such sale, any bonus, or strijkgeld , or other valuable consideration has been offered or offered and accepted, for or in respect of any bid."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penalty for offering or agreeing to give bonus",
+      "content": "3. Penalty for offering or agreeing to give bonus Every auctioneer or other person who at any sale by public auction offers or agrees to give any bonus, or strijkgeld , or other valuable consideration for or in respect of any bid shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [section amended by section 4 of Act 22 of 2001 ]"
+    }
+  ],
+  "definitions": []
+}

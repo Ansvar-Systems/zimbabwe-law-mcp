@@ -1,0 +1,72 @@
+{
+  "id": "zw-1956-25",
+  "type": "statute",
+  "title": "Second-hand Goods Act",
+  "title_en": "Second-hand Goods Act",
+  "short_name": "zw-1956-25",
+  "status": "in_force",
+  "issued_date": "1956-01-01",
+  "in_force_date": "1956-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1956/25/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Second-hand Goods Act [Chapter 14:16] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ dealer in second-hand goods ” means any person carrying on the trade, business or occupation of dealing in, buying or selling second-hand goods ; “ Minister ” means the Minister of Home Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ second-hand goods ” means old or second-hand clothes or goods, including— (a) defaced gold, silver, plated or steel-wrought goods; or (b) any ferrous metal, lead, copper, tin, aluminium, brass or zinc, or any article or substance consisting wholly or principally of one or more of these metals; bought or obtained from any person other than a person licensed to sell or deal in the same; “ Secretary ” means the Secretary of the Ministry for which the Minister is responsible."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Duties of dealers",
+      "content": "3. Duties of dealers (1) Every dealer in second-hand goods shall— (a) keep a book and without unnecessary delay enter or cause to be entered therein— (i) a true and correct account and description of all second-hand goods which he may from time to time become possessed of, stating in respect of each article the name and place of abode of the person from whom the same was purchased or received, the date and hour of the day of each transaction and the price paid or agreed to be paid in respect of the same; and (ii) an account of all such goods as he may from time to time dispose of, stating in respect of such goods the name and place of abode of the person to whom he sold or disposed of the same and the date and hour when the goods were removed from his premises by the purchaser; and (b) produce to any police officer whenever thereto requested the book required to be kept as aforesaid, and any second-hand goods purchased or received by him and then in his possession, and such second-hand goods shall be deemed to be in possession of such dealer when they are placed in any house, out-house, yard, garden or place occupied by him, or have been removed with his knowledge and permission to any other place without a bona fide sale of such second-hand goods having been made by him; and (c) forthwith, upon becoming aware or upon being informed by or receiving a notice from any police officer that certain articles have been stolen, embezzled or fraudulently obtained, give notice to the officer in charge of the police station nearest to his place of business of any second-hand goods then or previously in his possession or which may have been offered to him answering to the description of or similar to such articles; and (d) produce for examination or deliver, when thereto required by any police officer, any of such articles in his possession as are in paragraph (c) mentioned to the officer making the request or the officer in charge of the said police station; and (e) keep all second-hand goods purchased or received by him without changing the form in which such articles were when so purchased or received or disposing of the same in any way for a period of four days after such article has been purchased or received. (2) The book to be kept in terms of paragraph (a) of subsection (1) shall, with effect from such date as may be specified by the Minister by statutory instrument, be kept in such form as the Minister may, by statutory instrument, prescribe. (3) Any such dealer who contravenes subsection (1) or (2) shall be guilty of an offence and l iable to a fine not exceeding level six or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment. [subsection as amended by section 4 of Act No. 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Smelting pots",
+      "content": "4. Smelting pots Any dealer in second-hand goods keeping or knowingly suffering to be on his premises, without permission in writing from the Secretary and without payment of the prescribed fee, any smelting pot or implement for melting, altering or defacing gold, silver, lead or other metals shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [section as amended by section 4 of Act No. 22 of 2001 and by section 24 of Act 6 of 2005 ] ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Dealer may be prosecuted for other offence",
+      "content": "5. Dealer may be prosecuted for other offence Nothing in this Act contained shall be deemed to exempt any dealer in second-hand goods from prosecution for any other crime or offence of which he would be guilty if this Act had not been passed."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Pawnbrokers",
+      "content": "6. Pawnbrokers Every pawnbroker shall, for the purposes of this Act, be deemed to be a dealer in second-hand goods , save that in lieu of the book provided for in paragraph (a) of subsection (1) of section three, the pledge book provided for by the Pawnbrokers Act [Chapter 14:15] shall be deemed to be in this Act mentioned and referred to in relation to all transactions whereby goods are pledged or pawned to him."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Public auctions and auctioneers",
+      "content": "7. Public auctions and auctioneers Nothing in this Act contained shall be deemed to apply to any transaction of sale and purchase of second-hand goods sold at public auction by a duly licensed auctioneer and purchased by a second-hand dealer."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dealer in second-hand goods",
+      "definition": "dealer in second-hand goods ” means any person carrying on the trade, business or occupation of dealing in, buying or selling second-hand goods",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Home Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "second-hand goods",
+      "definition": "second-hand goods ” means old or second-hand clothes or goods, including— (a) defaced gold, silver, plated or steel-wrought goods; or (b) any ferrous metal, lead, copper, tin, aluminium, brass or zinc, or any article or substance consisting wholly or principally of one or more of these metals; bought or obtained from any person other than a person licensed to sell or deal in the same",
+      "source_provision": "s2"
+    }
+  ]
+}

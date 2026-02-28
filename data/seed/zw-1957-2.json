@@ -1,0 +1,61 @@
+{
+  "id": "zw-1957-2",
+  "type": "statute",
+  "title": "Standardization of Soap Act",
+  "title_en": "Standardization of Soap Act",
+  "short_name": "zw-1957-2",
+  "status": "in_force",
+  "issued_date": "1957-01-01",
+  "in_force_date": "1957-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1957/2/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Standardization of Soap Act [Chapter 14:18] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may, from time to time, assign the administration of this Act; “ soap ” means the product which results from the process of saponification of fats and oils— (a) with sodium hydroxide or potassium hydroxide; or (b) by the neutralization of fatty acids with sodium hydroxide or potassium hydroxide or their carbonates or bicarbonates; or (c) by the neutralization of fatty acids with ammonia or triethanolamine."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Standards of soap",
+      "content": "3. Standards of soap (1) Soap in the form of bars, tablets, flakes or chips for household, laundry or toilet purposes shall contain not less than forty-five per centum of fatty acids, of which not more than one-third may be replaced by resin acids, shall not contain more than one-quarter of one per centum of free caustic alkali (calculated for this purpose as sodium hydroxide) and shall be free from any harmful ingredients. (2) Liquid soap shall contain not less than fifteen per centum of fatty acids, of which not more than one-quarter may be replaced by resin acids, shall contain not more than one-twentieth of one per centum of free caustic alkali (calculated for this purpose as sodium hydroxide) and shall be free from any harmful ingredients. (3) Soft soap shall contain not less than thirty-five per centum of fatty acids, of which not more than one-third may be replaced by resin acids, and shall contain not more than three-quarters of one per centum of free caustic alkali (calculated for this purpose as sodium hydroxide)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restrictions on manufacture",
+      "content": "4. Restrictions on manufacture (1) Except with the permission of the Minister , no person shall manufacture for sale any soap the composition of which, at the time when the soap is packed, does not comply with subsection (1), (2) or (3) of section three, as the case may be. (2) Any person who manufactures soap in contravention of the provisions of subsection (1) shall be guilty of an offence and liable— (a) for a first offence, to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment”; (b) for a second or subsequent offence, to a fine not exceeding level six or to imprisonment for a period not exceeding twelve months or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Inspection",
+      "content": "5. Inspection (1) Any person generally or specially authorized thereto by the Minister may at any time enter upon premises where soap is manufactured and take samples of soap for examination or analysis. (2) Any person who owns, occupies or is in control of any premises where soap is manufactured and every person employed by him on such premises shall, at all times, permit any person authorized in terms of subsection (1) to enter such premises in the course of his duties and to exercise the powers conferred by that subsection. (3) Any person who fails to comply with subsection (2) shall be guilty of an offence and liable— (a) for a first offence, to a fine not exceeding level five or to imprisonment for a period not exceeding six months or to both such fine and such imprisonment”; (b) for a second or subsequent offence, to a fine not exceeding level six or to imprisonment for a period not exceeding twelve months or to both such fine and such imprisonment. [subsection amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Offences and penalties",
+      "content": "6. Offences and penalties (1) [subsection repealed by section 4 of Act 22 of 2001 ] (2) Where any person is convicted of an offence under section four, the court may order that any soap which is the subject-matter of such offence shall be forfeited to the State and any soap so forfeited may thereafter be disposed of as the Minister may direct."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister ” means the Minister of Industry and Commerce or any other Minister to whom the President may, from time to time, assign the administration of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "soap",
+      "definition": "soap ” means the product which results from the process of saponification of fats and oils— (a) with sodium hydroxide or potassium hydroxide; or (b) by the neutralization of fatty acids with sodium hydroxide or potassium hydroxide or their carbonates or bicarbonates; or (c) by the neutralization of fatty acids with ammonia or triethanolamine",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "zw-1979-12",
+  "type": "statute",
+  "title": "Former Administration (Liabilities) Act",
+  "title_en": "Former Administration (Liabilities) Act",
+  "short_name": "zw-1979-12",
+  "status": "in_force",
+  "issued_date": "1979-01-01",
+  "in_force_date": "1979-01-01",
+  "url": "https://zimlii.org/akn/zw/act/1979/12/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Former Administration (Liabilities) Act [Chapter 22:06] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ fixed date ” means the 1st June, 1979; “ former Constitution ” means the Constitution of Rhodesia, 1969; “ 1979 Constitution ” means the Constitution of Zimbabwe Rhodesia, 1979."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Liabilities of former government",
+      "content": "3. Liabilities of former government (1) As from the fixed date , the Government established under the 1979 Constitution shall assume all debts and liabilities of the Government established by the former Constitution subject to any conditions applicable thereto immediately before the fixed date and without prejudice to any rights of security or priority in respect of the payment of principal, interest, sinking fund and other charges conferred on creditors of the said former Government. (2) The rights of stockholders to undertakings given by the Government of Southern Rhodesia at the time of the issue of any Rhodesian Government stock registered under the Colonial Stock Act, 1877, of the United Kingdom or any Act amending or replacing the same shall be maintained and there shall be no departure from the original contract in respect of such stock. (3) For the purposes of subsection (2)— “Rhodesian Government stock” means stock which in terms of subsection (1) forms part of the public debt.* *But for a change in numbering, this section is a reproduction of subparagraphs (1), (2) and (4) of paragraph 16 of the Third Schedule to the instrument entitled “The Constitution of Zimbabwe Rhodesia, 1979”. The subparagraphs have been saved as an Act of Parliament to be cited as “The Former Administration (Liabilities) Act, 1979” in terms of section 12 (3) of the Zimbabwe Constitution (Transitional, Supplementary and Consequential Provisions), Order 1980."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "fixed date",
+      "definition": "fixed date ” means the 1st June, 1979",
+      "source_provision": "s2"
+    },
+    {
+      "term": "former Constitution",
+      "definition": "former Constitution ” means the Constitution of Rhodesia, 1969",
+      "source_provision": "s2"
+    }
+  ]
+}

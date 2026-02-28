@@ -1,0 +1,56 @@
+{
+  "id": "zw-ordinance-1980-16",
+  "type": "statute",
+  "title": "Flag of Zimbabwe Act",
+  "title_en": "Flag of Zimbabwe Act",
+  "short_name": "zw-ordinance-1980-16",
+  "status": "in_force",
+  "issued_date": "1980-01-01",
+  "in_force_date": "1980-01-01",
+  "url": "https://zimlii.org/akn/zw/act/ord/1980/16/eng@2016-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. Short title This Act may be cited as the Flag of Zimbabwe Act [Chapter 10:10] ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. Interpretation In this Act— “ Flag ” means the Flag of Zimbabwe referred to in section three; “ Minister ” means the Minister of Justice, Legal and Parliamentary Affairs or any other Minister to whom the President may, from time to time, assign the administration of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Design of Flag of Zimbabwe",
+      "content": "3. Design of Flag of Zimbabwe The Flag of Zimbabwe shall be as depicted and described in the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Deposit of Flag in National Archives",
+      "content": "4. Deposit of Flag in National Archives The Minister shall cause a copy of the Flag to be prepared and deposited in the National Archives established in terms of the National Archives of Zimbabwe Act [Chapter 25:06] ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Regulations",
+      "content": "5. Regulations (1) The President may make such regulations as he considers necessary or convenient for the purpose of protecting the Flag from any use or application which, in his opinion, is improper. (2) Regulations made in terms of subsection (1) may provide for the regulation, control, restriction or prohibition of— (a) the importation, manufacture, sale, loan, use, possession, wearing or display of the Flag or any reproduction or likeness thereof; (b) the application to, or use on, any matter or thing whatsoever of the Flag or any reproduction or likeness thereof. (3) Regulations made in terms of subsection (1) may provide penalties for any contravention thereof, including the forfeiture of any matter or thing in respect of which or in connection with which the contravention occurred: Provided that no such penalty, excluding such forfeiture, shall exceed a fine of level six or imprisonment for a period of six months or both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Protection of Flag",
+      "content": "6. Protection of Flag Any person who burns, mutilates or otherwise insults the Flag or a flag which resembles or is intended to resemble the Flag or any reproduction thereof, in circumstances which are calculated or likely to show disrespect for the Flag or to bring the Flag into disrepute, shall be guilty of an offence and liable to a fine not exceeding level six or to imprisonment for a period not exceeding one year or to both such fine and such imprisonment. [subsection as amended by section 4 of Act 22 of 2001 ] Schedule (Section 3) Flag of Zimbabwe Description of Flag Vert, on a fess gules, fimbriated by two bars or, a bar sable, issuant from the dexter a pile argent fimbriated sable charged with a Molet of five points gules debruised by a representation of the Great Zimbabwe Bird."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Flag",
+      "definition": "Flag ” means the Flag of Zimbabwe referred to in section three",
+      "source_provision": "s2"
+    }
+  ]
+}
