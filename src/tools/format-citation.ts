@@ -8,6 +8,7 @@
  */
 
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { resolveDocumentId } from '../utils/statute-id.js';
 import type Database from '@ansvar/mcp-sqlite';
 
 export interface FormatCitationInput {
@@ -23,6 +24,7 @@ export interface FormatCitationResult {
 
 export async function formatCitationTool(
   input: FormatCitationInput,
+  db?: InstanceType<typeof Database>,
 ): Promise<FormatCitationResult> {
   const format = input.format ?? 'full';
   const trimmed = input.citation.trim();
@@ -33,7 +35,18 @@ export async function formatCitationTool(
   const sectionLast = trimmed.match(/^(.+?)[,;]?\s+(?:Section|s\.?)\s+(\d+[A-Za-z]*)$/i);
 
   const section = sectionFirst?.[1] ?? sectionLast?.[2];
-  const law = sectionFirst?.[2] ?? sectionLast?.[1] ?? trimmed;
+  let law = sectionFirst?.[2] ?? sectionLast?.[1] ?? trimmed;
+
+  // If db available, resolve to canonical title
+  if (db && law) {
+    const resolvedId = resolveDocumentId(db, law);
+    if (resolvedId) {
+      const doc = db.prepare('SELECT title FROM legal_documents WHERE id = ?').get(resolvedId) as { title: string } | undefined;
+      if (doc) {
+        law = doc.title;
+      }
+    }
+  }
 
   let formatted: string;
   switch (format) {
