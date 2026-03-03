@@ -1,9 +1,36 @@
 import { describe, it, expect } from 'vitest';
-import { sanitizeFtsInput, buildFtsQueryVariants, buildLikePattern } from '../../src/utils/fts-query.js';
+import { sanitizeFtsInput, buildFtsQueryVariants, buildLikePattern, hasBooleanOperators } from '../../src/utils/fts-query.js';
+
+describe('hasBooleanOperators', () => {
+  it('detects OR', () => {
+    expect(hasBooleanOperators('murder OR theft')).toBe(true);
+  });
+
+  it('detects NOT', () => {
+    expect(hasBooleanOperators('murder NOT premeditated')).toBe(true);
+  });
+
+  it('detects AND', () => {
+    expect(hasBooleanOperators('data AND protection')).toBe(true);
+  });
+
+  it('returns false for plain queries', () => {
+    expect(hasBooleanOperators('data protection')).toBe(false);
+  });
+
+  it('does not match lowercase or/not/and', () => {
+    expect(hasBooleanOperators('data or protection')).toBe(false);
+  });
+});
 
 describe('sanitizeFtsInput', () => {
-  it('strips FTS5 special characters', () => {
-    expect(sanitizeFtsInput('"hello" AND (world)')).toBe('hello AND world');
+  it('strips FTS5 special characters for plain queries', () => {
+    expect(sanitizeFtsInput('"hello" (world)')).toBe('hello world');
+  });
+
+  it('preserves boolean operators and quotes', () => {
+    expect(sanitizeFtsInput('murder OR theft')).toBe('murder OR theft');
+    expect(sanitizeFtsInput('"data protection" NOT repealed')).toBe('"data protection" NOT repealed');
   });
 
   it('collapses whitespace', () => {
@@ -16,7 +43,7 @@ describe('buildFtsQueryVariants', () => {
     expect(buildFtsQueryVariants('')).toEqual([]);
   });
 
-  it('returns single-term variants: AND, prefix', () => {
+  it('returns single-term variants: exact, prefix', () => {
     const variants = buildFtsQueryVariants('cybercrime');
     expect(variants).toContain('cybercrime');
     expect(variants).toContain('cybercrime*');
@@ -32,6 +59,26 @@ describe('buildFtsQueryVariants', () => {
   it('includes prefix AND variant for multi-term', () => {
     const variants = buildFtsQueryVariants('data protection');
     expect(variants).toContain('data AND protection*');
+  });
+
+  it('passes boolean queries through as-is', () => {
+    const variants = buildFtsQueryVariants('murder OR theft');
+    expect(variants).toEqual(['murder OR theft']);
+  });
+
+  it('passes NOT queries through as-is', () => {
+    const variants = buildFtsQueryVariants('murder NOT premeditated');
+    expect(variants).toEqual(['murder NOT premeditated']);
+  });
+
+  it('includes stemmed variant for multi-term', () => {
+    const variants = buildFtsQueryVariants('penalties offences');
+    expect(variants.some(v => v.includes('penalt') && v.includes('*'))).toBe(true);
+  });
+
+  it('includes stemmed variant for single term', () => {
+    const variants = buildFtsQueryVariants('controllers');
+    expect(variants.some(v => v.includes('controll') && v.includes('*'))).toBe(true);
   });
 });
 

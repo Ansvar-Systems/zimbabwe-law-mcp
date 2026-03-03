@@ -22,6 +22,19 @@ export interface FormatCitationResult {
   format: string;
 }
 
+/**
+ * Shorten a law title for the 'short' citation format.
+ * Keeps distinguishing parentheticals (e.g., "Criminal Law (Codification and Reform) Act")
+ * but drops trailing years and "[Chapter N:NN]" annotations.
+ */
+function shortenLawTitle(title: string): string {
+  // Remove trailing chapter references like "[Chapter 9:23]"
+  let short = title.replace(/\s*\[Chapter\s+\d+:\d+\]\s*/gi, '').trim();
+  // Remove trailing year with optional comma: ", 2021" or " 2021"
+  short = short.replace(/,?\s+\d{4}\s*$/, '').trim();
+  return short;
+}
+
 export async function formatCitationTool(
   input: FormatCitationInput,
   db?: InstanceType<typeof Database>,
@@ -37,7 +50,7 @@ export async function formatCitationTool(
   const section = sectionFirst?.[1] ?? sectionLast?.[2];
   let law = sectionFirst?.[2] ?? sectionLast?.[1] ?? trimmed;
 
-  // If db available, resolve to canonical title
+  // Resolve to canonical title from database
   if (db && law) {
     const resolvedId = resolveDocumentId(db, law);
     if (resolvedId) {
@@ -51,7 +64,7 @@ export async function formatCitationTool(
   let formatted: string;
   switch (format) {
     case 'short':
-      formatted = section ? `s ${section}, ${law.split('(')[0].trim()}` : law;
+      formatted = section ? `s ${section}, ${shortenLawTitle(law)}` : shortenLawTitle(law);
       break;
     case 'pinpoint':
       formatted = section ? `Section ${section}` : law;
