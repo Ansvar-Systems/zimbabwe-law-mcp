@@ -16,9 +16,24 @@ beforeAll(() => {
     );
     CREATE INDEX idx_documents_chapter ON legal_documents(chapter_number);
     INSERT INTO legal_documents VALUES
-      ('zw-cyber-and-data-protection-act-2021', 'Cyber and Data Protection Act, 2021', 'Cyber and Data Protection Act, 2021', 'Cyber and Data Protection A...', '12:07'),
+      ('zw-cyber-and-data-protection-act-2021', 'Cyber and Data Protection Act, 2021', 'Cyber and Data Protection Act, 2021', 'CDPA', '12:07'),
       ('zw-criminal-law-codification-and-reform-act', 'Criminal Law (Codification and Reform) Act', 'Criminal Law (Codification and Reform) Act', 'Criminal Law (Codification ...', '9:23'),
       ('zw-labour-act', 'Labour Act', 'Labour Act', 'Labour Act', '28:01');
+
+    CREATE TABLE legal_provisions (
+      id INTEGER PRIMARY KEY,
+      document_id TEXT REFERENCES legal_documents(id),
+      provision_ref TEXT,
+      chapter TEXT,
+      section TEXT NOT NULL,
+      title TEXT,
+      content TEXT NOT NULL,
+      order_index INTEGER
+    );
+    INSERT INTO legal_provisions (document_id, provision_ref, section, content) VALUES
+      ('zw-cyber-and-data-protection-act-2021', 's1', '1', 'This Act may be cited as the Cyber and Data Protection Act [Chapter 12:07].'),
+      ('zw-criminal-law-codification-and-reform-act', 's1', '1', 'This Act may be cited as the Criminal Law (Codification and Reform) Act [Chapter 9:23].'),
+      ('zw-labour-act', 's1', '1', 'This Act may be cited as the Labour Act [Chapter 28:01].');
   `);
 });
 
@@ -29,6 +44,16 @@ afterAll(() => {
 describe('resolveDocumentId', () => {
   it('resolves direct ID', () => {
     expect(resolveDocumentId(db as any, 'zw-cyber-and-data-protection-act-2021'))
+      .toBe('zw-cyber-and-data-protection-act-2021');
+  });
+
+  it('resolves abbreviation (CDPA)', () => {
+    expect(resolveDocumentId(db as any, 'CDPA'))
+      .toBe('zw-cyber-and-data-protection-act-2021');
+  });
+
+  it('resolves abbreviation case-insensitively', () => {
+    expect(resolveDocumentId(db as any, 'cdpa'))
       .toBe('zw-cyber-and-data-protection-act-2021');
   });
 
@@ -47,7 +72,7 @@ describe('resolveDocumentId', () => {
       .toBe('zw-cyber-and-data-protection-act-2021');
   });
 
-  it('resolves title WITHOUT punctuation (comma missing)', () => {
+  it('resolves title WITHOUT comma (Act YYYY normalization)', () => {
     expect(resolveDocumentId(db as any, 'Cyber and Data Protection Act 2021'))
       .toBe('zw-cyber-and-data-protection-act-2021');
   });
