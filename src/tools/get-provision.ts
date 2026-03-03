@@ -51,31 +51,33 @@ export async function getProvision(
   const ref = input.provision_ref ?? input.section;
   if (ref) {
     const refTrimmed = ref.trim();
+    // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
+    const refBare = refTrimmed.replace(/\([\dA-Za-z]+\)+$/, '');
 
     // Try direct provision_ref match
     let provision = db.prepare(
       'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
-    ).get(resolvedId, refTrimmed) as Record<string, unknown> | undefined;
+    ).get(resolvedId, refBare) as Record<string, unknown> | undefined;
 
     // Try with "s" prefix (e.g., "1" -> "s1")
     if (!provision) {
       provision = db.prepare(
         'SELECT * FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
-      ).get(resolvedId, `s${refTrimmed}`) as Record<string, unknown> | undefined;
+      ).get(resolvedId, `s${refBare}`) as Record<string, unknown> | undefined;
     }
 
     // Try section column match
     if (!provision) {
       provision = db.prepare(
         'SELECT * FROM legal_provisions WHERE document_id = ? AND section = ?'
-      ).get(resolvedId, refTrimmed) as Record<string, unknown> | undefined;
+      ).get(resolvedId, refBare) as Record<string, unknown> | undefined;
     }
 
     // Try LIKE match for flexible input
     if (!provision) {
       provision = db.prepare(
         "SELECT * FROM legal_provisions WHERE document_id = ? AND (provision_ref LIKE ? OR section LIKE ?)"
-      ).get(resolvedId, `%${refTrimmed}%`, `%${refTrimmed}%`) as Record<string, unknown> | undefined;
+      ).get(resolvedId, `%${refBare}%`, `%${refBare}%`) as Record<string, unknown> | undefined;
     }
 
     if (provision) {
