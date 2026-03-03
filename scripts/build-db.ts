@@ -79,6 +79,7 @@ CREATE TABLE legal_documents (
     CHECK(status IN ('in_force', 'amended', 'repealed', 'not_yet_in_force')),
   issued_date TEXT,
   in_force_date TEXT,
+  chapter_number TEXT,
   url TEXT,
   description TEXT,
   last_updated TEXT DEFAULT (datetime('now'))
@@ -99,6 +100,7 @@ CREATE TABLE legal_provisions (
 
 CREATE INDEX idx_provisions_doc ON legal_provisions(document_id);
 CREATE INDEX idx_provisions_chapter ON legal_provisions(document_id, chapter);
+CREATE INDEX idx_documents_chapter ON legal_documents(chapter_number);
 
 -- FTS5 for provision search
 CREATE VIRTUAL TABLE provisions_fts USING fts5(
@@ -321,8 +323,8 @@ function buildDatabase(): void {
   db.exec(SCHEMA);
 
   const insertDoc = db.prepare(`
-    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO legal_documents (id, type, title, title_en, short_name, status, issued_date, in_force_date, url, description, chapter_number)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
   `);
 
   const insertProvision = db.prepare(`
@@ -370,17 +372,41 @@ function buildDatabase(): void {
   let totalEuReferences = 0;
   const primaryImplementationByDocument = new Set<string>();
 
+  // Load census for chapter numbers
+  const censusPath = path.resolve(__dirname, '../data/census.json');
+  const censusMap = new Map<string, { chapter: string; identifier: string }>();
+  if (fs.existsSync(censusPath)) {
+    const census = JSON.parse(fs.readFileSync(censusPath, 'utf-8'));
+    for (const law of census.laws ?? []) {
+      censusMap.set(law.id, { chapter: law.chapter ?? '', identifier: law.identifier ?? '' });
+    }
+  }
+
   const loadAll = db.transaction(() => {
     for (const file of seedFiles) {
       const filePath = path.join(SEED_DIR, file);
       const content = fs.readFileSync(filePath, 'utf-8');
       const seed = JSON.parse(content) as DocumentSeed;
 
+      // Look up chapter number from census
+      const censusEntry = censusMap.get(seed.id);
+      const chapterNumber = censusEntry?.chapter?.replace(/^Chapter\s+/i, '') ?? null;
+
+      // Derive dates from identifier if seed has none
+      let issuedDate = seed.issued_date || null;
+      if (!issuedDate && censusEntry?.identifier) {
+        const yearMatch = censusEntry.identifier.match(/\/(\d{4})\//);
+        if (yearMatch) {
+          issuedDate = `${yearMatch[1]}-01-01`;
+        }
+      }
+
       insertDoc.run(
         seed.id, seed.type ?? 'statute', seed.title, seed.title_en ?? null,
         seed.short_name ?? null, seed.status ?? 'in_force',
-        seed.issued_date ?? null, seed.in_force_date ?? null,
+        issuedDate, seed.in_force_date || null,
         seed.url ?? null, seed.description ?? null,
+        chapterNumber,
       );
       totalDocs++;
 
