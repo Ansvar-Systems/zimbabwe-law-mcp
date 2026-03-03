@@ -20,7 +20,8 @@ export function sanitizeFtsInput(input: string): string {
  * Returns variants in order of specificity (most specific first):
  * 1. Exact phrase match
  * 2. All terms required (AND)
- * 3. Prefix match on last term
+ * 3. Prefix AND (last term gets prefix wildcard)
+ * 4. Any term matches (OR) — broad fallback
  */
 export function buildFtsQueryVariants(sanitized: string): string[] {
   if (!sanitized || sanitized.trim().length === 0) {
@@ -32,21 +33,33 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
 
   const variants: string[] = [];
 
-  // Exact phrase
   if (terms.length > 1) {
+    // Exact phrase
     variants.push(`"${terms.join(' ')}"`);
-  }
-
-  // AND query
-  variants.push(terms.join(' AND '));
-
-  // Prefix match on last term (for autocomplete-like behavior)
-  if (terms.length === 1 && terms[0].length >= 3) {
-    variants.push(`${terms[0]}*`);
-  } else if (terms.length > 1) {
-    const prefix = [...terms.slice(0, -1), `${terms[terms.length - 1]}*`];
-    variants.push(prefix.join(' AND '));
+    // AND query
+    variants.push(terms.join(' AND '));
+    // Prefix AND on last term
+    variants.push([...terms.slice(0, -1), `${terms[terms.length - 1]}*`].join(' AND '));
+    // OR fallback — any term matches
+    variants.push(terms.join(' OR '));
+  } else {
+    // Single term
+    variants.push(terms[0]);
+    if (terms[0].length >= 3) {
+      variants.push(`${terms[0]}*`);
+    }
   }
 
   return variants;
+}
+
+/**
+ * Build a SQL LIKE pattern from search terms.
+ * Used as a final fallback when FTS5 returns no results.
+ * Example: "penalty offence" -> "%penalty%offence%"
+ */
+export function buildLikePattern(query: string): string {
+  const terms = query.trim().split(/\s+/).filter(t => t.length > 0);
+  if (terms.length === 0) return '%';
+  return `%${terms.join('%')}%`;
 }
