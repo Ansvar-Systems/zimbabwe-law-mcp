@@ -52,7 +52,7 @@ export async function getProvision(
   if (ref) {
     const refTrimmed = ref.trim();
     // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
-    const refBare = refTrimmed.replace(/\([\dA-Za-z]+\)+$/, '');
+    const refBare = refTrimmed.replace(/(\([\dA-Za-z]+\))+$/, '');
 
     // Try direct provision_ref match
     let provision = db.prepare(

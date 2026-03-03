@@ -49,6 +49,18 @@ describe('getProvision', () => {
     expect(result.results[0].provision_ref).toBe('s13');
   });
 
+  it('resolves nested subsection references like s13(2)(a)', async () => {
+    const result = await getProvision(db as any, { document_id: 'zw-test-act', provision_ref: 's13(2)(a)' });
+    expect(result.results.length).toBe(1);
+    expect(result.results[0].provision_ref).toBe('s13');
+  });
+
+  it('resolves deeply nested subsection 13(1)(b)(ii)', async () => {
+    const result = await getProvision(db as any, { document_id: 'zw-test-act', section: '13(1)(b)(ii)' });
+    expect(result.results.length).toBe(1);
+    expect(result.results[0].provision_ref).toBe('s13');
+  });
+
   it('returns empty for nonexistent section', async () => {
     const result = await getProvision(db as any, { document_id: 'zw-test-act', section: '999' });
     expect(result.results.length).toBe(0);
