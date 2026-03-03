@@ -2,8 +2,12 @@
  * Statute ID resolution for Zimbabwe Law MCP.
  *
  * Resolves fuzzy document references (titles, chapter numbers) to database document IDs.
- * 8-step cascade: direct ID → abbreviation → chapter (provision) → title LIKE (normalized)
- *   → case-insensitive LIKE → short-name → punctuation-normalized scan → null.
+ * 9-step cascade: direct ID → abbreviation → chapter (provision) → exact title match
+ *   → shortest LIKE → case-insensitive shortest LIKE → short-name
+ *   → punctuation-normalized scan (shortest) → null.
+ *
+ * Steps 5-8 use shortest-match ranking to prevent "Finance Act" resolving to
+ * "Agricultural Finance Act" when "Finance Act, 2020" exists.
  */
 
 import type Database from '@ansvar/mcp-sqlite';
@@ -105,43 +109,86 @@ export function resolveDocumentId(
     if (provisionMatch) return provisionMatch;
   }
 
-  // Step 4: Title LIKE with "Act YYYY" normalization
+  // Step 4: Exact title match (case-insensitive, with year normalization)
+  // This prevents "Finance Act" from matching "Agricultural Finance Act".
   const normalized = normalizeActTitle(trimmed);
-  const titleResult = db.prepare(
-    "SELECT id FROM legal_documents WHERE title LIKE ? OR short_name LIKE ? OR title_en LIKE ? LIMIT 1"
-  ).get(`%${normalized}%`, `%${normalized}%`, `%${normalized}%`) as { id: string } | undefined;
-  if (titleResult) return titleResult.id;
-
-  // Step 5: Case-insensitive LIKE with normalization
-  const lowerResult = db.prepare(
-    "SELECT id FROM legal_documents WHERE LOWER(title) LIKE LOWER(?) OR LOWER(short_name) LIKE LOWER(?) OR LOWER(title_en) LIKE LOWER(?) LIMIT 1"
-  ).get(`%${normalized}%`, `%${normalized}%`, `%${normalized}%`) as { id: string } | undefined;
-  if (lowerResult) return lowerResult.id;
-
-  // Step 6: Short-name LIKE (original input, not normalized)
-  const shortResult = db.prepare(
-    "SELECT id FROM legal_documents WHERE short_name LIKE ? LIMIT 1"
-  ).get(`%${trimmed}%`) as { id: string } | undefined;
-  if (shortResult) return shortResult.id;
-
-  // Step 7: Punctuation-normalized full scan
-  const stripped = normalizePunctuation(trimmed);
+  const normalizedLower = normalized.toLowerCase();
   {
     const allDocs = db.prepare(
       "SELECT id, title, title_en, short_name FROM legal_documents"
     ).all() as { id: string; title: string; title_en: string | null; short_name: string | null }[];
 
+    // 4a: Exact match on full title
+    const exactFull = allDocs.find(d =>
+      d.title.toLowerCase() === normalizedLower ||
+      d.title_en?.toLowerCase() === normalizedLower ||
+      d.short_name?.toLowerCase() === normalizedLower
+    );
+    if (exactFull) return exactFull.id;
+
+    // 4b: Exact match after stripping trailing year from stored title
+    // "Finance Act" matches "Finance Act, 2020" but NOT "Agricultural Finance Act"
+    const exactNoYear = allDocs.find(d => {
+      const stripped = d.title.replace(/,?\s+\d{4}\s*$/, '').trim();
+      return stripped.toLowerCase() === normalizedLower;
+    });
+    if (exactNoYear) return exactNoYear.id;
+  }
+
+  // Step 5: Substring LIKE — pick shortest matching title (closest to user input).
+  // "Finance Act" matches both "Finance Act, 2020" and "Agricultural Finance Act";
+  // shortest wins → "Finance Act, 2020" (length 20) beats "Agricultural Finance Act" (26).
+  {
+    const likeRows = db.prepare(
+      "SELECT id, title FROM legal_documents WHERE title LIKE ? OR short_name LIKE ? OR title_en LIKE ?"
+    ).all(`%${normalized}%`, `%${normalized}%`, `%${normalized}%`) as { id: string; title: string }[];
+    if (likeRows.length > 0) {
+      likeRows.sort((a, b) => a.title.length - b.title.length);
+      return likeRows[0].id;
+    }
+  }
+
+  // Step 6: Case-insensitive LIKE — shortest match
+  {
+    const lowerRows = db.prepare(
+      "SELECT id, title FROM legal_documents WHERE LOWER(title) LIKE LOWER(?) OR LOWER(short_name) LIKE LOWER(?) OR LOWER(title_en) LIKE LOWER(?)"
+    ).all(`%${normalized}%`, `%${normalized}%`, `%${normalized}%`) as { id: string; title: string }[];
+    if (lowerRows.length > 0) {
+      lowerRows.sort((a, b) => a.title.length - b.title.length);
+      return lowerRows[0].id;
+    }
+  }
+
+  // Step 7: Short-name LIKE (original input, not normalized)
+  const shortResult = db.prepare(
+    "SELECT id FROM legal_documents WHERE short_name LIKE ? LIMIT 1"
+  ).get(`%${trimmed}%`) as { id: string } | undefined;
+  if (shortResult) return shortResult.id;
+
+  // Step 8: Punctuation-normalized full scan — shortest match
+  {
+    const stripped = normalizePunctuation(trimmed);
     const strippedLower = stripped.toLowerCase();
+    const allDocs = db.prepare(
+      "SELECT id, title, title_en, short_name FROM legal_documents"
+    ).all() as { id: string; title: string; title_en: string | null; short_name: string | null }[];
+
+    const matches: { id: string; titleLen: number }[] = [];
     for (const doc of allDocs) {
       const fields = [doc.title, doc.title_en, doc.short_name].filter(Boolean) as string[];
       for (const field of fields) {
         if (normalizePunctuation(field).toLowerCase().includes(strippedLower)) {
-          return doc.id;
+          matches.push({ id: doc.id, titleLen: doc.title.length });
+          break; // one match per doc is enough
         }
       }
     }
+    if (matches.length > 0) {
+      matches.sort((a, b) => a.titleLen - b.titleLen);
+      return matches[0].id;
+    }
   }
 
-  // Step 8: Resolution failed
+  // Step 9: Resolution failed
   return null;
 }

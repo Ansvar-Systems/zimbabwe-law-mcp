@@ -18,7 +18,11 @@ beforeAll(() => {
     INSERT INTO legal_documents VALUES
       ('zw-cyber-and-data-protection-act-2021', 'Cyber and Data Protection Act, 2021', 'Cyber and Data Protection Act, 2021', 'CDPA', '12:07'),
       ('zw-criminal-law-codification-and-reform-act', 'Criminal Law (Codification and Reform) Act', 'Criminal Law (Codification and Reform) Act', 'Criminal Law (Codification ...', '9:23'),
-      ('zw-labour-act', 'Labour Act', 'Labour Act', 'Labour Act', '28:01');
+      ('zw-labour-act', 'Labour Act', 'Labour Act', 'Labour Act', '28:01'),
+      ('zw-finance-act', 'Finance Act, 2020', 'Finance Act, 2020', NULL, NULL),
+      ('zw-agricultural-finance-act', 'Agricultural Finance Act', 'Agricultural Finance Act', NULL, NULL),
+      ('zw-insurance-act', 'Insurance Act', 'Insurance Act', NULL, NULL),
+      ('zw-export-credit-reinsurance-act', 'Export Credit Reinsurance Act', 'Export Credit Reinsurance Act', NULL, NULL);
 
     CREATE TABLE legal_provisions (
       id INTEGER PRIMARY KEY,
@@ -85,6 +89,23 @@ describe('resolveDocumentId', () => {
   it('resolves case-insensitively', () => {
     expect(resolveDocumentId(db as any, 'labour act'))
       .toBe('zw-labour-act');
+  });
+
+  it('prefers exact title over substring match — "Finance Act" not "Agricultural Finance Act"', () => {
+    expect(resolveDocumentId(db as any, 'Finance Act'))
+      .toBe('zw-finance-act');
+  });
+
+  it('prefers exact title over substring match — "Insurance Act" not "Export Credit Reinsurance Act"', () => {
+    expect(resolveDocumentId(db as any, 'Insurance Act'))
+      .toBe('zw-insurance-act');
+  });
+
+  it('picks shortest match when no exact match (ambiguous substring)', () => {
+    // Both "Finance Act, 2020" and "Agricultural Finance Act" contain "Finance"
+    // but "Finance Act, 2020" is shorter → correct pick
+    expect(resolveDocumentId(db as any, 'Finance'))
+      .toBe('zw-finance-act');
   });
 
   it('returns null for unknown document', () => {
