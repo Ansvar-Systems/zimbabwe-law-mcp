@@ -27,7 +27,17 @@ export function detectCapabilities(db: InstanceType<typeof Database>): Set<Capab
 
   for (const [cap, required] of Object.entries(TABLE_MAP)) {
     if (required.every(t => tables.has(t))) {
-      caps.add(cap as Capability);
+      // For eu_references, also require data to exist
+      if (cap === 'eu_references') {
+        try {
+          const row = db.prepare('SELECT COUNT(*) as cnt FROM eu_references').get() as { cnt: number };
+          if (row.cnt > 0) caps.add(cap as Capability);
+        } catch {
+          // table query failed
+        }
+      } else {
+        caps.add(cap as Capability);
+      }
     }
   }
 

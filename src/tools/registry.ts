@@ -24,7 +24,7 @@ import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './get-provis
 import { validateEUCompliance, type ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { listSources } from './list-sources.js';
 import { getAbout, type AboutContext } from './about.js';
-import { detectCapabilities, upgradeMessage } from '../capabilities.js';
+import { detectCapabilities, upgradeMessage, type Capability } from '../capabilities.js';
 export type { AboutContext } from './about.js';
 
 const ABOUT_TOOL: Tool = {
@@ -302,8 +302,22 @@ export const TOOLS: Tool[] = [
 export function buildTools(
   db?: InstanceType<typeof Database>,
   context?: AboutContext,
+  capabilities?: Set<Capability>,
 ): Tool[] {
-  const tools = [...TOOLS, LIST_SOURCES_TOOL];
+  const hasEuRefs = capabilities?.has('eu_references') ?? false;
+
+  const EU_TOOL_NAMES = new Set([
+    'get_eu_basis', 'get_zimbabwean_implementations',
+    'search_eu_implementations', 'get_provision_eu_basis',
+    'validate_eu_compliance',
+  ]);
+
+  const tools = TOOLS.filter(t => {
+    if (EU_TOOL_NAMES.has(t.name) && !hasEuRefs) return false;
+    return true;
+  });
+
+  tools.push(LIST_SOURCES_TOOL);
 
   if (db) {
     try {
@@ -326,7 +340,8 @@ export function registerTools(
   db: InstanceType<typeof Database>,
   context?: AboutContext,
 ): void {
-  const allTools = buildTools(db, context);
+  const capabilities = detectCapabilities(db);
+  const allTools = buildTools(db, context, capabilities);
 
   server.setRequestHandler(ListToolsRequestSchema, async () => {
     return { tools: allTools };
