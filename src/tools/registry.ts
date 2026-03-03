@@ -50,9 +50,10 @@ export const TOOLS: Tool[] = [
   {
     name: 'search_legislation',
     description:
-      'Search Zimbabwean statutes and regulations by keyword using full-text search (FTS5 with BM25 ranking). ' +
+      'Search Zimbabwean statutes and regulations by keyword using full-text search with BM25 ranking. ' +
       'Returns matching provisions with document context, snippets with >>> <<< markers around matched terms, and relevance scores. ' +
-      'Supports FTS5 syntax: quoted phrases ("exact match"), boolean operators (AND, OR, NOT), and prefix wildcards (term*). ' +
+      'Best results with 1-3 keyword queries. Multi-word queries search for provisions containing all terms, ' +
+      'with automatic fallback to broader matching when exact co-occurrence yields no results. ' +
       'Default limit is 10 results. For broad topics, increase the limit. ' +
       'Do NOT use this for retrieving a known provision -- use get_provision instead.',
     inputSchema: {
@@ -61,8 +62,7 @@ export const TOOLS: Tool[] = [
         query: {
           type: 'string',
           description:
-            'Search query in English. Supports FTS5 syntax: ' +
-            '"data protection" for exact phrase, term* for prefix.',
+            'Search query in English. Best with 1-3 keywords (e.g., "data protection", "cybercrime penalties").',
         },
         document_id: {
           type: 'string',
@@ -89,8 +89,9 @@ export const TOOLS: Tool[] = [
       'Specify a document_id (Act title, chapter number, or internal ID) and optionally a section or provision_ref. ' +
       'Omit section/provision_ref to get ALL provisions in the statute (use sparingly -- can be large). ' +
       'Returns provision text, chapter, section number, and metadata. ' +
-      'Supports Act title references (e.g., "Cyber and Data Protection Act 2021"), ' +
-      'chapter numbers (e.g., "Chapter 9:23"), and short names. ' +
+      'Supports fuzzy matching on Act titles (e.g., "Cyber and Data Protection Act"), ' +
+      'chapter numbers (e.g., "Chapter 12:07" or "9:23"), and internal document IDs. ' +
+      'Subsection references like "13(1)" resolve to the parent section. ' +
       'Use this when you know WHICH provision you want. For discovery, use search_legislation instead.',
     inputSchema: {
       type: 'object',
@@ -103,7 +104,7 @@ export const TOOLS: Tool[] = [
         },
         section: {
           type: 'string',
-          description: 'Section number (e.g., "1", "29"). Omit to get all provisions.',
+          description: 'Section number (e.g., "1", "29", "13(1)"). Subsection references resolve to parent section. Omit to get all provisions.',
         },
         provision_ref: {
           type: 'string',
@@ -134,10 +135,10 @@ export const TOOLS: Tool[] = [
   {
     name: 'build_legal_stance',
     description:
-      'Build a comprehensive set of citations for a legal question by searching across all Zimbabwean statutes simultaneously. ' +
+      'Build a comprehensive set of statutory citations for a legal question by searching across all Zimbabwean statutes. ' +
       'Returns aggregated results from multiple relevant provisions, useful for legal research on a topic. ' +
-      'Use this for broad legal questions like "What are the penalties for data breaches in Zimbabwe?" ' +
-      'rather than looking up a specific known provision.',
+      'Best with short keyword queries (1-3 words). Falls back to broader matching for longer queries. ' +
+      'Use this for broad legal questions rather than looking up a specific known provision.',
     inputSchema: {
       type: 'object',
       properties: {
@@ -162,7 +163,8 @@ export const TOOLS: Tool[] = [
     name: 'format_citation',
     description:
       'Format a Zimbabwean legal citation per standard conventions. ' +
-      'Three formats: "full" (formal, e.g., "Section 29, Cyber and Data Protection Act 2021"), ' +
+      'Resolves document references to canonical titles when possible. ' +
+      'Three formats: "full" (formal, e.g., "Section 29, Cyber and Data Protection Act, 2021"), ' +
       '"short" (abbreviated), "pinpoint" (section reference only).',
     inputSchema: {
       type: 'object',
@@ -182,7 +184,7 @@ export const TOOLS: Tool[] = [
     name: 'check_currency',
     description:
       'Check whether a Zimbabwean statute or provision is currently in force, amended, repealed, or not yet in force. ' +
-      'Returns the document status, issued date, in-force date, and warnings. ' +
+      'Returns the document status and dates where available (some statutes may lack precise dates). ' +
       'Essential before citing any provision -- always verify currency.',
     inputSchema: {
       type: 'object',
