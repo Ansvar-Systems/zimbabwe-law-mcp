@@ -10,6 +10,7 @@ export interface GetProvisionInput {
   document_id: string;
   section?: string;
   provision_ref?: string;
+  article?: string;
   as_of_date?: string;
 }
 
@@ -48,7 +49,7 @@ export async function getProvision(
   }
 
   // Specific provision lookup
-  const ref = input.provision_ref ?? input.section;
+  const ref = input.provision_ref ?? input.section ?? (input as any).article;
   if (ref) {
     const refTrimmed = ref.trim();
     // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
