@@ -22,8 +22,10 @@ export function sanitizeFtsInput(input: string): string {
     // Preserve boolean structure: only strip dangerous chars, keep quotes and parens
     return input.replace(/[{}[\]^~*:]/g, ' ').replace(/\s+/g, ' ').trim();
   }
+  // Preserve trailing * on words (FTS5 prefix search) but strip other special chars
   return input
-    .replace(/['"(){}[\]^~*:]/g, ' ')
+    .replace(/['"(){}[\]^~:]/g, ' ')
+    .replace(/\*(?!\s|$)/g, ' ')    // strip * unless at end of word
     .replace(/\s+/g, ' ')
     .trim();
 }
